@@ -1,0 +1,2 @@
+70268ZZZcleanUp360Mode:com.kbb.mobile.ActivityNewCarHub:$r2 = (android.widget.ImageView) $r1
+70267ZZZcleanUp360Mode:com.kbb.mobile.ActivityNewCarHub:$r1 = virtualinvoke $r0.<com.kbb.mobile.ActivityNewCarHub: android.view.View findViewById(int)>(2131558441)

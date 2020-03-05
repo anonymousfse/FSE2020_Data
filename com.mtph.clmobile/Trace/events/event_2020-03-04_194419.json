@@ -1,0 +1,10 @@
+{
+  "stop_state": "ed15f217dd849fc4c411fb0065bebebe", 
+  "event_str": "KeyEvent(state=1d8c7d6ba926e566040e11c886856de6, name=HOME)", 
+  "tag": "2020-03-04_194419", 
+  "event": {
+    "event_type": "key", 
+    "name": "HOME"
+  }, 
+  "start_state": "1d8c7d6ba926e566040e11c886856de6"
+}

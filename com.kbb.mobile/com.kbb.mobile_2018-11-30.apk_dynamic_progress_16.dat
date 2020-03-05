@@ -1,0 +1,4 @@
+39029ZZZrun:com.kbb.mobile.Http.BitmapDisplayer:$r1 = $r0.<com.kbb.mobile.Http.BitmapDisplayer: com.kbb.mobile.Http.BitmapHolder bitmapHolder>
+39044ZZZshowBitmap:com.kbb.mobile.views.ViewHolder:$r5 = $r0.<com.kbb.mobile.views.ViewHolder: android.widget.ProgressBar progressBar>
+39032ZZZrun:com.kbb.mobile.Http.BitmapDisplayer:$r1 = $r0.<com.kbb.mobile.Http.BitmapDisplayer: com.kbb.mobile.Http.BitmapHolder bitmapHolder>
+39031ZZZrun:com.kbb.mobile.Http.BitmapDisplayer:$r2 = $r0.<com.kbb.mobile.Http.BitmapDisplayer: com.kbb.mobile.views.ViewHolder viewHolder>

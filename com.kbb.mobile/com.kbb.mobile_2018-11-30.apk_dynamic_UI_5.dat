@@ -1,0 +1,3 @@
+133533ZZZnotifyLocationUpdated:com.kbb.mobile.Location.LocationHelper:$r2 = $r0.<com.kbb.mobile.Location.LocationHelper: com.kbb.mobile.Location.LocationCallback locationCallback>
+133563ZZZsetLocation:com.kbb.mobile.ActivityPanel:$r2 = $r0.<com.kbb.mobile.ActivityPanel: android.widget.TextView textViewLocationValue>
+133530ZZZnotifyLocationUpdated:com.kbb.mobile.Location.LocationHelper:$r2 = $r0.<com.kbb.mobile.Location.LocationHelper: com.kbb.mobile.Location.LocationCallback locationCallback>

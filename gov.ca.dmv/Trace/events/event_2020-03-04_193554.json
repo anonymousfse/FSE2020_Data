@@ -1,0 +1,48 @@
+{
+  "stop_state": "d1c4239b775a32e028a5256d5ee58e23", 
+  "event_str": "TouchEvent(state=1f4100659a98fba15dcc89425877127a, view=e3b46dcd02cbfcd1d09d3ca25176f3f7)", 
+  "tag": "2020-03-04_193554", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "event_type": "touch", 
+    "view": {
+      "content_description": null, 
+      "resource_id": "gov.ca.dmv:id/item_icon", 
+      "text": "\uf1b9", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "162*55", 
+      "checked": false, 
+      "temp_id": 17, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.TextView[resource_id]gov.ca.dmv:id/item_icon", 
+      "is_password": false, 
+      "parent": 16, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.TextView", 
+      "scrollable": false, 
+      "package": "gov.ca.dmv", 
+      "long_clickable": false, 
+      "view_str": "e3b46dcd02cbfcd1d09d3ca25176f3f7", 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          278
+        ], 
+        [
+          162, 
+          333
+        ]
+      ], 
+      "signature": "[class]android.widget.TextView[resource_id]gov.ca.dmv:id/item_icon[text]\uf1b9[enabled,,]"
+    }
+  }, 
+  "start_state": "1f4100659a98fba15dcc89425877127a"
+}

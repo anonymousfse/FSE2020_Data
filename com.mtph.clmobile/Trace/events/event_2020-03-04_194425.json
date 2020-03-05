@@ -1,0 +1,10 @@
+{
+  "stop_state": "5c945f3f9bdf78df6692a9686f8546a1", 
+  "event_str": "IntentEvent(intent='am start com.mtph.clmobile/com.clmobile.MainActivity')", 
+  "tag": "2020-03-04_194425", 
+  "event": {
+    "intent": "am start com.mtph.clmobile/com.clmobile.MainActivity", 
+    "event_type": "intent"
+  }, 
+  "start_state": "ed15f217dd849fc4c411fb0065bebebe"
+}

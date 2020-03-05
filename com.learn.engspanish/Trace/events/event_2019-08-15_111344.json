@@ -1,0 +1,48 @@
+{
+  "stop_state": "daefd3cafad4703ce23f73bfe02057fe", 
+  "event_str": "TouchEvent(state=01cdd9d3e131ed982ea2e39862611b37, view=b3affd29bda058138e83f293b1c9a04b)", 
+  "tag": "2019-08-15_111344", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "event_type": "touch", 
+    "view": {
+      "content_description": null, 
+      "resource_id": "com.learn.engspanish:id/btnexit", 
+      "text": "EXIT", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "418*126", 
+      "checked": false, 
+      "temp_id": 12, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.Button[resource_id]com.learn.engspanish:id/btnexit", 
+      "is_password": false, 
+      "parent": 11, 
+      "focusable": true, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": true, 
+      "class": "android.widget.Button", 
+      "scrollable": false, 
+      "package": "com.learn.engspanish", 
+      "long_clickable": false, 
+      "view_str": "b3affd29bda058138e83f293b1c9a04b", 
+      "enabled": true, 
+      "bounds": [
+        [
+          109, 
+          992
+        ], 
+        [
+          527, 
+          1118
+        ]
+      ], 
+      "signature": "[class]android.widget.Button[resource_id]com.learn.engspanish:id/btnexit[text]EXIT[enabled,,]"
+    }
+  }, 
+  "start_state": "01cdd9d3e131ed982ea2e39862611b37"
+}

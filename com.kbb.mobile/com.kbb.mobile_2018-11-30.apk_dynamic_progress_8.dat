@@ -1,0 +1,5 @@
+170383ZZZrun:com.kbb.mobile.Http.HttpConnection:$r8 = new org.apache.http.impl.client.DefaultHttpClient
+170391ZZZ<init>:com.kbb.mobile.views.hub.CarHubPhotos:$r6 = (android.widget.ProgressBar) $r3
+170393ZZZ<init>:com.kbb.mobile.views.hub.CarHubPhotos:$r6 = $r0.<com.kbb.mobile.views.hub.CarHubPhotos: android.widget.ProgressBar progressBar>
+170389ZZZ<init>:com.kbb.mobile.views.hub.CarHubPhotos:$r4 = $r0.<com.kbb.mobile.views.hub.CarHubPhotos: android.widget.RelativeLayout rel>
+170390ZZZ<init>:com.kbb.mobile.views.hub.CarHubPhotos:$r3 = virtualinvoke $r4.<android.widget.RelativeLayout: android.view.View findViewById(int)>(2131558519)

@@ -1,0 +1,48 @@
+{
+  "stop_state": "71516aaaf445dc4040b46147639fac7f", 
+  "event_str": "TouchEvent(state=91cce28ccdbdc6e58cc956ca7fbea235, view=ec08853b747eba0e9a6f864371ea59b3)", 
+  "tag": "2020-03-04_194453", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "event_type": "touch", 
+    "view": {
+      "content_description": null, 
+      "resource_id": "android:id/action_bar_title", 
+      "text": "Feedback", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "204*63", 
+      "checked": false, 
+      "temp_id": 9, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.TextView[resource_id]android:id/action_bar_title", 
+      "is_password": false, 
+      "parent": 8, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.TextView", 
+      "scrollable": false, 
+      "package": "com.mtph.clmobile", 
+      "long_clickable": false, 
+      "view_str": "ec08853b747eba0e9a6f864371ea59b3", 
+      "enabled": true, 
+      "bounds": [
+        [
+          126, 
+          94
+        ], 
+        [
+          330, 
+          157
+        ]
+      ], 
+      "signature": "[class]android.widget.TextView[resource_id]android:id/action_bar_title[text]Feedback[enabled,,]"
+    }
+  }, 
+  "start_state": "91cce28ccdbdc6e58cc956ca7fbea235"
+}

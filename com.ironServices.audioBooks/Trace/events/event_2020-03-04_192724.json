@@ -1,0 +1,51 @@
+{
+  "stop_state": "cf07899e4db889280d626cb83eddb8c5", 
+  "event_str": "ScrollEvent(state=3294e55a13f90d81d06e3f192f52b336, view=e5fd9f7245477979af926c0f9432e48a, direction=LEFT)", 
+  "tag": "2020-03-04_192724", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "direction": "LEFT", 
+    "event_type": "scroll", 
+    "view": {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": "Audio Books - Librivox", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [
+        6
+      ], 
+      "size": "1081*1731", 
+      "checked": false, 
+      "temp_id": 5, 
+      "selected": false, 
+      "child_count": 1, 
+      "content_free_signature": "[class]android.webkit.WebView[resource_id]None", 
+      "is_password": false, 
+      "parent": 4, 
+      "focusable": true, 
+      "editable": false, 
+      "focused": true, 
+      "clickable": false, 
+      "class": "android.webkit.WebView", 
+      "scrollable": true, 
+      "package": "com.ironServices.audioBooks", 
+      "long_clickable": false, 
+      "view_str": "e5fd9f7245477979af926c0f9432e48a", 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          63
+        ], 
+        [
+          1081, 
+          1794
+        ]
+      ], 
+      "signature": "[class]android.webkit.WebView[resource_id]None[text]Audio Books - Librivox[enabled,,]"
+    }
+  }, 
+  "start_state": "3294e55a13f90d81d06e3f192f52b336"
+}

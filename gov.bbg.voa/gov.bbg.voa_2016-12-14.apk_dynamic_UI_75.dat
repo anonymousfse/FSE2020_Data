@@ -1,0 +1,7 @@
+309374ZZZa:org.rferl.ui.activity.article.ArticleActivity:$r3 = $r0.<org.rferl.ui.activity.article.ArticleActivity: org.rferl.ui.fragment.AdvancedPageTitleFragment h>
+309322ZZZa:org.rferl.util.TrackingUtils:$r4 = interfaceinvoke $r3.<java.util.List: java.util.Iterator iterator()>()
+309326ZZZa:org.rferl.util.TrackingUtils:$r6 = (ara) $r5
+309325ZZZa:org.rferl.util.TrackingUtils:$r5 = interfaceinvoke $r4.<java.util.Iterator: java.lang.Object next()>()
+309391ZZZonPageSelected:org.rferl.ui.fragment.AdvancedPageTitleFragment:$r6 = $r0.<org.rferl.ui.fragment.AdvancedPageTitleFragment: android.graphics.drawable.BitmapDrawable mNextWhite>
+309321ZZZa:org.rferl.util.TrackingUtils:$r3 = <org.rferl.util.TrackingUtils: java.util.List e>
+309390ZZZonPageSelected:org.rferl.ui.fragment.AdvancedPageTitleFragment:$r5 = $r0.<org.rferl.ui.fragment.AdvancedPageTitleFragment: android.widget.ImageView mNextView>

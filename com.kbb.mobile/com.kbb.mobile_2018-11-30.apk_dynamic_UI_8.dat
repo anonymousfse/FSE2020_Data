@@ -1,0 +1,7 @@
+60510ZZZisSaved:com.kbb.mobile.ActivityHub:$r6 = virtualinvoke $r0.<com.kbb.mobile.ActivityHub: android.content.Context getApplicationContext()>()
+60551ZZZaddDots:com.kbb.mobile.views.PageControl:$r2 = new android.widget.ImageView
+60572ZZZaddDots:com.kbb.mobile.views.PageControl:$r2 = new android.widget.ImageView
+60565ZZZaddDots:com.kbb.mobile.views.PageControl:$r2 = new android.widget.ImageView
+60544ZZZaddDots:com.kbb.mobile.views.PageControl:$r2 = new android.widget.ImageView
+60558ZZZaddDots:com.kbb.mobile.views.PageControl:$r2 = new android.widget.ImageView
+60537ZZZaddDots:com.kbb.mobile.views.PageControl:$r2 = new android.widget.ImageView

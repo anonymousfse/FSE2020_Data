@@ -1,0 +1,10 @@
+{
+  "stop_state": "c67dc93da80d1c44317c59dac6960277", 
+  "event_str": "KeyEvent(state=7fe407d67bfe1f70a1d7576fff5f7ab6, name=HOME)", 
+  "tag": "2019-08-15_171315", 
+  "event": {
+    "event_type": "key", 
+    "name": "HOME"
+  }, 
+  "start_state": "7fe407d67bfe1f70a1d7576fff5f7ab6"
+}

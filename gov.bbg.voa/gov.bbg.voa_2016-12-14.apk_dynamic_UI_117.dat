@@ -1,0 +1,3 @@
+504321ZZZsetContentView:com.jeremyfeinstein.slidingmenu.lib.app.SlidingFragmentActivity:$r2 = new android.view.ViewGroup$LayoutParams
+504458ZZZa:org.rferl.ui.activity.multimedia.MultimediaTabsActivity:$r9 = (android.widget.TextView) $r8
+504457ZZZa:org.rferl.ui.activity.multimedia.MultimediaTabsActivity:$r8 = virtualinvoke $r7.<android.view.View: android.view.View findViewById(int)>(2131624043)

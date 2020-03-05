@@ -1,0 +1,48 @@
+{
+  "stop_state": "ebdda869c4bf639ea018d92acef2cdcc", 
+  "event_str": "TouchEvent(state=8f3c6b0e08d3f11a7586b51767cbdade, view=254fc5d685e277320ce562604fa771d2)", 
+  "tag": "2019-08-17_193643", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "event_type": "touch", 
+    "view": {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": "Cotton", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "654*2", 
+      "checked": false, 
+      "temp_id": 85, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.view.View[resource_id]None", 
+      "is_password": false, 
+      "parent": 83, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.view.View", 
+      "scrollable": false, 
+      "package": "com.jackthreads.android", 
+      "long_clickable": false, 
+      "view_str": "254fc5d685e277320ce562604fa771d2", 
+      "enabled": true, 
+      "bounds": [
+        [
+          388, 
+          1792
+        ], 
+        [
+          1042, 
+          1794
+        ]
+      ], 
+      "signature": "[class]android.view.View[resource_id]None[text]Cotton[enabled,,]"
+    }
+  }, 
+  "start_state": "8f3c6b0e08d3f11a7586b51767cbdade"
+}

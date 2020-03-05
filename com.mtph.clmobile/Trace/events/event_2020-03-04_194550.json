@@ -1,0 +1,48 @@
+{
+  "stop_state": "84b1b060c6bffad6ca97b11513c18c8e", 
+  "event_str": "TouchEvent(state=1db97841245c8263992b738247b61fdb, view=23e0d9ebb81530c657a57b18c83813f1)", 
+  "tag": "2020-03-04_194550", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "event_type": "touch", 
+    "view": {
+      "content_description": null, 
+      "resource_id": "postingbody", 
+      "text": "2 bedroom, 1 bath apartment located in the heart of the Inner Richmond District between Geary and Clement Streets. Street facing. Gated building with washer and dryer on site.\n\nInlaid hardwood floors throughout. Eat-in kitchen. Street facing. Recessed lighting, Dishwasher, Decorator styling, Stainless steel appliances, White built-in Plantation shutters, quartz counter tops, marble shower, soft close cabinets, pendant light.\n\nSecure parking for 2 available.\nTrash and water included.\n\nWalk to 1 block to Sunday Farmers\u2019 Market, great restaurants - Le Soleil, Eats, Burma Super Star, Cafe Bunn Mi, Arsicault, Dragon Beaux, Brother\u2019s BBQ, Good Luck Dim Sum, Toy Boat, B* Star, Mandalay, Shubert\u2019s Bakery, among others. \n\nClose to Golden Gate Park, USF, library, groceries, banks, Green Apple Books, public transit, great schools and other amenities.\n\nNo smoking.\nNo animals.\n\nFirst month + security deposit", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "1034*1", 
+      "checked": false, 
+      "temp_id": 65, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.view.View[resource_id]postingbody", 
+      "is_password": false, 
+      "parent": 39, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.view.View", 
+      "scrollable": false, 
+      "package": "com.mtph.clmobile", 
+      "long_clickable": false, 
+      "view_str": "23e0d9ebb81530c657a57b18c83813f1", 
+      "enabled": true, 
+      "bounds": [
+        [
+          23, 
+          1793
+        ], 
+        [
+          1057, 
+          1794
+        ]
+      ], 
+      "signature": "[class]android.view.View[resource_id]postingbody[text]None[enabled,,]"
+    }
+  }, 
+  "start_state": "1db97841245c8263992b738247b61fdb"
+}

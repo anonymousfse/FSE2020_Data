@@ -1,0 +1,51 @@
+{
+  "stop_state": "4f248aec29e4abe160f5b57ae617eecd", 
+  "event_str": "ScrollEvent(state=4f248aec29e4abe160f5b57ae617eecd, view=5df4af9650f27b2f37201c9a849583d1, direction=DOWN)", 
+  "tag": "2020-03-04_194817", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "direction": "DOWN", 
+    "event_type": "scroll", 
+    "view": {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": "$3,115/mo. *Beautiful 4-PLEX -3/2*Yard*Garage Elec Car Ready * Pets...", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [
+        14
+      ], 
+      "size": "1081*1597", 
+      "checked": false, 
+      "temp_id": 13, 
+      "selected": false, 
+      "child_count": 1, 
+      "content_free_signature": "[class]android.webkit.WebView[resource_id]None", 
+      "is_password": false, 
+      "parent": 12, 
+      "focusable": true, 
+      "editable": false, 
+      "focused": true, 
+      "clickable": false, 
+      "class": "android.webkit.WebView", 
+      "scrollable": true, 
+      "package": "com.mtph.clmobile", 
+      "long_clickable": false, 
+      "view_str": "5df4af9650f27b2f37201c9a849583d1", 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          197
+        ], 
+        [
+          1081, 
+          1794
+        ]
+      ], 
+      "signature": "[class]android.webkit.WebView[resource_id]None[text]None[enabled,,]"
+    }
+  }, 
+  "start_state": "4f248aec29e4abe160f5b57ae617eecd"
+}

@@ -1,0 +1,48 @@
+{
+  "stop_state": "a286d6e8d2928ba528939d8fe864e5e9", 
+  "event_str": "TouchEvent(state=3cde1897e8842d8e138575f8954cbe2b, view=5287a974caa5e90c86ae1811a0b5dcab)", 
+  "tag": "2019-08-15_171654", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "event_type": "touch", 
+    "view": {
+      "content_description": null, 
+      "resource_id": "com.kbb.mobile:id/LabelCondition", 
+      "text": "Condition", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "226*71", 
+      "checked": false, 
+      "temp_id": 15, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.TextView[resource_id]com.kbb.mobile:id/LabelCondition", 
+      "is_password": false, 
+      "parent": 14, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.TextView", 
+      "scrollable": false, 
+      "package": "com.kbb.mobile", 
+      "long_clickable": false, 
+      "view_str": "5287a974caa5e90c86ae1811a0b5dcab", 
+      "enabled": true, 
+      "bounds": [
+        [
+          18, 
+          264
+        ], 
+        [
+          244, 
+          335
+        ]
+      ], 
+      "signature": "[class]android.widget.TextView[resource_id]com.kbb.mobile:id/LabelCondition[text]Condition[enabled,,]"
+    }
+  }, 
+  "start_state": "3cde1897e8842d8e138575f8954cbe2b"
+}

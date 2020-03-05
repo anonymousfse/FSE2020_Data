@@ -1,0 +1,48 @@
+{
+  "stop_state": "6aaa430f666fc4d7f6e5d063ebfb06c2", 
+  "event_str": "TouchEvent(state=e32bb1770f88dbdc5b011e8b2754c6a2, view=68656cf55736c9af4e9120425b1566c6)", 
+  "tag": "2019-08-15_111548", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "event_type": "touch", 
+    "view": {
+      "content_description": null, 
+      "resource_id": "com.learn.engspanish:id/lblListHeader", 
+      "text": "Teacher : What more you do in Delhi?", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "1080*29", 
+      "checked": false, 
+      "temp_id": 17, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.TextView[resource_id]com.learn.engspanish:id/lblListHeader", 
+      "is_password": false, 
+      "parent": 16, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.TextView", 
+      "scrollable": false, 
+      "package": "com.learn.engspanish", 
+      "long_clickable": false, 
+      "view_str": "68656cf55736c9af4e9120425b1566c6", 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          394
+        ], 
+        [
+          1080, 
+          423
+        ]
+      ], 
+      "signature": "[class]android.widget.TextView[resource_id]com.learn.engspanish:id/lblListHeader[text]Teacher : What more you do in Delhi?[enabled,,]"
+    }
+  }, 
+  "start_state": "e32bb1770f88dbdc5b011e8b2754c6a2"
+}

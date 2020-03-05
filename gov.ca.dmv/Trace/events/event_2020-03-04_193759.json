@@ -1,0 +1,48 @@
+{
+  "stop_state": "b67f2dec155c7d733a71914d55344e44", 
+  "event_str": "TouchEvent(state=7aec5c1a8f202f43d5da75f11299d982, view=2f030f51f3e8f4063cb66aff29313992)", 
+  "tag": "2020-03-04_193759", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "event_type": "touch", 
+    "view": {
+      "content_description": null, 
+      "resource_id": "gov.ca.dmv:id/homePracticeExamsText", 
+      "text": "Practice Exams", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "359*71", 
+      "checked": false, 
+      "temp_id": 26, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.TextView[resource_id]gov.ca.dmv:id/homePracticeExamsText", 
+      "is_password": false, 
+      "parent": 24, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.TextView", 
+      "scrollable": false, 
+      "package": "gov.ca.dmv", 
+      "long_clickable": false, 
+      "view_str": "2f030f51f3e8f4063cb66aff29313992", 
+      "enabled": true, 
+      "bounds": [
+        [
+          625, 
+          960
+        ], 
+        [
+          984, 
+          1031
+        ]
+      ], 
+      "signature": "[class]android.widget.TextView[resource_id]gov.ca.dmv:id/homePracticeExamsText[text]Practice Exams[enabled,,]"
+    }
+  }, 
+  "start_state": "7aec5c1a8f202f43d5da75f11299d982"
+}

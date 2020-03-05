@@ -1,0 +1,48 @@
+{
+  "stop_state": "0032b234af888e7482bc2d9861377d32", 
+  "event_str": "TouchEvent(state=e533f54b49107a64ffe0001a4916b08f, view=37ad249a7bcd077ffed895e1a56aaee8)", 
+  "tag": "2019-08-15_171619", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "event_type": "touch", 
+    "view": {
+      "content_description": null, 
+      "resource_id": "android:id/icon", 
+      "text": null, 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "63*63", 
+      "checked": false, 
+      "temp_id": 19, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.ImageView[resource_id]android:id/icon", 
+      "is_password": false, 
+      "parent": 18, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.ImageView", 
+      "scrollable": false, 
+      "package": "io.github.ylimit.droidbotapp", 
+      "long_clickable": false, 
+      "view_str": "37ad249a7bcd077ffed895e1a56aaee8", 
+      "enabled": true, 
+      "bounds": [
+        [
+          63, 
+          367
+        ], 
+        [
+          126, 
+          430
+        ]
+      ], 
+      "signature": "[class]android.widget.ImageView[resource_id]android:id/icon[text]None[enabled,,]"
+    }
+  }, 
+  "start_state": "e533f54b49107a64ffe0001a4916b08f"
+}

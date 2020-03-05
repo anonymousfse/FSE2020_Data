@@ -1,0 +1,3428 @@
+{
+  "views": [
+    {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": null, 
+      "visible": true, 
+      "checkable": false, 
+      "children": [
+        1, 
+        85, 
+        86
+      ], 
+      "size": "1080*1920", 
+      "checked": false, 
+      "temp_id": 0, 
+      "selected": false, 
+      "child_count": 3, 
+      "content_free_signature": "[class]android.widget.FrameLayout[resource_id]None", 
+      "is_password": false, 
+      "parent": -1, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.FrameLayout", 
+      "scrollable": false, 
+      "package": "webexplorer.amazing.speed", 
+      "long_clickable": false, 
+      "view_str": "ad4007cc5f06557684f321f8a6789649", 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          0
+        ], 
+        [
+          1080, 
+          1920
+        ]
+      ], 
+      "signature": "[class]android.widget.FrameLayout[resource_id]None[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": null, 
+      "visible": true, 
+      "checkable": false, 
+      "children": [
+        2
+      ], 
+      "size": "1080*1794", 
+      "checked": false, 
+      "temp_id": 1, 
+      "selected": false, 
+      "child_count": 1, 
+      "content_free_signature": "[class]android.widget.LinearLayout[resource_id]None", 
+      "is_password": false, 
+      "parent": 0, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.LinearLayout", 
+      "scrollable": false, 
+      "package": "webexplorer.amazing.speed", 
+      "long_clickable": false, 
+      "view_str": "a55624c85d0430d9af178dab01b449ae", 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          0
+        ], 
+        [
+          1080, 
+          1794
+        ]
+      ], 
+      "signature": "[class]android.widget.LinearLayout[resource_id]None[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": null, 
+      "visible": true, 
+      "checkable": false, 
+      "children": [
+        3
+      ], 
+      "size": "1080*1794", 
+      "checked": false, 
+      "temp_id": 2, 
+      "selected": false, 
+      "child_count": 1, 
+      "content_free_signature": "[class]android.widget.FrameLayout[resource_id]None", 
+      "is_password": false, 
+      "parent": 1, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.FrameLayout", 
+      "scrollable": false, 
+      "package": "webexplorer.amazing.speed", 
+      "long_clickable": false, 
+      "view_str": "55008227e040b58fb13898a9c9191326", 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          0
+        ], 
+        [
+          1080, 
+          1794
+        ]
+      ], 
+      "signature": "[class]android.widget.FrameLayout[resource_id]None[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": "webexplorer.amazing.speed:id/action_bar_root", 
+      "text": null, 
+      "visible": true, 
+      "checkable": false, 
+      "children": [
+        4
+      ], 
+      "size": "1080*1794", 
+      "checked": false, 
+      "temp_id": 3, 
+      "selected": false, 
+      "child_count": 1, 
+      "content_free_signature": "[class]android.widget.LinearLayout[resource_id]webexplorer.amazing.speed:id/action_bar_root", 
+      "is_password": false, 
+      "parent": 2, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.LinearLayout", 
+      "scrollable": false, 
+      "package": "webexplorer.amazing.speed", 
+      "long_clickable": false, 
+      "view_str": "b4223cb005cd5934a8a273e7d6bc3c9d", 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          0
+        ], 
+        [
+          1080, 
+          1794
+        ]
+      ], 
+      "signature": "[class]android.widget.LinearLayout[resource_id]webexplorer.amazing.speed:id/action_bar_root[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": "android:id/content", 
+      "text": null, 
+      "visible": true, 
+      "checkable": false, 
+      "children": [
+        5
+      ], 
+      "size": "1080*1794", 
+      "checked": false, 
+      "temp_id": 4, 
+      "selected": false, 
+      "child_count": 1, 
+      "content_free_signature": "[class]android.widget.FrameLayout[resource_id]android:id/content", 
+      "is_password": false, 
+      "parent": 3, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.FrameLayout", 
+      "scrollable": false, 
+      "package": "webexplorer.amazing.speed", 
+      "long_clickable": false, 
+      "view_str": "6072043acd65267e3a3fe478facbe557", 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          0
+        ], 
+        [
+          1080, 
+          1794
+        ]
+      ], 
+      "signature": "[class]android.widget.FrameLayout[resource_id]android:id/content[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": "webexplorer.amazing.speed:id/coordinator_layout", 
+      "text": null, 
+      "visible": true, 
+      "checkable": false, 
+      "children": [
+        6
+      ], 
+      "size": "1080*1794", 
+      "checked": false, 
+      "temp_id": 5, 
+      "selected": false, 
+      "child_count": 1, 
+      "content_free_signature": "[class]android.view.ViewGroup[resource_id]webexplorer.amazing.speed:id/coordinator_layout", 
+      "is_password": false, 
+      "parent": 4, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.view.ViewGroup", 
+      "scrollable": false, 
+      "package": "webexplorer.amazing.speed", 
+      "long_clickable": false, 
+      "view_str": "73d954977e06bff07b98a99abcb47f48", 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          0
+        ], 
+        [
+          1080, 
+          1794
+        ]
+      ], 
+      "signature": "[class]android.view.ViewGroup[resource_id]webexplorer.amazing.speed:id/coordinator_layout[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": "webexplorer.amazing.speed:id/drawer_layout", 
+      "text": null, 
+      "visible": true, 
+      "checkable": false, 
+      "children": [
+        7
+      ], 
+      "size": "1080*1794", 
+      "checked": false, 
+      "temp_id": 6, 
+      "selected": false, 
+      "child_count": 1, 
+      "content_free_signature": "[class]android.support.v4.widget.DrawerLayout[resource_id]webexplorer.amazing.speed:id/drawer_layout", 
+      "is_password": false, 
+      "parent": 5, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.support.v4.widget.DrawerLayout", 
+      "scrollable": false, 
+      "package": "webexplorer.amazing.speed", 
+      "long_clickable": false, 
+      "view_str": "ca47e4e90b4b4074b8e9a83c22314b3f", 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          0
+        ], 
+        [
+          1080, 
+          1794
+        ]
+      ], 
+      "signature": "[class]android.support.v4.widget.DrawerLayout[resource_id]webexplorer.amazing.speed:id/drawer_layout[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": "webexplorer.amazing.speed:id/ui_layout", 
+      "text": null, 
+      "visible": true, 
+      "checkable": false, 
+      "children": [
+        8, 
+        35, 
+        37, 
+        79
+      ], 
+      "size": "1080*1731", 
+      "checked": false, 
+      "temp_id": 7, 
+      "selected": false, 
+      "child_count": 4, 
+      "content_free_signature": "[class]android.widget.LinearLayout[resource_id]webexplorer.amazing.speed:id/ui_layout", 
+      "is_password": false, 
+      "parent": 6, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.LinearLayout", 
+      "scrollable": false, 
+      "package": "webexplorer.amazing.speed", 
+      "long_clickable": false, 
+      "view_str": "a0124c4c499f192aa297b3e6f8c3e502", 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          63
+        ], 
+        [
+          1080, 
+          1794
+        ]
+      ], 
+      "signature": "[class]android.widget.LinearLayout[resource_id]webexplorer.amazing.speed:id/ui_layout[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": "webexplorer.amazing.speed:id/toolbar_layout", 
+      "text": null, 
+      "visible": true, 
+      "checkable": false, 
+      "children": [
+        9, 
+        23
+      ], 
+      "size": "1080*210", 
+      "checked": false, 
+      "temp_id": 8, 
+      "selected": false, 
+      "child_count": 2, 
+      "content_free_signature": "[class]android.widget.LinearLayout[resource_id]webexplorer.amazing.speed:id/toolbar_layout", 
+      "is_password": false, 
+      "parent": 7, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.LinearLayout", 
+      "scrollable": false, 
+      "package": "webexplorer.amazing.speed", 
+      "long_clickable": false, 
+      "view_str": "3141f5d2ef3c9dd2f3bd8d1f26f8d811", 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          63
+        ], 
+        [
+          1080, 
+          273
+        ]
+      ], 
+      "signature": "[class]android.widget.LinearLayout[resource_id]webexplorer.amazing.speed:id/toolbar_layout[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": "webexplorer.amazing.speed:id/tabs_toolbar_container", 
+      "text": null, 
+      "visible": true, 
+      "checkable": false, 
+      "children": [
+        10
+      ], 
+      "size": "1080*79", 
+      "checked": false, 
+      "temp_id": 9, 
+      "selected": false, 
+      "child_count": 1, 
+      "content_free_signature": "[class]android.widget.FrameLayout[resource_id]webexplorer.amazing.speed:id/tabs_toolbar_container", 
+      "is_password": false, 
+      "parent": 8, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.FrameLayout", 
+      "scrollable": false, 
+      "package": "webexplorer.amazing.speed", 
+      "long_clickable": false, 
+      "view_str": "d27478882ee6ba0fb1fd42678fec5fc7", 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          63
+        ], 
+        [
+          1080, 
+          142
+        ]
+      ], 
+      "signature": "[class]android.widget.FrameLayout[resource_id]webexplorer.amazing.speed:id/tabs_toolbar_container[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": null, 
+      "visible": true, 
+      "checkable": false, 
+      "children": [
+        11, 
+        22
+      ], 
+      "size": "1080*79", 
+      "checked": false, 
+      "temp_id": 10, 
+      "selected": false, 
+      "child_count": 2, 
+      "content_free_signature": "[class]android.widget.LinearLayout[resource_id]None", 
+      "is_password": false, 
+      "parent": 9, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.LinearLayout", 
+      "scrollable": false, 
+      "package": "webexplorer.amazing.speed", 
+      "long_clickable": false, 
+      "view_str": "cb0c0c546ba0aaed17773e29a6aa0b08", 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          63
+        ], 
+        [
+          1080, 
+          142
+        ]
+      ], 
+      "signature": "[class]android.widget.LinearLayout[resource_id]None[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": "webexplorer.amazing.speed:id/tabs_list", 
+      "text": null, 
+      "visible": true, 
+      "checkable": false, 
+      "children": [
+        12, 
+        17
+      ], 
+      "size": "1001*79", 
+      "checked": false, 
+      "temp_id": 11, 
+      "selected": false, 
+      "child_count": 2, 
+      "content_free_signature": "[class]android.support.v7.widget.RecyclerView[resource_id]webexplorer.amazing.speed:id/tabs_list", 
+      "is_password": false, 
+      "parent": 10, 
+      "focusable": true, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.support.v7.widget.RecyclerView", 
+      "scrollable": false, 
+      "package": "webexplorer.amazing.speed", 
+      "long_clickable": false, 
+      "view_str": "4da0b4254c6d5015c51549814a4d85a6", 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          63
+        ], 
+        [
+          1001, 
+          142
+        ]
+      ], 
+      "signature": "[class]android.support.v7.widget.RecyclerView[resource_id]webexplorer.amazing.speed:id/tabs_list[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": "webexplorer.amazing.speed:id/tab_item_background", 
+      "text": null, 
+      "visible": true, 
+      "checkable": false, 
+      "children": [
+        13, 
+        14, 
+        15
+      ], 
+      "size": "459*79", 
+      "checked": false, 
+      "temp_id": 12, 
+      "selected": false, 
+      "child_count": 3, 
+      "content_free_signature": "[class]android.widget.LinearLayout[resource_id]webexplorer.amazing.speed:id/tab_item_background", 
+      "is_password": false, 
+      "parent": 11, 
+      "focusable": true, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": true, 
+      "class": "android.widget.LinearLayout", 
+      "scrollable": false, 
+      "package": "webexplorer.amazing.speed", 
+      "long_clickable": true, 
+      "view_str": "01d6900f96a60e3363ab46e00192cfd4", 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          63
+        ], 
+        [
+          459, 
+          142
+        ]
+      ], 
+      "signature": "[class]android.widget.LinearLayout[resource_id]webexplorer.amazing.speed:id/tab_item_background[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": "Favicon", 
+      "resource_id": "webexplorer.amazing.speed:id/faviconTab", 
+      "text": null, 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "53*53", 
+      "checked": false, 
+      "temp_id": 13, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.ImageView[resource_id]webexplorer.amazing.speed:id/faviconTab", 
+      "is_password": false, 
+      "parent": 12, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.ImageView", 
+      "scrollable": false, 
+      "package": "webexplorer.amazing.speed", 
+      "long_clickable": false, 
+      "view_str": "52c93c3f5d86f9ba485f52bba30d1ca1", 
+      "enabled": true, 
+      "bounds": [
+        [
+          44, 
+          76
+        ], 
+        [
+          97, 
+          129
+        ]
+      ], 
+      "signature": "[class]android.widget.ImageView[resource_id]webexplorer.amazing.speed:id/faviconTab[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": "webexplorer.amazing.speed:id/textTab", 
+      "text": "Images", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "223*79", 
+      "checked": false, 
+      "temp_id": 14, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.TextView[resource_id]webexplorer.amazing.speed:id/textTab", 
+      "is_password": false, 
+      "parent": 12, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.TextView", 
+      "scrollable": false, 
+      "package": "webexplorer.amazing.speed", 
+      "long_clickable": false, 
+      "view_str": "2b89957671a17a3ab59268831461791b", 
+      "enabled": true, 
+      "bounds": [
+        [
+          115, 
+          63
+        ], 
+        [
+          338, 
+          142
+        ]
+      ], 
+      "signature": "[class]android.widget.TextView[resource_id]webexplorer.amazing.speed:id/textTab[text]Images[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": "webexplorer.amazing.speed:id/deleteAction", 
+      "text": null, 
+      "visible": true, 
+      "checkable": false, 
+      "children": [
+        16
+      ], 
+      "size": "95*79", 
+      "checked": false, 
+      "temp_id": 15, 
+      "selected": false, 
+      "child_count": 1, 
+      "content_free_signature": "[class]android.widget.FrameLayout[resource_id]webexplorer.amazing.speed:id/deleteAction", 
+      "is_password": false, 
+      "parent": 12, 
+      "focusable": true, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": true, 
+      "class": "android.widget.FrameLayout", 
+      "scrollable": false, 
+      "package": "webexplorer.amazing.speed", 
+      "long_clickable": false, 
+      "view_str": "249af5caa90a69424f92da14222763ae", 
+      "enabled": true, 
+      "bounds": [
+        [
+          338, 
+          63
+        ], 
+        [
+          433, 
+          142
+        ]
+      ], 
+      "signature": "[class]android.widget.FrameLayout[resource_id]webexplorer.amazing.speed:id/deleteAction[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": "Delete Tab", 
+      "resource_id": "webexplorer.amazing.speed:id/deleteButton", 
+      "text": null, 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "53*53", 
+      "checked": false, 
+      "temp_id": 16, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.ImageView[resource_id]webexplorer.amazing.speed:id/deleteButton", 
+      "is_password": false, 
+      "parent": 15, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.ImageView", 
+      "scrollable": false, 
+      "package": "webexplorer.amazing.speed", 
+      "long_clickable": false, 
+      "view_str": "363e1a5bebfa8a5649e0aee5335adf2e", 
+      "enabled": true, 
+      "bounds": [
+        [
+          359, 
+          76
+        ], 
+        [
+          412, 
+          129
+        ]
+      ], 
+      "signature": "[class]android.widget.ImageView[resource_id]webexplorer.amazing.speed:id/deleteButton[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": "webexplorer.amazing.speed:id/tab_item_background", 
+      "text": null, 
+      "visible": true, 
+      "checkable": false, 
+      "children": [
+        18, 
+        19, 
+        20
+      ], 
+      "size": "459*79", 
+      "checked": false, 
+      "temp_id": 17, 
+      "selected": false, 
+      "child_count": 3, 
+      "content_free_signature": "[class]android.widget.LinearLayout[resource_id]webexplorer.amazing.speed:id/tab_item_background", 
+      "is_password": false, 
+      "parent": 11, 
+      "focusable": true, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": true, 
+      "class": "android.widget.LinearLayout", 
+      "scrollable": false, 
+      "package": "webexplorer.amazing.speed", 
+      "long_clickable": true, 
+      "view_str": "d1e4aa8e193bbdd8a5ead3cd3ce7247e", 
+      "enabled": true, 
+      "bounds": [
+        [
+          459, 
+          63
+        ], 
+        [
+          918, 
+          142
+        ]
+      ], 
+      "signature": "[class]android.widget.LinearLayout[resource_id]webexplorer.amazing.speed:id/tab_item_background[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": "Favicon", 
+      "resource_id": "webexplorer.amazing.speed:id/faviconTab", 
+      "text": null, 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "53*53", 
+      "checked": false, 
+      "temp_id": 18, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.ImageView[resource_id]webexplorer.amazing.speed:id/faviconTab", 
+      "is_password": false, 
+      "parent": 17, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.ImageView", 
+      "scrollable": false, 
+      "package": "webexplorer.amazing.speed", 
+      "long_clickable": false, 
+      "view_str": "52c93c3f5d86f9ba485f52bba30d1ca1", 
+      "enabled": true, 
+      "bounds": [
+        [
+          503, 
+          76
+        ], 
+        [
+          556, 
+          129
+        ]
+      ], 
+      "signature": "[class]android.widget.ImageView[resource_id]webexplorer.amazing.speed:id/faviconTab[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": "webexplorer.amazing.speed:id/textTab", 
+      "text": "Homepage", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "223*79", 
+      "checked": false, 
+      "temp_id": 19, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.TextView[resource_id]webexplorer.amazing.speed:id/textTab", 
+      "is_password": false, 
+      "parent": 17, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.TextView", 
+      "scrollable": false, 
+      "package": "webexplorer.amazing.speed", 
+      "long_clickable": false, 
+      "view_str": "3b13dd4133ad10d1f5b6906c1c61acdd", 
+      "enabled": true, 
+      "bounds": [
+        [
+          574, 
+          63
+        ], 
+        [
+          797, 
+          142
+        ]
+      ], 
+      "signature": "[class]android.widget.TextView[resource_id]webexplorer.amazing.speed:id/textTab[text]Homepage[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": "webexplorer.amazing.speed:id/deleteAction", 
+      "text": null, 
+      "visible": true, 
+      "checkable": false, 
+      "children": [
+        21
+      ], 
+      "size": "95*79", 
+      "checked": false, 
+      "temp_id": 20, 
+      "selected": false, 
+      "child_count": 1, 
+      "content_free_signature": "[class]android.widget.FrameLayout[resource_id]webexplorer.amazing.speed:id/deleteAction", 
+      "is_password": false, 
+      "parent": 17, 
+      "focusable": true, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": true, 
+      "class": "android.widget.FrameLayout", 
+      "scrollable": false, 
+      "package": "webexplorer.amazing.speed", 
+      "long_clickable": false, 
+      "view_str": "249af5caa90a69424f92da14222763ae", 
+      "enabled": true, 
+      "bounds": [
+        [
+          797, 
+          63
+        ], 
+        [
+          892, 
+          142
+        ]
+      ], 
+      "signature": "[class]android.widget.FrameLayout[resource_id]webexplorer.amazing.speed:id/deleteAction[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": "Delete Tab", 
+      "resource_id": "webexplorer.amazing.speed:id/deleteButton", 
+      "text": null, 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "53*53", 
+      "checked": false, 
+      "temp_id": 21, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.ImageView[resource_id]webexplorer.amazing.speed:id/deleteButton", 
+      "is_password": false, 
+      "parent": 20, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.ImageView", 
+      "scrollable": false, 
+      "package": "webexplorer.amazing.speed", 
+      "long_clickable": false, 
+      "view_str": "363e1a5bebfa8a5649e0aee5335adf2e", 
+      "enabled": true, 
+      "bounds": [
+        [
+          818, 
+          76
+        ], 
+        [
+          871, 
+          129
+        ]
+      ], 
+      "signature": "[class]android.widget.ImageView[resource_id]webexplorer.amazing.speed:id/deleteButton[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": "webexplorer.amazing.speed:id/new_tab_button", 
+      "text": null, 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "79*79", 
+      "checked": false, 
+      "temp_id": 22, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.ImageView[resource_id]webexplorer.amazing.speed:id/new_tab_button", 
+      "is_password": false, 
+      "parent": 10, 
+      "focusable": true, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": true, 
+      "class": "android.widget.ImageView", 
+      "scrollable": false, 
+      "package": "webexplorer.amazing.speed", 
+      "long_clickable": false, 
+      "view_str": "9ca3d296b8a57e9703ac4d9c1f56b3c6", 
+      "enabled": true, 
+      "bounds": [
+        [
+          1001, 
+          63
+        ], 
+        [
+          1080, 
+          142
+        ]
+      ], 
+      "signature": "[class]android.widget.ImageView[resource_id]webexplorer.amazing.speed:id/new_tab_button[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": "webexplorer.amazing.speed:id/toolbar", 
+      "text": null, 
+      "visible": true, 
+      "checkable": false, 
+      "children": [
+        24, 
+        34
+      ], 
+      "size": "1080*131", 
+      "checked": false, 
+      "temp_id": 23, 
+      "selected": false, 
+      "child_count": 2, 
+      "content_free_signature": "[class]android.view.ViewGroup[resource_id]webexplorer.amazing.speed:id/toolbar", 
+      "is_password": false, 
+      "parent": 8, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.view.ViewGroup", 
+      "scrollable": false, 
+      "package": "webexplorer.amazing.speed", 
+      "long_clickable": false, 
+      "view_str": "c2c33c6495997542a550c35f3f813e78", 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          142
+        ], 
+        [
+          1080, 
+          273
+        ]
+      ], 
+      "signature": "[class]android.view.ViewGroup[resource_id]webexplorer.amazing.speed:id/toolbar[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": null, 
+      "visible": true, 
+      "checkable": false, 
+      "children": [
+        25, 
+        27, 
+        32
+      ], 
+      "size": "1080*126", 
+      "checked": false, 
+      "temp_id": 24, 
+      "selected": false, 
+      "child_count": 3, 
+      "content_free_signature": "[class]android.widget.LinearLayout[resource_id]None", 
+      "is_password": false, 
+      "parent": 23, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.LinearLayout", 
+      "scrollable": false, 
+      "package": "webexplorer.amazing.speed", 
+      "long_clickable": false, 
+      "view_str": "d1c6a3b554abb698002309c067afbae0", 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          147
+        ], 
+        [
+          1080, 
+          273
+        ]
+      ], 
+      "signature": "[class]android.widget.LinearLayout[resource_id]None[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": "webexplorer.amazing.speed:id/arrow_button", 
+      "text": null, 
+      "visible": true, 
+      "checkable": false, 
+      "children": [
+        26
+      ], 
+      "size": "120*126", 
+      "checked": false, 
+      "temp_id": 25, 
+      "selected": false, 
+      "child_count": 1, 
+      "content_free_signature": "[class]android.widget.FrameLayout[resource_id]webexplorer.amazing.speed:id/arrow_button", 
+      "is_password": false, 
+      "parent": 24, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.FrameLayout", 
+      "scrollable": false, 
+      "package": "webexplorer.amazing.speed", 
+      "long_clickable": false, 
+      "view_str": "01831fd8aabe506f3412fc3751e34442", 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          147
+        ], 
+        [
+          120, 
+          273
+        ]
+      ], 
+      "signature": "[class]android.widget.FrameLayout[resource_id]webexplorer.amazing.speed:id/arrow_button[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": "webexplorer.amazing.speed:id/arrow", 
+      "text": null, 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "66*66", 
+      "checked": false, 
+      "temp_id": 26, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.ImageView[resource_id]webexplorer.amazing.speed:id/arrow", 
+      "is_password": false, 
+      "parent": 25, 
+      "focusable": true, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": true, 
+      "class": "android.widget.ImageView", 
+      "scrollable": false, 
+      "package": "webexplorer.amazing.speed", 
+      "long_clickable": false, 
+      "view_str": "ef754917a6b4d98f75d1dab809c1f29a", 
+      "enabled": true, 
+      "bounds": [
+        [
+          27, 
+          180
+        ], 
+        [
+          93, 
+          246
+        ]
+      ], 
+      "signature": "[class]android.widget.ImageView[resource_id]webexplorer.amazing.speed:id/arrow[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": "webexplorer.amazing.speed:id/search_container", 
+      "text": null, 
+      "visible": true, 
+      "checkable": false, 
+      "children": [
+        28
+      ], 
+      "size": "840*126", 
+      "checked": false, 
+      "temp_id": 27, 
+      "selected": false, 
+      "child_count": 1, 
+      "content_free_signature": "[class]android.widget.LinearLayout[resource_id]webexplorer.amazing.speed:id/search_container", 
+      "is_password": false, 
+      "parent": 24, 
+      "focusable": true, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.LinearLayout", 
+      "scrollable": false, 
+      "package": "webexplorer.amazing.speed", 
+      "long_clickable": false, 
+      "view_str": "37b3db375caa5420b38ea424c8367e50", 
+      "enabled": true, 
+      "bounds": [
+        [
+          120, 
+          147
+        ], 
+        [
+          960, 
+          273
+        ]
+      ], 
+      "signature": "[class]android.widget.LinearLayout[resource_id]webexplorer.amazing.speed:id/search_container[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": null, 
+      "visible": true, 
+      "checkable": false, 
+      "children": [
+        29, 
+        31
+      ], 
+      "size": "840*105", 
+      "checked": false, 
+      "temp_id": 28, 
+      "selected": false, 
+      "child_count": 2, 
+      "content_free_signature": "[class]android.widget.RelativeLayout[resource_id]None", 
+      "is_password": false, 
+      "parent": 27, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.RelativeLayout", 
+      "scrollable": false, 
+      "package": "webexplorer.amazing.speed", 
+      "long_clickable": false, 
+      "view_str": "991887a6718e8b117aae0d8a27171615", 
+      "enabled": true, 
+      "bounds": [
+        [
+          120, 
+          157
+        ], 
+        [
+          960, 
+          262
+        ]
+      ], 
+      "signature": "[class]android.widget.RelativeLayout[resource_id]None[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": null, 
+      "visible": true, 
+      "checkable": false, 
+      "children": [
+        30
+      ], 
+      "size": "713*105", 
+      "checked": false, 
+      "temp_id": 29, 
+      "selected": false, 
+      "child_count": 1, 
+      "content_free_signature": "[class]android.widget.FrameLayout[resource_id]None", 
+      "is_password": false, 
+      "parent": 28, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.FrameLayout", 
+      "scrollable": false, 
+      "package": "webexplorer.amazing.speed", 
+      "long_clickable": false, 
+      "view_str": "81e4cf82d7254ab611992c99e3992729", 
+      "enabled": true, 
+      "bounds": [
+        [
+          120, 
+          157
+        ], 
+        [
+          833, 
+          262
+        ]
+      ], 
+      "signature": "[class]android.widget.FrameLayout[resource_id]None[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": "webexplorer.amazing.speed:id/search", 
+      "text": "Search", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "709*101", 
+      "checked": false, 
+      "temp_id": 30, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.EditText[resource_id]webexplorer.amazing.speed:id/search", 
+      "is_password": false, 
+      "parent": 29, 
+      "focusable": true, 
+      "editable": true, 
+      "focused": false, 
+      "clickable": true, 
+      "class": "android.widget.EditText", 
+      "scrollable": false, 
+      "package": "webexplorer.amazing.speed", 
+      "long_clickable": true, 
+      "view_str": "1687383bf4c57170cf8d5a2cb9719133", 
+      "enabled": true, 
+      "bounds": [
+        [
+          122, 
+          159
+        ], 
+        [
+          831, 
+          260
+        ]
+      ], 
+      "signature": "[class]android.widget.EditText[resource_id]webexplorer.amazing.speed:id/search[text]Search[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": "webexplorer.amazing.speed:id/ivMobvistamarket", 
+      "text": null, 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "79*57", 
+      "checked": false, 
+      "temp_id": 31, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.ImageView[resource_id]webexplorer.amazing.speed:id/ivMobvistamarket", 
+      "is_password": false, 
+      "parent": 28, 
+      "focusable": true, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": true, 
+      "class": "android.widget.ImageView", 
+      "scrollable": false, 
+      "package": "webexplorer.amazing.speed", 
+      "long_clickable": false, 
+      "view_str": "621f19971aebd3bb71821b4039917962", 
+      "enabled": true, 
+      "bounds": [
+        [
+          857, 
+          181
+        ], 
+        [
+          936, 
+          238
+        ]
+      ], 
+      "signature": "[class]android.widget.ImageView[resource_id]webexplorer.amazing.speed:id/ivMobvistamarket[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": null, 
+      "visible": true, 
+      "checkable": false, 
+      "children": [
+        33
+      ], 
+      "size": "120*126", 
+      "checked": false, 
+      "temp_id": 32, 
+      "selected": false, 
+      "child_count": 1, 
+      "content_free_signature": "[class]android.widget.FrameLayout[resource_id]None", 
+      "is_password": false, 
+      "parent": 24, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.FrameLayout", 
+      "scrollable": false, 
+      "package": "webexplorer.amazing.speed", 
+      "long_clickable": false, 
+      "view_str": "565a317bbaa1cb64437fbfc17b0784be", 
+      "enabled": true, 
+      "bounds": [
+        [
+          960, 
+          147
+        ], 
+        [
+          1080, 
+          273
+        ]
+      ], 
+      "signature": "[class]android.widget.FrameLayout[resource_id]None[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": "webexplorer.amazing.speed:id/settingIcon", 
+      "text": null, 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "79*79", 
+      "checked": false, 
+      "temp_id": 33, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.ImageView[resource_id]webexplorer.amazing.speed:id/settingIcon", 
+      "is_password": false, 
+      "parent": 32, 
+      "focusable": true, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": true, 
+      "class": "android.widget.ImageView", 
+      "scrollable": false, 
+      "package": "webexplorer.amazing.speed", 
+      "long_clickable": false, 
+      "view_str": "7e4a6ec90cc0ba786d35a837f5273636", 
+      "enabled": true, 
+      "bounds": [
+        [
+          980, 
+          170
+        ], 
+        [
+          1059, 
+          249
+        ]
+      ], 
+      "signature": "[class]android.widget.ImageView[resource_id]webexplorer.amazing.speed:id/settingIcon[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": null, 
+      "visible": false, 
+      "checkable": false, 
+      "children": [], 
+      "size": "0*124", 
+      "checked": false, 
+      "temp_id": 34, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.support.v7.widget.LinearLayoutCompat[resource_id]None", 
+      "is_password": false, 
+      "parent": 23, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.support.v7.widget.LinearLayoutCompat", 
+      "scrollable": false, 
+      "package": "webexplorer.amazing.speed", 
+      "long_clickable": false, 
+      "view_str": "f6fd88917a6ca7d78184a17ecf5b102e", 
+      "enabled": true, 
+      "bounds": [
+        [
+          1080, 
+          149
+        ], 
+        [
+          1080, 
+          273
+        ]
+      ], 
+      "signature": "[class]android.support.v7.widget.LinearLayoutCompat[resource_id]None[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": null, 
+      "visible": true, 
+      "checkable": false, 
+      "children": [
+        36
+      ], 
+      "size": "1080*5", 
+      "checked": false, 
+      "temp_id": 35, 
+      "selected": false, 
+      "child_count": 1, 
+      "content_free_signature": "[class]android.widget.LinearLayout[resource_id]None", 
+      "is_password": false, 
+      "parent": 7, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.LinearLayout", 
+      "scrollable": false, 
+      "package": "webexplorer.amazing.speed", 
+      "long_clickable": false, 
+      "view_str": "e182dbeac6c33d10f306db9a7ff017c1", 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          273
+        ], 
+        [
+          1080, 
+          278
+        ]
+      ], 
+      "signature": "[class]android.widget.LinearLayout[resource_id]None[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": "webexplorer.amazing.speed:id/progress_view", 
+      "text": null, 
+      "visible": false, 
+      "checkable": false, 
+      "children": [], 
+      "size": "1080*5", 
+      "checked": false, 
+      "temp_id": 36, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.view.View[resource_id]webexplorer.amazing.speed:id/progress_view", 
+      "is_password": false, 
+      "parent": 35, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.view.View", 
+      "scrollable": false, 
+      "package": "webexplorer.amazing.speed", 
+      "long_clickable": false, 
+      "view_str": "eace3d4ec62ac82ff9373d2b834a2b31", 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          273
+        ], 
+        [
+          1080, 
+          278
+        ]
+      ], 
+      "signature": "[class]android.view.View[resource_id]webexplorer.amazing.speed:id/progress_view[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": "webexplorer.amazing.speed:id/layHomepage", 
+      "text": null, 
+      "visible": true, 
+      "checkable": false, 
+      "children": [
+        38
+      ], 
+      "size": "1080*1516", 
+      "checked": false, 
+      "temp_id": 37, 
+      "selected": false, 
+      "child_count": 1, 
+      "content_free_signature": "[class]android.widget.RelativeLayout[resource_id]webexplorer.amazing.speed:id/layHomepage", 
+      "is_password": false, 
+      "parent": 7, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.RelativeLayout", 
+      "scrollable": false, 
+      "package": "webexplorer.amazing.speed", 
+      "long_clickable": false, 
+      "view_str": "b5c4e7944e82f77cb95e7c3f95c815a0", 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          278
+        ], 
+        [
+          1080, 
+          1794
+        ]
+      ], 
+      "signature": "[class]android.widget.RelativeLayout[resource_id]webexplorer.amazing.speed:id/layHomepage[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": null, 
+      "visible": true, 
+      "checkable": false, 
+      "children": [
+        39
+      ], 
+      "size": "1080*1516", 
+      "checked": false, 
+      "temp_id": 38, 
+      "selected": false, 
+      "child_count": 1, 
+      "content_free_signature": "[class]android.widget.ScrollView[resource_id]None", 
+      "is_password": false, 
+      "parent": 37, 
+      "focusable": true, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.ScrollView", 
+      "scrollable": false, 
+      "package": "webexplorer.amazing.speed", 
+      "long_clickable": false, 
+      "view_str": "b13c2717da6809b416500cf28f879b63", 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          278
+        ], 
+        [
+          1080, 
+          1794
+        ]
+      ], 
+      "signature": "[class]android.widget.ScrollView[resource_id]None[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": null, 
+      "visible": true, 
+      "checkable": false, 
+      "children": [
+        40, 
+        42, 
+        48
+      ], 
+      "size": "1080*1516", 
+      "checked": false, 
+      "temp_id": 39, 
+      "selected": false, 
+      "child_count": 3, 
+      "content_free_signature": "[class]android.widget.RelativeLayout[resource_id]None", 
+      "is_password": false, 
+      "parent": 38, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.RelativeLayout", 
+      "scrollable": false, 
+      "package": "webexplorer.amazing.speed", 
+      "long_clickable": false, 
+      "view_str": "67b7cb195c5d5fbc073b67b19917325c", 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          278
+        ], 
+        [
+          1080, 
+          1794
+        ]
+      ], 
+      "signature": "[class]android.widget.RelativeLayout[resource_id]None[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": "webexplorer.amazing.speed:id/relLogo", 
+      "text": null, 
+      "visible": true, 
+      "checkable": false, 
+      "children": [
+        41
+      ], 
+      "size": "1080*368", 
+      "checked": false, 
+      "temp_id": 40, 
+      "selected": false, 
+      "child_count": 1, 
+      "content_free_signature": "[class]android.widget.RelativeLayout[resource_id]webexplorer.amazing.speed:id/relLogo", 
+      "is_password": false, 
+      "parent": 39, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.RelativeLayout", 
+      "scrollable": false, 
+      "package": "webexplorer.amazing.speed", 
+      "long_clickable": false, 
+      "view_str": "d54a135392d4be8db0deebb1c45685bb", 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          383
+        ], 
+        [
+          1080, 
+          751
+        ]
+      ], 
+      "signature": "[class]android.widget.RelativeLayout[resource_id]webexplorer.amazing.speed:id/relLogo[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": "webexplorer.amazing.speed:id/img_Google", 
+      "text": null, 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "1080*368", 
+      "checked": false, 
+      "temp_id": 41, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.ImageView[resource_id]webexplorer.amazing.speed:id/img_Google", 
+      "is_password": false, 
+      "parent": 40, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.ImageView", 
+      "scrollable": false, 
+      "package": "webexplorer.amazing.speed", 
+      "long_clickable": false, 
+      "view_str": "11513d67b65b3d1fdd23bb6a5fcdff81", 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          383
+        ], 
+        [
+          1080, 
+          751
+        ]
+      ], 
+      "signature": "[class]android.widget.ImageView[resource_id]webexplorer.amazing.speed:id/img_Google[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": "webexplorer.amazing.speed:id/relsearch", 
+      "text": null, 
+      "visible": true, 
+      "checkable": false, 
+      "children": [
+        43
+      ], 
+      "size": "1080*132", 
+      "checked": false, 
+      "temp_id": 42, 
+      "selected": false, 
+      "child_count": 1, 
+      "content_free_signature": "[class]android.widget.RelativeLayout[resource_id]webexplorer.amazing.speed:id/relsearch", 
+      "is_password": false, 
+      "parent": 39, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.RelativeLayout", 
+      "scrollable": false, 
+      "package": "webexplorer.amazing.speed", 
+      "long_clickable": false, 
+      "view_str": "a03218988f8011349ca043ce5bdb3017", 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          764
+        ], 
+        [
+          1080, 
+          896
+        ]
+      ], 
+      "signature": "[class]android.widget.RelativeLayout[resource_id]webexplorer.amazing.speed:id/relsearch[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": null, 
+      "visible": true, 
+      "checkable": false, 
+      "children": [
+        44
+      ], 
+      "size": "974*106", 
+      "checked": false, 
+      "temp_id": 43, 
+      "selected": false, 
+      "child_count": 1, 
+      "content_free_signature": "[class]android.widget.FrameLayout[resource_id]None", 
+      "is_password": false, 
+      "parent": 42, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.FrameLayout", 
+      "scrollable": false, 
+      "package": "webexplorer.amazing.speed", 
+      "long_clickable": false, 
+      "view_str": "8f7dcbf0c5093a7974baaf708fffbcc7", 
+      "enabled": true, 
+      "bounds": [
+        [
+          53, 
+          777
+        ], 
+        [
+          1027, 
+          883
+        ]
+      ], 
+      "signature": "[class]android.widget.FrameLayout[resource_id]None[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": null, 
+      "visible": true, 
+      "checkable": false, 
+      "children": [
+        45, 
+        47
+      ], 
+      "size": "974*106", 
+      "checked": false, 
+      "temp_id": 44, 
+      "selected": false, 
+      "child_count": 2, 
+      "content_free_signature": "[class]android.widget.RelativeLayout[resource_id]None", 
+      "is_password": false, 
+      "parent": 43, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.RelativeLayout", 
+      "scrollable": false, 
+      "package": "webexplorer.amazing.speed", 
+      "long_clickable": false, 
+      "view_str": "bcaf5365a165db6b642f4ef85b82df40", 
+      "enabled": true, 
+      "bounds": [
+        [
+          53, 
+          777
+        ], 
+        [
+          1027, 
+          883
+        ]
+      ], 
+      "signature": "[class]android.widget.RelativeLayout[resource_id]None[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": null, 
+      "visible": true, 
+      "checkable": false, 
+      "children": [
+        46
+      ], 
+      "size": "842*106", 
+      "checked": false, 
+      "temp_id": 45, 
+      "selected": false, 
+      "child_count": 1, 
+      "content_free_signature": "[class]android.widget.RelativeLayout[resource_id]None", 
+      "is_password": false, 
+      "parent": 44, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.RelativeLayout", 
+      "scrollable": false, 
+      "package": "webexplorer.amazing.speed", 
+      "long_clickable": false, 
+      "view_str": "0e84b1be08e7e6383b01e89b599c1837", 
+      "enabled": true, 
+      "bounds": [
+        [
+          53, 
+          777
+        ], 
+        [
+          895, 
+          883
+        ]
+      ], 
+      "signature": "[class]android.widget.RelativeLayout[resource_id]None[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": "webexplorer.amazing.speed:id/etvsecondsearchbar", 
+      "text": "wiki", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "818*106", 
+      "checked": false, 
+      "temp_id": 46, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.EditText[resource_id]webexplorer.amazing.speed:id/etvsecondsearchbar", 
+      "is_password": false, 
+      "parent": 45, 
+      "focusable": true, 
+      "editable": true, 
+      "focused": false, 
+      "clickable": true, 
+      "class": "android.widget.EditText", 
+      "scrollable": false, 
+      "package": "webexplorer.amazing.speed", 
+      "long_clickable": true, 
+      "view_str": "d1e5b7c36a85921fb93c70b55bd7db7d", 
+      "enabled": true, 
+      "bounds": [
+        [
+          77, 
+          777
+        ], 
+        [
+          895, 
+          883
+        ]
+      ], 
+      "signature": "[class]android.widget.EditText[resource_id]webexplorer.amazing.speed:id/etvsecondsearchbar[text]wiki[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": "webexplorer.amazing.speed:id/ivSearch", 
+      "text": null, 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "132*106", 
+      "checked": false, 
+      "temp_id": 47, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.ImageView[resource_id]webexplorer.amazing.speed:id/ivSearch", 
+      "is_password": false, 
+      "parent": 44, 
+      "focusable": true, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": true, 
+      "class": "android.widget.ImageView", 
+      "scrollable": false, 
+      "package": "webexplorer.amazing.speed", 
+      "long_clickable": false, 
+      "view_str": "98a55850db425d4e7e006dff920564d3", 
+      "enabled": true, 
+      "bounds": [
+        [
+          895, 
+          777
+        ], 
+        [
+          1027, 
+          883
+        ]
+      ], 
+      "signature": "[class]android.widget.ImageView[resource_id]webexplorer.amazing.speed:id/ivSearch[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": "webexplorer.amazing.speed:id/relCategory", 
+      "text": null, 
+      "visible": true, 
+      "checkable": false, 
+      "children": [
+        49, 
+        63
+      ], 
+      "size": "1080*513", 
+      "checked": false, 
+      "temp_id": 48, 
+      "selected": false, 
+      "child_count": 2, 
+      "content_free_signature": "[class]android.widget.RelativeLayout[resource_id]webexplorer.amazing.speed:id/relCategory", 
+      "is_password": false, 
+      "parent": 39, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.RelativeLayout", 
+      "scrollable": false, 
+      "package": "webexplorer.amazing.speed", 
+      "long_clickable": false, 
+      "view_str": "77e3a31e560c4dd9a878902f17ab602d", 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          935
+        ], 
+        [
+          1080, 
+          1448
+        ]
+      ], 
+      "signature": "[class]android.widget.RelativeLayout[resource_id]webexplorer.amazing.speed:id/relCategory[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": "webexplorer.amazing.speed:id/relFirstRow", 
+      "text": null, 
+      "visible": true, 
+      "checkable": false, 
+      "children": [
+        50, 
+        53, 
+        56, 
+        59
+      ], 
+      "size": "756*217", 
+      "checked": false, 
+      "temp_id": 49, 
+      "selected": false, 
+      "child_count": 4, 
+      "content_free_signature": "[class]android.widget.RelativeLayout[resource_id]webexplorer.amazing.speed:id/relFirstRow", 
+      "is_password": false, 
+      "parent": 48, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.RelativeLayout", 
+      "scrollable": false, 
+      "package": "webexplorer.amazing.speed", 
+      "long_clickable": false, 
+      "view_str": "d5adf6bbf4e074ff6046bdd143510d53", 
+      "enabled": true, 
+      "bounds": [
+        [
+          162, 
+          988
+        ], 
+        [
+          918, 
+          1205
+        ]
+      ], 
+      "signature": "[class]android.widget.RelativeLayout[resource_id]webexplorer.amazing.speed:id/relFirstRow[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": "webexplorer.amazing.speed:id/linfacebook", 
+      "text": null, 
+      "visible": true, 
+      "checkable": false, 
+      "children": [
+        51, 
+        52
+      ], 
+      "size": "138*217", 
+      "checked": false, 
+      "temp_id": 50, 
+      "selected": false, 
+      "child_count": 2, 
+      "content_free_signature": "[class]android.widget.LinearLayout[resource_id]webexplorer.amazing.speed:id/linfacebook", 
+      "is_password": false, 
+      "parent": 49, 
+      "focusable": true, 
+      "editable": false, 
+      "focused": true, 
+      "clickable": true, 
+      "class": "android.widget.LinearLayout", 
+      "scrollable": false, 
+      "package": "webexplorer.amazing.speed", 
+      "long_clickable": false, 
+      "view_str": "cdee63629dfd0473218190687c7bbe70", 
+      "enabled": true, 
+      "bounds": [
+        [
+          162, 
+          988
+        ], 
+        [
+          300, 
+          1205
+        ]
+      ], 
+      "signature": "[class]android.widget.LinearLayout[resource_id]webexplorer.amazing.speed:id/linfacebook[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": null, 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "122*122", 
+      "checked": false, 
+      "temp_id": 51, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.ImageView[resource_id]None", 
+      "is_password": false, 
+      "parent": 50, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.ImageView", 
+      "scrollable": false, 
+      "package": "webexplorer.amazing.speed", 
+      "long_clickable": false, 
+      "view_str": "52dc063b8da5b80c1dba7579e6600c2e", 
+      "enabled": true, 
+      "bounds": [
+        [
+          170, 
+          1014
+        ], 
+        [
+          292, 
+          1136
+        ]
+      ], 
+      "signature": "[class]android.widget.ImageView[resource_id]None[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": "Facebook", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "138*43", 
+      "checked": false, 
+      "temp_id": 52, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.TextView[resource_id]None", 
+      "is_password": false, 
+      "parent": 50, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.TextView", 
+      "scrollable": false, 
+      "package": "webexplorer.amazing.speed", 
+      "long_clickable": false, 
+      "view_str": "9af00b551e8196028a6774bf4ca0e0c1", 
+      "enabled": true, 
+      "bounds": [
+        [
+          162, 
+          1162
+        ], 
+        [
+          300, 
+          1205
+        ]
+      ], 
+      "signature": "[class]android.widget.TextView[resource_id]None[text]Facebook[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": "webexplorer.amazing.speed:id/linGoogle", 
+      "text": null, 
+      "visible": true, 
+      "checkable": false, 
+      "children": [
+        54, 
+        55
+      ], 
+      "size": "122*217", 
+      "checked": false, 
+      "temp_id": 53, 
+      "selected": false, 
+      "child_count": 2, 
+      "content_free_signature": "[class]android.widget.LinearLayout[resource_id]webexplorer.amazing.speed:id/linGoogle", 
+      "is_password": false, 
+      "parent": 49, 
+      "focusable": true, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": true, 
+      "class": "android.widget.LinearLayout", 
+      "scrollable": false, 
+      "package": "webexplorer.amazing.speed", 
+      "long_clickable": false, 
+      "view_str": "da7a5f67b854a2e721dc88cf10019e7d", 
+      "enabled": true, 
+      "bounds": [
+        [
+          379, 
+          988
+        ], 
+        [
+          501, 
+          1205
+        ]
+      ], 
+      "signature": "[class]android.widget.LinearLayout[resource_id]webexplorer.amazing.speed:id/linGoogle[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": "webexplorer.amazing.speed:id/imageView2", 
+      "text": null, 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "122*122", 
+      "checked": false, 
+      "temp_id": 54, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.ImageView[resource_id]webexplorer.amazing.speed:id/imageView2", 
+      "is_password": false, 
+      "parent": 53, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.ImageView", 
+      "scrollable": false, 
+      "package": "webexplorer.amazing.speed", 
+      "long_clickable": false, 
+      "view_str": "4c5efd6924adb82ad7f66be9d3232c86", 
+      "enabled": true, 
+      "bounds": [
+        [
+          379, 
+          1014
+        ], 
+        [
+          501, 
+          1136
+        ]
+      ], 
+      "signature": "[class]android.widget.ImageView[resource_id]webexplorer.amazing.speed:id/imageView2[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": "webexplorer.amazing.speed:id/textView2", 
+      "text": "Google", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "101*43", 
+      "checked": false, 
+      "temp_id": 55, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.TextView[resource_id]webexplorer.amazing.speed:id/textView2", 
+      "is_password": false, 
+      "parent": 53, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.TextView", 
+      "scrollable": false, 
+      "package": "webexplorer.amazing.speed", 
+      "long_clickable": false, 
+      "view_str": "dd6c1e06bbe81dc776d5aa2d77c20025", 
+      "enabled": true, 
+      "bounds": [
+        [
+          389, 
+          1162
+        ], 
+        [
+          490, 
+          1205
+        ]
+      ], 
+      "signature": "[class]android.widget.TextView[resource_id]webexplorer.amazing.speed:id/textView2[text]Google[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": "webexplorer.amazing.speed:id/linyoutube", 
+      "text": null, 
+      "visible": true, 
+      "checkable": false, 
+      "children": [
+        57, 
+        58
+      ], 
+      "size": "125*217", 
+      "checked": false, 
+      "temp_id": 56, 
+      "selected": false, 
+      "child_count": 2, 
+      "content_free_signature": "[class]android.widget.LinearLayout[resource_id]webexplorer.amazing.speed:id/linyoutube", 
+      "is_password": false, 
+      "parent": 49, 
+      "focusable": true, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": true, 
+      "class": "android.widget.LinearLayout", 
+      "scrollable": false, 
+      "package": "webexplorer.amazing.speed", 
+      "long_clickable": false, 
+      "view_str": "c3a9503f6f9517dac84fd65cfa6f5435", 
+      "enabled": true, 
+      "bounds": [
+        [
+          588, 
+          988
+        ], 
+        [
+          713, 
+          1205
+        ]
+      ], 
+      "signature": "[class]android.widget.LinearLayout[resource_id]webexplorer.amazing.speed:id/linyoutube[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": "webexplorer.amazing.speed:id/imageView3", 
+      "text": null, 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "122*122", 
+      "checked": false, 
+      "temp_id": 57, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.ImageView[resource_id]webexplorer.amazing.speed:id/imageView3", 
+      "is_password": false, 
+      "parent": 56, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.ImageView", 
+      "scrollable": false, 
+      "package": "webexplorer.amazing.speed", 
+      "long_clickable": false, 
+      "view_str": "d415449502c86088b30743bb9d7e8fb6", 
+      "enabled": true, 
+      "bounds": [
+        [
+          589, 
+          1014
+        ], 
+        [
+          711, 
+          1136
+        ]
+      ], 
+      "signature": "[class]android.widget.ImageView[resource_id]webexplorer.amazing.speed:id/imageView3[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": "YouTube", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "125*43", 
+      "checked": false, 
+      "temp_id": 58, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.TextView[resource_id]None", 
+      "is_password": false, 
+      "parent": 56, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.TextView", 
+      "scrollable": false, 
+      "package": "webexplorer.amazing.speed", 
+      "long_clickable": false, 
+      "view_str": "f1711aad71d8e1cd62d6244c49ddb2c9", 
+      "enabled": true, 
+      "bounds": [
+        [
+          588, 
+          1162
+        ], 
+        [
+          713, 
+          1205
+        ]
+      ], 
+      "signature": "[class]android.widget.TextView[resource_id]None[text]YouTube[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": "webexplorer.amazing.speed:id/linAmazon", 
+      "text": null, 
+      "visible": true, 
+      "checkable": false, 
+      "children": [
+        60, 
+        62
+      ], 
+      "size": "118*217", 
+      "checked": false, 
+      "temp_id": 59, 
+      "selected": false, 
+      "child_count": 2, 
+      "content_free_signature": "[class]android.widget.LinearLayout[resource_id]webexplorer.amazing.speed:id/linAmazon", 
+      "is_password": false, 
+      "parent": 49, 
+      "focusable": true, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": true, 
+      "class": "android.widget.LinearLayout", 
+      "scrollable": false, 
+      "package": "webexplorer.amazing.speed", 
+      "long_clickable": false, 
+      "view_str": "0d8b106f83f86c89b5c5344fc012f4a6", 
+      "enabled": true, 
+      "bounds": [
+        [
+          800, 
+          988
+        ], 
+        [
+          918, 
+          1205
+        ]
+      ], 
+      "signature": "[class]android.widget.LinearLayout[resource_id]webexplorer.amazing.speed:id/linAmazon[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": null, 
+      "visible": true, 
+      "checkable": false, 
+      "children": [
+        61
+      ], 
+      "size": "118*148", 
+      "checked": false, 
+      "temp_id": 60, 
+      "selected": false, 
+      "child_count": 1, 
+      "content_free_signature": "[class]android.widget.RelativeLayout[resource_id]None", 
+      "is_password": false, 
+      "parent": 59, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.RelativeLayout", 
+      "scrollable": false, 
+      "package": "webexplorer.amazing.speed", 
+      "long_clickable": false, 
+      "view_str": "a0e7d83b2fa1b24516a894f33e7c6298", 
+      "enabled": true, 
+      "bounds": [
+        [
+          800, 
+          988
+        ], 
+        [
+          918, 
+          1136
+        ]
+      ], 
+      "signature": "[class]android.widget.RelativeLayout[resource_id]None[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": null, 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "118*122", 
+      "checked": false, 
+      "temp_id": 61, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.ImageView[resource_id]None", 
+      "is_password": false, 
+      "parent": 60, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.ImageView", 
+      "scrollable": false, 
+      "package": "webexplorer.amazing.speed", 
+      "long_clickable": false, 
+      "view_str": "1e5680b702db36f58325370c5e7634f4", 
+      "enabled": true, 
+      "bounds": [
+        [
+          800, 
+          1014
+        ], 
+        [
+          918, 
+          1136
+        ]
+      ], 
+      "signature": "[class]android.widget.ImageView[resource_id]None[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": "Amazon", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "118*43", 
+      "checked": false, 
+      "temp_id": 62, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.TextView[resource_id]None", 
+      "is_password": false, 
+      "parent": 59, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.TextView", 
+      "scrollable": false, 
+      "package": "webexplorer.amazing.speed", 
+      "long_clickable": false, 
+      "view_str": "374cefb907834e2390558bb625dbfd7d", 
+      "enabled": true, 
+      "bounds": [
+        [
+          800, 
+          1162
+        ], 
+        [
+          918, 
+          1205
+        ]
+      ], 
+      "signature": "[class]android.widget.TextView[resource_id]None[text]Amazon[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": "webexplorer.amazing.speed:id/relSecondRow", 
+      "text": null, 
+      "visible": true, 
+      "checkable": false, 
+      "children": [
+        64, 
+        67, 
+        72, 
+        75, 
+        78
+      ], 
+      "size": "744*217", 
+      "checked": false, 
+      "temp_id": 63, 
+      "selected": false, 
+      "child_count": 5, 
+      "content_free_signature": "[class]android.widget.RelativeLayout[resource_id]webexplorer.amazing.speed:id/relSecondRow", 
+      "is_password": false, 
+      "parent": 48, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.RelativeLayout", 
+      "scrollable": false, 
+      "package": "webexplorer.amazing.speed", 
+      "long_clickable": false, 
+      "view_str": "9eac0a2109a8d8ada4fdb396e5cb2570", 
+      "enabled": true, 
+      "bounds": [
+        [
+          168, 
+          1231
+        ], 
+        [
+          912, 
+          1448
+        ]
+      ], 
+      "signature": "[class]android.widget.RelativeLayout[resource_id]webexplorer.amazing.speed:id/relSecondRow[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": "webexplorer.amazing.speed:id/lintwitter", 
+      "text": null, 
+      "visible": true, 
+      "checkable": false, 
+      "children": [
+        65, 
+        66
+      ], 
+      "size": "122*191", 
+      "checked": false, 
+      "temp_id": 64, 
+      "selected": false, 
+      "child_count": 2, 
+      "content_free_signature": "[class]android.widget.LinearLayout[resource_id]webexplorer.amazing.speed:id/lintwitter", 
+      "is_password": false, 
+      "parent": 63, 
+      "focusable": true, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": true, 
+      "class": "android.widget.LinearLayout", 
+      "scrollable": false, 
+      "package": "webexplorer.amazing.speed", 
+      "long_clickable": false, 
+      "view_str": "29844964f1c3d953b9d68f0774c36972", 
+      "enabled": true, 
+      "bounds": [
+        [
+          168, 
+          1231
+        ], 
+        [
+          290, 
+          1422
+        ]
+      ], 
+      "signature": "[class]android.widget.LinearLayout[resource_id]webexplorer.amazing.speed:id/lintwitter[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": null, 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "122*122", 
+      "checked": false, 
+      "temp_id": 65, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.ImageView[resource_id]None", 
+      "is_password": false, 
+      "parent": 64, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.ImageView", 
+      "scrollable": false, 
+      "package": "webexplorer.amazing.speed", 
+      "long_clickable": false, 
+      "view_str": "9666f586944bd43d6c0937676c821b98", 
+      "enabled": true, 
+      "bounds": [
+        [
+          168, 
+          1231
+        ], 
+        [
+          290, 
+          1353
+        ]
+      ], 
+      "signature": "[class]android.widget.ImageView[resource_id]None[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": "Twitter", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "98*43", 
+      "checked": false, 
+      "temp_id": 66, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.TextView[resource_id]None", 
+      "is_password": false, 
+      "parent": 64, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.TextView", 
+      "scrollable": false, 
+      "package": "webexplorer.amazing.speed", 
+      "long_clickable": false, 
+      "view_str": "55eb944bb46aef70af4dd80d9f58164f", 
+      "enabled": true, 
+      "bounds": [
+        [
+          180, 
+          1379
+        ], 
+        [
+          278, 
+          1422
+        ]
+      ], 
+      "signature": "[class]android.widget.TextView[resource_id]None[text]Twitter[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": "webexplorer.amazing.speed:id/urlIcon", 
+      "text": null, 
+      "visible": true, 
+      "checkable": false, 
+      "children": [
+        68, 
+        71
+      ], 
+      "size": "117*191", 
+      "checked": false, 
+      "temp_id": 67, 
+      "selected": false, 
+      "child_count": 2, 
+      "content_free_signature": "[class]android.widget.LinearLayout[resource_id]webexplorer.amazing.speed:id/urlIcon", 
+      "is_password": false, 
+      "parent": 63, 
+      "focusable": true, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": true, 
+      "class": "android.widget.LinearLayout", 
+      "scrollable": false, 
+      "package": "webexplorer.amazing.speed", 
+      "long_clickable": false, 
+      "view_str": "1cd77b75b25068d67b49ec4d0dd63581", 
+      "enabled": true, 
+      "bounds": [
+        [
+          377, 
+          1231
+        ], 
+        [
+          494, 
+          1422
+        ]
+      ], 
+      "signature": "[class]android.widget.LinearLayout[resource_id]webexplorer.amazing.speed:id/urlIcon[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": null, 
+      "visible": true, 
+      "checkable": false, 
+      "children": [
+        69, 
+        70
+      ], 
+      "size": "117*122", 
+      "checked": false, 
+      "temp_id": 68, 
+      "selected": false, 
+      "child_count": 2, 
+      "content_free_signature": "[class]android.widget.RelativeLayout[resource_id]None", 
+      "is_password": false, 
+      "parent": 67, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.RelativeLayout", 
+      "scrollable": false, 
+      "package": "webexplorer.amazing.speed", 
+      "long_clickable": false, 
+      "view_str": "03e86514ccdfbd5b20d49b29eb12bd8f", 
+      "enabled": true, 
+      "bounds": [
+        [
+          377, 
+          1231
+        ], 
+        [
+          494, 
+          1353
+        ]
+      ], 
+      "signature": "[class]android.widget.RelativeLayout[resource_id]None[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": "webexplorer.amazing.speed:id/urlImage", 
+      "text": null, 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "117*122", 
+      "checked": false, 
+      "temp_id": 69, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.ImageView[resource_id]webexplorer.amazing.speed:id/urlImage", 
+      "is_password": false, 
+      "parent": 68, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.ImageView", 
+      "scrollable": false, 
+      "package": "webexplorer.amazing.speed", 
+      "long_clickable": false, 
+      "view_str": "fab6dd8ad4e2c05626f44ebb4e41dbd8", 
+      "enabled": true, 
+      "bounds": [
+        [
+          377, 
+          1231
+        ], 
+        [
+          494, 
+          1353
+        ]
+      ], 
+      "signature": "[class]android.widget.ImageView[resource_id]webexplorer.amazing.speed:id/urlImage[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": "webexplorer.amazing.speed:id/imgNotifyPromo", 
+      "text": null, 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "45*45", 
+      "checked": false, 
+      "temp_id": 70, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.ImageView[resource_id]webexplorer.amazing.speed:id/imgNotifyPromo", 
+      "is_password": false, 
+      "parent": 68, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.ImageView", 
+      "scrollable": false, 
+      "package": "webexplorer.amazing.speed", 
+      "long_clickable": false, 
+      "view_str": "c4fc9e9444c2a55964a931c865b92335", 
+      "enabled": true, 
+      "bounds": [
+        [
+          449, 
+          1231
+        ], 
+        [
+          494, 
+          1276
+        ]
+      ], 
+      "signature": "[class]android.widget.ImageView[resource_id]webexplorer.amazing.speed:id/imgNotifyPromo[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": "webexplorer.amazing.speed:id/urlText", 
+      "text": "Try Now", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "117*43", 
+      "checked": false, 
+      "temp_id": 71, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.TextView[resource_id]webexplorer.amazing.speed:id/urlText", 
+      "is_password": false, 
+      "parent": 67, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.TextView", 
+      "scrollable": false, 
+      "package": "webexplorer.amazing.speed", 
+      "long_clickable": false, 
+      "view_str": "10debebc4a605e196f109c1803f988af", 
+      "enabled": true, 
+      "bounds": [
+        [
+          377, 
+          1379
+        ], 
+        [
+          494, 
+          1422
+        ]
+      ], 
+      "signature": "[class]android.widget.TextView[resource_id]webexplorer.amazing.speed:id/urlText[text]Try Now[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": "webexplorer.amazing.speed:id/a", 
+      "text": null, 
+      "visible": true, 
+      "checkable": false, 
+      "children": [
+        73, 
+        74
+      ], 
+      "size": "122*191", 
+      "checked": false, 
+      "temp_id": 72, 
+      "selected": false, 
+      "child_count": 2, 
+      "content_free_signature": "[class]android.widget.LinearLayout[resource_id]webexplorer.amazing.speed:id/a", 
+      "is_password": false, 
+      "parent": 63, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.LinearLayout", 
+      "scrollable": false, 
+      "package": "webexplorer.amazing.speed", 
+      "long_clickable": false, 
+      "view_str": "d191a1561a1471f18c4ddb5a3433ede3", 
+      "enabled": true, 
+      "bounds": [
+        [
+          581, 
+          1231
+        ], 
+        [
+          703, 
+          1422
+        ]
+      ], 
+      "signature": "[class]android.widget.LinearLayout[resource_id]webexplorer.amazing.speed:id/a[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": null, 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "122*122", 
+      "checked": false, 
+      "temp_id": 73, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.ImageView[resource_id]None", 
+      "is_password": false, 
+      "parent": 72, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.ImageView", 
+      "scrollable": false, 
+      "package": "webexplorer.amazing.speed", 
+      "long_clickable": false, 
+      "view_str": "8db55fcb92b7b104662c66380bb7b0fc", 
+      "enabled": true, 
+      "bounds": [
+        [
+          581, 
+          1231
+        ], 
+        [
+          703, 
+          1353
+        ]
+      ], 
+      "signature": "[class]android.widget.ImageView[resource_id]None[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": null, 
+      "visible": false, 
+      "checkable": false, 
+      "children": [], 
+      "size": "0*43", 
+      "checked": false, 
+      "temp_id": 74, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.TextView[resource_id]None", 
+      "is_password": false, 
+      "parent": 72, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.TextView", 
+      "scrollable": false, 
+      "package": "webexplorer.amazing.speed", 
+      "long_clickable": false, 
+      "view_str": "c31f5b6e86130873662af6547d3315c2", 
+      "enabled": true, 
+      "bounds": [
+        [
+          642, 
+          1379
+        ], 
+        [
+          642, 
+          1422
+        ]
+      ], 
+      "signature": "[class]android.widget.TextView[resource_id]None[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": "webexplorer.amazing.speed:id/b", 
+      "text": null, 
+      "visible": true, 
+      "checkable": false, 
+      "children": [
+        76, 
+        77
+      ], 
+      "size": "122*191", 
+      "checked": false, 
+      "temp_id": 75, 
+      "selected": false, 
+      "child_count": 2, 
+      "content_free_signature": "[class]android.widget.LinearLayout[resource_id]webexplorer.amazing.speed:id/b", 
+      "is_password": false, 
+      "parent": 63, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.LinearLayout", 
+      "scrollable": false, 
+      "package": "webexplorer.amazing.speed", 
+      "long_clickable": false, 
+      "view_str": "fc24d99337ab4afec4dd8761da6cebb9", 
+      "enabled": true, 
+      "bounds": [
+        [
+          790, 
+          1231
+        ], 
+        [
+          912, 
+          1422
+        ]
+      ], 
+      "signature": "[class]android.widget.LinearLayout[resource_id]webexplorer.amazing.speed:id/b[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": null, 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "122*122", 
+      "checked": false, 
+      "temp_id": 76, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.ImageView[resource_id]None", 
+      "is_password": false, 
+      "parent": 75, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.ImageView", 
+      "scrollable": false, 
+      "package": "webexplorer.amazing.speed", 
+      "long_clickable": false, 
+      "view_str": "ad736a366a5cb5cf70e2c5d34898d8e3", 
+      "enabled": true, 
+      "bounds": [
+        [
+          790, 
+          1231
+        ], 
+        [
+          912, 
+          1353
+        ]
+      ], 
+      "signature": "[class]android.widget.ImageView[resource_id]None[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": null, 
+      "visible": false, 
+      "checkable": false, 
+      "children": [], 
+      "size": "0*43", 
+      "checked": false, 
+      "temp_id": 77, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.TextView[resource_id]None", 
+      "is_password": false, 
+      "parent": 75, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.TextView", 
+      "scrollable": false, 
+      "package": "webexplorer.amazing.speed", 
+      "long_clickable": false, 
+      "view_str": "199fc700b0f514f4e00815aaba9fe5ed", 
+      "enabled": true, 
+      "bounds": [
+        [
+          851, 
+          1379
+        ], 
+        [
+          851, 
+          1422
+        ]
+      ], 
+      "signature": "[class]android.widget.TextView[resource_id]None[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": null, 
+      "visible": false, 
+      "checkable": false, 
+      "children": [], 
+      "size": "0*0", 
+      "checked": false, 
+      "temp_id": 78, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.RelativeLayout[resource_id]None", 
+      "is_password": false, 
+      "parent": 63, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.RelativeLayout", 
+      "scrollable": false, 
+      "package": "webexplorer.amazing.speed", 
+      "long_clickable": false, 
+      "view_str": "d337c7af8cabdf32eb335e513154d00e", 
+      "enabled": true, 
+      "bounds": [
+        [
+          169, 
+          1448
+        ], 
+        [
+          169, 
+          1448
+        ]
+      ], 
+      "signature": "[class]android.widget.RelativeLayout[resource_id]None[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": null, 
+      "visible": false, 
+      "checkable": false, 
+      "children": [
+        80
+      ], 
+      "size": "1080*0", 
+      "checked": false, 
+      "temp_id": 79, 
+      "selected": false, 
+      "child_count": 1, 
+      "content_free_signature": "[class]android.widget.RelativeLayout[resource_id]None", 
+      "is_password": false, 
+      "parent": 7, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.RelativeLayout", 
+      "scrollable": false, 
+      "package": "webexplorer.amazing.speed", 
+      "long_clickable": false, 
+      "view_str": "3eab8b36291bda7c87913f3e95d03f03", 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          1794
+        ], 
+        [
+          1080, 
+          1794
+        ]
+      ], 
+      "signature": "[class]android.widget.RelativeLayout[resource_id]None[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": "webexplorer.amazing.speed:id/swipeContainer", 
+      "text": null, 
+      "visible": false, 
+      "checkable": false, 
+      "children": [
+        81
+      ], 
+      "size": "1080*0", 
+      "checked": false, 
+      "temp_id": 80, 
+      "selected": false, 
+      "child_count": 1, 
+      "content_free_signature": "[class]android.view.ViewGroup[resource_id]webexplorer.amazing.speed:id/swipeContainer", 
+      "is_password": false, 
+      "parent": 79, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.view.ViewGroup", 
+      "scrollable": false, 
+      "package": "webexplorer.amazing.speed", 
+      "long_clickable": false, 
+      "view_str": "4c7ed282949d3cbe8aad296640d43ef8", 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          1794
+        ], 
+        [
+          1080, 
+          1794
+        ]
+      ], 
+      "signature": "[class]android.view.ViewGroup[resource_id]webexplorer.amazing.speed:id/swipeContainer[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": "webexplorer.amazing.speed:id/content_frame", 
+      "text": null, 
+      "visible": false, 
+      "checkable": false, 
+      "children": [
+        82
+      ], 
+      "size": "1080*0", 
+      "checked": false, 
+      "temp_id": 81, 
+      "selected": false, 
+      "child_count": 1, 
+      "content_free_signature": "[class]android.widget.FrameLayout[resource_id]webexplorer.amazing.speed:id/content_frame", 
+      "is_password": false, 
+      "parent": 80, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.FrameLayout", 
+      "scrollable": false, 
+      "package": "webexplorer.amazing.speed", 
+      "long_clickable": false, 
+      "view_str": "0a106c4fbe97acb2531ef85b60c6032f", 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          1794
+        ], 
+        [
+          1080, 
+          1794
+        ]
+      ], 
+      "signature": "[class]android.widget.FrameLayout[resource_id]webexplorer.amazing.speed:id/content_frame[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": null, 
+      "visible": false, 
+      "checkable": false, 
+      "children": [
+        83
+      ], 
+      "size": "1080*0", 
+      "checked": false, 
+      "temp_id": 82, 
+      "selected": false, 
+      "child_count": 1, 
+      "content_free_signature": "[class]android.webkit.WebView[resource_id]None", 
+      "is_password": false, 
+      "parent": 81, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.webkit.WebView", 
+      "scrollable": false, 
+      "package": "webexplorer.amazing.speed", 
+      "long_clickable": false, 
+      "view_str": "f4dab05707ebc9983a33f3d98590d8b9", 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          1794
+        ], 
+        [
+          1080, 
+          1794
+        ]
+      ], 
+      "signature": "[class]android.webkit.WebView[resource_id]None[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": "Homepage", 
+      "visible": false, 
+      "checkable": false, 
+      "children": [
+        84
+      ], 
+      "size": "2*-2", 
+      "checked": false, 
+      "temp_id": 83, 
+      "selected": false, 
+      "child_count": 1, 
+      "content_free_signature": "[class]android.webkit.WebView[resource_id]None", 
+      "is_password": false, 
+      "parent": 82, 
+      "focusable": true, 
+      "editable": false, 
+      "focused": true, 
+      "clickable": false, 
+      "class": "android.webkit.WebView", 
+      "scrollable": true, 
+      "package": "webexplorer.amazing.speed", 
+      "long_clickable": false, 
+      "view_str": "a5202d32991e47399869f8088493ad3f", 
+      "enabled": true, 
+      "bounds": [
+        [
+          -2, 
+          1794
+        ], 
+        [
+          0, 
+          1792
+        ]
+      ], 
+      "signature": "[class]android.webkit.WebView[resource_id]None[text]Homepage[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": "", 
+      "visible": false, 
+      "checkable": false, 
+      "children": [], 
+      "size": "2*-2", 
+      "checked": false, 
+      "temp_id": 84, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.view.View[resource_id]None", 
+      "is_password": false, 
+      "parent": 83, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.view.View", 
+      "scrollable": false, 
+      "package": "webexplorer.amazing.speed", 
+      "long_clickable": false, 
+      "view_str": "64df7092b29844b60ad01e5e1e63c51b", 
+      "enabled": true, 
+      "bounds": [
+        [
+          -2, 
+          1794
+        ], 
+        [
+          0, 
+          1792
+        ]
+      ], 
+      "signature": "[class]android.view.View[resource_id]None[text][enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": "android:id/statusBarBackground", 
+      "text": null, 
+      "visible": false, 
+      "checkable": false, 
+      "children": [], 
+      "size": "1080*63", 
+      "checked": false, 
+      "temp_id": 85, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.view.View[resource_id]android:id/statusBarBackground", 
+      "is_password": false, 
+      "parent": 0, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.view.View", 
+      "scrollable": false, 
+      "package": "webexplorer.amazing.speed", 
+      "long_clickable": false, 
+      "view_str": "2b9b1512b81e646ef1ec746a7fd380a7", 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          0
+        ], 
+        [
+          1080, 
+          63
+        ]
+      ], 
+      "signature": "[class]android.view.View[resource_id]android:id/statusBarBackground[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": "android:id/navigationBarBackground", 
+      "text": null, 
+      "visible": false, 
+      "checkable": false, 
+      "children": [], 
+      "size": "1080*126", 
+      "checked": false, 
+      "temp_id": 86, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.view.View[resource_id]android:id/navigationBarBackground", 
+      "is_password": false, 
+      "parent": 0, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.view.View", 
+      "scrollable": false, 
+      "package": "webexplorer.amazing.speed", 
+      "long_clickable": false, 
+      "view_str": "c180537dbc70b8e380d72e4179a48311", 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          1794
+        ], 
+        [
+          1080, 
+          1920
+        ]
+      ], 
+      "signature": "[class]android.view.View[resource_id]android:id/navigationBarBackground[text]None[enabled,,]"
+    }
+  ], 
+  "state_str_content_free": "0009d5b5188ec0eb3e24c92153c44540", 
+  "activity_stack": [
+    "webexplorer.amazing.speed/acr.browser.lightning.activity.MainActivity"
+  ], 
+  "background_services": [
+    "com.google.android.music/.dial.DialMediaRouteProviderService", 
+    "webexplorer.amazing.speed/org.chromium.content.app.SandboxedProcessService0", 
+    "com.google.android.gms/.deviceconnection.service.DeviceConnectionWatcherService", 
+    "com.google.android.gms/com.google.android.location.places.service.PlaceDetectionAsyncService", 
+    "com.android.systemui/.keyguard.KeyguardService", 
+    "com.google.android.gms/.measurement.service.MeasurementBrokerService", 
+    "com.android.systemui/.ImageWallpaper", 
+    "com.google.android.inputmethod.latin/com.android.inputmethod.latin.spellcheck.AndroidSpellCheckerService", 
+    "com.google.android.gms/com.google.android.location.geocode.GeocodeService", 
+    "com.google.android.gms/.auth.setup.devicesignals.LockScreenService", 
+    "com.google.android.gms/.gcm.GcmService", 
+    "com.google.android.gms/.auth.proximity.firstparty.SystemMemoryCacheService", 
+    "com.google.android.gms/.chimera.PersistentApiService", 
+    "com.android.phone/com.android.internal.telephony.CellularNetworkService", 
+    "com.google.android.gms/.chimera.PersistentBoundBrokerService", 
+    "com.google.android.gms/.chimera.GmsBoundBrokerService", 
+    "com.google.android.gms/.chimera.GmsApiService", 
+    "com.google.android.gms/.usagereporting.service.UsageReportingService", 
+    "com.google.android.gms/.fido.fido2.pollux.CableAuthenticatorService", 
+    "com.google.android.googlequicksearchbox/com.google.android.apps.gsa.nowoverlayservice.DrawerOverlayService", 
+    "webexplorer.amazing.speed/com.google.firebase.messaging.FirebaseMessagingService", 
+    "io.github.ylimit.droidbotapp/.DroidBotIME", 
+    "com.google.android.gms/com.google.android.location.fused.FusedLocationService", 
+    "com.google.android.gms/.phenotype.service.sync.PhenotypeConfigurator", 
+    "com.google.android.gms/.gcm.nts.SchedulerService", 
+    "com.google.android.setupwizard/.logging.ScreenOnClock", 
+    "io.github.ylimit.droidbotapp/io.github.privacystreams.accessibility.PSAccessibilityService", 
+    "com.google.android.gms/com.google.android.location.geofencer.service.GeofenceProviderService", 
+    "com.google.android.gms/.thunderbird.EmergencyPersistentService", 
+    "com.google.android.apps.messaging/.fcm.BugleFirebaseInstanceIDService", 
+    "com.android.systemui/.SystemUIService", 
+    "com.google.android.gms/org.chromium.content.app.SandboxedProcessService0", 
+    "android/.hardware.location.GeofenceHardwareService", 
+    "com.android.se/.SecureElementService", 
+    "com.google.android.gms/.chimera.PersistentDirectBootAwareApiService", 
+    "com.google.android.ext.services/android.ext.services.notification.Assistant", 
+    "com.google.android.gms/com.google.android.location.internal.PendingIntentCallbackService", 
+    "com.google.android.gms/com.google.android.location.reporting.service.ReportingAndroidService", 
+    "com.google.android.gms/com.google.android.location.internal.server.GoogleLocationService", 
+    "com.google.android.gms/com.google.android.contextmanager.service.ContextManagerService", 
+    "com.google.android.gms/com.google.android.location.network.NetworkLocationService", 
+    "com.google.android.gms/com.google.android.location.internal.GoogleLocationManagerService", 
+    "webexplorer.amazing.speed/com.google.firebase.iid.FirebaseInstanceIdService", 
+    "com.google.android.apps.messaging/com.google.firebase.iid.FirebaseInstanceIdService", 
+    "com.android.phone/com.android.internal.telephony.dataconnection.CellularDataService", 
+    "com.android.server.telecom/.components.TelecomService", 
+    "com.google.android.googlequicksearchbox/com.google.android.voiceinteraction.GsaVoiceInteractionService", 
+    "com.android.smspush/.WapPushManager", 
+    "com.bcs.dailythanthi/org.chromium.content.app.SandboxedProcessService0", 
+    "com.android.phone/.vvm.RemoteVvmTaskManager", 
+    "com.google.android.gms/.lockbox.service.LockboxBrokerService", 
+    "android/com.android.server.content.SyncJobService", 
+    "com.google.android.gms/.common.stats.GmsCoreStatsService", 
+    "com.google.android.gms/com.google.android.location.internal.server.HardwareArProviderService", 
+    "com.google.android.gm/com.google.firebase.iid.FirebaseInstanceIdService", 
+    "com.google.android.gms/.config.ConfigService", 
+    "com.android.phone/.TelephonyDebugService", 
+    "com.google.android.videos/.service.pinning.TransferService", 
+    "com.google.android.apps.messaging/.shared.datamodel.action.ActionExecutorImpl", 
+    "com.google.android.apps.nexuslauncher/com.android.quickstep.TouchInteractionService"
+  ], 
+  "state_str": "bb52133c046be22bb3bb9eaccc92e926", 
+  "tag": "2020-03-04_185301", 
+  "foreground_activity": "webexplorer.amazing.speed/acr.browser.lightning.activity.MainActivity"
+}

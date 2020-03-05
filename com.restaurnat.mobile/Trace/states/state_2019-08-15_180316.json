@@ -1,0 +1,3532 @@
+{
+  "views": [
+    {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": null, 
+      "visible": true, 
+      "checkable": false, 
+      "children": [
+        1, 
+        88, 
+        89
+      ], 
+      "size": "1080*1920", 
+      "checked": false, 
+      "temp_id": 0, 
+      "selected": false, 
+      "child_count": 3, 
+      "content_free_signature": "[class]android.widget.FrameLayout[resource_id]None", 
+      "is_password": false, 
+      "parent": -1, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.FrameLayout", 
+      "scrollable": false, 
+      "package": "com.restaurant.mobile", 
+      "long_clickable": false, 
+      "view_str": "55ef04e019d52c9f9a79ae03e2f773b1", 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          0
+        ], 
+        [
+          1080, 
+          1920
+        ]
+      ], 
+      "signature": "[class]android.widget.FrameLayout[resource_id]None[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": null, 
+      "visible": true, 
+      "checkable": false, 
+      "children": [
+        2
+      ], 
+      "size": "1080*1794", 
+      "checked": false, 
+      "temp_id": 1, 
+      "selected": false, 
+      "child_count": 1, 
+      "content_free_signature": "[class]android.widget.LinearLayout[resource_id]None", 
+      "is_password": false, 
+      "parent": 0, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.LinearLayout", 
+      "scrollable": false, 
+      "package": "com.restaurant.mobile", 
+      "long_clickable": false, 
+      "view_str": "371daff207d93c7ae57d017d9f1a8893", 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          0
+        ], 
+        [
+          1080, 
+          1794
+        ]
+      ], 
+      "signature": "[class]android.widget.LinearLayout[resource_id]None[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": null, 
+      "visible": true, 
+      "checkable": false, 
+      "children": [
+        3
+      ], 
+      "size": "1080*1731", 
+      "checked": false, 
+      "temp_id": 2, 
+      "selected": false, 
+      "child_count": 1, 
+      "content_free_signature": "[class]android.widget.FrameLayout[resource_id]None", 
+      "is_password": false, 
+      "parent": 1, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.FrameLayout", 
+      "scrollable": false, 
+      "package": "com.restaurant.mobile", 
+      "long_clickable": false, 
+      "view_str": "04aab6c6040905a4045d61ae8b403301", 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          63
+        ], 
+        [
+          1080, 
+          1794
+        ]
+      ], 
+      "signature": "[class]android.widget.FrameLayout[resource_id]None[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": "com.restaurant.mobile:id/action_bar_root", 
+      "text": null, 
+      "visible": true, 
+      "checkable": false, 
+      "children": [
+        4
+      ], 
+      "size": "1080*1731", 
+      "checked": false, 
+      "temp_id": 3, 
+      "selected": false, 
+      "child_count": 1, 
+      "content_free_signature": "[class]android.widget.LinearLayout[resource_id]com.restaurant.mobile:id/action_bar_root", 
+      "is_password": false, 
+      "parent": 2, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.LinearLayout", 
+      "scrollable": false, 
+      "package": "com.restaurant.mobile", 
+      "long_clickable": false, 
+      "view_str": "8df85560b6bddbeb94cc5b80dbb452b5", 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          63
+        ], 
+        [
+          1080, 
+          1794
+        ]
+      ], 
+      "signature": "[class]android.widget.LinearLayout[resource_id]com.restaurant.mobile:id/action_bar_root[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": "android:id/content", 
+      "text": null, 
+      "visible": true, 
+      "checkable": false, 
+      "children": [
+        5
+      ], 
+      "size": "1080*1731", 
+      "checked": false, 
+      "temp_id": 4, 
+      "selected": false, 
+      "child_count": 1, 
+      "content_free_signature": "[class]android.widget.FrameLayout[resource_id]android:id/content", 
+      "is_password": false, 
+      "parent": 3, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.FrameLayout", 
+      "scrollable": false, 
+      "package": "com.restaurant.mobile", 
+      "long_clickable": false, 
+      "view_str": "dfdded1572a7c40de8d87ec7eeadfbae", 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          63
+        ], 
+        [
+          1080, 
+          1794
+        ]
+      ], 
+      "signature": "[class]android.widget.FrameLayout[resource_id]android:id/content[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": "com.restaurant.mobile:id/activityRoot", 
+      "text": null, 
+      "visible": true, 
+      "checkable": false, 
+      "children": [
+        6, 
+        10, 
+        73, 
+        74, 
+        75
+      ], 
+      "size": "1080*1731", 
+      "checked": false, 
+      "temp_id": 5, 
+      "selected": false, 
+      "child_count": 5, 
+      "content_free_signature": "[class]android.widget.RelativeLayout[resource_id]com.restaurant.mobile:id/activityRoot", 
+      "is_password": false, 
+      "parent": 4, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.RelativeLayout", 
+      "scrollable": false, 
+      "package": "com.restaurant.mobile", 
+      "long_clickable": false, 
+      "view_str": "4e90de0dd159a4c38c06a48787834511", 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          63
+        ], 
+        [
+          1080, 
+          1794
+        ]
+      ], 
+      "signature": "[class]android.widget.RelativeLayout[resource_id]com.restaurant.mobile:id/activityRoot[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": "com.restaurant.mobile:id/toolbar", 
+      "text": null, 
+      "visible": true, 
+      "checkable": false, 
+      "children": [
+        7, 
+        8
+      ], 
+      "size": "1080*147", 
+      "checked": false, 
+      "temp_id": 6, 
+      "selected": false, 
+      "child_count": 2, 
+      "content_free_signature": "[class]android.view.ViewGroup[resource_id]com.restaurant.mobile:id/toolbar", 
+      "is_password": false, 
+      "parent": 5, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.view.ViewGroup", 
+      "scrollable": false, 
+      "package": "com.restaurant.mobile", 
+      "long_clickable": false, 
+      "view_str": "1479ba27135e3588ff9cf81a7fd5209f", 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          63
+        ], 
+        [
+          1080, 
+          210
+        ]
+      ], 
+      "signature": "[class]android.view.ViewGroup[resource_id]com.restaurant.mobile:id/toolbar[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": "com.restaurant.mobile:id/title_bar", 
+      "text": "Restaurant Deals", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "401*65", 
+      "checked": false, 
+      "temp_id": 7, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.TextView[resource_id]com.restaurant.mobile:id/title_bar", 
+      "is_password": false, 
+      "parent": 6, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.TextView", 
+      "scrollable": false, 
+      "package": "com.restaurant.mobile", 
+      "long_clickable": false, 
+      "view_str": "f11cfa70f5aa1dd9ecab1ab6dc2c147a", 
+      "enabled": true, 
+      "bounds": [
+        [
+          340, 
+          104
+        ], 
+        [
+          741, 
+          169
+        ]
+      ], 
+      "signature": "[class]android.widget.TextView[resource_id]com.restaurant.mobile:id/title_bar[text]Restaurant Deals[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": null, 
+      "visible": true, 
+      "checkable": false, 
+      "children": [
+        9
+      ], 
+      "size": "126*147", 
+      "checked": false, 
+      "temp_id": 8, 
+      "selected": false, 
+      "child_count": 1, 
+      "content_free_signature": "[class]android.support.v7.widget.LinearLayoutCompat[resource_id]None", 
+      "is_password": false, 
+      "parent": 6, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.support.v7.widget.LinearLayoutCompat", 
+      "scrollable": false, 
+      "package": "com.restaurant.mobile", 
+      "long_clickable": false, 
+      "view_str": "9627b29f0ce672523c8d21834cff2128", 
+      "enabled": true, 
+      "bounds": [
+        [
+          954, 
+          63
+        ], 
+        [
+          1080, 
+          210
+        ]
+      ], 
+      "signature": "[class]android.support.v7.widget.LinearLayoutCompat[resource_id]None[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": "com.restaurant.mobile:id/map_button", 
+      "text": "MAP", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "126*126", 
+      "checked": false, 
+      "temp_id": 9, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.TextView[resource_id]com.restaurant.mobile:id/map_button", 
+      "is_password": false, 
+      "parent": 8, 
+      "focusable": true, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": true, 
+      "class": "android.widget.TextView", 
+      "scrollable": false, 
+      "package": "com.restaurant.mobile", 
+      "long_clickable": false, 
+      "view_str": "300d99a84684b50870338f0724424a3f", 
+      "enabled": true, 
+      "bounds": [
+        [
+          954, 
+          73
+        ], 
+        [
+          1080, 
+          199
+        ]
+      ], 
+      "signature": "[class]android.widget.TextView[resource_id]com.restaurant.mobile:id/map_button[text]MAP[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": null, 
+      "visible": true, 
+      "checkable": false, 
+      "children": [
+        11, 
+        72
+      ], 
+      "size": "1080*1421", 
+      "checked": false, 
+      "temp_id": 10, 
+      "selected": false, 
+      "child_count": 2, 
+      "content_free_signature": "[class]android.widget.RelativeLayout[resource_id]None", 
+      "is_password": false, 
+      "parent": 5, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.RelativeLayout", 
+      "scrollable": false, 
+      "package": "com.restaurant.mobile", 
+      "long_clickable": false, 
+      "view_str": "2c3c1ba03a295641e73d86eec9af5f65", 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          210
+        ], 
+        [
+          1080, 
+          1631
+        ]
+      ], 
+      "signature": "[class]android.widget.RelativeLayout[resource_id]None[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": "com.restaurant.mobile:id/fragment_layout", 
+      "text": null, 
+      "visible": true, 
+      "checkable": false, 
+      "children": [
+        12
+      ], 
+      "size": "1080*1421", 
+      "checked": false, 
+      "temp_id": 11, 
+      "selected": false, 
+      "child_count": 1, 
+      "content_free_signature": "[class]android.widget.FrameLayout[resource_id]com.restaurant.mobile:id/fragment_layout", 
+      "is_password": false, 
+      "parent": 10, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.FrameLayout", 
+      "scrollable": false, 
+      "package": "com.restaurant.mobile", 
+      "long_clickable": false, 
+      "view_str": "a3cb5c3b0a35a12ddb489e967caf2a50", 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          210
+        ], 
+        [
+          1080, 
+          1631
+        ]
+      ], 
+      "signature": "[class]android.widget.FrameLayout[resource_id]com.restaurant.mobile:id/fragment_layout[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": null, 
+      "visible": true, 
+      "checkable": false, 
+      "children": [
+        13
+      ], 
+      "size": "1080*1421", 
+      "checked": false, 
+      "temp_id": 12, 
+      "selected": false, 
+      "child_count": 1, 
+      "content_free_signature": "[class]android.widget.RelativeLayout[resource_id]None", 
+      "is_password": false, 
+      "parent": 11, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.RelativeLayout", 
+      "scrollable": false, 
+      "package": "com.restaurant.mobile", 
+      "long_clickable": false, 
+      "view_str": "af2346e1eb32834b2bb99b586b69e39e", 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          210
+        ], 
+        [
+          1080, 
+          1631
+        ]
+      ], 
+      "signature": "[class]android.widget.RelativeLayout[resource_id]None[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": null, 
+      "visible": true, 
+      "checkable": false, 
+      "children": [
+        14
+      ], 
+      "size": "1080*1421", 
+      "checked": false, 
+      "temp_id": 13, 
+      "selected": false, 
+      "child_count": 1, 
+      "content_free_signature": "[class]android.webkit.WebView[resource_id]None", 
+      "is_password": false, 
+      "parent": 12, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.webkit.WebView", 
+      "scrollable": false, 
+      "package": "com.restaurant.mobile", 
+      "long_clickable": false, 
+      "view_str": "55ea7d5de2d24d8a3739caf35043c1ae", 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          210
+        ], 
+        [
+          1080, 
+          1631
+        ]
+      ], 
+      "signature": "[class]android.webkit.WebView[resource_id]None[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": "Restaurant.com: List Deals", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [
+        15
+      ], 
+      "size": "1081*1421", 
+      "checked": false, 
+      "temp_id": 14, 
+      "selected": false, 
+      "child_count": 1, 
+      "content_free_signature": "[class]android.webkit.WebView[resource_id]None", 
+      "is_password": false, 
+      "parent": 13, 
+      "focusable": true, 
+      "editable": false, 
+      "focused": true, 
+      "clickable": false, 
+      "class": "android.webkit.WebView", 
+      "scrollable": true, 
+      "package": "com.restaurant.mobile", 
+      "long_clickable": false, 
+      "view_str": "eab32f4d182658e7fdbb2c59c3d2fecb", 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          210
+        ], 
+        [
+          1081, 
+          1631
+        ]
+      ], 
+      "signature": "[class]android.webkit.WebView[resource_id]None[text]Restaurant.com: List Deals[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": "", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [
+        16
+      ], 
+      "size": "1081*1421", 
+      "checked": false, 
+      "temp_id": 15, 
+      "selected": false, 
+      "child_count": 1, 
+      "content_free_signature": "[class]android.view.View[resource_id]None", 
+      "is_password": false, 
+      "parent": 14, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": true, 
+      "class": "android.view.View", 
+      "scrollable": false, 
+      "package": "com.restaurant.mobile", 
+      "long_clickable": false, 
+      "view_str": "f58923024edfdb1b090c0ce28f75019f", 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          210
+        ], 
+        [
+          1081, 
+          1631
+        ]
+      ], 
+      "signature": "[class]android.view.View[resource_id]None[text][enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": "page_list_deals", 
+      "text": "", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [
+        17, 
+        19, 
+        27
+      ], 
+      "size": "1081*1421", 
+      "checked": false, 
+      "temp_id": 16, 
+      "selected": false, 
+      "child_count": 3, 
+      "content_free_signature": "[class]android.view.View[resource_id]page_list_deals", 
+      "is_password": false, 
+      "parent": 15, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.view.View", 
+      "scrollable": false, 
+      "package": "com.restaurant.mobile", 
+      "long_clickable": false, 
+      "view_str": "c1a5ea9ab9c6aa810e6a710673edc565", 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          210
+        ], 
+        [
+          1081, 
+          1631
+        ]
+      ], 
+      "signature": "[class]android.view.View[resource_id]page_list_deals[text][enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": "subHeader", 
+      "text": "", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [
+        18
+      ], 
+      "size": "1081*136", 
+      "checked": false, 
+      "temp_id": 17, 
+      "selected": false, 
+      "child_count": 1, 
+      "content_free_signature": "[class]android.view.View[resource_id]subHeader", 
+      "is_password": false, 
+      "parent": 16, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.view.View", 
+      "scrollable": false, 
+      "package": "com.restaurant.mobile", 
+      "long_clickable": false, 
+      "view_str": "cd5cfdf9f4d0c31bce999348f3c7962e", 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          210
+        ], 
+        [
+          1081, 
+          346
+        ]
+      ], 
+      "signature": "[class]android.view.View[resource_id]subHeader[text][enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": "", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "1081*136", 
+      "checked": false, 
+      "temp_id": 18, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.view.View[resource_id]None", 
+      "is_password": false, 
+      "parent": 17, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.view.View", 
+      "scrollable": false, 
+      "package": "com.restaurant.mobile", 
+      "long_clickable": false, 
+      "view_str": "d0cb0c42f4bc454d234f560adff9134c", 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          210
+        ], 
+        [
+          1081, 
+          346
+        ]
+      ], 
+      "signature": "[class]android.view.View[resource_id]None[text][enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": "atHomeContainerNative", 
+      "text": "", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [
+        20
+      ], 
+      "size": "1081*99", 
+      "checked": false, 
+      "temp_id": 19, 
+      "selected": false, 
+      "child_count": 1, 
+      "content_free_signature": "[class]android.view.View[resource_id]atHomeContainerNative", 
+      "is_password": false, 
+      "parent": 16, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.view.View", 
+      "scrollable": false, 
+      "package": "com.restaurant.mobile", 
+      "long_clickable": false, 
+      "view_str": "7eecbd9f1e49359dcaf263170d62cd6b", 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          223
+        ], 
+        [
+          1081, 
+          322
+        ]
+      ], 
+      "signature": "[class]android.view.View[resource_id]atHomeContainerNative[text][enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": "", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [
+        21, 
+        23, 
+        25
+      ], 
+      "size": "950*86", 
+      "checked": false, 
+      "temp_id": 20, 
+      "selected": false, 
+      "child_count": 3, 
+      "content_free_signature": "[class]android.widget.ListView[resource_id]None", 
+      "is_password": false, 
+      "parent": 19, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.ListView", 
+      "scrollable": false, 
+      "package": "com.restaurant.mobile", 
+      "long_clickable": false, 
+      "view_str": "955f4b918cd0b4a4d5047622df660065", 
+      "enabled": true, 
+      "bounds": [
+        [
+          65, 
+          231
+        ], 
+        [
+          1015, 
+          317
+        ]
+      ], 
+      "signature": "[class]android.widget.ListView[resource_id]None[text][enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": "", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [
+        22
+      ], 
+      "size": "307*86", 
+      "checked": false, 
+      "temp_id": 21, 
+      "selected": false, 
+      "child_count": 1, 
+      "content_free_signature": "[class]android.view.View[resource_id]None", 
+      "is_password": false, 
+      "parent": 20, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.view.View", 
+      "scrollable": false, 
+      "package": "com.restaurant.mobile", 
+      "long_clickable": false, 
+      "view_str": "7756438aa49b6e2b9c1c7ff749f94f33", 
+      "enabled": true, 
+      "bounds": [
+        [
+          708, 
+          231
+        ], 
+        [
+          1015, 
+          317
+        ]
+      ], 
+      "signature": "[class]android.view.View[resource_id]None[text][enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": "dealsBeyond", 
+      "text": "NATIONAL PARTNERS", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "307*86", 
+      "checked": false, 
+      "temp_id": 22, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.view.View[resource_id]dealsBeyond", 
+      "is_password": false, 
+      "parent": 21, 
+      "focusable": true, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": true, 
+      "class": "android.view.View", 
+      "scrollable": false, 
+      "package": "com.restaurant.mobile", 
+      "long_clickable": false, 
+      "view_str": "de4ef5544dd471d9444d3a742e1c0503", 
+      "enabled": true, 
+      "bounds": [
+        [
+          708, 
+          231
+        ], 
+        [
+          1015, 
+          317
+        ]
+      ], 
+      "signature": "[class]android.view.View[resource_id]dealsBeyond[text]NATIONAL PARTNERS[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": "", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [
+        24
+      ], 
+      "size": "341*86", 
+      "checked": false, 
+      "temp_id": 23, 
+      "selected": false, 
+      "child_count": 1, 
+      "content_free_signature": "[class]android.view.View[resource_id]None", 
+      "is_password": false, 
+      "parent": 20, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.view.View", 
+      "scrollable": false, 
+      "package": "com.restaurant.mobile", 
+      "long_clickable": false, 
+      "view_str": "e186ff6ad91937d1556f3be809f3f35b", 
+      "enabled": true, 
+      "bounds": [
+        [
+          370, 
+          231
+        ], 
+        [
+          711, 
+          317
+        ]
+      ], 
+      "signature": "[class]android.view.View[resource_id]None[text][enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": "dineIn", 
+      "text": "NEW! DINING DISCOUNT PASS", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "341*86", 
+      "checked": false, 
+      "temp_id": 24, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.view.View[resource_id]dineIn", 
+      "is_password": false, 
+      "parent": 23, 
+      "focusable": true, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": true, 
+      "class": "android.view.View", 
+      "scrollable": false, 
+      "package": "com.restaurant.mobile", 
+      "long_clickable": false, 
+      "view_str": "f4400b9bb048a9ce6145dcf2c83145af", 
+      "enabled": true, 
+      "bounds": [
+        [
+          370, 
+          231
+        ], 
+        [
+          711, 
+          317
+        ]
+      ], 
+      "signature": "[class]android.view.View[resource_id]dineIn[text]NEW! DINING DISCOUNT PASS[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": "", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [
+        26
+      ], 
+      "size": "307*86", 
+      "checked": false, 
+      "temp_id": 25, 
+      "selected": false, 
+      "child_count": 1, 
+      "content_free_signature": "[class]android.view.View[resource_id]None", 
+      "is_password": false, 
+      "parent": 20, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.view.View", 
+      "scrollable": false, 
+      "package": "com.restaurant.mobile", 
+      "long_clickable": false, 
+      "view_str": "f04ea05c6cc521859098dceff27e2a3c", 
+      "enabled": true, 
+      "bounds": [
+        [
+          65, 
+          231
+        ], 
+        [
+          372, 
+          317
+        ]
+      ], 
+      "signature": "[class]android.view.View[resource_id]None[text][enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": "dineOut", 
+      "text": "LOCAL RESTAURANTS", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "307*86", 
+      "checked": false, 
+      "temp_id": 26, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.view.View[resource_id]dineOut", 
+      "is_password": false, 
+      "parent": 25, 
+      "focusable": true, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": true, 
+      "class": "android.view.View", 
+      "scrollable": false, 
+      "package": "com.restaurant.mobile", 
+      "long_clickable": false, 
+      "view_str": "cf911140127286135322ca00ba441cf9", 
+      "enabled": true, 
+      "bounds": [
+        [
+          65, 
+          231
+        ], 
+        [
+          372, 
+          317
+        ]
+      ], 
+      "signature": "[class]android.view.View[resource_id]dineOut[text]LOCAL RESTAURANTS[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": "fixedSubhead", 
+      "text": "", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [
+        28
+      ], 
+      "size": "1029*1364", 
+      "checked": false, 
+      "temp_id": 27, 
+      "selected": false, 
+      "child_count": 1, 
+      "content_free_signature": "[class]android.view.View[resource_id]fixedSubhead", 
+      "is_password": false, 
+      "parent": 16, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.view.View", 
+      "scrollable": false, 
+      "package": "com.restaurant.mobile", 
+      "long_clickable": false, 
+      "view_str": "0fddf51c47279690737882053c7266a0", 
+      "enabled": true, 
+      "bounds": [
+        [
+          26, 
+          267
+        ], 
+        [
+          1055, 
+          1631
+        ]
+      ], 
+      "signature": "[class]android.view.View[resource_id]fixedSubhead[text][enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": "", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [
+        29
+      ], 
+      "size": "1029*1348", 
+      "checked": false, 
+      "temp_id": 28, 
+      "selected": false, 
+      "child_count": 1, 
+      "content_free_signature": "[class]android.view.View[resource_id]None", 
+      "is_password": false, 
+      "parent": 27, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.view.View", 
+      "scrollable": false, 
+      "package": "com.restaurant.mobile", 
+      "long_clickable": false, 
+      "view_str": "59de77995224ba762d771af6b9d96c4d", 
+      "enabled": true, 
+      "bounds": [
+        [
+          26, 
+          283
+        ], 
+        [
+          1055, 
+          1631
+        ]
+      ], 
+      "signature": "[class]android.view.View[resource_id]None[text][enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": "dealsList", 
+      "text": "", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [
+        30, 
+        32, 
+        34, 
+        36, 
+        38, 
+        40, 
+        42, 
+        44, 
+        46, 
+        48, 
+        50, 
+        52, 
+        54, 
+        56, 
+        58, 
+        60, 
+        62, 
+        64, 
+        66, 
+        68, 
+        70
+      ], 
+      "size": "1029*1256", 
+      "checked": false, 
+      "temp_id": 29, 
+      "selected": false, 
+      "child_count": 21, 
+      "content_free_signature": "[class]android.widget.ListView[resource_id]dealsList", 
+      "is_password": false, 
+      "parent": 28, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.ListView", 
+      "scrollable": false, 
+      "package": "com.restaurant.mobile", 
+      "long_clickable": false, 
+      "view_str": "83cd947c9c0946096784e22ef8ebab78", 
+      "enabled": true, 
+      "bounds": [
+        [
+          26, 
+          375
+        ], 
+        [
+          1055, 
+          1631
+        ]
+      ], 
+      "signature": "[class]android.widget.ListView[resource_id]dealsList[text][enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": "", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [
+        31
+      ], 
+      "size": "1029*341", 
+      "checked": false, 
+      "temp_id": 30, 
+      "selected": false, 
+      "child_count": 1, 
+      "content_free_signature": "[class]android.view.View[resource_id]None", 
+      "is_password": false, 
+      "parent": 29, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.view.View", 
+      "scrollable": false, 
+      "package": "com.restaurant.mobile", 
+      "long_clickable": false, 
+      "view_str": "123230c2d946f271e540a24608d6f341", 
+      "enabled": true, 
+      "bounds": [
+        [
+          26, 
+          375
+        ], 
+        [
+          1055, 
+          716
+        ]
+      ], 
+      "signature": "[class]android.view.View[resource_id]None[text][enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": "MagicKitchen.com AMERICAN Deals: $25 for $10.00 \u00a0 and 1 more $50 for $20.00 View Deals ", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "977*37", 
+      "checked": false, 
+      "temp_id": 31, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.view.View[resource_id]None", 
+      "is_password": false, 
+      "parent": 30, 
+      "focusable": true, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": true, 
+      "class": "android.view.View", 
+      "scrollable": false, 
+      "package": "com.restaurant.mobile", 
+      "long_clickable": false, 
+      "view_str": "0e3a443803475a06df60bdf32e577330", 
+      "enabled": true, 
+      "bounds": [
+        [
+          52, 
+          375
+        ], 
+        [
+          1029, 
+          412
+        ]
+      ], 
+      "signature": "[class]android.view.View[resource_id]None[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": "", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [
+        33
+      ], 
+      "size": "1029*341", 
+      "checked": false, 
+      "temp_id": 32, 
+      "selected": false, 
+      "child_count": 1, 
+      "content_free_signature": "[class]android.view.View[resource_id]None", 
+      "is_password": false, 
+      "parent": 29, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.view.View", 
+      "scrollable": false, 
+      "package": "com.restaurant.mobile", 
+      "long_clickable": false, 
+      "view_str": "123230c2d946f271e540a24608d6f341", 
+      "enabled": true, 
+      "bounds": [
+        [
+          26, 
+          716
+        ], 
+        [
+          1055, 
+          1057
+        ]
+      ], 
+      "signature": "[class]android.view.View[resource_id]None[text][enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": "FragranceNet.com Deals: $25 for $10.00 \u00a0 View Deals ", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "977*37", 
+      "checked": false, 
+      "temp_id": 33, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.view.View[resource_id]None", 
+      "is_password": false, 
+      "parent": 32, 
+      "focusable": true, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": true, 
+      "class": "android.view.View", 
+      "scrollable": false, 
+      "package": "com.restaurant.mobile", 
+      "long_clickable": false, 
+      "view_str": "0e3a443803475a06df60bdf32e577330", 
+      "enabled": true, 
+      "bounds": [
+        [
+          52, 
+          716
+        ], 
+        [
+          1029, 
+          753
+        ]
+      ], 
+      "signature": "[class]android.view.View[resource_id]None[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": "", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [
+        35
+      ], 
+      "size": "1029*342", 
+      "checked": false, 
+      "temp_id": 34, 
+      "selected": false, 
+      "child_count": 1, 
+      "content_free_signature": "[class]android.view.View[resource_id]None", 
+      "is_password": false, 
+      "parent": 29, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.view.View", 
+      "scrollable": false, 
+      "package": "com.restaurant.mobile", 
+      "long_clickable": false, 
+      "view_str": "123230c2d946f271e540a24608d6f341", 
+      "enabled": true, 
+      "bounds": [
+        [
+          26, 
+          1057
+        ], 
+        [
+          1055, 
+          1399
+        ]
+      ], 
+      "signature": "[class]android.view.View[resource_id]None[text][enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": "Cinnamom Bakery COFFEE/TEA/BAKERY | DESSERT Deals: $10 for $4.00 \u00a0 and 1 more $25 for $10.00 View Deals ", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "977*37", 
+      "checked": false, 
+      "temp_id": 35, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.view.View[resource_id]None", 
+      "is_password": false, 
+      "parent": 34, 
+      "focusable": true, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": true, 
+      "class": "android.view.View", 
+      "scrollable": false, 
+      "package": "com.restaurant.mobile", 
+      "long_clickable": false, 
+      "view_str": "0e3a443803475a06df60bdf32e577330", 
+      "enabled": true, 
+      "bounds": [
+        [
+          52, 
+          1057
+        ], 
+        [
+          1029, 
+          1094
+        ]
+      ], 
+      "signature": "[class]android.view.View[resource_id]None[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": "", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [
+        37
+      ], 
+      "size": "1029*232", 
+      "checked": false, 
+      "temp_id": 36, 
+      "selected": false, 
+      "child_count": 1, 
+      "content_free_signature": "[class]android.view.View[resource_id]None", 
+      "is_password": false, 
+      "parent": 29, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.view.View", 
+      "scrollable": false, 
+      "package": "com.restaurant.mobile", 
+      "long_clickable": false, 
+      "view_str": "123230c2d946f271e540a24608d6f341", 
+      "enabled": true, 
+      "bounds": [
+        [
+          26, 
+          1399
+        ], 
+        [
+          1055, 
+          1631
+        ]
+      ], 
+      "signature": "[class]android.view.View[resource_id]None[text][enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": "jClub Deals: $10 for $4.00 \u00a0 and 2 more $15 for $6.00 and 2 more $25 for $10.00 View Deals ", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "977*36", 
+      "checked": false, 
+      "temp_id": 37, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.view.View[resource_id]None", 
+      "is_password": false, 
+      "parent": 36, 
+      "focusable": true, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": true, 
+      "class": "android.view.View", 
+      "scrollable": false, 
+      "package": "com.restaurant.mobile", 
+      "long_clickable": false, 
+      "view_str": "0e3a443803475a06df60bdf32e577330", 
+      "enabled": true, 
+      "bounds": [
+        [
+          52, 
+          1399
+        ], 
+        [
+          1029, 
+          1435
+        ]
+      ], 
+      "signature": "[class]android.view.View[resource_id]None[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": "", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [
+        39
+      ], 
+      "size": "1029*1", 
+      "checked": false, 
+      "temp_id": 38, 
+      "selected": false, 
+      "child_count": 1, 
+      "content_free_signature": "[class]android.view.View[resource_id]None", 
+      "is_password": false, 
+      "parent": 29, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.view.View", 
+      "scrollable": false, 
+      "package": "com.restaurant.mobile", 
+      "long_clickable": false, 
+      "view_str": "e2ea17d358527abb9b18fcb24436b4b3", 
+      "enabled": true, 
+      "bounds": [
+        [
+          26, 
+          1630
+        ], 
+        [
+          1055, 
+          1631
+        ]
+      ], 
+      "signature": "[class]android.view.View[resource_id]None[text][enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": "Pet Qwerks Deals: $25 for $10.00 \u00a0 View Deals ", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "977*1", 
+      "checked": false, 
+      "temp_id": 39, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.view.View[resource_id]None", 
+      "is_password": false, 
+      "parent": 38, 
+      "focusable": true, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": true, 
+      "class": "android.view.View", 
+      "scrollable": false, 
+      "package": "com.restaurant.mobile", 
+      "long_clickable": false, 
+      "view_str": "f8d6577e22fba11af10d596bc4f1628c", 
+      "enabled": true, 
+      "bounds": [
+        [
+          52, 
+          1630
+        ], 
+        [
+          1029, 
+          1631
+        ]
+      ], 
+      "signature": "[class]android.view.View[resource_id]None[text]Pet Qwerks Deals: $25 for $10.00 \u00a0 View Deals [enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": "", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [
+        41
+      ], 
+      "size": "1029*1", 
+      "checked": false, 
+      "temp_id": 40, 
+      "selected": false, 
+      "child_count": 1, 
+      "content_free_signature": "[class]android.view.View[resource_id]None", 
+      "is_password": false, 
+      "parent": 29, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.view.View", 
+      "scrollable": false, 
+      "package": "com.restaurant.mobile", 
+      "long_clickable": false, 
+      "view_str": "e6d9e56120d2cb28063ba4679bd3be60", 
+      "enabled": true, 
+      "bounds": [
+        [
+          26, 
+          1630
+        ], 
+        [
+          1055, 
+          1631
+        ]
+      ], 
+      "signature": "[class]android.view.View[resource_id]None[text][enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": "Image Beauty Deals: $25 for $10.00 \u00a0 View Deals ", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "977*1", 
+      "checked": false, 
+      "temp_id": 41, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.view.View[resource_id]None", 
+      "is_password": false, 
+      "parent": 40, 
+      "focusable": true, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": true, 
+      "class": "android.view.View", 
+      "scrollable": false, 
+      "package": "com.restaurant.mobile", 
+      "long_clickable": false, 
+      "view_str": "902df673764c82816e96e5e4539e9de1", 
+      "enabled": true, 
+      "bounds": [
+        [
+          52, 
+          1630
+        ], 
+        [
+          1029, 
+          1631
+        ]
+      ], 
+      "signature": "[class]android.view.View[resource_id]None[text]Image Beauty Deals: $25 for $10.00 \u00a0 View Deals [enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": "", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [
+        43
+      ], 
+      "size": "1029*1", 
+      "checked": false, 
+      "temp_id": 42, 
+      "selected": false, 
+      "child_count": 1, 
+      "content_free_signature": "[class]android.view.View[resource_id]None", 
+      "is_password": false, 
+      "parent": 29, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.view.View", 
+      "scrollable": false, 
+      "package": "com.restaurant.mobile", 
+      "long_clickable": false, 
+      "view_str": "123230c2d946f271e540a24608d6f341", 
+      "enabled": true, 
+      "bounds": [
+        [
+          26, 
+          1630
+        ], 
+        [
+          1055, 
+          1631
+        ]
+      ], 
+      "signature": "[class]android.view.View[resource_id]None[text][enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": "Green Goo by Sierra Sage Herbs Deals: $15 for $6.00 \u00a0 and 2 more $25 for $10.00 and 2 more $50 for $20.00 View Deals ", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "977*1", 
+      "checked": false, 
+      "temp_id": 43, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.view.View[resource_id]None", 
+      "is_password": false, 
+      "parent": 42, 
+      "focusable": true, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": true, 
+      "class": "android.view.View", 
+      "scrollable": false, 
+      "package": "com.restaurant.mobile", 
+      "long_clickable": false, 
+      "view_str": "0e3a443803475a06df60bdf32e577330", 
+      "enabled": true, 
+      "bounds": [
+        [
+          52, 
+          1630
+        ], 
+        [
+          1029, 
+          1631
+        ]
+      ], 
+      "signature": "[class]android.view.View[resource_id]None[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": "", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [
+        45
+      ], 
+      "size": "1029*1", 
+      "checked": false, 
+      "temp_id": 44, 
+      "selected": false, 
+      "child_count": 1, 
+      "content_free_signature": "[class]android.view.View[resource_id]None", 
+      "is_password": false, 
+      "parent": 29, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.view.View", 
+      "scrollable": false, 
+      "package": "com.restaurant.mobile", 
+      "long_clickable": false, 
+      "view_str": "123230c2d946f271e540a24608d6f341", 
+      "enabled": true, 
+      "bounds": [
+        [
+          26, 
+          1630
+        ], 
+        [
+          1055, 
+          1631
+        ]
+      ], 
+      "signature": "[class]android.view.View[resource_id]None[text][enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": "Mrs. Fields Online DESSERT | COFFEE/TEA/BAKERY Deals: $10 for $4.00 \u00a0 and 1 more $25 for $10.00 View Deals ", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "977*1", 
+      "checked": false, 
+      "temp_id": 45, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.view.View[resource_id]None", 
+      "is_password": false, 
+      "parent": 44, 
+      "focusable": true, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": true, 
+      "class": "android.view.View", 
+      "scrollable": false, 
+      "package": "com.restaurant.mobile", 
+      "long_clickable": false, 
+      "view_str": "0e3a443803475a06df60bdf32e577330", 
+      "enabled": true, 
+      "bounds": [
+        [
+          52, 
+          1630
+        ], 
+        [
+          1029, 
+          1631
+        ]
+      ], 
+      "signature": "[class]android.view.View[resource_id]None[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": "", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [
+        47
+      ], 
+      "size": "1029*1", 
+      "checked": false, 
+      "temp_id": 46, 
+      "selected": false, 
+      "child_count": 1, 
+      "content_free_signature": "[class]android.view.View[resource_id]None", 
+      "is_password": false, 
+      "parent": 29, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.view.View", 
+      "scrollable": false, 
+      "package": "com.restaurant.mobile", 
+      "long_clickable": false, 
+      "view_str": "123230c2d946f271e540a24608d6f341", 
+      "enabled": true, 
+      "bounds": [
+        [
+          26, 
+          1630
+        ], 
+        [
+          1055, 
+          1631
+        ]
+      ], 
+      "signature": "[class]android.view.View[resource_id]None[text][enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": "Love Grace Foods AMERICAN Deals: $25 for $10.00 \u00a0 View Deals ", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "977*1", 
+      "checked": false, 
+      "temp_id": 47, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.view.View[resource_id]None", 
+      "is_password": false, 
+      "parent": 46, 
+      "focusable": true, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": true, 
+      "class": "android.view.View", 
+      "scrollable": false, 
+      "package": "com.restaurant.mobile", 
+      "long_clickable": false, 
+      "view_str": "0e3a443803475a06df60bdf32e577330", 
+      "enabled": true, 
+      "bounds": [
+        [
+          52, 
+          1630
+        ], 
+        [
+          1029, 
+          1631
+        ]
+      ], 
+      "signature": "[class]android.view.View[resource_id]None[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": "", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [
+        49
+      ], 
+      "size": "1029*1", 
+      "checked": false, 
+      "temp_id": 48, 
+      "selected": false, 
+      "child_count": 1, 
+      "content_free_signature": "[class]android.view.View[resource_id]None", 
+      "is_password": false, 
+      "parent": 29, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.view.View", 
+      "scrollable": false, 
+      "package": "com.restaurant.mobile", 
+      "long_clickable": false, 
+      "view_str": "123230c2d946f271e540a24608d6f341", 
+      "enabled": true, 
+      "bounds": [
+        [
+          26, 
+          1630
+        ], 
+        [
+          1055, 
+          1631
+        ]
+      ], 
+      "signature": "[class]android.view.View[resource_id]None[text][enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": "Lawless Jerky AMERICAN Deals: $10 for $4.00 \u00a0 and 1 more $25 for $10.00 View Deals ", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "977*1", 
+      "checked": false, 
+      "temp_id": 49, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.view.View[resource_id]None", 
+      "is_password": false, 
+      "parent": 48, 
+      "focusable": true, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": true, 
+      "class": "android.view.View", 
+      "scrollable": false, 
+      "package": "com.restaurant.mobile", 
+      "long_clickable": false, 
+      "view_str": "0e3a443803475a06df60bdf32e577330", 
+      "enabled": true, 
+      "bounds": [
+        [
+          52, 
+          1630
+        ], 
+        [
+          1029, 
+          1631
+        ]
+      ], 
+      "signature": "[class]android.view.View[resource_id]None[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": "", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [
+        51
+      ], 
+      "size": "1029*1", 
+      "checked": false, 
+      "temp_id": 50, 
+      "selected": false, 
+      "child_count": 1, 
+      "content_free_signature": "[class]android.view.View[resource_id]None", 
+      "is_password": false, 
+      "parent": 29, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.view.View", 
+      "scrollable": false, 
+      "package": "com.restaurant.mobile", 
+      "long_clickable": false, 
+      "view_str": "123230c2d946f271e540a24608d6f341", 
+      "enabled": true, 
+      "bounds": [
+        [
+          26, 
+          1630
+        ], 
+        [
+          1055, 
+          1631
+        ]
+      ], 
+      "signature": "[class]android.view.View[resource_id]None[text][enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": "From You Flowers Deals: $25 for $10.00 \u00a0 View Deals ", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "977*1", 
+      "checked": false, 
+      "temp_id": 51, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.view.View[resource_id]None", 
+      "is_password": false, 
+      "parent": 50, 
+      "focusable": true, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": true, 
+      "class": "android.view.View", 
+      "scrollable": false, 
+      "package": "com.restaurant.mobile", 
+      "long_clickable": false, 
+      "view_str": "0e3a443803475a06df60bdf32e577330", 
+      "enabled": true, 
+      "bounds": [
+        [
+          52, 
+          1630
+        ], 
+        [
+          1029, 
+          1631
+        ]
+      ], 
+      "signature": "[class]android.view.View[resource_id]None[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": "", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [
+        53
+      ], 
+      "size": "1029*1", 
+      "checked": false, 
+      "temp_id": 52, 
+      "selected": false, 
+      "child_count": 1, 
+      "content_free_signature": "[class]android.view.View[resource_id]None", 
+      "is_password": false, 
+      "parent": 29, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.view.View", 
+      "scrollable": false, 
+      "package": "com.restaurant.mobile", 
+      "long_clickable": false, 
+      "view_str": "123230c2d946f271e540a24608d6f341", 
+      "enabled": true, 
+      "bounds": [
+        [
+          26, 
+          1630
+        ], 
+        [
+          1055, 
+          1631
+        ]
+      ], 
+      "signature": "[class]android.view.View[resource_id]None[text][enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": "PureFit.com AMERICAN Deals: $15 for $6.00 \u00a0 and 2 more $25 for $10.00 and 2 more $50 for $20.00 View Deals ", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "977*1", 
+      "checked": false, 
+      "temp_id": 53, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.view.View[resource_id]None", 
+      "is_password": false, 
+      "parent": 52, 
+      "focusable": true, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": true, 
+      "class": "android.view.View", 
+      "scrollable": false, 
+      "package": "com.restaurant.mobile", 
+      "long_clickable": false, 
+      "view_str": "0e3a443803475a06df60bdf32e577330", 
+      "enabled": true, 
+      "bounds": [
+        [
+          52, 
+          1630
+        ], 
+        [
+          1029, 
+          1631
+        ]
+      ], 
+      "signature": "[class]android.view.View[resource_id]None[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": "", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [
+        55
+      ], 
+      "size": "1029*1", 
+      "checked": false, 
+      "temp_id": 54, 
+      "selected": false, 
+      "child_count": 1, 
+      "content_free_signature": "[class]android.view.View[resource_id]None", 
+      "is_password": false, 
+      "parent": 29, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.view.View", 
+      "scrollable": false, 
+      "package": "com.restaurant.mobile", 
+      "long_clickable": false, 
+      "view_str": "123230c2d946f271e540a24608d6f341", 
+      "enabled": true, 
+      "bounds": [
+        [
+          26, 
+          1630
+        ], 
+        [
+          1055, 
+          1631
+        ]
+      ], 
+      "signature": "[class]android.view.View[resource_id]None[text][enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": "Maine Lobster Now SEAFOOD Deals: $25 for $10.00 \u00a0 View Deals ", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "977*1", 
+      "checked": false, 
+      "temp_id": 55, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.view.View[resource_id]None", 
+      "is_password": false, 
+      "parent": 54, 
+      "focusable": true, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": true, 
+      "class": "android.view.View", 
+      "scrollable": false, 
+      "package": "com.restaurant.mobile", 
+      "long_clickable": false, 
+      "view_str": "0e3a443803475a06df60bdf32e577330", 
+      "enabled": true, 
+      "bounds": [
+        [
+          52, 
+          1630
+        ], 
+        [
+          1029, 
+          1631
+        ]
+      ], 
+      "signature": "[class]android.view.View[resource_id]None[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": "", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [
+        57
+      ], 
+      "size": "1029*1", 
+      "checked": false, 
+      "temp_id": 56, 
+      "selected": false, 
+      "child_count": 1, 
+      "content_free_signature": "[class]android.view.View[resource_id]None", 
+      "is_password": false, 
+      "parent": 29, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.view.View", 
+      "scrollable": false, 
+      "package": "com.restaurant.mobile", 
+      "long_clickable": false, 
+      "view_str": "123230c2d946f271e540a24608d6f341", 
+      "enabled": true, 
+      "bounds": [
+        [
+          26, 
+          1630
+        ], 
+        [
+          1055, 
+          1631
+        ]
+      ], 
+      "signature": "[class]android.view.View[resource_id]None[text][enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": "Try The World AMERICAN | CONTINENTAL Deals: $25 for $10.00 \u00a0 View Deals ", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "977*1", 
+      "checked": false, 
+      "temp_id": 57, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.view.View[resource_id]None", 
+      "is_password": false, 
+      "parent": 56, 
+      "focusable": true, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": true, 
+      "class": "android.view.View", 
+      "scrollable": false, 
+      "package": "com.restaurant.mobile", 
+      "long_clickable": false, 
+      "view_str": "0e3a443803475a06df60bdf32e577330", 
+      "enabled": true, 
+      "bounds": [
+        [
+          52, 
+          1630
+        ], 
+        [
+          1029, 
+          1631
+        ]
+      ], 
+      "signature": "[class]android.view.View[resource_id]None[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": "", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [
+        59
+      ], 
+      "size": "1029*1", 
+      "checked": false, 
+      "temp_id": 58, 
+      "selected": false, 
+      "child_count": 1, 
+      "content_free_signature": "[class]android.view.View[resource_id]None", 
+      "is_password": false, 
+      "parent": 29, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.view.View", 
+      "scrollable": false, 
+      "package": "com.restaurant.mobile", 
+      "long_clickable": false, 
+      "view_str": "123230c2d946f271e540a24608d6f341", 
+      "enabled": true, 
+      "bounds": [
+        [
+          26, 
+          1630
+        ], 
+        [
+          1055, 
+          1631
+        ]
+      ], 
+      "signature": "[class]android.view.View[resource_id]None[text][enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": "NatureBox.com Deals: $15 for $6.00 \u00a0 and 1 more $25 for $10.00 View Deals ", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "977*1", 
+      "checked": false, 
+      "temp_id": 59, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.view.View[resource_id]None", 
+      "is_password": false, 
+      "parent": 58, 
+      "focusable": true, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": true, 
+      "class": "android.view.View", 
+      "scrollable": false, 
+      "package": "com.restaurant.mobile", 
+      "long_clickable": false, 
+      "view_str": "0e3a443803475a06df60bdf32e577330", 
+      "enabled": true, 
+      "bounds": [
+        [
+          52, 
+          1630
+        ], 
+        [
+          1029, 
+          1631
+        ]
+      ], 
+      "signature": "[class]android.view.View[resource_id]None[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": "", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [
+        61
+      ], 
+      "size": "1029*1", 
+      "checked": false, 
+      "temp_id": 60, 
+      "selected": false, 
+      "child_count": 1, 
+      "content_free_signature": "[class]android.view.View[resource_id]None", 
+      "is_password": false, 
+      "parent": 29, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.view.View", 
+      "scrollable": false, 
+      "package": "com.restaurant.mobile", 
+      "long_clickable": false, 
+      "view_str": "123230c2d946f271e540a24608d6f341", 
+      "enabled": true, 
+      "bounds": [
+        [
+          26, 
+          1630
+        ], 
+        [
+          1055, 
+          1631
+        ]
+      ], 
+      "signature": "[class]android.view.View[resource_id]None[text][enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": "Jennifer's Handmade Soaps Deals: $10 for $4.00 \u00a0 and 1 more $25 for $10.00 View Deals ", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "977*1", 
+      "checked": false, 
+      "temp_id": 61, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.view.View[resource_id]None", 
+      "is_password": false, 
+      "parent": 60, 
+      "focusable": true, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": true, 
+      "class": "android.view.View", 
+      "scrollable": false, 
+      "package": "com.restaurant.mobile", 
+      "long_clickable": false, 
+      "view_str": "0e3a443803475a06df60bdf32e577330", 
+      "enabled": true, 
+      "bounds": [
+        [
+          52, 
+          1630
+        ], 
+        [
+          1029, 
+          1631
+        ]
+      ], 
+      "signature": "[class]android.view.View[resource_id]None[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": "", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [
+        63
+      ], 
+      "size": "1029*1", 
+      "checked": false, 
+      "temp_id": 62, 
+      "selected": false, 
+      "child_count": 1, 
+      "content_free_signature": "[class]android.view.View[resource_id]None", 
+      "is_password": false, 
+      "parent": 29, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.view.View", 
+      "scrollable": false, 
+      "package": "com.restaurant.mobile", 
+      "long_clickable": false, 
+      "view_str": "123230c2d946f271e540a24608d6f341", 
+      "enabled": true, 
+      "bounds": [
+        [
+          26, 
+          1630
+        ], 
+        [
+          1055, 
+          1631
+        ]
+      ], 
+      "signature": "[class]android.view.View[resource_id]None[text][enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": "Foody Direct AMERICAN Deals: $25 for $10.00 \u00a0 View Deals ", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "977*1", 
+      "checked": false, 
+      "temp_id": 63, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.view.View[resource_id]None", 
+      "is_password": false, 
+      "parent": 62, 
+      "focusable": true, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": true, 
+      "class": "android.view.View", 
+      "scrollable": false, 
+      "package": "com.restaurant.mobile", 
+      "long_clickable": false, 
+      "view_str": "0e3a443803475a06df60bdf32e577330", 
+      "enabled": true, 
+      "bounds": [
+        [
+          52, 
+          1630
+        ], 
+        [
+          1029, 
+          1631
+        ]
+      ], 
+      "signature": "[class]android.view.View[resource_id]None[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": "", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [
+        65
+      ], 
+      "size": "1029*1", 
+      "checked": false, 
+      "temp_id": 64, 
+      "selected": false, 
+      "child_count": 1, 
+      "content_free_signature": "[class]android.view.View[resource_id]None", 
+      "is_password": false, 
+      "parent": 29, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.view.View", 
+      "scrollable": false, 
+      "package": "com.restaurant.mobile", 
+      "long_clickable": false, 
+      "view_str": "123230c2d946f271e540a24608d6f341", 
+      "enabled": true, 
+      "bounds": [
+        [
+          26, 
+          1630
+        ], 
+        [
+          1055, 
+          1631
+        ]
+      ], 
+      "signature": "[class]android.view.View[resource_id]None[text][enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": "Freedom Delivered (Gluten Free) AMERICAN Deals: $25 for $10.00 \u00a0 View Deals ", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "977*1", 
+      "checked": false, 
+      "temp_id": 65, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.view.View[resource_id]None", 
+      "is_password": false, 
+      "parent": 64, 
+      "focusable": true, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": true, 
+      "class": "android.view.View", 
+      "scrollable": false, 
+      "package": "com.restaurant.mobile", 
+      "long_clickable": false, 
+      "view_str": "0e3a443803475a06df60bdf32e577330", 
+      "enabled": true, 
+      "bounds": [
+        [
+          52, 
+          1630
+        ], 
+        [
+          1029, 
+          1631
+        ]
+      ], 
+      "signature": "[class]android.view.View[resource_id]None[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": "", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [
+        67
+      ], 
+      "size": "1029*1", 
+      "checked": false, 
+      "temp_id": 66, 
+      "selected": false, 
+      "child_count": 1, 
+      "content_free_signature": "[class]android.view.View[resource_id]None", 
+      "is_password": false, 
+      "parent": 29, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.view.View", 
+      "scrollable": false, 
+      "package": "com.restaurant.mobile", 
+      "long_clickable": false, 
+      "view_str": "123230c2d946f271e540a24608d6f341", 
+      "enabled": true, 
+      "bounds": [
+        [
+          26, 
+          1630
+        ], 
+        [
+          1055, 
+          1631
+        ]
+      ], 
+      "signature": "[class]android.view.View[resource_id]None[text][enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": "The Fruit Company AMERICAN Deals: $25 for $10.00 \u00a0 View Deals ", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "977*1", 
+      "checked": false, 
+      "temp_id": 67, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.view.View[resource_id]None", 
+      "is_password": false, 
+      "parent": 66, 
+      "focusable": true, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": true, 
+      "class": "android.view.View", 
+      "scrollable": false, 
+      "package": "com.restaurant.mobile", 
+      "long_clickable": false, 
+      "view_str": "0e3a443803475a06df60bdf32e577330", 
+      "enabled": true, 
+      "bounds": [
+        [
+          52, 
+          1630
+        ], 
+        [
+          1029, 
+          1631
+        ]
+      ], 
+      "signature": "[class]android.view.View[resource_id]None[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": "", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [
+        69
+      ], 
+      "size": "1029*1", 
+      "checked": false, 
+      "temp_id": 68, 
+      "selected": false, 
+      "child_count": 1, 
+      "content_free_signature": "[class]android.view.View[resource_id]None", 
+      "is_password": false, 
+      "parent": 29, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.view.View", 
+      "scrollable": false, 
+      "package": "com.restaurant.mobile", 
+      "long_clickable": false, 
+      "view_str": "123230c2d946f271e540a24608d6f341", 
+      "enabled": true, 
+      "bounds": [
+        [
+          26, 
+          1630
+        ], 
+        [
+          1055, 
+          1631
+        ]
+      ], 
+      "signature": "[class]android.view.View[resource_id]None[text][enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": "LobsterGram.com AMERICAN Deals: $25 for $10.00 \u00a0 View Deals ", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "977*1", 
+      "checked": false, 
+      "temp_id": 69, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.view.View[resource_id]None", 
+      "is_password": false, 
+      "parent": 68, 
+      "focusable": true, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": true, 
+      "class": "android.view.View", 
+      "scrollable": false, 
+      "package": "com.restaurant.mobile", 
+      "long_clickable": false, 
+      "view_str": "0e3a443803475a06df60bdf32e577330", 
+      "enabled": true, 
+      "bounds": [
+        [
+          52, 
+          1630
+        ], 
+        [
+          1029, 
+          1631
+        ]
+      ], 
+      "signature": "[class]android.view.View[resource_id]None[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": "", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [
+        71
+      ], 
+      "size": "1029*1", 
+      "checked": false, 
+      "temp_id": 70, 
+      "selected": false, 
+      "child_count": 1, 
+      "content_free_signature": "[class]android.view.View[resource_id]None", 
+      "is_password": false, 
+      "parent": 29, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.view.View", 
+      "scrollable": false, 
+      "package": "com.restaurant.mobile", 
+      "long_clickable": false, 
+      "view_str": "123230c2d946f271e540a24608d6f341", 
+      "enabled": true, 
+      "bounds": [
+        [
+          26, 
+          1630
+        ], 
+        [
+          1055, 
+          1631
+        ]
+      ], 
+      "signature": "[class]android.view.View[resource_id]None[text][enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": "Premier Magazines Deals: $10 for $4.00 \u00a0 View Deals ", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "977*1", 
+      "checked": false, 
+      "temp_id": 71, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.view.View[resource_id]None", 
+      "is_password": false, 
+      "parent": 70, 
+      "focusable": true, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": true, 
+      "class": "android.view.View", 
+      "scrollable": false, 
+      "package": "com.restaurant.mobile", 
+      "long_clickable": false, 
+      "view_str": "0e3a443803475a06df60bdf32e577330", 
+      "enabled": true, 
+      "bounds": [
+        [
+          52, 
+          1630
+        ], 
+        [
+          1029, 
+          1631
+        ]
+      ], 
+      "signature": "[class]android.view.View[resource_id]None[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": "com.restaurant.mobile:id/fragment_layout2", 
+      "text": null, 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "1080*1421", 
+      "checked": false, 
+      "temp_id": 72, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.FrameLayout[resource_id]com.restaurant.mobile:id/fragment_layout2", 
+      "is_password": false, 
+      "parent": 10, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.FrameLayout", 
+      "scrollable": false, 
+      "package": "com.restaurant.mobile", 
+      "long_clickable": false, 
+      "view_str": "e05baceea85e5882578666673b0b48c1", 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          210
+        ], 
+        [
+          1080, 
+          1631
+        ]
+      ], 
+      "signature": "[class]android.widget.FrameLayout[resource_id]com.restaurant.mobile:id/fragment_layout2[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": null, 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "1080*5", 
+      "checked": false, 
+      "temp_id": 73, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.ImageView[resource_id]None", 
+      "is_password": false, 
+      "parent": 5, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.ImageView", 
+      "scrollable": false, 
+      "package": "com.restaurant.mobile", 
+      "long_clickable": false, 
+      "view_str": "a4992c51b433889620a76d7bc132b3f8", 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          210
+        ], 
+        [
+          1080, 
+          215
+        ]
+      ], 
+      "signature": "[class]android.widget.ImageView[resource_id]None[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": null, 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "1080*5", 
+      "checked": false, 
+      "temp_id": 74, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.ImageView[resource_id]None", 
+      "is_password": false, 
+      "parent": 5, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.ImageView", 
+      "scrollable": false, 
+      "package": "com.restaurant.mobile", 
+      "long_clickable": false, 
+      "view_str": "a4992c51b433889620a76d7bc132b3f8", 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          1626
+        ], 
+        [
+          1080, 
+          1631
+        ]
+      ], 
+      "signature": "[class]android.widget.ImageView[resource_id]None[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": "com.restaurant.mobile:id/bottom_navigation", 
+      "text": null, 
+      "visible": true, 
+      "checkable": false, 
+      "children": [
+        76, 
+        79, 
+        82, 
+        85
+      ], 
+      "size": "1080*163", 
+      "checked": false, 
+      "temp_id": 75, 
+      "selected": false, 
+      "child_count": 4, 
+      "content_free_signature": "[class]android.widget.LinearLayout[resource_id]com.restaurant.mobile:id/bottom_navigation", 
+      "is_password": false, 
+      "parent": 5, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.LinearLayout", 
+      "scrollable": false, 
+      "package": "com.restaurant.mobile", 
+      "long_clickable": false, 
+      "view_str": "30d25413cc476aaec3cea26485e3abcf", 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          1631
+        ], 
+        [
+          1080, 
+          1794
+        ]
+      ], 
+      "signature": "[class]android.widget.LinearLayout[resource_id]com.restaurant.mobile:id/bottom_navigation[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": "com.restaurant.mobile:id/deal", 
+      "text": null, 
+      "visible": true, 
+      "checkable": false, 
+      "children": [
+        77, 
+        78
+      ], 
+      "size": "270*141", 
+      "checked": false, 
+      "temp_id": 76, 
+      "selected": true, 
+      "child_count": 2, 
+      "content_free_signature": "[class]android.widget.LinearLayout[resource_id]com.restaurant.mobile:id/deal", 
+      "is_password": false, 
+      "parent": 75, 
+      "focusable": true, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": true, 
+      "class": "android.widget.LinearLayout", 
+      "scrollable": false, 
+      "package": "com.restaurant.mobile", 
+      "long_clickable": false, 
+      "view_str": "d8382015229f9cb3b9b7e285708aef9c", 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          1642
+        ], 
+        [
+          270, 
+          1783
+        ]
+      ], 
+      "signature": "[class]android.widget.LinearLayout[resource_id]com.restaurant.mobile:id/deal[text]None[enabled,,selected]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": "com.restaurant.mobile:id/deal_image", 
+      "text": null, 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "105*105", 
+      "checked": false, 
+      "temp_id": 77, 
+      "selected": true, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.ImageView[resource_id]com.restaurant.mobile:id/deal_image", 
+      "is_password": false, 
+      "parent": 76, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.ImageView", 
+      "scrollable": false, 
+      "package": "com.restaurant.mobile", 
+      "long_clickable": false, 
+      "view_str": "9cb70024e32c205b75519078376e7e35", 
+      "enabled": true, 
+      "bounds": [
+        [
+          82, 
+          1642
+        ], 
+        [
+          187, 
+          1747
+        ]
+      ], 
+      "signature": "[class]android.widget.ImageView[resource_id]com.restaurant.mobile:id/deal_image[text]None[enabled,,selected]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": "com.restaurant.mobile:id/deal_text", 
+      "text": "Deals", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "71*36", 
+      "checked": false, 
+      "temp_id": 78, 
+      "selected": true, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.TextView[resource_id]com.restaurant.mobile:id/deal_text", 
+      "is_password": false, 
+      "parent": 76, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.TextView", 
+      "scrollable": false, 
+      "package": "com.restaurant.mobile", 
+      "long_clickable": false, 
+      "view_str": "c0be26eb15dbdeca54181c9bfccd65bf", 
+      "enabled": true, 
+      "bounds": [
+        [
+          99, 
+          1747
+        ], 
+        [
+          170, 
+          1783
+        ]
+      ], 
+      "signature": "[class]android.widget.TextView[resource_id]com.restaurant.mobile:id/deal_text[text]Deals[enabled,,selected]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": "com.restaurant.mobile:id/cert", 
+      "text": null, 
+      "visible": true, 
+      "checkable": false, 
+      "children": [
+        80, 
+        81
+      ], 
+      "size": "270*141", 
+      "checked": false, 
+      "temp_id": 79, 
+      "selected": false, 
+      "child_count": 2, 
+      "content_free_signature": "[class]android.widget.LinearLayout[resource_id]com.restaurant.mobile:id/cert", 
+      "is_password": false, 
+      "parent": 75, 
+      "focusable": true, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": true, 
+      "class": "android.widget.LinearLayout", 
+      "scrollable": false, 
+      "package": "com.restaurant.mobile", 
+      "long_clickable": false, 
+      "view_str": "8356844b63f9c2e8c1778fbb4046e0e0", 
+      "enabled": true, 
+      "bounds": [
+        [
+          270, 
+          1642
+        ], 
+        [
+          540, 
+          1783
+        ]
+      ], 
+      "signature": "[class]android.widget.LinearLayout[resource_id]com.restaurant.mobile:id/cert[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": "com.restaurant.mobile:id/cert_image", 
+      "text": null, 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "270*105", 
+      "checked": false, 
+      "temp_id": 80, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.ImageView[resource_id]com.restaurant.mobile:id/cert_image", 
+      "is_password": false, 
+      "parent": 79, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.ImageView", 
+      "scrollable": false, 
+      "package": "com.restaurant.mobile", 
+      "long_clickable": false, 
+      "view_str": "6ff1caeb1e05622e2e527bfd5a806d01", 
+      "enabled": true, 
+      "bounds": [
+        [
+          270, 
+          1642
+        ], 
+        [
+          540, 
+          1747
+        ]
+      ], 
+      "signature": "[class]android.widget.ImageView[resource_id]com.restaurant.mobile:id/cert_image[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": "com.restaurant.mobile:id/cert_text", 
+      "text": "Certificates", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "135*36", 
+      "checked": false, 
+      "temp_id": 81, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.TextView[resource_id]com.restaurant.mobile:id/cert_text", 
+      "is_password": false, 
+      "parent": 79, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.TextView", 
+      "scrollable": false, 
+      "package": "com.restaurant.mobile", 
+      "long_clickable": false, 
+      "view_str": "d5c35c1fff1edc452c8e54cfae31fae8", 
+      "enabled": true, 
+      "bounds": [
+        [
+          337, 
+          1747
+        ], 
+        [
+          472, 
+          1783
+        ]
+      ], 
+      "signature": "[class]android.widget.TextView[resource_id]com.restaurant.mobile:id/cert_text[text]Certificates[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": "com.restaurant.mobile:id/cart", 
+      "text": null, 
+      "visible": true, 
+      "checkable": false, 
+      "children": [
+        83, 
+        84
+      ], 
+      "size": "270*141", 
+      "checked": false, 
+      "temp_id": 82, 
+      "selected": false, 
+      "child_count": 2, 
+      "content_free_signature": "[class]android.widget.LinearLayout[resource_id]com.restaurant.mobile:id/cart", 
+      "is_password": false, 
+      "parent": 75, 
+      "focusable": true, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": true, 
+      "class": "android.widget.LinearLayout", 
+      "scrollable": false, 
+      "package": "com.restaurant.mobile", 
+      "long_clickable": false, 
+      "view_str": "01cd91248c3f9ebbe701753dd9acbee1", 
+      "enabled": true, 
+      "bounds": [
+        [
+          540, 
+          1642
+        ], 
+        [
+          810, 
+          1783
+        ]
+      ], 
+      "signature": "[class]android.widget.LinearLayout[resource_id]com.restaurant.mobile:id/cart[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": "com.restaurant.mobile:id/cart_image", 
+      "text": null, 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "270*105", 
+      "checked": false, 
+      "temp_id": 83, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.ImageView[resource_id]com.restaurant.mobile:id/cart_image", 
+      "is_password": false, 
+      "parent": 82, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.ImageView", 
+      "scrollable": false, 
+      "package": "com.restaurant.mobile", 
+      "long_clickable": false, 
+      "view_str": "33e4eedbdf25feb9dca6836d0e8b65a2", 
+      "enabled": true, 
+      "bounds": [
+        [
+          540, 
+          1642
+        ], 
+        [
+          810, 
+          1747
+        ]
+      ], 
+      "signature": "[class]android.widget.ImageView[resource_id]com.restaurant.mobile:id/cart_image[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": "com.restaurant.mobile:id/cart_text", 
+      "text": "Cart", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "50*36", 
+      "checked": false, 
+      "temp_id": 84, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.TextView[resource_id]com.restaurant.mobile:id/cart_text", 
+      "is_password": false, 
+      "parent": 82, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.TextView", 
+      "scrollable": false, 
+      "package": "com.restaurant.mobile", 
+      "long_clickable": false, 
+      "view_str": "e750dfca49ac9ff64d6daf577adeaf34", 
+      "enabled": true, 
+      "bounds": [
+        [
+          650, 
+          1747
+        ], 
+        [
+          700, 
+          1783
+        ]
+      ], 
+      "signature": "[class]android.widget.TextView[resource_id]com.restaurant.mobile:id/cart_text[text]Cart[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": "com.restaurant.mobile:id/account", 
+      "text": null, 
+      "visible": true, 
+      "checkable": false, 
+      "children": [
+        86, 
+        87
+      ], 
+      "size": "270*141", 
+      "checked": false, 
+      "temp_id": 85, 
+      "selected": false, 
+      "child_count": 2, 
+      "content_free_signature": "[class]android.widget.LinearLayout[resource_id]com.restaurant.mobile:id/account", 
+      "is_password": false, 
+      "parent": 75, 
+      "focusable": true, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": true, 
+      "class": "android.widget.LinearLayout", 
+      "scrollable": false, 
+      "package": "com.restaurant.mobile", 
+      "long_clickable": false, 
+      "view_str": "fc293d0e73d07a960ecba107734c0b25", 
+      "enabled": true, 
+      "bounds": [
+        [
+          810, 
+          1642
+        ], 
+        [
+          1080, 
+          1783
+        ]
+      ], 
+      "signature": "[class]android.widget.LinearLayout[resource_id]com.restaurant.mobile:id/account[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": "com.restaurant.mobile:id/account_image", 
+      "text": null, 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "270*105", 
+      "checked": false, 
+      "temp_id": 86, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.ImageView[resource_id]com.restaurant.mobile:id/account_image", 
+      "is_password": false, 
+      "parent": 85, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.ImageView", 
+      "scrollable": false, 
+      "package": "com.restaurant.mobile", 
+      "long_clickable": false, 
+      "view_str": "99f35e210e914365108b97308f236a81", 
+      "enabled": true, 
+      "bounds": [
+        [
+          810, 
+          1642
+        ], 
+        [
+          1080, 
+          1747
+        ]
+      ], 
+      "signature": "[class]android.widget.ImageView[resource_id]com.restaurant.mobile:id/account_image[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": "com.restaurant.mobile:id/account_text", 
+      "text": "Account", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "97*36", 
+      "checked": false, 
+      "temp_id": 87, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.TextView[resource_id]com.restaurant.mobile:id/account_text", 
+      "is_password": false, 
+      "parent": 85, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.TextView", 
+      "scrollable": false, 
+      "package": "com.restaurant.mobile", 
+      "long_clickable": false, 
+      "view_str": "ddc85ba8fef1ad2f67e3da1c3688690a", 
+      "enabled": true, 
+      "bounds": [
+        [
+          896, 
+          1747
+        ], 
+        [
+          993, 
+          1783
+        ]
+      ], 
+      "signature": "[class]android.widget.TextView[resource_id]com.restaurant.mobile:id/account_text[text]Account[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": "android:id/statusBarBackground", 
+      "text": null, 
+      "visible": false, 
+      "checkable": false, 
+      "children": [], 
+      "size": "1080*63", 
+      "checked": false, 
+      "temp_id": 88, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.view.View[resource_id]android:id/statusBarBackground", 
+      "is_password": false, 
+      "parent": 0, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.view.View", 
+      "scrollable": false, 
+      "package": "com.restaurant.mobile", 
+      "long_clickable": false, 
+      "view_str": "259833751c79fd9c3df7c7a7bc062a9f", 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          0
+        ], 
+        [
+          1080, 
+          63
+        ]
+      ], 
+      "signature": "[class]android.view.View[resource_id]android:id/statusBarBackground[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": "android:id/navigationBarBackground", 
+      "text": null, 
+      "visible": false, 
+      "checkable": false, 
+      "children": [], 
+      "size": "1080*126", 
+      "checked": false, 
+      "temp_id": 89, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.view.View[resource_id]android:id/navigationBarBackground", 
+      "is_password": false, 
+      "parent": 0, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.view.View", 
+      "scrollable": false, 
+      "package": "com.restaurant.mobile", 
+      "long_clickable": false, 
+      "view_str": "9f048fd7e379a37fb8fcd6307b0c7de5", 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          1794
+        ], 
+        [
+          1080, 
+          1920
+        ]
+      ], 
+      "signature": "[class]android.view.View[resource_id]android:id/navigationBarBackground[text]None[enabled,,]"
+    }
+  ], 
+  "state_str_content_free": "61fa3e33709a0a6039f0fbda39aad95d", 
+  "activity_stack": [
+    "com.restaurant.mobile/.MainActivity"
+  ], 
+  "background_services": [
+    "com.restaurant.mobile/org.chromium.content.app.SandboxedProcessService0", 
+    "com.google.android.gms/.deviceconnection.service.DeviceConnectionWatcherService", 
+    "com.google.android.gms/com.google.android.location.places.service.PlaceDetectionAsyncService", 
+    "com.android.systemui/.keyguard.KeyguardService", 
+    "com.android.systemui/.ImageWallpaper", 
+    "com.google.android.gms/com.google.android.location.geocode.GeocodeService", 
+    "com.google.android.gms/.auth.setup.devicesignals.LockScreenService", 
+    "com.google.android.gms/.gcm.GcmService", 
+    "com.google.android.gms/.clearcut.debug.ClearcutDebugDumpService", 
+    "com.google.android.gms/.chimera.PersistentApiService", 
+    "com.android.phone/com.android.internal.telephony.CellularNetworkService", 
+    "com.google.android.gms/.chimera.PersistentBoundBrokerService", 
+    "com.google.android.gms/.chimera.GmsBoundBrokerService", 
+    "com.google.android.gms/.usagereporting.service.UsageReportingService", 
+    "com.google.android.gms/.tron.CollectionService", 
+    "com.google.android.gms/.fido.fido2.pollux.CableAuthenticatorService", 
+    "com.google.android.googlequicksearchbox/com.google.android.apps.gsa.nowoverlayservice.DrawerOverlayService", 
+    "io.github.ylimit.droidbotapp/.DroidBotIME", 
+    "com.google.android.gms/com.google.android.location.fused.FusedLocationService", 
+    "com.google.android.gms/.gcm.nts.SchedulerService", 
+    "com.google.android.setupwizard/.logging.ScreenOnClock", 
+    "io.github.ylimit.droidbotapp/io.github.privacystreams.accessibility.PSAccessibilityService", 
+    "com.google.android.gms/com.google.android.location.geofencer.service.GeofenceProviderService", 
+    "com.google.android.gms/.thunderbird.EmergencyPersistentService", 
+    "com.google.android.apps.messaging/.fcm.BugleFirebaseInstanceIDService", 
+    "com.android.systemui/.SystemUIService", 
+    "com.google.android.gms/org.chromium.content.app.SandboxedProcessService0", 
+    "android/.hardware.location.GeofenceHardwareService", 
+    "com.android.se/.SecureElementService", 
+    "com.google.android.gms/.chimera.PersistentDirectBootAwareApiService", 
+    "com.google.android.ext.services/android.ext.services.notification.Assistant", 
+    "com.google.android.gms/com.google.android.location.internal.PendingIntentCallbackService", 
+    "com.google.android.gms/com.google.android.location.reporting.service.ReportingAndroidService", 
+    "com.google.android.gms/com.google.android.location.internal.server.GoogleLocationService", 
+    "com.google.android.gms/com.google.android.contextmanager.service.ContextManagerService", 
+    "com.google.android.gms/com.google.android.location.network.NetworkLocationService", 
+    "com.google.android.gms/com.google.android.location.internal.GoogleLocationManagerService", 
+    "com.android.phone/com.android.internal.telephony.dataconnection.CellularDataService", 
+    "com.android.server.telecom/.components.TelecomService", 
+    "com.google.android.googlequicksearchbox/com.google.android.voiceinteraction.GsaVoiceInteractionService", 
+    "com.android.smspush/.WapPushManager", 
+    "com.android.phone/.vvm.RemoteVvmTaskManager", 
+    "com.google.android.gms/.lockbox.service.LockboxBrokerService", 
+    "android/com.android.server.content.SyncJobService", 
+    "com.google.android.gms/.common.stats.GmsCoreStatsService", 
+    "com.google.android.gms/com.google.android.location.internal.server.HardwareArProviderService", 
+    "com.android.phone/.TelephonyDebugService", 
+    "com.google.android.videos/.service.pinning.TransferService", 
+    "com.google.android.gms/.icing.service.IndexService", 
+    "com.google.android.apps.nexuslauncher/com.android.quickstep.TouchInteractionService"
+  ], 
+  "state_str": "2b46cc971397c7ff117fb2ba934c96d6", 
+  "tag": "2019-08-15_180316", 
+  "foreground_activity": "com.restaurant.mobile/.MainActivity"
+}

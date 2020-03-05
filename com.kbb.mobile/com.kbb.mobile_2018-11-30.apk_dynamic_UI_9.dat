@@ -1,0 +1,2 @@
+205905ZZZisSaved:com.kbb.mobile.ActivityHub:$r6 = virtualinvoke $r0.<com.kbb.mobile.ActivityHub: android.content.Context getApplicationContext()>()
+205923ZZZinit:com.kbb.mobile.views.saved.SaveFavorite:$r2 = $r0.<com.kbb.mobile.views.saved.SaveFavorite: android.widget.ImageButton buttonFavorites>

@@ -1,0 +1,9 @@
+45209ZZZb:org.rferl.ui.fragment.TopBannersFragment:$r4 = new java.lang.StringBuilder
+45472ZZZonReceive:agm:$d0 = 0.1 + $d0
+45474ZZZonReceive:agm:$i0 = (int) $d0
+45484ZZZsetCustomProgress:org.rferl.ui.activity.BaseActivity:$r1 = $r0.<org.rferl.ui.activity.BaseActivity: android.widget.ProgressBar d>
+45470ZZZonReceive:agm:$d0 = (double) $f0
+45482ZZZsetCustomProgress:org.rferl.ui.activity.BaseActivity:$r1 = $r0.<org.rferl.ui.activity.BaseActivity: android.widget.ProgressBar d>
+45473ZZZonReceive:agm:$d0 = 100.0 * $d0
+45469ZZZonReceive:agm:$r3 = $r0.<agm: org.rferl.ui.activity.HomeActivity a>
+45471ZZZonReceive:agm:$d0 = 0.9 * $d0

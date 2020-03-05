@@ -1,0 +1,10 @@
+{
+  "stop_state": "e7fb1ea39553d4c03dbf51c83dcea0df", 
+  "event_str": "IntentEvent(intent='am start com.jackthreads.android/com.jackthreads.android.MainActivity')", 
+  "tag": "2019-08-17_193242", 
+  "event": {
+    "intent": "am start com.jackthreads.android/com.jackthreads.android.MainActivity", 
+    "event_type": "intent"
+  }, 
+  "start_state": "f694c05e31d625acb320b47312983a1f"
+}

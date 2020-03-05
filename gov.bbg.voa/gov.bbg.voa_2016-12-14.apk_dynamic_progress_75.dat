@@ -1,0 +1,2 @@
+255532ZZZparseInternal:org.rferl.io.feed.FeedHandler:$r2 = interfaceinvoke $r1.<org.xmlpull.v1.XmlPullParser: java.lang.String getName()>()
+255351ZZZstartElement:org.rferl.io.feed.ProgramHandler:$r6 = new org.rferl.provider.Contract$Program

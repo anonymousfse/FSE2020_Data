@@ -1,0 +1,48 @@
+{
+  "stop_state": "07a08e26cbe578bb54fa034ec7171cbb", 
+  "event_str": "TouchEvent(state=fac64e1918f98c183d06eaacbd45fd25, view=680a97aff7c902f43b1c40a70c60cf1a)", 
+  "tag": "2020-03-04_192746", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "event_type": "touch", 
+    "view": {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": "Mis\u00e9rables, Les Vol. 5", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "827*39", 
+      "checked": false, 
+      "temp_id": 62, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.view.View[resource_id]None", 
+      "is_password": false, 
+      "parent": 60, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.view.View", 
+      "scrollable": false, 
+      "package": "com.ironServices.audioBooks", 
+      "long_clickable": false, 
+      "view_str": "680a97aff7c902f43b1c40a70c60cf1a", 
+      "enabled": true, 
+      "bounds": [
+        [
+          186, 
+          871
+        ], 
+        [
+          1013, 
+          910
+        ]
+      ], 
+      "signature": "[class]android.view.View[resource_id]None[text]Mis\u00e9rables, Les Vol. 5[enabled,,]"
+    }
+  }, 
+  "start_state": "fac64e1918f98c183d06eaacbd45fd25"
+}

@@ -1,0 +1,48 @@
+{
+  "stop_state": "71516aaaf445dc4040b46147639fac7f", 
+  "event_str": "TouchEvent(state=71516aaaf445dc4040b46147639fac7f, view=879e0ae776c16469bb047568de1d4201)", 
+  "tag": "2020-03-04_194510", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "event_type": "touch", 
+    "view": {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": "Back to Craigslist", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "864*131", 
+      "checked": false, 
+      "temp_id": 6, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.TextView[resource_id]None", 
+      "is_password": false, 
+      "parent": 4, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.TextView", 
+      "scrollable": false, 
+      "package": "com.mtph.clmobile", 
+      "long_clickable": false, 
+      "view_str": "879e0ae776c16469bb047568de1d4201", 
+      "enabled": true, 
+      "bounds": [
+        [
+          216, 
+          63
+        ], 
+        [
+          1080, 
+          194
+        ]
+      ], 
+      "signature": "[class]android.widget.TextView[resource_id]None[text]Back to Craigslist[enabled,,]"
+    }
+  }, 
+  "start_state": "71516aaaf445dc4040b46147639fac7f"
+}

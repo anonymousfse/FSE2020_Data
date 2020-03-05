@@ -1,0 +1,52 @@
+{
+  "stop_state": "4cd6feaa77a713a47bdf58148b62b2c6", 
+  "event_str": "LongTouchEvent(state=7fe407d67bfe1f70a1d7576fff5f7ab6, view=65504b6df02e8ee06e2035869a3cf744, duration=2000)", 
+  "tag": "2019-08-15_171351", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "duration": 2000, 
+    "event_type": "long_touch", 
+    "view": {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": null, 
+      "visible": true, 
+      "checkable": false, 
+      "children": [
+        7, 
+        8
+      ], 
+      "size": "578*147", 
+      "checked": false, 
+      "temp_id": 6, 
+      "selected": false, 
+      "child_count": 2, 
+      "content_free_signature": "[class]android.widget.FrameLayout[resource_id]None", 
+      "is_password": false, 
+      "parent": 5, 
+      "focusable": true, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": true, 
+      "class": "android.widget.FrameLayout", 
+      "scrollable": false, 
+      "package": "com.google.android.apps.nexuslauncher", 
+      "long_clickable": true, 
+      "view_str": "65504b6df02e8ee06e2035869a3cf744", 
+      "enabled": true, 
+      "bounds": [
+        [
+          467, 
+          450
+        ], 
+        [
+          1045, 
+          597
+        ]
+      ], 
+      "signature": "[class]android.widget.FrameLayout[resource_id]None[text]None[enabled,,]"
+    }
+  }, 
+  "start_state": "7fe407d67bfe1f70a1d7576fff5f7ab6"
+}

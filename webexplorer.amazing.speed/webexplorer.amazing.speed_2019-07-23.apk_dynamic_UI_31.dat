@@ -1,0 +1,7 @@
+22170ZZZonCreateView:acr.browser.lightning.fragment.BookmarksFragment:$r5 = virtualinvoke $r4.<android.view.View: android.view.View findViewById(int)>(2131296533)
+22161ZZZonCreateView:acr.browser.lightning.fragment.BookmarksFragment:$r5 = virtualinvoke $r4.<android.view.View: android.view.View findViewById(int)>(2131296486)
+22042ZZZget:acr.browser.lightning.dialog.LightningDialogBuilder_Factory:$r2 = $r0.<acr.browser.lightning.dialog.LightningDialogBuilder_Factory: dagger.MembersInjector membersInjector>
+22174ZZZonCreateView:acr.browser.lightning.fragment.BookmarksFragment:$i0 = $r0.<acr.browser.lightning.fragment.BookmarksFragment: int mIconColor>
+22171ZZZonCreateView:acr.browser.lightning.fragment.BookmarksFragment:$r9 = (android.widget.ImageView) $r5
+22175ZZZonCreateView:acr.browser.lightning.fragment.BookmarksFragment:$r10 = <android.graphics.PorterDuff$Mode: android.graphics.PorterDuff$Mode SRC_IN>
+22173ZZZonCreateView:acr.browser.lightning.fragment.BookmarksFragment:$r9 = $r0.<acr.browser.lightning.fragment.BookmarksFragment: android.widget.ImageView mBookmarkTitleImage>

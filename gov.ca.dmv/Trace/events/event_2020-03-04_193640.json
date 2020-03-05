@@ -1,0 +1,48 @@
+{
+  "stop_state": "f0cfdf4b9314d75803864343b342e958", 
+  "event_str": "TouchEvent(state=f0cfdf4b9314d75803864343b342e958, view=1aebc9c7fdd0990d76cbfffb648450e6)", 
+  "tag": "2020-03-04_193640", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "event_type": "touch", 
+    "view": {
+      "content_description": null, 
+      "resource_id": "gov.ca.dmv:id/snackbar_text", 
+      "text": "Network not available. Check your network settings.", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "785*108", 
+      "checked": false, 
+      "temp_id": 18, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.TextView[resource_id]gov.ca.dmv:id/snackbar_text", 
+      "is_password": false, 
+      "parent": 17, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.TextView", 
+      "scrollable": false, 
+      "package": "gov.ca.dmv", 
+      "long_clickable": false, 
+      "view_str": "1aebc9c7fdd0990d76cbfffb648450e6", 
+      "enabled": true, 
+      "bounds": [
+        [
+          32, 
+          1686
+        ], 
+        [
+          817, 
+          1794
+        ]
+      ], 
+      "signature": "[class]android.widget.TextView[resource_id]gov.ca.dmv:id/snackbar_text[text]None[enabled,,]"
+    }
+  }, 
+  "start_state": "f0cfdf4b9314d75803864343b342e958"
+}

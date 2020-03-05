@@ -1,0 +1,49 @@
+{
+  "stop_state": "f0cfdf4b9314d75803864343b342e958", 
+  "event_str": "ScrollEvent(state=f0cfdf4b9314d75803864343b342e958, view=dd930886521566bd017ed39d0131a94e, direction=LEFT)", 
+  "tag": "2020-03-04_193634", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "direction": "LEFT", 
+    "event_type": "scroll", 
+    "view": {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": "", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "1081*1584", 
+      "checked": false, 
+      "temp_id": 15, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.webkit.WebView[resource_id]None", 
+      "is_password": false, 
+      "parent": 14, 
+      "focusable": true, 
+      "editable": false, 
+      "focused": true, 
+      "clickable": false, 
+      "class": "android.webkit.WebView", 
+      "scrollable": true, 
+      "package": "gov.ca.dmv", 
+      "long_clickable": false, 
+      "view_str": "dd930886521566bd017ed39d0131a94e", 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          210
+        ], 
+        [
+          1081, 
+          1794
+        ]
+      ], 
+      "signature": "[class]android.webkit.WebView[resource_id]None[text][enabled,,]"
+    }
+  }, 
+  "start_state": "f0cfdf4b9314d75803864343b342e958"
+}

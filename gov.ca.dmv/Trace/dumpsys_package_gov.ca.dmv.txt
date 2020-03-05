@@ -1,0 +1,73 @@
+Activity Resolver Table:
+  Non-Data Actions:
+      android.intent.action.MAIN:
+        860dc25 gov.ca.dmv/.main.MainActivity filter 2baecb7
+          Action: "android.intent.action.MAIN"
+          Category: "android.intent.category.LAUNCHER"
+
+Key Set Manager:
+  [gov.ca.dmv]
+      Signing KeySets: 319
+
+Packages:
+  Package [gov.ca.dmv] (def31fa):
+    userId=10507
+    pkg=Package{16ea3ab gov.ca.dmv}
+    codePath=/data/app/gov.ca.dmv-m0AKmdaJgqBY_LopQJaAdw==
+    resourcePath=/data/app/gov.ca.dmv-m0AKmdaJgqBY_LopQJaAdw==
+    legacyNativeLibraryDir=/data/app/gov.ca.dmv-m0AKmdaJgqBY_LopQJaAdw==/lib
+    primaryCpuAbi=null
+    secondaryCpuAbi=null
+    versionCode=26 minSdk=16 targetSdk=26
+    versionName=4.0
+    splits=[base]
+    apkSigningVersion=2
+    applicationInfo=ApplicationInfo{33bfa08 gov.ca.dmv}
+    flags=[ HAS_CODE ALLOW_CLEAR_USER_DATA ALLOW_BACKUP ]
+    privateFlags=[ PRIVATE_FLAG_ACTIVITIES_RESIZE_MODE_RESIZEABLE_VIA_SDK_VERSION ]
+    dataDir=/data/user/0/gov.ca.dmv
+    supportsScreens=[small, medium, large, xlarge, resizeable, anyDensity]
+    usesLibraries:
+      org.apache.http.legacy
+    usesLibraryFiles:
+      /system/framework/org.apache.http.legacy.boot.jar
+    timeStamp=2020-03-05 03:35:24
+    firstInstallTime=2020-03-05 03:35:24
+    lastUpdateTime=2020-03-05 03:35:24
+    signatures=PackageSignatures{e815a1 version:2, signatures:[e1b14d9a], past signatures:[]}
+    installPermissionsFixed=true
+    pkgFlags=[ HAS_CODE ALLOW_CLEAR_USER_DATA ALLOW_BACKUP ]
+    requested permissions:
+      android.permission.INTERNET
+      android.permission.ACCESS_NETWORK_STATE
+      android.permission.ACCESS_COARSE_LOCATION
+      android.permission.WRITE_EXTERNAL_STORAGE
+      android.permission.READ_EXTERNAL_STORAGE
+    install permissions:
+      android.permission.INTERNET: granted=true
+      android.permission.ACCESS_NETWORK_STATE: granted=true
+    User 0: ceDataInode=-4294843142 installed=true hidden=false suspended=false stopped=true notLaunched=true enabled=0 instant=false virtual=false
+      gids=[3003]
+      runtime permissions:
+
+Package Changes:
+  Sequence number=27
+  User 0:
+    seq=10, package=com.google.android.gms
+    seq=11, package=com.google.android.syncadapters.contacts
+    seq=15, package=com.WanApps.allamaiqbalshayari
+    seq=18, package=com.google.android.setupwizard
+    seq=20, package=com.ironServices.audioBooks
+    seq=25, package=io.github.ylimit.droidbotapp
+    seq=26, package=gov.ca.dmv
+
+
+Dexopt state:
+  [gov.ca.dmv]
+    path: /data/app/gov.ca.dmv-m0AKmdaJgqBY_LopQJaAdw==/base.apk
+      x86: [status=speed-profile] [reason=install]
+
+
+Compiler stats:
+  [gov.ca.dmv]
+     base.apk - 624

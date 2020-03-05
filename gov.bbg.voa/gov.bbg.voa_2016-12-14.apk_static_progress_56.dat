@@ -1,0 +1,5 @@
+278132ZZZb:org.rferl.ui.activity.article.ArticleActivity:virtualinvoke $r3.<android.widget.ProgressBar: void setVisibility(int)>(0)
+-1ZZZb:org.rferl.ui.activity.article.ArticleActivity:$r3 = $r0.<org.rferl.ui.activity.article.ArticleActivity: android.widget.ProgressBar b>
+-1ZZZb:org.rferl.ui.activity.article.ArticleActivity:$r0 := @this: org.rferl.ui.activity.article.ArticleActivity
+278119ZZZonCreate:org.rferl.ui.activity.article.ArticleActivity:specialinvoke $r0.<org.rferl.ui.activity.article.ArticleActivity: void b(boolean)>(1)
+-1ZZZonCreate:org.rferl.ui.activity.article.ArticleActivity:$r0 := @this: org.rferl.ui.activity.article.ArticleActivity

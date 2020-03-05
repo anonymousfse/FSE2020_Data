@@ -1,0 +1,50 @@
+{
+  "stop_state": "aded34949cc26d709c2aa8b448066c64", 
+  "event_str": "TouchEvent(state=fc16cb1155853727bfee54d1d5955d49, view=5f60c6c12d07d633a3946919aa07e5ec)", 
+  "tag": "2020-03-04_192432", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "event_type": "touch", 
+    "view": {
+      "content_description": null, 
+      "resource_id": "btnFontSize", 
+      "text": "", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [
+        19
+      ], 
+      "size": "163*82", 
+      "checked": false, 
+      "temp_id": 18, 
+      "selected": false, 
+      "child_count": 1, 
+      "content_free_signature": "[class]android.view.View[resource_id]btnFontSize", 
+      "is_password": false, 
+      "parent": 10, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": true, 
+      "class": "android.view.View", 
+      "scrollable": false, 
+      "package": "com.ironServices.audioBooks", 
+      "long_clickable": false, 
+      "view_str": "5f60c6c12d07d633a3946919aa07e5ec", 
+      "enabled": true, 
+      "bounds": [
+        [
+          708, 
+          78
+        ], 
+        [
+          871, 
+          160
+        ]
+      ], 
+      "signature": "[class]android.view.View[resource_id]btnFontSize[text][enabled,,]"
+    }
+  }, 
+  "start_state": "fc16cb1155853727bfee54d1d5955d49"
+}

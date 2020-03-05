@@ -1,0 +1,51 @@
+{
+  "stop_state": "daefd3cafad4703ce23f73bfe02057fe", 
+  "event_str": "ScrollEvent(state=6c7e693a608959a8abd1c1f7a839655e, view=375e5363fc3ec04d54d566565d72b37e, direction=RIGHT)", 
+  "tag": "2019-08-15_111454", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "direction": "RIGHT", 
+    "event_type": "scroll", 
+    "view": {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": "", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [
+        8
+      ], 
+      "size": "1081*1794", 
+      "checked": false, 
+      "temp_id": 7, 
+      "selected": false, 
+      "child_count": 1, 
+      "content_free_signature": "[class]android.webkit.WebView[resource_id]None", 
+      "is_password": false, 
+      "parent": 6, 
+      "focusable": true, 
+      "editable": false, 
+      "focused": true, 
+      "clickable": false, 
+      "class": "android.webkit.WebView", 
+      "scrollable": true, 
+      "package": "com.learn.engspanish", 
+      "long_clickable": false, 
+      "view_str": "375e5363fc3ec04d54d566565d72b37e", 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          0
+        ], 
+        [
+          1081, 
+          1794
+        ]
+      ], 
+      "signature": "[class]android.webkit.WebView[resource_id]None[text][enabled,,]"
+    }
+  }, 
+  "start_state": "6c7e693a608959a8abd1c1f7a839655e"
+}

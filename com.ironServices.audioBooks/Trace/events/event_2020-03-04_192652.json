@@ -1,0 +1,48 @@
+{
+  "stop_state": "3294e55a13f90d81d06e3f192f52b336", 
+  "event_str": "TouchEvent(state=3294e55a13f90d81d06e3f192f52b336, view=753297f2753d27ac306791e93b801f33)", 
+  "tag": "2020-03-04_192652", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "event_type": "touch", 
+    "view": {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": "Frederick, having appointed a governor in Rome to watch his Italian affairs, returned to Germany. All the Tuscan and Lombardian Ghibellines, who followed the imperial lead, had recourse to Castruccio for help and counsel, and all promised him the governorship of his country, if enabled to recover it with his assistance. Among these exiles were Matteo Guidi, Nardo Scolari, Lapo Uberti, Gerozzo Nardi, and Piero Buonaccorsi, all exiled Florentines and Ghibellines. Castruccio had the secret intention of becoming the master of all Tuscany by the aid of these men and of his own forces; and in order to gain greater weight in affairs, he entered into a league with Messer Matteo Visconti, the Prince of Milan, and organized for him the forces of his city and the country districts. As Lucca had five gates, he divided his own country districts into five parts, which he supplied with arms, and enrolled the men under captains and ensigns, so that he could quickly bring into the field twenty thousand soldiers, without those whom he could summon to his assistance from Pisa. While he surrounded himself with these forces and allies, it happened at Messer Matteo Visconti was attacked by the Guelphs of Piacenza, who had driven out the Ghibellines with the assistance of a Florentine army and the King Ruberto. Messer Matteo called upon Castruccio to invade the Florentines in their own territories, so that, being attacked at home, they should be compelled to draw their army out of Lombardy in order to defend themselves. Castruccio invaded the Valdarno, and seized Fucecchio and San Miniato, inflicting immense damage upon the country. Whereupon the Florentines recalled their army, which had scarcely reached Tuscany, when Castruccio was forced by other necessities to return to Lucca.", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "2*359", 
+      "checked": false, 
+      "temp_id": 117, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.view.View[resource_id]None", 
+      "is_password": false, 
+      "parent": 30, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.view.View", 
+      "scrollable": false, 
+      "package": "com.ironServices.audioBooks", 
+      "long_clickable": false, 
+      "view_str": "753297f2753d27ac306791e93b801f33", 
+      "enabled": true, 
+      "bounds": [
+        [
+          1021, 
+          1323
+        ], 
+        [
+          1023, 
+          1682
+        ]
+      ], 
+      "signature": "[class]android.view.View[resource_id]None[text]None[enabled,,]"
+    }
+  }, 
+  "start_state": "3294e55a13f90d81d06e3f192f52b336"
+}

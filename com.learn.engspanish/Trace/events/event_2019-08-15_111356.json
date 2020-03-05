@@ -1,0 +1,52 @@
+{
+  "stop_state": "1285379ca68d4d5ba08b37bd270cfe8e", 
+  "event_str": "LongTouchEvent(state=78f679069e0030d5e5fd86ae2d55e4db, view=d3a2f1023042fbb9ccb10e5d0004a8bd, duration=2000)", 
+  "tag": "2019-08-15_111356", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "duration": 2000, 
+    "event_type": "long_touch", 
+    "view": {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": null, 
+      "visible": true, 
+      "checkable": false, 
+      "children": [
+        12, 
+        13
+      ], 
+      "size": "1080*149", 
+      "checked": false, 
+      "temp_id": 11, 
+      "selected": false, 
+      "child_count": 2, 
+      "content_free_signature": "[class]android.widget.LinearLayout[resource_id]None", 
+      "is_password": false, 
+      "parent": 6, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": true, 
+      "class": "android.widget.LinearLayout", 
+      "scrollable": false, 
+      "package": "android", 
+      "long_clickable": true, 
+      "view_str": "d3a2f1023042fbb9ccb10e5d0004a8bd", 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          1477
+        ], 
+        [
+          1080, 
+          1626
+        ]
+      ], 
+      "signature": "[class]android.widget.LinearLayout[resource_id]None[text]None[enabled,,]"
+    }
+  }, 
+  "start_state": "78f679069e0030d5e5fd86ae2d55e4db"
+}

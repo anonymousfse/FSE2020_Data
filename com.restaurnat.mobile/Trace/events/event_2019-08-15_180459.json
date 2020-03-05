@@ -1,0 +1,51 @@
+{
+  "stop_state": "ff5787e71ded5a46bde13147ec7d1086", 
+  "event_str": "TouchEvent(state=558dacd5708ff1a090cff9cb9da838b3, view=8356844b63f9c2e8c1778fbb4046e0e0)", 
+  "tag": "2019-08-15_180459", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "event_type": "touch", 
+    "view": {
+      "content_description": null, 
+      "resource_id": "com.restaurant.mobile:id/cert", 
+      "text": null, 
+      "visible": true, 
+      "checkable": false, 
+      "children": [
+        81, 
+        82
+      ], 
+      "size": "270*141", 
+      "checked": false, 
+      "temp_id": 80, 
+      "selected": false, 
+      "child_count": 2, 
+      "content_free_signature": "[class]android.widget.LinearLayout[resource_id]com.restaurant.mobile:id/cert", 
+      "is_password": false, 
+      "parent": 76, 
+      "focusable": true, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": true, 
+      "class": "android.widget.LinearLayout", 
+      "scrollable": false, 
+      "package": "com.restaurant.mobile", 
+      "long_clickable": false, 
+      "view_str": "8356844b63f9c2e8c1778fbb4046e0e0", 
+      "enabled": true, 
+      "bounds": [
+        [
+          270, 
+          1642
+        ], 
+        [
+          540, 
+          1783
+        ]
+      ], 
+      "signature": "[class]android.widget.LinearLayout[resource_id]com.restaurant.mobile:id/cert[text]None[enabled,,]"
+    }
+  }, 
+  "start_state": "558dacd5708ff1a090cff9cb9da838b3"
+}

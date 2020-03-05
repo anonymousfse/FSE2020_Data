@@ -1,0 +1,48 @@
+{
+  "stop_state": "34c9f7ada13ad52f337602e4eb88e6d2", 
+  "event_str": "TouchEvent(state=c592fc83ca033d4a02652e2a31650bcc, view=7334c4485b4eb2673d50438357d87cdd)", 
+  "tag": "2020-03-04_185226", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "event_type": "touch", 
+    "view": {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": "overtheedgetravel.com", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "296*2", 
+      "checked": false, 
+      "temp_id": 234, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.view.View[resource_id]None", 
+      "is_password": false, 
+      "parent": 233, 
+      "focusable": true, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": true, 
+      "class": "android.view.View", 
+      "scrollable": false, 
+      "package": "webexplorer.amazing.speed", 
+      "long_clickable": false, 
+      "view_str": "7334c4485b4eb2673d50438357d87cdd", 
+      "enabled": true, 
+      "bounds": [
+        [
+          89, 
+          1792
+        ], 
+        [
+          385, 
+          1794
+        ]
+      ], 
+      "signature": "[class]android.view.View[resource_id]None[text]overtheedgetravel.com[enabled,,]"
+    }
+  }, 
+  "start_state": "c592fc83ca033d4a02652e2a31650bcc"
+}

@@ -1,0 +1,48 @@
+{
+  "stop_state": "93a047b70765e383e2f11a1f4f094926", 
+  "event_str": "TouchEvent(state=93a047b70765e383e2f11a1f4f094926, view=1e8c21010736e6e36cbad50e9739257d)", 
+  "tag": "2019-08-15_180609", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "event_type": "touch", 
+    "view": {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": "VALUE", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "291*3", 
+      "checked": false, 
+      "temp_id": 100, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.view.View[resource_id]None", 
+      "is_password": false, 
+      "parent": 99, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.view.View", 
+      "scrollable": false, 
+      "package": "com.restaurant.mobile", 
+      "long_clickable": false, 
+      "view_str": "1e8c21010736e6e36cbad50e9739257d", 
+      "enabled": true, 
+      "bounds": [
+        [
+          157, 
+          212
+        ], 
+        [
+          448, 
+          215
+        ]
+      ], 
+      "signature": "[class]android.view.View[resource_id]None[text]VALUE[enabled,,]"
+    }
+  }, 
+  "start_state": "93a047b70765e383e2f11a1f4f094926"
+}

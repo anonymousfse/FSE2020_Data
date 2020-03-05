@@ -1,0 +1,43 @@
+157430ZZZshowLoaderWithProgress:com.kbb.mobile.views.ViewHolder:virtualinvoke $r1.<android.widget.ProgressBar: void setVisibility(int)>(0)
+-1ZZZshowLoaderWithProgress:com.kbb.mobile.views.ViewHolder:$r1 = $r0.<com.kbb.mobile.views.ViewHolder: android.widget.ProgressBar progressBar>
+-1ZZZshowLoaderWithProgress:com.kbb.mobile.views.ViewHolder:$r0 := @this: com.kbb.mobile.views.ViewHolder
+157428ZZZupdateViewHolder:com.kbb.mobile.views.path.PathAdapter:virtualinvoke $r1.<com.kbb.mobile.views.ViewHolder: void showLoaderWithProgress()>()
+-1ZZZupdateViewHolder:com.kbb.mobile.views.path.PathAdapter:$r1 := @parameter0: com.kbb.mobile.views.ViewHolder
+157420ZZZparse:com.kbb.mobile.Business.UrlHelper:staticinvoke <com.kbb.mobile.Business.UrlHelper: void logUrl(java.lang.String,java.lang.String)>($r0, $r5)
+-1ZZZparse:com.kbb.mobile.Business.UrlHelper:$r0 := @parameter0: java.lang.String
+-1ZZZparse:com.kbb.mobile.Business.UrlHelper:$r0 = staticinvoke <com.kbb.mobile.Business.UrlHelper: java.lang.String stripTilda(java.lang.String)>($r0)
+-1ZZZparse:com.kbb.mobile.Business.UrlHelper:$r0 = staticinvoke <com.kbb.mobile.Business.UrlHelper: java.lang.String replaceBackslash(java.lang.String)>($r0)
+-1ZZZparse:com.kbb.mobile.Business.UrlHelper:$r0 = virtualinvoke $r2.<java.lang.StringBuilder: java.lang.String toString()>()
+-1ZZZparse:com.kbb.mobile.Business.UrlHelper:$r5 = staticinvoke <com.kbb.mobile.Business.UrlHelper: java.lang.String getReplaceString(java.lang.String[])>($r1)
+-1ZZZparse:com.kbb.mobile.Business.UrlHelper:$r5 = virtualinvoke $r4.<java.util.regex.Matcher: java.lang.String replaceFirst(java.lang.String)>($r5)
+-1ZZZparse:com.kbb.mobile.Business.UrlHelper:$r5 = $r0
+-1ZZZparse:com.kbb.mobile.Business.UrlHelper:$r2 = new java.lang.StringBuilder
+-1ZZZparse:com.kbb.mobile.Business.UrlHelper:$r2 = virtualinvoke $r2.<java.lang.StringBuilder: java.lang.StringBuilder append(java.lang.String)>($r0)
+-1ZZZparse:com.kbb.mobile.Business.UrlHelper:$r1 := @parameter1: java.lang.String[]
+-1ZZZparse:com.kbb.mobile.Business.UrlHelper:$r4 = virtualinvoke $r3.<java.util.regex.Pattern: java.util.regex.Matcher matcher(java.lang.CharSequence)>($r0)
+-1ZZZparse:com.kbb.mobile.Business.UrlHelper:$r3 = <com.kbb.mobile.Business.UrlHelper: java.util.regex.Pattern PhotoUriRegex>
+157398ZZZgetThumbnailUrlFullyQualified:com.kbb.mobile.Business.Model:$r2 = staticinvoke <com.kbb.mobile.Business.UrlHelper: java.lang.String parse(java.lang.String,java.lang.String[])>($r2, $r1)
+-1ZZZgetThumbnailUrlFullyQualified:com.kbb.mobile.Business.Model:$r2 = $r0.<com.kbb.mobile.Business.Model: java.lang.String thumbnailUrl>
+-1ZZZgetThumbnailUrlFullyQualified:com.kbb.mobile.Business.Model:$r2 = staticinvoke <com.kbb.mobile.Business.UrlHelper: java.lang.String parse(java.lang.String,java.lang.String[])>($r2, $r1)
+-1ZZZgetThumbnailUrlFullyQualified:com.kbb.mobile.Business.Model:$r1 := @parameter0: java.lang.String[]
+-1ZZZgetThumbnailUrlFullyQualified:com.kbb.mobile.Business.Model:$r0 := @this: com.kbb.mobile.Business.Model
+157373ZZZgetGroupView:com.kbb.mobile.views.path.PathAdapter:specialinvoke $r0.<com.kbb.mobile.views.path.PathAdapter: void updateViewHolder(com.kbb.mobile.views.ViewHolder,boolean,com.kbb.mobile.Business.Business)>($r6, $z0, $r7)
+-1ZZZgetGroupView:com.kbb.mobile.views.path.PathAdapter:$r6 = specialinvoke $r0.<com.kbb.mobile.views.path.PathAdapter: com.kbb.mobile.views.ViewHolder createViewHolderStoreInViewsTag(android.view.View,boolean)>($r1, $z0)
+-1ZZZgetGroupView:com.kbb.mobile.views.path.PathAdapter:$r6 = (com.kbb.mobile.views.ViewHolder) $r8
+-1ZZZgetGroupView:com.kbb.mobile.views.path.PathAdapter:$z0 := @parameter1: boolean
+-1ZZZgetGroupView:com.kbb.mobile.views.path.PathAdapter:$z0 = virtualinvoke $r5.<com.kbb.mobile.Business.BusinessList: boolean supportsImage()>()
+-1ZZZgetGroupView:com.kbb.mobile.views.path.PathAdapter:$r7 = virtualinvoke $r5.<com.kbb.mobile.Business.BusinessList: com.kbb.mobile.Business.Business get(int)>($i0)
+-1ZZZgetGroupView:com.kbb.mobile.views.path.PathAdapter:$r0 := @this: com.kbb.mobile.views.path.PathAdapter
+-1ZZZgetGroupView:com.kbb.mobile.views.path.PathAdapter:$r1 := @parameter2: android.view.View
+-1ZZZgetGroupView:com.kbb.mobile.views.path.PathAdapter:$r1 = virtualinvoke $r3.<android.view.LayoutInflater: android.view.View inflate(int,android.view.ViewGroup)>($i1, null)
+-1ZZZgetGroupView:com.kbb.mobile.views.path.PathAdapter:$r8 = virtualinvoke $r1.<android.view.View: java.lang.Object getTag()>()
+-1ZZZgetGroupView:com.kbb.mobile.views.path.PathAdapter:$r5 = virtualinvoke $r0.<com.kbb.mobile.views.path.PathAdapter: com.kbb.mobile.Business.BusinessList getBusinessList()>()
+-1ZZZgetGroupView:com.kbb.mobile.views.path.PathAdapter:$i0 := @parameter0: int
+-1ZZZgetGroupView:com.kbb.mobile.views.path.PathAdapter:$i1 = 2130903069
+-1ZZZgetGroupView:com.kbb.mobile.views.path.PathAdapter:$i1 = 2130903065
+-1ZZZgetGroupView:com.kbb.mobile.views.path.PathAdapter:$r3 = $r0.<com.kbb.mobile.views.path.PathAdapter: android.view.LayoutInflater inflater>
+157354ZZZcreateViewHolderStoreInViewsTag:com.kbb.mobile.views.path.PathAdapter:virtualinvoke $r2.<com.kbb.mobile.views.path.ViewHolderPath: void getViews(android.view.View,int)>($r1, 2130837602)
+-1ZZZcreateViewHolderStoreInViewsTag:com.kbb.mobile.views.path.PathAdapter:$r1 := @parameter0: android.view.View
+-1ZZZcreateViewHolderStoreInViewsTag:com.kbb.mobile.views.path.PathAdapter:$r2 = new com.kbb.mobile.views.path.ViewHolderPath
+157344ZZZ<init>:com.kbb.mobile.views.path.ViewHolderPath:specialinvoke $r0.<com.kbb.mobile.views.ViewHolder: void <init>()>()
+-1ZZZ<init>:com.kbb.mobile.views.path.ViewHolderPath:$r0 := @this: com.kbb.mobile.views.path.ViewHolderPath

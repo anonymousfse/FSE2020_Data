@@ -1,0 +1,11 @@
+80121ZZZcreateAdapter:com.kbb.mobile.views.hub.CarHubDealers:virtualinvoke $r9.<android.widget.ProgressBar: void setVisibility(int)>(8)
+-1ZZZcreateAdapter:com.kbb.mobile.views.hub.CarHubDealers:$r9 = $r0.<com.kbb.mobile.views.hub.CarHubDealers: android.widget.ProgressBar progress>
+-1ZZZcreateAdapter:com.kbb.mobile.views.hub.CarHubDealers:$r0 := @this: com.kbb.mobile.views.hub.CarHubDealers
+80097ZZZcreateAdapter:com.kbb.mobile.views.hub.CarHubDealers:specialinvoke $r4.<com.kbb.mobile.views.dealer.DealerAdapterHub: void <init>(android.view.LayoutInflater,com.kbb.mobile.Business.Dealers,android.app.Activity,android.content.Context)>($r1, $r2, $r5, $r7)
+-1ZZZcreateAdapter:com.kbb.mobile.views.hub.CarHubDealers:$r1 = $r0.<com.kbb.mobile.views.hub.CarHubDealers: android.view.LayoutInflater inflater>
+-1ZZZcreateAdapter:com.kbb.mobile.views.hub.CarHubDealers:$r2 = $r0.<com.kbb.mobile.views.hub.CarHubDealers: com.kbb.mobile.Business.Dealers dealers>
+-1ZZZcreateAdapter:com.kbb.mobile.views.hub.CarHubDealers:$r5 = virtualinvoke $r0.<com.kbb.mobile.views.hub.CarHubDealers: com.kbb.mobile.ActivityHub getActivityHub()>()
+-1ZZZcreateAdapter:com.kbb.mobile.views.hub.CarHubDealers:$r7 = virtualinvoke $r6.<com.kbb.mobile.ActivityHub: android.content.Context getBaseContext()>()
+-1ZZZcreateAdapter:com.kbb.mobile.views.hub.CarHubDealers:$r4 = new com.kbb.mobile.views.dealer.DealerAdapterHub
+-1ZZZcreateAdapter:com.kbb.mobile.views.hub.CarHubDealers:$r0 := @this: com.kbb.mobile.views.hub.CarHubDealers
+-1ZZZcreateAdapter:com.kbb.mobile.views.hub.CarHubDealers:$r6 = virtualinvoke $r0.<com.kbb.mobile.views.hub.CarHubDealers: com.kbb.mobile.ActivityHub getActivityHub()>()

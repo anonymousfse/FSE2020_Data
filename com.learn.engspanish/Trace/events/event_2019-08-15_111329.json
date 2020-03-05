@@ -1,0 +1,48 @@
+{
+  "stop_state": "590a9e762ee8033e8b91e902c9853f69", 
+  "event_str": "TouchEvent(state=9fcc97b171979e4b3898b44eb349e47f, view=fbc0b9ab422e38b24e3fb1e2f2291090)", 
+  "tag": "2019-08-15_111329", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "event_type": "touch", 
+    "view": {
+      "content_description": null, 
+      "resource_id": "com.learn.engspanish:id/btn3", 
+      "text": "ESCARPADO", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "455*126", 
+      "checked": false, 
+      "temp_id": 20, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.Button[resource_id]com.learn.engspanish:id/btn3", 
+      "is_password": false, 
+      "parent": 19, 
+      "focusable": true, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": true, 
+      "class": "android.widget.Button", 
+      "scrollable": false, 
+      "package": "com.learn.engspanish", 
+      "long_clickable": false, 
+      "view_str": "fbc0b9ab422e38b24e3fb1e2f2291090", 
+      "enabled": true, 
+      "bounds": [
+        [
+          71, 
+          1090
+        ], 
+        [
+          526, 
+          1216
+        ]
+      ], 
+      "signature": "[class]android.widget.Button[resource_id]com.learn.engspanish:id/btn3[text]ESCARPADO[enabled,,]"
+    }
+  }, 
+  "start_state": "9fcc97b171979e4b3898b44eb349e47f"
+}

@@ -1,0 +1,48 @@
+{
+  "stop_state": "5d9a9a1a6ea7d671db8fc33b1cd55a1a", 
+  "event_str": "TouchEvent(state=5d9a9a1a6ea7d671db8fc33b1cd55a1a, view=73c45e4258ce9874386e90c0014d6caa)", 
+  "tag": "2019-08-21_200050", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "event_type": "touch", 
+    "view": {
+      "content_description": null, 
+      "resource_id": "com.carwale:id/tvPrice", 
+      "text": "\u20b9 390000", 
+      "visible": false, 
+      "checkable": false, 
+      "children": [], 
+      "size": "-3475*-1517", 
+      "checked": false, 
+      "temp_id": 465, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.TextView[resource_id]com.carwale:id/tvPrice", 
+      "is_password": false, 
+      "parent": 461, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.TextView", 
+      "scrollable": false, 
+      "package": "com.carwale", 
+      "long_clickable": false, 
+      "view_str": "73c45e4258ce9874386e90c0014d6caa", 
+      "enabled": true, 
+      "bounds": [
+        [
+          4555, 
+          3311
+        ], 
+        [
+          1080, 
+          1794
+        ]
+      ], 
+      "signature": "[class]android.widget.TextView[resource_id]com.carwale:id/tvPrice[text]\u20b9 390000[enabled,,]"
+    }
+  }, 
+  "start_state": "5d9a9a1a6ea7d671db8fc33b1cd55a1a"
+}

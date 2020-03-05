@@ -1,0 +1,48 @@
+{
+  "stop_state": "91cce28ccdbdc6e58cc956ca7fbea235", 
+  "event_str": "TouchEvent(state=71516aaaf445dc4040b46147639fac7f, view=91d3a7cd127f465f6a3870f9d6cdd1a5)", 
+  "tag": "2020-03-04_194436", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "event_type": "touch", 
+    "view": {
+      "content_description": null, 
+      "resource_id": "com.mtph.clmobile:id/sendFeedback", 
+      "text": "Send Feedback", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "1080*158", 
+      "checked": false, 
+      "temp_id": 11, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.TextView[resource_id]com.mtph.clmobile:id/sendFeedback", 
+      "is_password": false, 
+      "parent": 3, 
+      "focusable": true, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": true, 
+      "class": "android.widget.TextView", 
+      "scrollable": false, 
+      "package": "com.mtph.clmobile", 
+      "long_clickable": false, 
+      "view_str": "91d3a7cd127f465f6a3870f9d6cdd1a5", 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          516
+        ], 
+        [
+          1080, 
+          674
+        ]
+      ], 
+      "signature": "[class]android.widget.TextView[resource_id]com.mtph.clmobile:id/sendFeedback[text]Send Feedback[enabled,,]"
+    }
+  }, 
+  "start_state": "71516aaaf445dc4040b46147639fac7f"
+}

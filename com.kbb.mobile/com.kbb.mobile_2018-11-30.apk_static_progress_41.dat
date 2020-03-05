@@ -1,0 +1,13 @@
+252357ZZZOnPostExecute:com.kbb.mobile.views.path.ListViewPathBase:virtualinvoke $r6.<android.widget.ProgressBar: void setVisibility(int)>(8)
+-1ZZZOnPostExecute:com.kbb.mobile.views.path.ListViewPathBase:$r6 = $r0.<com.kbb.mobile.views.path.ListViewPathBase: android.widget.ProgressBar progressBar>
+-1ZZZOnPostExecute:com.kbb.mobile.views.path.ListViewPathBase:$r0 := @this: com.kbb.mobile.views.path.ListViewPathBase
+252340ZZZsetBusinessList:com.kbb.mobile.views.path.ListViewPathBase:virtualinvoke $r2.<com.kbb.mobile.views.path.PathAdapterBase: void setBusinessList(com.kbb.mobile.Business.BusinessList)>($r1)
+-1ZZZsetBusinessList:com.kbb.mobile.views.path.ListViewPathBase:$r1 := @parameter0: com.kbb.mobile.Business.BusinessList
+-1ZZZsetBusinessList:com.kbb.mobile.views.path.ListViewPathBase:$r2 = $r0.<com.kbb.mobile.views.path.ListViewPathBase: com.kbb.mobile.views.path.PathAdapterBase adapter>
+-1ZZZsetBusinessList:com.kbb.mobile.views.path.ListViewPathBase:$r0 := @this: com.kbb.mobile.views.path.ListViewPathBase
+252338ZZZOnPostExecute:com.kbb.mobile.views.path.ListViewPathBase:virtualinvoke $r0.<com.kbb.mobile.views.path.ListViewPathBase: void setBusinessList(com.kbb.mobile.Business.BusinessList)>($r3)
+-1ZZZOnPostExecute:com.kbb.mobile.views.path.ListViewPathBase:$r3 = (com.kbb.mobile.Business.BusinessList) $r1
+-1ZZZOnPostExecute:com.kbb.mobile.views.path.ListViewPathBase:$r0 := @this: com.kbb.mobile.views.path.ListViewPathBase
+-1ZZZOnPostExecute:com.kbb.mobile.views.path.ListViewPathBase:$r1 := @parameter0: com.kbb.mobile.Business.IHttpFetch
+252320ZZZclearChoices:com.kbb.mobile.views.path.ListViewPathBase:specialinvoke $r0.<android.widget.ExpandableListView: void clearChoices()>()
+-1ZZZclearChoices:com.kbb.mobile.views.path.ListViewPathBase:$r0 := @this: com.kbb.mobile.views.path.ListViewPathBase

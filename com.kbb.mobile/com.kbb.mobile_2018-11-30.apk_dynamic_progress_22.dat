@@ -1,0 +1,2 @@
+40104ZZZshowBitmap:com.kbb.mobile.views.ViewHolder:$r5 = $r0.<com.kbb.mobile.views.ViewHolder: android.widget.ProgressBar progressBar>
+40069ZZZsetImageOnViewRunOnUiThread:com.kbb.mobile.Http.HttpConnectionHandlerImage:$r3 = $r0.<com.kbb.mobile.Http.HttpConnectionHandlerImage: com.kbb.mobile.views.ViewHolder viewHolder>

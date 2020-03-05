@@ -1,0 +1,4 @@
+514125ZZZonCreateView:org.rferl.ui.fragment.multimedia.MultimediaFragment:$r5 = virtualinvoke $r4.<android.view.View: android.view.View findViewById(int)>(2131624397)
+514126ZZZonCreateView:org.rferl.ui.fragment.multimedia.MultimediaFragment:$r7 = (android.widget.TextView) $r5
+514120ZZZonCreateView:org.rferl.ui.fragment.multimedia.MultimediaFragment:$r5 = virtualinvoke $r4.<android.view.View: android.view.View findViewById(int)>(2131624396)
+514128ZZZonCreateView:org.rferl.ui.fragment.multimedia.MultimediaFragment:$r7 = $r0.<org.rferl.ui.fragment.multimedia.MultimediaFragment: android.widget.TextView u>

@@ -1,0 +1,6 @@
+99069ZZZonSensorChanged:com.mixpanel.android.viewcrawler.m:$r2 = $r1.<android.hardware.SensorEvent: float[] values>
+99137ZZZonSensorChanged:com.mixpanel.android.viewcrawler.m:$r2 = $r1.<android.hardware.SensorEvent: float[] values>
+99170ZZZonSensorChanged:com.mixpanel.android.viewcrawler.m:$r2 = $r0.<com.mixpanel.android.viewcrawler.m: float[] d>
+99102ZZZonSensorChanged:com.mixpanel.android.viewcrawler.m:$r2 = $r0.<com.mixpanel.android.viewcrawler.m: float[] d>
+99112ZZZonSensorChanged:com.mixpanel.android.viewcrawler.m:$f2 = $r2[2]
+99108ZZZonSensorChanged:com.mixpanel.android.viewcrawler.m:$f2 = $r2[1]

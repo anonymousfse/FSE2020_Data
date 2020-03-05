@@ -1,0 +1,48 @@
+{
+  "stop_state": "c821d5d08bda83b9a096716965dcdc68", 
+  "event_str": "TouchEvent(state=76457299c2e8cac6fba1a7fb81968ecd, view=1aa8b878ca43b3297981b1a7aee1549a)", 
+  "tag": "2020-03-04_185433", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "event_type": "touch", 
+    "view": {
+      "content_description": null, 
+      "resource_id": "com.android.vending:id/action_bar_container", 
+      "text": null, 
+      "visible": false, 
+      "checkable": false, 
+      "children": [], 
+      "size": "1080*0", 
+      "checked": false, 
+      "temp_id": 7, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.FrameLayout[resource_id]com.android.vending:id/action_bar_container", 
+      "is_password": false, 
+      "parent": 6, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.FrameLayout", 
+      "scrollable": false, 
+      "package": "com.android.vending", 
+      "long_clickable": false, 
+      "view_str": "1aa8b878ca43b3297981b1a7aee1549a", 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          63
+        ], 
+        [
+          1080, 
+          63
+        ]
+      ], 
+      "signature": "[class]android.widget.FrameLayout[resource_id]com.android.vending:id/action_bar_container[text]None[enabled,,]"
+    }
+  }, 
+  "start_state": "76457299c2e8cac6fba1a7fb81968ecd"
+}

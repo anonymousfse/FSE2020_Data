@@ -1,0 +1,3 @@
+221640ZZZinitialize:com.kbb.mobile.DataBinding.StrategyBindingCheckBox:$r7 = (java.lang.Boolean) $r6
+221641ZZZinitialize:com.kbb.mobile.DataBinding.StrategyBindingCheckBox:$z0 = virtualinvoke $r7.<java.lang.Boolean: boolean booleanValue()>()
+221355ZZZCreate:com.kbb.mobile.DataBinding.StrategyBindingFactory:$r3 = new com.kbb.mobile.DataBinding.StrategyBindingCheckBox

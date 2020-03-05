@@ -1,0 +1,15 @@
+479811ZZZa:aja:virtualinvoke $r12.<android.widget.ProgressBar: void setVisibility(int)>($b1)
+-1ZZZa:aja:$b1 = 0
+-1ZZZa:aja:$b1 = 8
+-1ZZZa:aja:$r12 = $r0.<aja: android.widget.ProgressBar h>
+-1ZZZa:aja:$r0 := @this: aja
+479780ZZZonReceive:aiy:virtualinvoke $r9.<aja: void a(java.lang.String)>($r6)
+-1ZZZonReceive:aiy:$r6 = virtualinvoke $r2.<android.content.Intent: java.lang.String getStringExtra(java.lang.String)>("paramPlayerTubeId")
+-1ZZZonReceive:aiy:$r6 = virtualinvoke $r2.<android.content.Intent: java.lang.String getAction()>()
+-1ZZZonReceive:aiy:$r9 = staticinvoke <org.rferl.ui.fragment.AudioPlayerFragment: aja a(org.rferl.ui.fragment.AudioPlayerFragment)>($r7)
+-1ZZZonReceive:aiy:$r2 := @parameter1: android.content.Intent
+-1ZZZonReceive:aiy:$r7 = $r0.<aiy: org.rferl.ui.fragment.AudioPlayerFragment a>
+-1ZZZonReceive:aiy:$r0 := @this: aiy
+479751ZZZa:aje:specialinvoke $r9.<ajj: void <init>(aje)>($r0)
+-1ZZZa:aje:$r0 := @this: aje
+-1ZZZa:aje:$r9 = new ajj

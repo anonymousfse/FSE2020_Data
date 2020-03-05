@@ -1,0 +1,6 @@
+249664ZZZa:agc:$r8 = virtualinvoke $r7.<android.app.Activity: android.content.res.Resources getResources()>()
+249661ZZZa:agc:$r6 = $r0.<agc: org.rferl.ui.MultimediaViewCreator k>
+249665ZZZa:agc:$i0 = virtualinvoke $r8.<android.content.res.Resources: int getColor(int)>(2131558550)
+249660ZZZa:agc:$r2 = $r0.<agc: org.rferl.ui.widget.FontAwesomeTextView f>
+249662ZZZa:agc:$r7 = staticinvoke <org.rferl.ui.MultimediaViewCreator: android.app.Activity a(org.rferl.ui.MultimediaViewCreator)>($r6)
+249658ZZZa:agc:$r2 = $r0.<agc: org.rferl.ui.widget.FontAwesomeTextView f>

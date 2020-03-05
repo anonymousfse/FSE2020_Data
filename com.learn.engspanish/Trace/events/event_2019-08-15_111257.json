@@ -1,0 +1,48 @@
+{
+  "stop_state": "f390d01481c6df7f6b1ba75011775b9a", 
+  "event_str": "TouchEvent(state=90f01f02a0486f0d8ba60d6f4e697695, view=e95daf55030de918b747b7102bb5420f)", 
+  "tag": "2019-08-15_111257", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "event_type": "touch", 
+    "view": {
+      "content_description": null, 
+      "resource_id": "com.learn.engspanish:id/btn1", 
+      "text": "NECESITAR", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "455*126", 
+      "checked": false, 
+      "temp_id": 15, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.Button[resource_id]com.learn.engspanish:id/btn1", 
+      "is_password": false, 
+      "parent": 14, 
+      "focusable": true, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": true, 
+      "class": "android.widget.Button", 
+      "scrollable": false, 
+      "package": "com.learn.engspanish", 
+      "long_clickable": false, 
+      "view_str": "e95daf55030de918b747b7102bb5420f", 
+      "enabled": true, 
+      "bounds": [
+        [
+          71, 
+          930
+        ], 
+        [
+          526, 
+          1056
+        ]
+      ], 
+      "signature": "[class]android.widget.Button[resource_id]com.learn.engspanish:id/btn1[text]NECESITAR[enabled,,]"
+    }
+  }, 
+  "start_state": "90f01f02a0486f0d8ba60d6f4e697695"
+}

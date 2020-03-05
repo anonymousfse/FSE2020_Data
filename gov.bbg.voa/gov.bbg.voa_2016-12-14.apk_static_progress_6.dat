@@ -1,0 +1,14 @@
+514124ZZZonCreateView:org.rferl.ui.fragment.multimedia.MultimediaFragment:virtualinvoke $r6.<android.widget.ProgressBar: void setVisibility(int)>(8)
+-1ZZZonCreateView:org.rferl.ui.fragment.multimedia.MultimediaFragment:$r6 = (android.widget.ProgressBar) $r5
+-1ZZZonCreateView:org.rferl.ui.fragment.multimedia.MultimediaFragment:$r6 = $r0.<org.rferl.ui.fragment.multimedia.MultimediaFragment: android.widget.ProgressBar t>
+-1ZZZonCreateView:org.rferl.ui.fragment.multimedia.MultimediaFragment:$r5 = virtualinvoke $r4.<android.view.View: android.view.View findViewById(int)>(2131624396)
+-1ZZZonCreateView:org.rferl.ui.fragment.multimedia.MultimediaFragment:$r5 = virtualinvoke $r4.<android.view.View: android.view.View findViewById(int)>(2131624397)
+-1ZZZonCreateView:org.rferl.ui.fragment.multimedia.MultimediaFragment:$r0 := @this: org.rferl.ui.fragment.multimedia.MultimediaFragment
+-1ZZZonCreateView:org.rferl.ui.fragment.multimedia.MultimediaFragment:$r4 = virtualinvoke $r1.<android.view.LayoutInflater: android.view.View inflate(int,android.view.ViewGroup)>(2130903235, null)
+-1ZZZonCreateView:org.rferl.ui.fragment.multimedia.MultimediaFragment:$r1 := @parameter0: android.view.LayoutInflater
+514108ZZZ<init>:org.rferl.ui.widget.FontableTextView:specialinvoke $r0.<android.widget.TextView: void <init>(android.content.Context,android.util.AttributeSet)>($r1, $r2)
+-1ZZZ<init>:org.rferl.ui.widget.FontableTextView:$r1 := @parameter0: android.content.Context
+-1ZZZ<init>:org.rferl.ui.widget.FontableTextView:$r2 := @parameter1: android.util.AttributeSet
+-1ZZZ<init>:org.rferl.ui.widget.FontableTextView:$r0 := @this: org.rferl.ui.widget.FontableTextView
+513997ZZZ<init>:ar:specialinvoke $r0.<android.support.v4.app.FragmentContainer: void <init>()>()
+-1ZZZ<init>:ar:$r0 := @this: ar

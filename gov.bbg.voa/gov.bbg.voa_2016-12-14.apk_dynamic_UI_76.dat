@@ -1,0 +1,3 @@
+415008ZZZw:org.rferl.ui.slidingmenu.SlidingMenuFragment:$r3 = (android.widget.TextView) $r2
+414703ZZZv:org.rferl.ui.slidingmenu.SlidingMenuFragment:$r16 = new aom
+415007ZZZw:org.rferl.ui.slidingmenu.SlidingMenuFragment:$r2 = virtualinvoke $r1.<android.view.View: android.view.View findViewById(int)>(2131624383)

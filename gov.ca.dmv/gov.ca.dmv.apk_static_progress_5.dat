@@ -1,0 +1,9 @@
+101019ZZZprogressBarReady:gov.ca.dmv.online.OnlineWebView:virtualinvoke $r1.<android.widget.ProgressBar: void setProgress(int)>(0)
+-1ZZZprogressBarReady:gov.ca.dmv.online.OnlineWebView:$r1 = $r0.<gov.ca.dmv.online.OnlineWebView: android.widget.ProgressBar progressBar>
+-1ZZZprogressBarReady:gov.ca.dmv.online.OnlineWebView:$r0 := @this: gov.ca.dmv.online.OnlineWebView
+101010ZZZaccess$700:gov.ca.dmv.online.OnlineWebView:specialinvoke $r0.<gov.ca.dmv.online.OnlineWebView: void progressBarReady()>()
+-1ZZZaccess$700:gov.ca.dmv.online.OnlineWebView:$r0 := @parameter0: gov.ca.dmv.online.OnlineWebView
+101009ZZZhandleUrlLoading:gov.ca.dmv.online.OnlineWebView$2:staticinvoke <gov.ca.dmv.online.OnlineWebView: void access$700(gov.ca.dmv.online.OnlineWebView)>($r3)
+-1ZZZhandleUrlLoading:gov.ca.dmv.online.OnlineWebView$2:$r3 = $r0.<gov.ca.dmv.online.OnlineWebView$2: gov.ca.dmv.online.OnlineWebView this$0>
+-1ZZZhandleUrlLoading:gov.ca.dmv.online.OnlineWebView$2:$r3 = staticinvoke <gov.ca.dmv.online.OnlineWebView: gov.ca.dmv.online.OnlineWebView access$200(gov.ca.dmv.online.OnlineWebView)>($r3)
+-1ZZZhandleUrlLoading:gov.ca.dmv.online.OnlineWebView$2:$r0 := @this: gov.ca.dmv.online.OnlineWebView$2

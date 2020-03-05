@@ -1,0 +1,48 @@
+{
+  "stop_state": "4f248aec29e4abe160f5b57ae617eecd", 
+  "event_str": "TouchEvent(state=4f248aec29e4abe160f5b57ae617eecd, view=3acce1ef6a33e2b38117be90d18ba42d)", 
+  "tag": "2020-03-04_194823", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "event_type": "touch", 
+    "view": {
+      "content_description": null, 
+      "resource_id": "8_image_8gnQF9t3BhH", 
+      "text": "", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "3*2", 
+      "checked": false, 
+      "temp_id": 53, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.view.View[resource_id]8_image_8gnQF9t3BhH", 
+      "is_password": false, 
+      "parent": 44, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.view.View", 
+      "scrollable": false, 
+      "package": "com.mtph.clmobile", 
+      "long_clickable": false, 
+      "view_str": "3acce1ef6a33e2b38117be90d18ba42d", 
+      "enabled": true, 
+      "bounds": [
+        [
+          1078, 
+          197
+        ], 
+        [
+          1081, 
+          199
+        ]
+      ], 
+      "signature": "[class]android.view.View[resource_id]8_image_8gnQF9t3BhH[text][enabled,,]"
+    }
+  }, 
+  "start_state": "4f248aec29e4abe160f5b57ae617eecd"
+}

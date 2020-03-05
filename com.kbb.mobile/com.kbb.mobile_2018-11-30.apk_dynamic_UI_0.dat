@@ -1,0 +1,6 @@
+62839ZZZinitialize:com.kbb.mobile.views.animation.EmptyHelper:$r2 = virtualinvoke $r0.<android.app.Activity: android.view.View findViewById(int)>(2131558495)
+62844ZZZsetEmptyText:com.kbb.mobile.views.animation.EmptyHelper:$r3 = (android.widget.TextView) $r2
+62845ZZZsetEmptyText:com.kbb.mobile.views.animation.EmptyHelper:$r1 = virtualinvoke $r1.<android.view.View: android.view.View findViewById(int)>(2131558586)
+62834ZZZ<init>:com.kbb.mobile.views.hub.CarHubConsumerReviews:$r3 = virtualinvoke $r2.<com.kbb.mobile.ActivityHub: android.view.View findViewById(int)>(2131558565)
+62837ZZZ<init>:com.kbb.mobile.views.hub.CarHubConsumerReviews:$r5 = virtualinvoke $r0.<com.kbb.mobile.views.hub.CarHubConsumerReviews: java.lang.String getEmptyText()>()
+62843ZZZsetEmptyText:com.kbb.mobile.views.animation.EmptyHelper:$r2 = virtualinvoke $r1.<android.view.View: android.view.View findViewById(int)>(2131558587)

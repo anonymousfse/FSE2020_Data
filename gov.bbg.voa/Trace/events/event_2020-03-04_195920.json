@@ -1,0 +1,48 @@
+{
+  "stop_state": "3a1fad5539fe3053ef039b64c178e6ec", 
+  "event_str": "TouchEvent(state=5d8cc9aca4052ea9a1e600e92bdb4e1a, view=f8f64cc13e924d603549a4e80742ae4f)", 
+  "tag": "2020-03-04_195920", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "event_type": "touch", 
+    "view": {
+      "content_description": null, 
+      "resource_id": "gov.bbg.voa:id/li_clip_share_divider", 
+      "text": null, 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "3*119", 
+      "checked": false, 
+      "temp_id": 25, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.view.View[resource_id]gov.bbg.voa:id/li_clip_share_divider", 
+      "is_password": false, 
+      "parent": 23, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.view.View", 
+      "scrollable": false, 
+      "package": "gov.bbg.voa", 
+      "long_clickable": false, 
+      "view_str": "f8f64cc13e924d603549a4e80742ae4f", 
+      "enabled": true, 
+      "bounds": [
+        [
+          377, 
+          582
+        ], 
+        [
+          380, 
+          701
+        ]
+      ], 
+      "signature": "[class]android.view.View[resource_id]gov.bbg.voa:id/li_clip_share_divider[text]None[enabled,,]"
+    }
+  }, 
+  "start_state": "5d8cc9aca4052ea9a1e600e92bdb4e1a"
+}

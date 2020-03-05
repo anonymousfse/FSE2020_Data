@@ -1,0 +1,6 @@
+29209ZZZcheckDailyTask:acr.browser.lightning.activity.MainActivity:$r1 = staticinvoke <java.util.Calendar: java.util.Calendar getInstance()>()
+29211ZZZcheckDailyTask:acr.browser.lightning.activity.MainActivity:$r3 = virtualinvoke $r2.<android.content.Context: android.content.SharedPreferences getSharedPreferences(java.lang.String,int)>("MyPref", 0)
+29210ZZZcheckDailyTask:acr.browser.lightning.activity.MainActivity:$r2 = virtualinvoke $r0.<acr.browser.lightning.activity.MainActivity: android.content.Context getApplicationContext()>()
+29244ZZZdoInBackground:acr.browser.lightning.async.DownloadUrlImageTask:$r3 = (java.lang.String[]) $r2
+29214ZZZcheckDailyTask:acr.browser.lightning.activity.MainActivity:$l0 = interfaceinvoke $r3.<android.content.SharedPreferences: long getLong(java.lang.String,long)>("curTime", $l0)
+29213ZZZcheckDailyTask:acr.browser.lightning.activity.MainActivity:$l0 = virtualinvoke $r1.<java.util.Calendar: long getTimeInMillis()>()

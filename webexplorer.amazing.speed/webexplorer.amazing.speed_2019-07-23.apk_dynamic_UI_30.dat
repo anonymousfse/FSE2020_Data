@@ -1,0 +1,4 @@
+29161ZZZdisplayPromotionIcon:acr.browser.lightning.activity.BrowserActivity:$r4 = $r0.<acr.browser.lightning.activity.BrowserActivity: android.widget.TextView urlText>
+29162ZZZdisplayPromotionIcon:acr.browser.lightning.activity.BrowserActivity:$r1 = <com.cmcm.negativescreen.MainApplication: org.json.JSONObject promotionIconData>
+29156ZZZdisplayPromotionIcon:acr.browser.lightning.activity.BrowserActivity:$r3 = new acr.browser.lightning.activity.BrowserActivity$4
+29163ZZZdisplayPromotionIcon:acr.browser.lightning.activity.BrowserActivity:$r2 = virtualinvoke $r1.<org.json.JSONObject: java.lang.String getString(java.lang.String)>("app_name")

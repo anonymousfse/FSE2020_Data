@@ -1,0 +1,48 @@
+{
+  "stop_state": "4a55e29563d51a38904c8b98e4025de6", 
+  "event_str": "TouchEvent(state=4a55e29563d51a38904c8b98e4025de6, view=971f441fe1eeae7e7e08199016daf144)", 
+  "tag": "2020-03-04_193822", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "event_type": "touch", 
+    "view": {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": "\uf14a", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "100*44", 
+      "checked": false, 
+      "temp_id": 71, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.TextView[resource_id]None", 
+      "is_password": false, 
+      "parent": 69, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.TextView", 
+      "scrollable": false, 
+      "package": "gov.ca.dmv", 
+      "long_clickable": false, 
+      "view_str": "971f441fe1eeae7e7e08199016daf144", 
+      "enabled": true, 
+      "bounds": [
+        [
+          938, 
+          821
+        ], 
+        [
+          1038, 
+          865
+        ]
+      ], 
+      "signature": "[class]android.widget.TextView[resource_id]None[text]\uf14a[enabled,,]"
+    }
+  }, 
+  "start_state": "4a55e29563d51a38904c8b98e4025de6"
+}

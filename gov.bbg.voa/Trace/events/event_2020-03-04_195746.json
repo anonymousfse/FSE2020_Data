@@ -1,0 +1,48 @@
+{
+  "stop_state": "3ef92bef34d509f6ec49062db1a95369", 
+  "event_str": "TouchEvent(state=0fbe0fdb7746d7d17a210a258000abd5, view=b325658c02696bdd58e59401681d93eb)", 
+  "tag": "2020-03-04_195746", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "event_type": "touch", 
+    "view": {
+      "content_description": null, 
+      "resource_id": "gov.bbg.voa:id/a_home_breaking_news", 
+      "text": null, 
+      "visible": false, 
+      "checkable": false, 
+      "children": [], 
+      "size": "424*0", 
+      "checked": false, 
+      "temp_id": 89, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.FrameLayout[resource_id]gov.bbg.voa:id/a_home_breaking_news", 
+      "is_password": false, 
+      "parent": 88, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.FrameLayout", 
+      "scrollable": false, 
+      "package": "gov.bbg.voa", 
+      "long_clickable": false, 
+      "view_str": "b325658c02696bdd58e59401681d93eb", 
+      "enabled": true, 
+      "bounds": [
+        [
+          656, 
+          189
+        ], 
+        [
+          1080, 
+          189
+        ]
+      ], 
+      "signature": "[class]android.widget.FrameLayout[resource_id]gov.bbg.voa:id/a_home_breaking_news[text]None[enabled,,]"
+    }
+  }, 
+  "start_state": "0fbe0fdb7746d7d17a210a258000abd5"
+}

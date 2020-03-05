@@ -1,0 +1,10 @@
+85007ZZZonReceive:agm:$r3 = $r0.<agm: org.rferl.ui.activity.HomeActivity a>
+85014ZZZsetCustomProgress:org.rferl.ui.activity.BaseActivity:$r1 = $r0.<org.rferl.ui.activity.BaseActivity: android.widget.ProgressBar d>
+85009ZZZonReceive:agm:$d0 = 0.9 * $d0
+85011ZZZonReceive:agm:$d0 = 100.0 * $d0
+85012ZZZonReceive:agm:$i0 = (int) $d0
+85006ZZZonReceive:agm:$f0 = virtualinvoke $r2.<android.content.Intent: float getFloatExtra(java.lang.String,float)>("paramProgress", 0.0F)
+84998ZZZexecuteGetGzip:org.rferl.io.AbstractDownloader:r5 = (org.apache.http.HttpRequest) r4
+85016ZZZsetCustomProgress:org.rferl.ui.activity.BaseActivity:$r1 = $r0.<org.rferl.ui.activity.BaseActivity: android.widget.ProgressBar d>
+85008ZZZonReceive:agm:$d0 = (double) $f0
+85010ZZZonReceive:agm:$d0 = 0.1 + $d0

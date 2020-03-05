@@ -1,0 +1,10 @@
+{
+  "stop_state": "8c0e73bc29318958d542e3ed1c3a0195", 
+  "event_str": "IntentEvent(intent='am start gov.bbg.voa/org.rferl.ui.activity.MainActivity')", 
+  "tag": "2020-03-04_195723", 
+  "event": {
+    "intent": "am start gov.bbg.voa/org.rferl.ui.activity.MainActivity", 
+    "event_type": "intent"
+  }, 
+  "start_state": "ed15f217dd849fc4c411fb0065bebebe"
+}

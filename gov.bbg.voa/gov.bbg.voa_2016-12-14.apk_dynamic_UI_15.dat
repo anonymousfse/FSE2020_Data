@@ -1,0 +1,4 @@
+396259ZZZo:org.rferl.ui.slidingmenu.SlidingMenuFragment:$r13 = virtualinvoke $r12.<android.view.View: android.view.View findViewById(int)>(2131624384)
+396260ZZZo:org.rferl.ui.slidingmenu.SlidingMenuFragment:$r14 = (android.widget.TextView) $r13
+396162ZZZonPostExecute:ape:$r12 = new apf
+396261ZZZo:org.rferl.ui.slidingmenu.SlidingMenuFragment:$r3 = $r10.<org.rferl.app.Cfg$SocialMedia: java.lang.String title>

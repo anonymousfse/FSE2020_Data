@@ -1,0 +1,10 @@
+17659ZZZonCreateView:org.rferl.ui.fragment.LiveRadioFragment:$r9 = (org.rferl.ui.widget.FontAwesomeTextView) $r6
+17657ZZZonCreateView:org.rferl.ui.fragment.LiveRadioFragment:$r6 = $r0.<org.rferl.ui.fragment.LiveRadioFragment: android.view.View m>
+17663ZZZonCreateView:org.rferl.ui.fragment.LiveRadioFragment:$r9 = $r0.<org.rferl.ui.fragment.LiveRadioFragment: org.rferl.ui.widget.FontAwesomeTextView f>
+17655ZZZonCreateView:org.rferl.ui.fragment.LiveRadioFragment:$i0 = $i0 / 3
+17658ZZZonCreateView:org.rferl.ui.fragment.LiveRadioFragment:$r6 = virtualinvoke $r6.<android.view.View: android.view.View findViewById(int)>(2131624207)
+17654ZZZonCreateView:org.rferl.ui.fragment.LiveRadioFragment:$i0 = $r8.<android.util.DisplayMetrics: int widthPixels>
+17652ZZZonCreateView:org.rferl.ui.fragment.LiveRadioFragment:$r7 = virtualinvoke $r4.<android.support.v4.app.FragmentActivity: android.content.res.Resources getResources()>()
+17661ZZZonCreateView:org.rferl.ui.fragment.LiveRadioFragment:$r9 = $r0.<org.rferl.ui.fragment.LiveRadioFragment: org.rferl.ui.widget.FontAwesomeTextView f>
+17653ZZZonCreateView:org.rferl.ui.fragment.LiveRadioFragment:$r8 = virtualinvoke $r7.<android.content.res.Resources: android.util.DisplayMetrics getDisplayMetrics()>()
+17651ZZZonCreateView:org.rferl.ui.fragment.LiveRadioFragment:$r4 = virtualinvoke $r0.<org.rferl.ui.fragment.LiveRadioFragment: android.support.v4.app.FragmentActivity getActivity()>()

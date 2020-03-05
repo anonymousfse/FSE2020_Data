@@ -1,0 +1,48 @@
+{
+  "stop_state": "d88dce100ea0a1c5bc1d679cc6ea43ae", 
+  "event_str": "TouchEvent(state=d88dce100ea0a1c5bc1d679cc6ea43ae, view=df1b8765aaacf38a72cae3ff192da3bc)", 
+  "tag": "2019-08-17_193410", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "event_type": "touch", 
+    "view": {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": "Sweater Crewneck - Color: Red", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "3*1352", 
+      "checked": false, 
+      "temp_id": 45, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.Image[resource_id]None", 
+      "is_password": false, 
+      "parent": 44, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.Image", 
+      "scrollable": false, 
+      "package": "com.jackthreads.android", 
+      "long_clickable": false, 
+      "view_str": "df1b8765aaacf38a72cae3ff192da3bc", 
+      "enabled": true, 
+      "bounds": [
+        [
+          1078, 
+          309
+        ], 
+        [
+          1081, 
+          1661
+        ]
+      ], 
+      "signature": "[class]android.widget.Image[resource_id]None[text]Sweater Crewneck - Color: Red[enabled,,]"
+    }
+  }, 
+  "start_state": "d88dce100ea0a1c5bc1d679cc6ea43ae"
+}

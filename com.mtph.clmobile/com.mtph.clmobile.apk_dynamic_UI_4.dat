@@ -1,0 +1,5 @@
+30702ZZZonMeasure:android.support.v7.widget.ContentFrameLayout:$i3 = $r3.<android.util.DisplayMetrics: int heightPixels>
+30701ZZZonMeasure:android.support.v7.widget.ContentFrameLayout:$i2 = $r3.<android.util.DisplayMetrics: int widthPixels>
+30706ZZZonMeasure:android.support.v7.widget.ContentFrameLayout:$i3 = staticinvoke <android.view.View$MeasureSpec: int getMode(int)>($i1)
+30700ZZZonMeasure:android.support.v7.widget.ContentFrameLayout:$r3 = virtualinvoke $r2.<android.content.res.Resources: android.util.DisplayMetrics getDisplayMetrics()>()
+30705ZZZonMeasure:android.support.v7.widget.ContentFrameLayout:$i2 = staticinvoke <android.view.View$MeasureSpec: int getMode(int)>($i0)

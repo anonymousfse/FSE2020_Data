@@ -1,0 +1,11 @@
+504483ZZZa:org.rferl.ui.activity.multimedia.MultimediaTabsActivity:$r1 = $r0.<org.rferl.ui.activity.multimedia.MultimediaTabsActivity: android.support.v4.app.FragmentTabHost d>
+504488ZZZa:org.rferl.ui.activity.multimedia.MultimediaTabsActivity:$r5 = virtualinvoke $r0.<org.rferl.ui.activity.multimedia.MultimediaTabsActivity: android.content.res.Resources getResources()>()
+504486ZZZa:org.rferl.ui.activity.multimedia.MultimediaTabsActivity:$r3 = virtualinvoke $r3.<android.view.View: android.view.View findViewById(int)>(2131624043)
+504479ZZZa:org.rferl.ui.activity.multimedia.MultimediaTabsActivity:$r1 = $r0.<org.rferl.ui.activity.multimedia.MultimediaTabsActivity: android.support.v4.app.FragmentTabHost d>
+504478ZZZa:org.rferl.ui.activity.multimedia.MultimediaTabsActivity:$i0 = 0
+504489ZZZa:org.rferl.ui.activity.multimedia.MultimediaTabsActivity:$i1 = virtualinvoke $r5.<android.content.res.Resources: int getColor(int)>(2131558532)
+504487ZZZa:org.rferl.ui.activity.multimedia.MultimediaTabsActivity:$r4 = (org.rferl.ui.widget.FontableTextView) $r3
+504481ZZZa:org.rferl.ui.activity.multimedia.MultimediaTabsActivity:$i1 = virtualinvoke $r2.<android.widget.TabWidget: int getChildCount()>()
+504485ZZZa:org.rferl.ui.activity.multimedia.MultimediaTabsActivity:$r3 = virtualinvoke $r2.<android.widget.TabWidget: android.view.View getChildAt(int)>($i0)
+504484ZZZa:org.rferl.ui.activity.multimedia.MultimediaTabsActivity:$r2 = virtualinvoke $r1.<android.support.v4.app.FragmentTabHost: android.widget.TabWidget getTabWidget()>()
+504480ZZZa:org.rferl.ui.activity.multimedia.MultimediaTabsActivity:$r2 = virtualinvoke $r1.<android.support.v4.app.FragmentTabHost: android.widget.TabWidget getTabWidget()>()

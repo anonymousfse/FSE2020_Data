@@ -1,0 +1,10 @@
+{
+  "stop_state": "2d6ebfdbbb0a546d23edf3d470ca57aa", 
+  "event_str": "IntentEvent(intent='am start com.carwale/com.carwale.carwale.activities.home.ActivitySplash')", 
+  "tag": "2019-08-21_195600", 
+  "event": {
+    "intent": "am start com.carwale/com.carwale.carwale.activities.home.ActivitySplash", 
+    "event_type": "intent"
+  }, 
+  "start_state": "0d7a2b669ab64cfb7f707f769bcc0623"
+}

@@ -1,0 +1,5 @@
+209047ZZZshowingHiddenPage:com.kbb.mobile.views.animation.ViewFlipperHelper:$r4 = $r0.<com.kbb.mobile.views.animation.ViewFlipperHelper: com.kbb.mobile.views.PageControl pageControl>
+209053ZZZShowHiddenPage:com.kbb.mobile.views.PageControl:$r1 = $r0.<com.kbb.mobile.views.PageControl: android.widget.ImageButton favoritesButton>
+209045ZZZshowingHiddenPage:com.kbb.mobile.views.animation.ViewFlipperHelper:$r4 = $r0.<com.kbb.mobile.views.animation.ViewFlipperHelper: com.kbb.mobile.views.PageControl pageControl>
+209051ZZZShowHiddenPage:com.kbb.mobile.views.PageControl:$r1 = $r0.<com.kbb.mobile.views.PageControl: android.widget.ImageButton right>
+209049ZZZShowHiddenPage:com.kbb.mobile.views.PageControl:$r1 = $r0.<com.kbb.mobile.views.PageControl: android.widget.ImageButton left>

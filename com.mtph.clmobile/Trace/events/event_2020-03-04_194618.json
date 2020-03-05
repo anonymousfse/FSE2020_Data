@@ -1,0 +1,51 @@
+{
+  "stop_state": "7805187daee0a7a1efaaa87857802100", 
+  "event_str": "ScrollEvent(state=83545cfbf3d6d14159ed1f405ecc05f7, view=5df4af9650f27b2f37201c9a849583d1, direction=LEFT)", 
+  "tag": "2020-03-04_194618", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "direction": "LEFT", 
+    "event_type": "scroll", 
+    "view": {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": "Private room for rent - rooms & shares - apartment room roommate...", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [
+        14
+      ], 
+      "size": "1081*1597", 
+      "checked": false, 
+      "temp_id": 13, 
+      "selected": false, 
+      "child_count": 1, 
+      "content_free_signature": "[class]android.webkit.WebView[resource_id]None", 
+      "is_password": false, 
+      "parent": 12, 
+      "focusable": true, 
+      "editable": false, 
+      "focused": true, 
+      "clickable": false, 
+      "class": "android.webkit.WebView", 
+      "scrollable": true, 
+      "package": "com.mtph.clmobile", 
+      "long_clickable": false, 
+      "view_str": "5df4af9650f27b2f37201c9a849583d1", 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          197
+        ], 
+        [
+          1081, 
+          1794
+        ]
+      ], 
+      "signature": "[class]android.webkit.WebView[resource_id]None[text]None[enabled,,]"
+    }
+  }, 
+  "start_state": "83545cfbf3d6d14159ed1f405ecc05f7"
+}

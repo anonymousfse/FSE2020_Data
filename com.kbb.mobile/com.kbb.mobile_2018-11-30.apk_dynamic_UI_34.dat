@@ -1,0 +1,2 @@
+137492ZZZonCreate:com.kbb.mobile.ActivityBase:$r6 = new com.kbb.mobile.utilities.SettingsUtil
+137493ZZZonCreate:com.kbb.mobile.ActivityBase:$r7 = virtualinvoke $r0.<com.kbb.mobile.ActivityBase: android.content.Context getApplicationContext()>()

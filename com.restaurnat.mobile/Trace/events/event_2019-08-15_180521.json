@@ -1,0 +1,51 @@
+{
+  "stop_state": "93a047b70765e383e2f11a1f4f094926", 
+  "event_str": "TouchEvent(state=ff5787e71ded5a46bde13147ec7d1086, view=01cd91248c3f9ebbe701753dd9acbee1)", 
+  "tag": "2019-08-15_180521", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "event_type": "touch", 
+    "view": {
+      "content_description": null, 
+      "resource_id": "com.restaurant.mobile:id/cart", 
+      "text": null, 
+      "visible": true, 
+      "checkable": false, 
+      "children": [
+        57, 
+        58
+      ], 
+      "size": "270*141", 
+      "checked": false, 
+      "temp_id": 56, 
+      "selected": false, 
+      "child_count": 2, 
+      "content_free_signature": "[class]android.widget.LinearLayout[resource_id]com.restaurant.mobile:id/cart", 
+      "is_password": false, 
+      "parent": 49, 
+      "focusable": true, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": true, 
+      "class": "android.widget.LinearLayout", 
+      "scrollable": false, 
+      "package": "com.restaurant.mobile", 
+      "long_clickable": false, 
+      "view_str": "01cd91248c3f9ebbe701753dd9acbee1", 
+      "enabled": true, 
+      "bounds": [
+        [
+          540, 
+          1642
+        ], 
+        [
+          810, 
+          1783
+        ]
+      ], 
+      "signature": "[class]android.widget.LinearLayout[resource_id]com.restaurant.mobile:id/cart[text]None[enabled,,]"
+    }
+  }, 
+  "start_state": "ff5787e71ded5a46bde13147ec7d1086"
+}

@@ -1,0 +1,4 @@
+12785ZZZsetSelected:com.restaurant.mobile.BoldSelectedTextView:$r1 = virtualinvoke $r0.<com.restaurant.mobile.BoldSelectedTextView: android.content.Context getContext()>()
+12787ZZZsetSelected:com.restaurant.mobile.BoldSelectedTextView:$i0 = 2131558400
+12789ZZZsetSelected:com.restaurant.mobile.BoldSelectedTextView:$r1 = virtualinvoke $r0.<com.restaurant.mobile.BoldSelectedTextView: android.content.Context getContext()>()
+12788ZZZsetSelected:com.restaurant.mobile.BoldSelectedTextView:$r2 = virtualinvoke $r1.<android.content.Context: java.lang.String getString(int)>($i0)

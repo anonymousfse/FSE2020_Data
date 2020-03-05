@@ -1,0 +1,7 @@
+158828ZZZshowBitmap:com.kbb.mobile.views.ViewHolder:virtualinvoke $r5.<android.widget.ProgressBar: void setVisibility(int)>(8)
+-1ZZZshowBitmap:com.kbb.mobile.views.ViewHolder:$r5 = $r0.<com.kbb.mobile.views.ViewHolder: android.widget.ProgressBar progressBar>
+-1ZZZshowBitmap:com.kbb.mobile.views.ViewHolder:$r0 := @this: com.kbb.mobile.views.ViewHolder
+158814ZZZrun:com.kbb.mobile.Http.BitmapDisplayer:virtualinvoke $r2.<com.kbb.mobile.views.ViewHolder: void showBitmap(com.kbb.mobile.Http.BitmapHolder)>($r1)
+-1ZZZrun:com.kbb.mobile.Http.BitmapDisplayer:$r1 = $r0.<com.kbb.mobile.Http.BitmapDisplayer: com.kbb.mobile.Http.BitmapHolder bitmapHolder>
+-1ZZZrun:com.kbb.mobile.Http.BitmapDisplayer:$r2 = $r0.<com.kbb.mobile.Http.BitmapDisplayer: com.kbb.mobile.views.ViewHolder viewHolder>
+-1ZZZrun:com.kbb.mobile.Http.BitmapDisplayer:$r0 := @this: com.kbb.mobile.Http.BitmapDisplayer

@@ -1,0 +1,8 @@
+159526ZZZshowBitmap:com.kbb.mobile.views.ViewHolder:virtualinvoke $r5.<android.widget.ProgressBar: void setVisibility(int)>(8)
+-1ZZZshowBitmap:com.kbb.mobile.views.ViewHolder:$r5 = $r0.<com.kbb.mobile.views.ViewHolder: android.widget.ProgressBar progressBar>
+-1ZZZshowBitmap:com.kbb.mobile.views.ViewHolder:$r0 := @this: com.kbb.mobile.views.ViewHolder
+159488ZZZsetImageOnViewRunOnUiThread:com.kbb.mobile.Http.HttpConnectionHandlerImage:specialinvoke $r2.<com.kbb.mobile.Http.BitmapDisplayer: void <init>(com.kbb.mobile.Http.BitmapHolder,com.kbb.mobile.views.ViewHolder)>($r5, $r3)
+-1ZZZsetImageOnViewRunOnUiThread:com.kbb.mobile.Http.HttpConnectionHandlerImage:$r5 = new com.kbb.mobile.Http.BitmapHolder
+-1ZZZsetImageOnViewRunOnUiThread:com.kbb.mobile.Http.HttpConnectionHandlerImage:$r3 = $r0.<com.kbb.mobile.Http.HttpConnectionHandlerImage: com.kbb.mobile.views.ViewHolder viewHolder>
+-1ZZZsetImageOnViewRunOnUiThread:com.kbb.mobile.Http.HttpConnectionHandlerImage:$r2 = new com.kbb.mobile.Http.BitmapDisplayer
+-1ZZZsetImageOnViewRunOnUiThread:com.kbb.mobile.Http.HttpConnectionHandlerImage:$r0 := @this: com.kbb.mobile.Http.HttpConnectionHandlerImage

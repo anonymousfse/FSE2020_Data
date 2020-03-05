@@ -1,0 +1,2 @@
+62022ZZZ<init>:com.kbb.mobile.views.hub.CarHubValue:$r3 = virtualinvoke $r3.<android.view.View: android.view.View findViewById(int)>(2131558526)
+62023ZZZ<init>:com.kbb.mobile.views.hub.CarHubValue:$r11 = (android.widget.ExpandableListView) $r3

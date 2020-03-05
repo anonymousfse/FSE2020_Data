@@ -1,0 +1,10 @@
+{
+  "stop_state": "0d7a2b669ab64cfb7f707f769bcc0623", 
+  "event_str": "KeyEvent(state=0d7a2b669ab64cfb7f707f769bcc0623, name=HOME)", 
+  "tag": "2019-08-21_195547", 
+  "event": {
+    "event_type": "key", 
+    "name": "HOME"
+  }, 
+  "start_state": "0d7a2b669ab64cfb7f707f769bcc0623"
+}

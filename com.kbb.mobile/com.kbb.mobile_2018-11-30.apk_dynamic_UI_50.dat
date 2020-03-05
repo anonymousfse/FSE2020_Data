@@ -1,0 +1,3 @@
+2655ZZZonCreate:com.kbb.mobile.ActivityPanel:$r2 = virtualinvoke $r0.<com.kbb.mobile.ActivityPanel: android.view.View findViewById(int)>(2131558674)
+2656ZZZonCreate:com.kbb.mobile.ActivityPanel:$r3 = (android.widget.TextView) $r2
+2658ZZZonCreate:com.kbb.mobile.ActivityPanel:$r3 = $r0.<com.kbb.mobile.ActivityPanel: android.widget.TextView textViewLocationValue>

@@ -1,0 +1,51 @@
+{
+  "stop_state": "121fd0830698d660b1964d4fd4dfefac", 
+  "event_str": "ScrollEvent(state=121fd0830698d660b1964d4fd4dfefac, view=cfcd8db47a9c8ec525b606c68823bf8a, direction=UP)", 
+  "tag": "2019-08-21_195723", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "direction": "UP", 
+    "event_type": "scroll", 
+    "view": {
+      "content_description": null, 
+      "resource_id": "com.carwale:id/hsv_alternate_cars", 
+      "text": null, 
+      "visible": false, 
+      "checkable": false, 
+      "children": [
+        109
+      ], 
+      "size": "1054*-1118", 
+      "checked": false, 
+      "temp_id": 108, 
+      "selected": false, 
+      "child_count": 1, 
+      "content_free_signature": "[class]android.widget.HorizontalScrollView[resource_id]com.carwale:id/hsv_alternate_cars", 
+      "is_password": false, 
+      "parent": 106, 
+      "focusable": true, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.HorizontalScrollView", 
+      "scrollable": true, 
+      "package": "com.carwale", 
+      "long_clickable": false, 
+      "view_str": "cfcd8db47a9c8ec525b606c68823bf8a", 
+      "enabled": true, 
+      "bounds": [
+        [
+          13, 
+          2912
+        ], 
+        [
+          1067, 
+          1794
+        ]
+      ], 
+      "signature": "[class]android.widget.HorizontalScrollView[resource_id]com.carwale:id/hsv_alternate_cars[text]None[enabled,,]"
+    }
+  }, 
+  "start_state": "121fd0830698d660b1964d4fd4dfefac"
+}

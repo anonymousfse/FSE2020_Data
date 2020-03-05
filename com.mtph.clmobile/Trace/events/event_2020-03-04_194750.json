@@ -1,0 +1,48 @@
+{
+  "stop_state": "45c86466e3996e0667ebf5d95df9af05", 
+  "event_str": "TouchEvent(state=45c86466e3996e0667ebf5d95df9af05, view=097d2d07b434eb2e4cddbe2fd8436337)", 
+  "tag": "2020-03-04_194750", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "event_type": "touch", 
+    "view": {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": "EV charging\napplication fee details: $25 Credit check fee for all occupants over 18 years of age.\ncats are OK - purrr\ndogs are OK - wooof\napartment\nlaundry in bldg\nno smoking\ndetached garage\n", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "1034*1", 
+      "checked": false, 
+      "temp_id": 72, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.view.View[resource_id]None", 
+      "is_password": false, 
+      "parent": 39, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.view.View", 
+      "scrollable": false, 
+      "package": "com.mtph.clmobile", 
+      "long_clickable": false, 
+      "view_str": "097d2d07b434eb2e4cddbe2fd8436337", 
+      "enabled": true, 
+      "bounds": [
+        [
+          23, 
+          1793
+        ], 
+        [
+          1057, 
+          1794
+        ]
+      ], 
+      "signature": "[class]android.view.View[resource_id]None[text]None[enabled,,]"
+    }
+  }, 
+  "start_state": "45c86466e3996e0667ebf5d95df9af05"
+}

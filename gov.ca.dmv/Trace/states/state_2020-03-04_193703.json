@@ -1,0 +1,2103 @@
+{
+  "views": [
+    {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": null, 
+      "visible": true, 
+      "checkable": false, 
+      "children": [
+        1, 
+        51, 
+        52
+      ], 
+      "size": "1080*1920", 
+      "checked": false, 
+      "temp_id": 0, 
+      "selected": false, 
+      "child_count": 3, 
+      "content_free_signature": "[class]android.widget.FrameLayout[resource_id]None", 
+      "is_password": false, 
+      "parent": -1, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.FrameLayout", 
+      "scrollable": false, 
+      "package": "gov.ca.dmv", 
+      "long_clickable": false, 
+      "view_str": "0d23fdf2800ebee9a0e071a80d484507", 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          0
+        ], 
+        [
+          1080, 
+          1920
+        ]
+      ], 
+      "signature": "[class]android.widget.FrameLayout[resource_id]None[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": null, 
+      "visible": true, 
+      "checkable": false, 
+      "children": [
+        2
+      ], 
+      "size": "1080*1794", 
+      "checked": false, 
+      "temp_id": 1, 
+      "selected": false, 
+      "child_count": 1, 
+      "content_free_signature": "[class]android.widget.LinearLayout[resource_id]None", 
+      "is_password": false, 
+      "parent": 0, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.LinearLayout", 
+      "scrollable": false, 
+      "package": "gov.ca.dmv", 
+      "long_clickable": false, 
+      "view_str": "c0b9e33f3bcb1e9e94378956625edc87", 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          0
+        ], 
+        [
+          1080, 
+          1794
+        ]
+      ], 
+      "signature": "[class]android.widget.LinearLayout[resource_id]None[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": null, 
+      "visible": true, 
+      "checkable": false, 
+      "children": [
+        3
+      ], 
+      "size": "1080*1731", 
+      "checked": false, 
+      "temp_id": 2, 
+      "selected": false, 
+      "child_count": 1, 
+      "content_free_signature": "[class]android.widget.FrameLayout[resource_id]None", 
+      "is_password": false, 
+      "parent": 1, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.FrameLayout", 
+      "scrollable": false, 
+      "package": "gov.ca.dmv", 
+      "long_clickable": false, 
+      "view_str": "b71814b3c0d0b0db334d0060b5a1136e", 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          63
+        ], 
+        [
+          1080, 
+          1794
+        ]
+      ], 
+      "signature": "[class]android.widget.FrameLayout[resource_id]None[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": "gov.ca.dmv:id/action_bar_root", 
+      "text": null, 
+      "visible": true, 
+      "checkable": false, 
+      "children": [
+        4
+      ], 
+      "size": "1080*1731", 
+      "checked": false, 
+      "temp_id": 3, 
+      "selected": false, 
+      "child_count": 1, 
+      "content_free_signature": "[class]android.widget.LinearLayout[resource_id]gov.ca.dmv:id/action_bar_root", 
+      "is_password": false, 
+      "parent": 2, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.LinearLayout", 
+      "scrollable": false, 
+      "package": "gov.ca.dmv", 
+      "long_clickable": false, 
+      "view_str": "ee4744007e8ae64e22ae5286c70710b2", 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          63
+        ], 
+        [
+          1080, 
+          1794
+        ]
+      ], 
+      "signature": "[class]android.widget.LinearLayout[resource_id]gov.ca.dmv:id/action_bar_root[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": "android:id/content", 
+      "text": null, 
+      "visible": true, 
+      "checkable": false, 
+      "children": [
+        5
+      ], 
+      "size": "1080*1731", 
+      "checked": false, 
+      "temp_id": 4, 
+      "selected": false, 
+      "child_count": 1, 
+      "content_free_signature": "[class]android.widget.FrameLayout[resource_id]android:id/content", 
+      "is_password": false, 
+      "parent": 3, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.FrameLayout", 
+      "scrollable": false, 
+      "package": "gov.ca.dmv", 
+      "long_clickable": false, 
+      "view_str": "011c19e9282b561c5a7a620a1de2a0f6", 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          63
+        ], 
+        [
+          1080, 
+          1794
+        ]
+      ], 
+      "signature": "[class]android.widget.FrameLayout[resource_id]android:id/content[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": "gov.ca.dmv:id/drawer_layout", 
+      "text": null, 
+      "visible": true, 
+      "checkable": false, 
+      "children": [
+        6
+      ], 
+      "size": "1080*1731", 
+      "checked": false, 
+      "temp_id": 5, 
+      "selected": false, 
+      "child_count": 1, 
+      "content_free_signature": "[class]android.support.v4.widget.DrawerLayout[resource_id]gov.ca.dmv:id/drawer_layout", 
+      "is_password": false, 
+      "parent": 4, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.support.v4.widget.DrawerLayout", 
+      "scrollable": false, 
+      "package": "gov.ca.dmv", 
+      "long_clickable": false, 
+      "view_str": "f30086fd1492e78b0cd5607fc3250184", 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          63
+        ], 
+        [
+          1080, 
+          1794
+        ]
+      ], 
+      "signature": "[class]android.support.v4.widget.DrawerLayout[resource_id]gov.ca.dmv:id/drawer_layout[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": null, 
+      "visible": true, 
+      "checkable": false, 
+      "children": [
+        7, 
+        8, 
+        13, 
+        50
+      ], 
+      "size": "1080*1731", 
+      "checked": false, 
+      "temp_id": 6, 
+      "selected": false, 
+      "child_count": 4, 
+      "content_free_signature": "[class]android.widget.RelativeLayout[resource_id]None", 
+      "is_password": false, 
+      "parent": 5, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.RelativeLayout", 
+      "scrollable": false, 
+      "package": "gov.ca.dmv", 
+      "long_clickable": false, 
+      "view_str": "0fa0b2e1cafb53e3213e0ad187b95a8f", 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          63
+        ], 
+        [
+          1080, 
+          1794
+        ]
+      ], 
+      "signature": "[class]android.widget.RelativeLayout[resource_id]None[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": null, 
+      "visible": false, 
+      "checkable": false, 
+      "children": [], 
+      "size": "0*0", 
+      "checked": false, 
+      "temp_id": 7, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.view.View[resource_id]None", 
+      "is_password": false, 
+      "parent": 6, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.view.View", 
+      "scrollable": false, 
+      "package": "gov.ca.dmv", 
+      "long_clickable": false, 
+      "view_str": "bc72959a14bd8747227f56f65507d3b5", 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          63
+        ], 
+        [
+          0, 
+          63
+        ]
+      ], 
+      "signature": "[class]android.view.View[resource_id]None[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": "gov.ca.dmv:id/toolbar", 
+      "text": null, 
+      "visible": true, 
+      "checkable": false, 
+      "children": [
+        9, 
+        10, 
+        11
+      ], 
+      "size": "1080*147", 
+      "checked": false, 
+      "temp_id": 8, 
+      "selected": false, 
+      "child_count": 3, 
+      "content_free_signature": "[class]android.view.ViewGroup[resource_id]gov.ca.dmv:id/toolbar", 
+      "is_password": false, 
+      "parent": 6, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.view.ViewGroup", 
+      "scrollable": false, 
+      "package": "gov.ca.dmv", 
+      "long_clickable": false, 
+      "view_str": "695d2615336b2374776af55f23b5d52f", 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          63
+        ], 
+        [
+          1080, 
+          210
+        ]
+      ], 
+      "signature": "[class]android.view.ViewGroup[resource_id]gov.ca.dmv:id/toolbar[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": "Open", 
+      "resource_id": null, 
+      "text": null, 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "147*147", 
+      "checked": false, 
+      "temp_id": 9, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.ImageButton[resource_id]None", 
+      "is_password": false, 
+      "parent": 8, 
+      "focusable": true, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": true, 
+      "class": "android.widget.ImageButton", 
+      "scrollable": false, 
+      "package": "gov.ca.dmv", 
+      "long_clickable": false, 
+      "view_str": "3fc0704a3a693511ad3d7c0dc911c25a", 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          63
+        ], 
+        [
+          147, 
+          210
+        ]
+      ], 
+      "signature": "[class]android.widget.ImageButton[resource_id]None[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": "Practice Exams", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "369*71", 
+      "checked": false, 
+      "temp_id": 10, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.TextView[resource_id]None", 
+      "is_password": false, 
+      "parent": 8, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.TextView", 
+      "scrollable": false, 
+      "package": "gov.ca.dmv", 
+      "long_clickable": false, 
+      "view_str": "57add8f4fa957a87585b809dcc306770", 
+      "enabled": true, 
+      "bounds": [
+        [
+          157, 
+          101
+        ], 
+        [
+          526, 
+          172
+        ]
+      ], 
+      "signature": "[class]android.widget.TextView[resource_id]None[text]Practice Exams[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": null, 
+      "visible": true, 
+      "checkable": false, 
+      "children": [
+        12
+      ], 
+      "size": "105*147", 
+      "checked": false, 
+      "temp_id": 11, 
+      "selected": false, 
+      "child_count": 1, 
+      "content_free_signature": "[class]android.support.v7.widget.LinearLayoutCompat[resource_id]None", 
+      "is_password": false, 
+      "parent": 8, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.support.v7.widget.LinearLayoutCompat", 
+      "scrollable": false, 
+      "package": "gov.ca.dmv", 
+      "long_clickable": false, 
+      "view_str": "9e1514bdaac31b7ceaa6d8cc3aadcac9", 
+      "enabled": true, 
+      "bounds": [
+        [
+          975, 
+          63
+        ], 
+        [
+          1080, 
+          210
+        ]
+      ], 
+      "signature": "[class]android.support.v7.widget.LinearLayoutCompat[resource_id]None[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": "\u200e\u200f\u200e\u200e\u200e\u200e\u200e\u200f\u200e\u200f\u200f\u200f\u200e\u200e\u200e\u200e\u200e\u200f\u200e\u200e\u200f\u200e\u200e\u200e\u200e\u200f\u200f\u200f\u200f\u200f\u200e\u200f\u200f\u200f\u200f\u200f\u200f\u200f\u200f\u200e\u200f\u200f\u200e\u200f\u200f\u200f\u200f\u200e\u200f\u200e\u200e\u200e\u200f\u200f\u200e\u200f\u200f\u200f\u200e\u200f\u200f\u200e\u200f\u200e\u200f\u200e\u200e\u200e\u200e\u200e\u200e\u200f\u200e\u200e\u200e\u200f\u200f\u200f\u200e\u200f\u200f\u200f\u200f\u200e\u200e\u200e\u200f\u200e\u200e\u200e\u200f\u200e\u200f\u200eMore options\u200e\u200f\u200e\u200e\u200f\u200e", 
+      "resource_id": null, 
+      "text": null, 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "105*126", 
+      "checked": false, 
+      "temp_id": 12, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.ImageView[resource_id]None", 
+      "is_password": false, 
+      "parent": 11, 
+      "focusable": true, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": true, 
+      "class": "android.widget.ImageView", 
+      "scrollable": false, 
+      "package": "gov.ca.dmv", 
+      "long_clickable": false, 
+      "view_str": "c47c7e0ca8187b8aa110c9458d5ac467", 
+      "enabled": true, 
+      "bounds": [
+        [
+          975, 
+          73
+        ], 
+        [
+          1080, 
+          199
+        ]
+      ], 
+      "signature": "[class]android.widget.ImageView[resource_id]None[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": "gov.ca.dmv:id/content_frame", 
+      "text": null, 
+      "visible": true, 
+      "checkable": false, 
+      "children": [
+        14
+      ], 
+      "size": "1080*1584", 
+      "checked": false, 
+      "temp_id": 13, 
+      "selected": false, 
+      "child_count": 1, 
+      "content_free_signature": "[class]android.widget.FrameLayout[resource_id]gov.ca.dmv:id/content_frame", 
+      "is_password": false, 
+      "parent": 6, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.FrameLayout", 
+      "scrollable": false, 
+      "package": "gov.ca.dmv", 
+      "long_clickable": false, 
+      "view_str": "e30a19fa424bfd48be5a277b89a78c7f", 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          210
+        ], 
+        [
+          1080, 
+          1794
+        ]
+      ], 
+      "signature": "[class]android.widget.FrameLayout[resource_id]gov.ca.dmv:id/content_frame[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": null, 
+      "visible": true, 
+      "checkable": false, 
+      "children": [
+        15, 
+        49
+      ], 
+      "size": "1080*1584", 
+      "checked": false, 
+      "temp_id": 14, 
+      "selected": false, 
+      "child_count": 2, 
+      "content_free_signature": "[class]android.widget.RelativeLayout[resource_id]None", 
+      "is_password": false, 
+      "parent": 13, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.RelativeLayout", 
+      "scrollable": false, 
+      "package": "gov.ca.dmv", 
+      "long_clickable": false, 
+      "view_str": "45e686fded985ec8a08519ea4ac251e1", 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          210
+        ], 
+        [
+          1080, 
+          1794
+        ]
+      ], 
+      "signature": "[class]android.widget.RelativeLayout[resource_id]None[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": null, 
+      "visible": true, 
+      "checkable": false, 
+      "children": [
+        16, 
+        38
+      ], 
+      "size": "1080*1584", 
+      "checked": false, 
+      "temp_id": 15, 
+      "selected": false, 
+      "child_count": 2, 
+      "content_free_signature": "[class]android.widget.FrameLayout[resource_id]None", 
+      "is_password": false, 
+      "parent": 14, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.FrameLayout", 
+      "scrollable": false, 
+      "package": "gov.ca.dmv", 
+      "long_clickable": false, 
+      "view_str": "c2d3d0e3467623b1a82b1d94291dbfab", 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          210
+        ], 
+        [
+          1080, 
+          1794
+        ]
+      ], 
+      "signature": "[class]android.widget.FrameLayout[resource_id]None[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": "gov.ca.dmv:id/examLayout", 
+      "text": null, 
+      "visible": true, 
+      "checkable": false, 
+      "children": [
+        17, 
+        27, 
+        35
+      ], 
+      "size": "1080*1584", 
+      "checked": false, 
+      "temp_id": 16, 
+      "selected": false, 
+      "child_count": 3, 
+      "content_free_signature": "[class]android.widget.RelativeLayout[resource_id]gov.ca.dmv:id/examLayout", 
+      "is_password": false, 
+      "parent": 15, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.RelativeLayout", 
+      "scrollable": false, 
+      "package": "gov.ca.dmv", 
+      "long_clickable": false, 
+      "view_str": "28668a4000b156b9b3f15c3ca6a960f4", 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          210
+        ], 
+        [
+          1080, 
+          1794
+        ]
+      ], 
+      "signature": "[class]android.widget.RelativeLayout[resource_id]gov.ca.dmv:id/examLayout[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": "gov.ca.dmv:id/questionScrollView", 
+      "text": null, 
+      "visible": true, 
+      "checkable": false, 
+      "children": [
+        18
+      ], 
+      "size": "1080*1396", 
+      "checked": false, 
+      "temp_id": 17, 
+      "selected": false, 
+      "child_count": 1, 
+      "content_free_signature": "[class]android.widget.ScrollView[resource_id]gov.ca.dmv:id/questionScrollView", 
+      "is_password": false, 
+      "parent": 16, 
+      "focusable": true, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.ScrollView", 
+      "scrollable": false, 
+      "package": "gov.ca.dmv", 
+      "long_clickable": false, 
+      "view_str": "652cfedf287f69f5ba9c14844118bbc2", 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          210
+        ], 
+        [
+          1080, 
+          1606
+        ]
+      ], 
+      "signature": "[class]android.widget.ScrollView[resource_id]gov.ca.dmv:id/questionScrollView[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": null, 
+      "visible": true, 
+      "checkable": false, 
+      "children": [
+        19
+      ], 
+      "size": "1080*664", 
+      "checked": false, 
+      "temp_id": 18, 
+      "selected": false, 
+      "child_count": 1, 
+      "content_free_signature": "[class]android.widget.LinearLayout[resource_id]None", 
+      "is_password": false, 
+      "parent": 17, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.LinearLayout", 
+      "scrollable": false, 
+      "package": "gov.ca.dmv", 
+      "long_clickable": false, 
+      "view_str": "7ae6e0046b776011fec4b409319c181a", 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          210
+        ], 
+        [
+          1080, 
+          874
+        ]
+      ], 
+      "signature": "[class]android.widget.LinearLayout[resource_id]None[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": "gov.ca.dmv:id/questionLayout", 
+      "text": null, 
+      "visible": true, 
+      "checkable": false, 
+      "children": [
+        20
+      ], 
+      "size": "1080*544", 
+      "checked": false, 
+      "temp_id": 19, 
+      "selected": false, 
+      "child_count": 1, 
+      "content_free_signature": "[class]android.widget.LinearLayout[resource_id]gov.ca.dmv:id/questionLayout", 
+      "is_password": false, 
+      "parent": 18, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.LinearLayout", 
+      "scrollable": false, 
+      "package": "gov.ca.dmv", 
+      "long_clickable": false, 
+      "view_str": "ce74e8d20b330f38b02d8d357f305edc", 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          210
+        ], 
+        [
+          1080, 
+          754
+        ]
+      ], 
+      "signature": "[class]android.widget.LinearLayout[resource_id]gov.ca.dmv:id/questionLayout[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": null, 
+      "visible": true, 
+      "checkable": false, 
+      "children": [
+        21, 
+        22
+      ], 
+      "size": "1038*502", 
+      "checked": false, 
+      "temp_id": 20, 
+      "selected": false, 
+      "child_count": 2, 
+      "content_free_signature": "[class]android.widget.LinearLayout[resource_id]None", 
+      "is_password": false, 
+      "parent": 19, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.LinearLayout", 
+      "scrollable": false, 
+      "package": "gov.ca.dmv", 
+      "long_clickable": false, 
+      "view_str": "66898c7d1c76eb8fbbcb4df1bf714f2d", 
+      "enabled": true, 
+      "bounds": [
+        [
+          21, 
+          231
+        ], 
+        [
+          1059, 
+          733
+        ]
+      ], 
+      "signature": "[class]android.widget.LinearLayout[resource_id]None[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": "gov.ca.dmv:id/questionText", 
+      "text": "You are driving on a freeway posted for 65 MPH. The traffic is traveling at 70 MPH. You may legally drive:", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "1038*195", 
+      "checked": false, 
+      "temp_id": 21, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.TextView[resource_id]gov.ca.dmv:id/questionText", 
+      "is_password": false, 
+      "parent": 20, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.TextView", 
+      "scrollable": false, 
+      "package": "gov.ca.dmv", 
+      "long_clickable": false, 
+      "view_str": "4cd3e525fc366aa3b0c7f33528fe1a1b", 
+      "enabled": true, 
+      "bounds": [
+        [
+          21, 
+          253
+        ], 
+        [
+          1059, 
+          448
+        ]
+      ], 
+      "signature": "[class]android.widget.TextView[resource_id]gov.ca.dmv:id/questionText[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": "gov.ca.dmv:id/answersContainer", 
+      "text": null, 
+      "visible": true, 
+      "checkable": false, 
+      "children": [
+        23
+      ], 
+      "size": "1038*274", 
+      "checked": false, 
+      "temp_id": 22, 
+      "selected": false, 
+      "child_count": 1, 
+      "content_free_signature": "[class]android.widget.LinearLayout[resource_id]gov.ca.dmv:id/answersContainer", 
+      "is_password": false, 
+      "parent": 20, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.LinearLayout", 
+      "scrollable": false, 
+      "package": "gov.ca.dmv", 
+      "long_clickable": false, 
+      "view_str": "62811da19cf2f5358a58a98bdd790f67", 
+      "enabled": true, 
+      "bounds": [
+        [
+          21, 
+          459
+        ], 
+        [
+          1059, 
+          733
+        ]
+      ], 
+      "signature": "[class]android.widget.LinearLayout[resource_id]gov.ca.dmv:id/answersContainer[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": null, 
+      "visible": true, 
+      "checkable": false, 
+      "children": [
+        24, 
+        25, 
+        26
+      ], 
+      "size": "1038*274", 
+      "checked": false, 
+      "temp_id": 23, 
+      "selected": false, 
+      "child_count": 3, 
+      "content_free_signature": "[class]android.widget.RadioGroup[resource_id]None", 
+      "is_password": false, 
+      "parent": 22, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.RadioGroup", 
+      "scrollable": false, 
+      "package": "gov.ca.dmv", 
+      "long_clickable": false, 
+      "view_str": "272eeb22fd099c2c2d3fc7e82d198e19", 
+      "enabled": true, 
+      "bounds": [
+        [
+          21, 
+          459
+        ], 
+        [
+          1059, 
+          733
+        ]
+      ], 
+      "signature": "[class]android.widget.RadioGroup[resource_id]None[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": "70 mph or faster to keep up with the speed of traffic.", 
+      "visible": true, 
+      "checkable": true, 
+      "children": [], 
+      "size": "1038*106", 
+      "checked": false, 
+      "temp_id": 24, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.RadioButton[resource_id]None", 
+      "is_password": false, 
+      "parent": 23, 
+      "focusable": true, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": true, 
+      "class": "android.widget.RadioButton", 
+      "scrollable": false, 
+      "package": "gov.ca.dmv", 
+      "long_clickable": false, 
+      "view_str": "8d30fa64abbe5a4edc5499236008fe11", 
+      "enabled": true, 
+      "bounds": [
+        [
+          21, 
+          459
+        ], 
+        [
+          1059, 
+          565
+        ]
+      ], 
+      "signature": "[class]android.widget.RadioButton[resource_id]None[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": "Between 65 mph and 70 mph.", 
+      "visible": true, 
+      "checkable": true, 
+      "children": [], 
+      "size": "640*84", 
+      "checked": false, 
+      "temp_id": 25, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.RadioButton[resource_id]None", 
+      "is_password": false, 
+      "parent": 23, 
+      "focusable": true, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": true, 
+      "class": "android.widget.RadioButton", 
+      "scrollable": false, 
+      "package": "gov.ca.dmv", 
+      "long_clickable": false, 
+      "view_str": "10a0eb1dd0de39002e8548c8d976deda", 
+      "enabled": true, 
+      "bounds": [
+        [
+          21, 
+          565
+        ], 
+        [
+          661, 
+          649
+        ]
+      ], 
+      "signature": "[class]android.widget.RadioButton[resource_id]None[text]Between 65 mph and 70 mph.[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": "No faster than 65 mph.", 
+      "visible": true, 
+      "checkable": true, 
+      "children": [], 
+      "size": "514*84", 
+      "checked": false, 
+      "temp_id": 26, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.RadioButton[resource_id]None", 
+      "is_password": false, 
+      "parent": 23, 
+      "focusable": true, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": true, 
+      "class": "android.widget.RadioButton", 
+      "scrollable": false, 
+      "package": "gov.ca.dmv", 
+      "long_clickable": false, 
+      "view_str": "aeb20b32aadbba2b566fca0bb2657bc8", 
+      "enabled": true, 
+      "bounds": [
+        [
+          21, 
+          649
+        ], 
+        [
+          535, 
+          733
+        ]
+      ], 
+      "signature": "[class]android.widget.RadioButton[resource_id]None[text]No faster than 65 mph.[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": "gov.ca.dmv:id/scoreQuestionLayout", 
+      "text": null, 
+      "visible": true, 
+      "checkable": false, 
+      "children": [
+        28, 
+        32
+      ], 
+      "size": "1080*62", 
+      "checked": false, 
+      "temp_id": 27, 
+      "selected": false, 
+      "child_count": 2, 
+      "content_free_signature": "[class]android.widget.LinearLayout[resource_id]gov.ca.dmv:id/scoreQuestionLayout", 
+      "is_password": false, 
+      "parent": 16, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.LinearLayout", 
+      "scrollable": false, 
+      "package": "gov.ca.dmv", 
+      "long_clickable": false, 
+      "view_str": "0eb50941246c9ff87db46d2b8025e7dd", 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          1606
+        ], 
+        [
+          1080, 
+          1668
+        ]
+      ], 
+      "signature": "[class]android.widget.LinearLayout[resource_id]gov.ca.dmv:id/scoreQuestionLayout[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": "gov.ca.dmv:id/scoreLayout", 
+      "text": null, 
+      "visible": true, 
+      "checkable": false, 
+      "children": [
+        29, 
+        30, 
+        31
+      ], 
+      "size": "540*51", 
+      "checked": false, 
+      "temp_id": 28, 
+      "selected": false, 
+      "child_count": 3, 
+      "content_free_signature": "[class]android.widget.LinearLayout[resource_id]gov.ca.dmv:id/scoreLayout", 
+      "is_password": false, 
+      "parent": 27, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.LinearLayout", 
+      "scrollable": false, 
+      "package": "gov.ca.dmv", 
+      "long_clickable": false, 
+      "view_str": "8d6903b53cb1d5a366b2b26663f84576", 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          1617
+        ], 
+        [
+          540, 
+          1668
+        ]
+      ], 
+      "signature": "[class]android.widget.LinearLayout[resource_id]gov.ca.dmv:id/scoreLayout[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": "Score:", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "104*51", 
+      "checked": false, 
+      "temp_id": 29, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.TextView[resource_id]None", 
+      "is_password": false, 
+      "parent": 28, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.TextView", 
+      "scrollable": false, 
+      "package": "gov.ca.dmv", 
+      "long_clickable": false, 
+      "view_str": "688625db40122ece5732bd5f66fe6bc4", 
+      "enabled": true, 
+      "bounds": [
+        [
+          118, 
+          1617
+        ], 
+        [
+          222, 
+          1668
+        ]
+      ], 
+      "signature": "[class]android.widget.TextView[resource_id]None[text]Score:[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": "gov.ca.dmv:id/scoreLabel", 
+      "text": "0/0", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "57*51", 
+      "checked": false, 
+      "temp_id": 30, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.TextView[resource_id]gov.ca.dmv:id/scoreLabel", 
+      "is_password": false, 
+      "parent": 28, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.TextView", 
+      "scrollable": false, 
+      "package": "gov.ca.dmv", 
+      "long_clickable": false, 
+      "view_str": "cca31d07dfeb264dba16c8658ac200f5", 
+      "enabled": true, 
+      "bounds": [
+        [
+          254, 
+          1617
+        ], 
+        [
+          311, 
+          1668
+        ]
+      ], 
+      "signature": "[class]android.widget.TextView[resource_id]gov.ca.dmv:id/scoreLabel[text]0/0[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": "gov.ca.dmv:id/percentLabel", 
+      "text": "0.0%", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "79*51", 
+      "checked": false, 
+      "temp_id": 31, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.TextView[resource_id]gov.ca.dmv:id/percentLabel", 
+      "is_password": false, 
+      "parent": 28, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.TextView", 
+      "scrollable": false, 
+      "package": "gov.ca.dmv", 
+      "long_clickable": false, 
+      "view_str": "a71d96c004adb5fcb8a75dbc202c071b", 
+      "enabled": true, 
+      "bounds": [
+        [
+          343, 
+          1617
+        ], 
+        [
+          422, 
+          1668
+        ]
+      ], 
+      "signature": "[class]android.widget.TextView[resource_id]gov.ca.dmv:id/percentLabel[text]0.0%[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": "gov.ca.dmv:id/questionsLayout", 
+      "text": null, 
+      "visible": true, 
+      "checkable": false, 
+      "children": [
+        33, 
+        34
+      ], 
+      "size": "540*51", 
+      "checked": false, 
+      "temp_id": 32, 
+      "selected": false, 
+      "child_count": 2, 
+      "content_free_signature": "[class]android.widget.LinearLayout[resource_id]gov.ca.dmv:id/questionsLayout", 
+      "is_password": false, 
+      "parent": 27, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.LinearLayout", 
+      "scrollable": false, 
+      "package": "gov.ca.dmv", 
+      "long_clickable": false, 
+      "view_str": "a37ebae0212477ccaeb7dcd94c8f0cd3", 
+      "enabled": true, 
+      "bounds": [
+        [
+          540, 
+          1617
+        ], 
+        [
+          1080, 
+          1668
+        ]
+      ], 
+      "signature": "[class]android.widget.LinearLayout[resource_id]gov.ca.dmv:id/questionsLayout[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": "gov.ca.dmv:id/questionsLabel", 
+      "text": "55", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "42*51", 
+      "checked": false, 
+      "temp_id": 33, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.TextView[resource_id]gov.ca.dmv:id/questionsLabel", 
+      "is_password": false, 
+      "parent": 32, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.TextView", 
+      "scrollable": false, 
+      "package": "gov.ca.dmv", 
+      "long_clickable": false, 
+      "view_str": "2b1a6b0618b9915b4f996202e008acd1", 
+      "enabled": true, 
+      "bounds": [
+        [
+          611, 
+          1617
+        ], 
+        [
+          653, 
+          1668
+        ]
+      ], 
+      "signature": "[class]android.widget.TextView[resource_id]gov.ca.dmv:id/questionsLabel[text]55[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": "questions remaining", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "334*51", 
+      "checked": false, 
+      "temp_id": 34, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.TextView[resource_id]None", 
+      "is_password": false, 
+      "parent": 32, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.TextView", 
+      "scrollable": false, 
+      "package": "gov.ca.dmv", 
+      "long_clickable": false, 
+      "view_str": "e2aa70666a2d77677e9e963fade10906", 
+      "enabled": true, 
+      "bounds": [
+        [
+          674, 
+          1617
+        ], 
+        [
+          1008, 
+          1668
+        ]
+      ], 
+      "signature": "[class]android.widget.TextView[resource_id]None[text]questions remaining[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": "gov.ca.dmv:id/buttonsLayoutContainer", 
+      "text": null, 
+      "visible": true, 
+      "checkable": false, 
+      "children": [
+        36
+      ], 
+      "size": "1080*126", 
+      "checked": false, 
+      "temp_id": 35, 
+      "selected": false, 
+      "child_count": 1, 
+      "content_free_signature": "[class]android.widget.RelativeLayout[resource_id]gov.ca.dmv:id/buttonsLayoutContainer", 
+      "is_password": false, 
+      "parent": 16, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.RelativeLayout", 
+      "scrollable": false, 
+      "package": "gov.ca.dmv", 
+      "long_clickable": false, 
+      "view_str": "4e6060000c6cad42100613094be9a35a", 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          1668
+        ], 
+        [
+          1080, 
+          1794
+        ]
+      ], 
+      "signature": "[class]android.widget.RelativeLayout[resource_id]gov.ca.dmv:id/buttonsLayoutContainer[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": "gov.ca.dmv:id/buttonsLayout", 
+      "text": null, 
+      "visible": true, 
+      "checkable": false, 
+      "children": [
+        37
+      ], 
+      "size": "1080*126", 
+      "checked": false, 
+      "temp_id": 36, 
+      "selected": false, 
+      "child_count": 1, 
+      "content_free_signature": "[class]android.widget.LinearLayout[resource_id]gov.ca.dmv:id/buttonsLayout", 
+      "is_password": false, 
+      "parent": 35, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.LinearLayout", 
+      "scrollable": false, 
+      "package": "gov.ca.dmv", 
+      "long_clickable": false, 
+      "view_str": "618e14d5e5ac52ed91b1966296de19db", 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          1668
+        ], 
+        [
+          1080, 
+          1794
+        ]
+      ], 
+      "signature": "[class]android.widget.LinearLayout[resource_id]gov.ca.dmv:id/buttonsLayout[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": "gov.ca.dmv:id/nextQuestionButton", 
+      "text": "Next Question", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "1080*126", 
+      "checked": false, 
+      "temp_id": 37, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.Button[resource_id]gov.ca.dmv:id/nextQuestionButton", 
+      "is_password": false, 
+      "parent": 36, 
+      "focusable": true, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": true, 
+      "class": "android.widget.Button", 
+      "scrollable": false, 
+      "package": "gov.ca.dmv", 
+      "long_clickable": false, 
+      "view_str": "bac08dbc26ef90cfd44a04d70142fdf7", 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          1668
+        ], 
+        [
+          1080, 
+          1794
+        ]
+      ], 
+      "signature": "[class]android.widget.Button[resource_id]gov.ca.dmv:id/nextQuestionButton[text]Next Question[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": "gov.ca.dmv:id/examPrefaceLayout", 
+      "text": null, 
+      "visible": true, 
+      "checkable": false, 
+      "children": [
+        39
+      ], 
+      "size": "1080*1282", 
+      "checked": false, 
+      "temp_id": 38, 
+      "selected": false, 
+      "child_count": 1, 
+      "content_free_signature": "[class]android.widget.ScrollView[resource_id]gov.ca.dmv:id/examPrefaceLayout", 
+      "is_password": false, 
+      "parent": 15, 
+      "focusable": true, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.ScrollView", 
+      "scrollable": false, 
+      "package": "gov.ca.dmv", 
+      "long_clickable": false, 
+      "view_str": "4e7b09c40fda1329cab1868b66d663d3", 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          210
+        ], 
+        [
+          1080, 
+          1492
+        ]
+      ], 
+      "signature": "[class]android.widget.ScrollView[resource_id]gov.ca.dmv:id/examPrefaceLayout[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": null, 
+      "visible": true, 
+      "checkable": false, 
+      "children": [
+        40, 
+        41, 
+        42
+      ], 
+      "size": "1080*1282", 
+      "checked": false, 
+      "temp_id": 39, 
+      "selected": false, 
+      "child_count": 3, 
+      "content_free_signature": "[class]android.widget.LinearLayout[resource_id]None", 
+      "is_password": false, 
+      "parent": 38, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.LinearLayout", 
+      "scrollable": false, 
+      "package": "gov.ca.dmv", 
+      "long_clickable": false, 
+      "view_str": "b39b910556e99c44d09eb058a9ddaab4", 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          210
+        ], 
+        [
+          1080, 
+          1492
+        ]
+      ], 
+      "signature": "[class]android.widget.LinearLayout[resource_id]None[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": "gov.ca.dmv:id/prefaceTitle", 
+      "text": "Car Driver", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "1080*85", 
+      "checked": false, 
+      "temp_id": 40, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.TextView[resource_id]gov.ca.dmv:id/prefaceTitle", 
+      "is_password": false, 
+      "parent": 39, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.TextView", 
+      "scrollable": false, 
+      "package": "gov.ca.dmv", 
+      "long_clickable": false, 
+      "view_str": "da556f19997f12c5198f59e261950b83", 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          242
+        ], 
+        [
+          1080, 
+          327
+        ]
+      ], 
+      "signature": "[class]android.widget.TextView[resource_id]gov.ca.dmv:id/prefaceTitle[text]Car Driver[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": "gov.ca.dmv:id/prefaceSubtitle", 
+      "text": "Class C License", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "1080*71", 
+      "checked": false, 
+      "temp_id": 41, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.TextView[resource_id]gov.ca.dmv:id/prefaceSubtitle", 
+      "is_password": false, 
+      "parent": 39, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.TextView", 
+      "scrollable": false, 
+      "package": "gov.ca.dmv", 
+      "long_clickable": false, 
+      "view_str": "11eb9da1ed9c429490ca6e93be8a4f7c", 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          327
+        ], 
+        [
+          1080, 
+          398
+        ]
+      ], 
+      "signature": "[class]android.widget.TextView[resource_id]gov.ca.dmv:id/prefaceSubtitle[text]Class C License[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": "gov.ca.dmv:id/examPrefaceBody", 
+      "text": null, 
+      "visible": true, 
+      "checkable": false, 
+      "children": [
+        43, 
+        44, 
+        45, 
+        46, 
+        47, 
+        48
+      ], 
+      "size": "1080*1062", 
+      "checked": false, 
+      "temp_id": 42, 
+      "selected": false, 
+      "child_count": 6, 
+      "content_free_signature": "[class]android.widget.LinearLayout[resource_id]gov.ca.dmv:id/examPrefaceBody", 
+      "is_password": false, 
+      "parent": 39, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.LinearLayout", 
+      "scrollable": false, 
+      "package": "gov.ca.dmv", 
+      "long_clickable": false, 
+      "view_str": "e6dfb85a1b462cd21698a1bd77808855", 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          430
+        ], 
+        [
+          1080, 
+          1492
+        ]
+      ], 
+      "signature": "[class]android.widget.LinearLayout[resource_id]gov.ca.dmv:id/examPrefaceBody[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": "gov.ca.dmv:id/prefaceLine1", 
+      "text": "Review the Car Driver Handbook. It contains a lot of information and it may take you a few days to get through it.", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "1058*155", 
+      "checked": false, 
+      "temp_id": 43, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.TextView[resource_id]gov.ca.dmv:id/prefaceLine1", 
+      "is_password": false, 
+      "parent": 42, 
+      "focusable": true, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": true, 
+      "class": "android.widget.TextView", 
+      "scrollable": false, 
+      "package": "gov.ca.dmv", 
+      "long_clickable": true, 
+      "view_str": "4a93262da00e378abbd4bd21867f1bcd", 
+      "enabled": true, 
+      "bounds": [
+        [
+          11, 
+          441
+        ], 
+        [
+          1069, 
+          596
+        ]
+      ], 
+      "signature": "[class]android.widget.TextView[resource_id]gov.ca.dmv:id/prefaceLine1[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": "gov.ca.dmv:id/prefaceLine2", 
+      "text": "Read the test questions carefully. Don't read anything extra into the question. There will be one correct answer and the other two answer choices will be either obviously wrong or not appropriate for the question asked.", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "1058*204", 
+      "checked": false, 
+      "temp_id": 44, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.TextView[resource_id]gov.ca.dmv:id/prefaceLine2", 
+      "is_password": false, 
+      "parent": 42, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.TextView", 
+      "scrollable": false, 
+      "package": "gov.ca.dmv", 
+      "long_clickable": false, 
+      "view_str": "4c69d5181c52cffd58814614ce39d954", 
+      "enabled": true, 
+      "bounds": [
+        [
+          11, 
+          618
+        ], 
+        [
+          1069, 
+          822
+        ]
+      ], 
+      "signature": "[class]android.widget.TextView[resource_id]gov.ca.dmv:id/prefaceLine2[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": "gov.ca.dmv:id/prefaceLine3", 
+      "text": "Remember, all the test questions are taken from the handbook. If you miss a question, the field office employee can tell you on which page to find the correct answer.", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "1058*204", 
+      "checked": false, 
+      "temp_id": 45, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.TextView[resource_id]gov.ca.dmv:id/prefaceLine3", 
+      "is_password": false, 
+      "parent": 42, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.TextView", 
+      "scrollable": false, 
+      "package": "gov.ca.dmv", 
+      "long_clickable": false, 
+      "view_str": "6b5124d8d89d37794583993f0be61a3e", 
+      "enabled": true, 
+      "bounds": [
+        [
+          11, 
+          844
+        ], 
+        [
+          1069, 
+          1048
+        ]
+      ], 
+      "signature": "[class]android.widget.TextView[resource_id]gov.ca.dmv:id/prefaceLine3[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": "gov.ca.dmv:id/prefaceLine4", 
+      "text": "Don't be nervous. DMV wants you to pass your test. Good Luck!", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "1058*106", 
+      "checked": false, 
+      "temp_id": 46, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.TextView[resource_id]gov.ca.dmv:id/prefaceLine4", 
+      "is_password": false, 
+      "parent": 42, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.TextView", 
+      "scrollable": false, 
+      "package": "gov.ca.dmv", 
+      "long_clickable": false, 
+      "view_str": "aacdc91f9d870decf86e71aeb00bac7d", 
+      "enabled": true, 
+      "bounds": [
+        [
+          11, 
+          1070
+        ], 
+        [
+          1069, 
+          1176
+        ]
+      ], 
+      "signature": "[class]android.widget.TextView[resource_id]gov.ca.dmv:id/prefaceLine4[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": "gov.ca.dmv:id/startExamButton", 
+      "text": "Start Car Driver Practice Exam", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "612*126", 
+      "checked": false, 
+      "temp_id": 47, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.Button[resource_id]gov.ca.dmv:id/startExamButton", 
+      "is_password": false, 
+      "parent": 42, 
+      "focusable": true, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": true, 
+      "class": "android.widget.Button", 
+      "scrollable": false, 
+      "package": "gov.ca.dmv", 
+      "long_clickable": false, 
+      "view_str": "80e276b284c969f4f6f3603baaf5c020", 
+      "enabled": true, 
+      "bounds": [
+        [
+          234, 
+          1208
+        ], 
+        [
+          846, 
+          1334
+        ]
+      ], 
+      "signature": "[class]android.widget.Button[resource_id]gov.ca.dmv:id/startExamButton[text]Start Car Driver Practice Exam[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": "gov.ca.dmv:id/downloadHandbookButton", 
+      "text": "Download Car Driver Handbook", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "630*126", 
+      "checked": false, 
+      "temp_id": 48, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.Button[resource_id]gov.ca.dmv:id/downloadHandbookButton", 
+      "is_password": false, 
+      "parent": 42, 
+      "focusable": true, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": true, 
+      "class": "android.widget.Button", 
+      "scrollable": false, 
+      "package": "gov.ca.dmv", 
+      "long_clickable": false, 
+      "view_str": "00b6f5759d51f870cf88c2afcf7ba14c", 
+      "enabled": true, 
+      "bounds": [
+        [
+          225, 
+          1355
+        ], 
+        [
+          855, 
+          1481
+        ]
+      ], 
+      "signature": "[class]android.widget.Button[resource_id]gov.ca.dmv:id/downloadHandbookButton[text]Download Car Driver Handbook[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": "gov.ca.dmv:id/snackbarContainer", 
+      "text": null, 
+      "visible": false, 
+      "checkable": false, 
+      "children": [], 
+      "size": "1080*0", 
+      "checked": false, 
+      "temp_id": 49, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.view.ViewGroup[resource_id]gov.ca.dmv:id/snackbarContainer", 
+      "is_password": false, 
+      "parent": 14, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.view.ViewGroup", 
+      "scrollable": false, 
+      "package": "gov.ca.dmv", 
+      "long_clickable": false, 
+      "view_str": "bbcd68ccf1fe29959ca99446d74a70fc", 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          1794
+        ], 
+        [
+          1080, 
+          1794
+        ]
+      ], 
+      "signature": "[class]android.view.ViewGroup[resource_id]gov.ca.dmv:id/snackbarContainer[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": "gov.ca.dmv:id/activitySnackbarContainer", 
+      "text": null, 
+      "visible": false, 
+      "checkable": false, 
+      "children": [], 
+      "size": "1080*0", 
+      "checked": false, 
+      "temp_id": 50, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.view.ViewGroup[resource_id]gov.ca.dmv:id/activitySnackbarContainer", 
+      "is_password": false, 
+      "parent": 6, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.view.ViewGroup", 
+      "scrollable": false, 
+      "package": "gov.ca.dmv", 
+      "long_clickable": false, 
+      "view_str": "2985047ba747c8004b2b714c31710e05", 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          1794
+        ], 
+        [
+          1080, 
+          1794
+        ]
+      ], 
+      "signature": "[class]android.view.ViewGroup[resource_id]gov.ca.dmv:id/activitySnackbarContainer[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": "android:id/statusBarBackground", 
+      "text": null, 
+      "visible": false, 
+      "checkable": false, 
+      "children": [], 
+      "size": "1080*63", 
+      "checked": false, 
+      "temp_id": 51, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.view.View[resource_id]android:id/statusBarBackground", 
+      "is_password": false, 
+      "parent": 0, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.view.View", 
+      "scrollable": false, 
+      "package": "gov.ca.dmv", 
+      "long_clickable": false, 
+      "view_str": "f3e01355cdc3a4bc734055c6b7c24ba1", 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          0
+        ], 
+        [
+          1080, 
+          63
+        ]
+      ], 
+      "signature": "[class]android.view.View[resource_id]android:id/statusBarBackground[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": "android:id/navigationBarBackground", 
+      "text": null, 
+      "visible": false, 
+      "checkable": false, 
+      "children": [], 
+      "size": "1080*126", 
+      "checked": false, 
+      "temp_id": 52, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.view.View[resource_id]android:id/navigationBarBackground", 
+      "is_password": false, 
+      "parent": 0, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.view.View", 
+      "scrollable": false, 
+      "package": "gov.ca.dmv", 
+      "long_clickable": false, 
+      "view_str": "226b781c46f2404dfb1c56f048ef1a84", 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          1794
+        ], 
+        [
+          1080, 
+          1920
+        ]
+      ], 
+      "signature": "[class]android.view.View[resource_id]android:id/navigationBarBackground[text]None[enabled,,]"
+    }
+  ], 
+  "state_str_content_free": "c6d6bc7973fda01cfd3ba14444564593", 
+  "activity_stack": [
+    "gov.ca.dmv/.main.MainActivity"
+  ], 
+  "background_services": [
+    "com.google.android.youtube/.api.service.YouTubeService", 
+    "gov.ca.dmv/org.chromium.content.app.SandboxedProcessService0", 
+    "com.google.android.gms/.deviceconnection.service.DeviceConnectionWatcherService", 
+    "com.google.android.gms/com.google.android.location.places.service.PlaceDetectionAsyncService", 
+    "com.android.systemui/.keyguard.KeyguardService", 
+    "com.android.systemui/.ImageWallpaper", 
+    "com.google.android.gms/com.google.android.location.geocode.GeocodeService", 
+    "com.google.android.gms/.auth.setup.devicesignals.LockScreenService", 
+    "com.google.android.gms/.gcm.GcmService", 
+    "com.google.android.gms/.clearcut.debug.ClearcutDebugDumpService", 
+    "com.android.phone/com.android.internal.telephony.CellularNetworkService", 
+    "com.google.android.gms/.chimera.PersistentBoundBrokerService", 
+    "com.google.android.gms/.chimera.GmsBoundBrokerService", 
+    "com.google.android.gms/.chimera.GmsApiService", 
+    "com.google.android.gms/.fido.fido2.pollux.CableAuthenticatorService", 
+    "com.google.android.googlequicksearchbox/com.google.android.apps.gsa.nowoverlayservice.DrawerOverlayService", 
+    "io.github.ylimit.droidbotapp/.DroidBotIME", 
+    "com.google.android.gms/com.google.android.location.fused.FusedLocationService", 
+    "com.google.android.gms/.gcm.nts.SchedulerService", 
+    "com.google.android.setupwizard/.logging.ScreenOnClock", 
+    "com.android.vending/com.google.android.finsky.deviceconfig.PhoneskyFirebaseMessagingService", 
+    "io.github.ylimit.droidbotapp/io.github.privacystreams.accessibility.PSAccessibilityService", 
+    "com.google.android.gms/com.google.android.location.geofencer.service.GeofenceProviderService", 
+    "com.google.android.gms/.thunderbird.EmergencyPersistentService", 
+    "com.google.android.apps.messaging/.fcm.BugleFirebaseInstanceIDService", 
+    "com.android.systemui/.SystemUIService", 
+    "com.google.android.gms/org.chromium.content.app.SandboxedProcessService0", 
+    "android/.hardware.location.GeofenceHardwareService", 
+    "com.android.se/.SecureElementService", 
+    "com.google.android.gms/.chimera.PersistentDirectBootAwareApiService", 
+    "com.google.android.ext.services/android.ext.services.notification.Assistant", 
+    "com.google.android.gms/.location.persistent.LocationPersistentService", 
+    "com.google.android.gms/com.google.android.location.internal.PendingIntentCallbackService", 
+    "com.google.android.gms/com.google.android.location.internal.server.GoogleLocationService", 
+    "com.google.android.gms/com.google.android.contextmanager.service.ContextManagerService", 
+    "com.google.android.gms/com.google.android.location.network.NetworkLocationService", 
+    "com.google.android.gms/com.google.android.location.internal.GoogleLocationManagerService", 
+    "com.android.phone/com.android.internal.telephony.dataconnection.CellularDataService", 
+    "com.android.server.telecom/.components.TelecomService", 
+    "com.google.android.googlequicksearchbox/com.google.android.voiceinteraction.GsaVoiceInteractionService", 
+    "com.android.smspush/.WapPushManager", 
+    "com.android.phone/.vvm.RemoteVvmTaskManager", 
+    "android/com.android.server.content.SyncJobService", 
+    "com.google.android.gms/.common.stats.GmsCoreStatsService", 
+    "com.google.android.gms/com.google.android.location.internal.server.HardwareArProviderService", 
+    "com.google.android.gm/com.google.firebase.iid.FirebaseInstanceIdService", 
+    "com.android.phone/.TelephonyDebugService", 
+    "com.google.android.videos/.service.pinning.TransferService", 
+    "com.google.android.apps.messaging/.shared.datamodel.action.ActionExecutorImpl", 
+    "com.google.android.apps.nexuslauncher/com.android.quickstep.TouchInteractionService"
+  ], 
+  "state_str": "070748705f11690972f5341c9a5cb839", 
+  "tag": "2020-03-04_193703", 
+  "foreground_activity": "gov.ca.dmv/.main.MainActivity"
+}

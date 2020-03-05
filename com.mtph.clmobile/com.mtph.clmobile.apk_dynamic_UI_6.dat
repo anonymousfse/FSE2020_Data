@@ -1,0 +1,9 @@
+45650ZZZprocessEvent:com.crashlytics.android.answers.EnabledSessionAnalyticsManagerStrategy:$r3 = $r0.<com.crashlytics.android.answers.EnabledSessionAnalyticsManagerStrategy: com.crashlytics.android.answers.SessionEventMetadata metadata>
+45657ZZZbuild:com.crashlytics.android.answers.SessionEvent$Builder:$r6 = $r0.<com.crashlytics.android.answers.SessionEvent$Builder: java.util.Map customAttributes>
+45653ZZZbuild:com.crashlytics.android.answers.SessionEvent$Builder:$l0 = $r0.<com.crashlytics.android.answers.SessionEvent$Builder: long timestamp>
+45658ZZZbuild:com.crashlytics.android.answers.SessionEvent$Builder:$r7 = $r0.<com.crashlytics.android.answers.SessionEvent$Builder: java.lang.String predefinedType>
+45654ZZZbuild:com.crashlytics.android.answers.SessionEvent$Builder:$r3 = $r0.<com.crashlytics.android.answers.SessionEvent$Builder: com.crashlytics.android.answers.SessionEvent$Type type>
+45652ZZZbuild:com.crashlytics.android.answers.SessionEvent$Builder:$r2 = new com.crashlytics.android.answers.SessionEvent
+45659ZZZbuild:com.crashlytics.android.answers.SessionEvent$Builder:$r8 = $r0.<com.crashlytics.android.answers.SessionEvent$Builder: java.util.Map predefinedAttributes>
+45656ZZZbuild:com.crashlytics.android.answers.SessionEvent$Builder:$r5 = $r0.<com.crashlytics.android.answers.SessionEvent$Builder: java.lang.String customType>
+45655ZZZbuild:com.crashlytics.android.answers.SessionEvent$Builder:$r4 = $r0.<com.crashlytics.android.answers.SessionEvent$Builder: java.util.Map details>

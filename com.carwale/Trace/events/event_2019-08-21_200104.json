@@ -1,0 +1,48 @@
+{
+  "stop_state": "5d9a9a1a6ea7d671db8fc33b1cd55a1a", 
+  "event_str": "TouchEvent(state=5d9a9a1a6ea7d671db8fc33b1cd55a1a, view=382d00ef162d7721a3e7ce9fcc24141f)", 
+  "tag": "2019-08-21_200104", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "event_type": "touch", 
+    "view": {
+      "content_description": null, 
+      "resource_id": "com.carwale:id/tvReviewValue", 
+      "text": "Grey , --", 
+      "visible": false, 
+      "checkable": false, 
+      "children": [], 
+      "size": "-1948*-251", 
+      "checked": false, 
+      "temp_id": 393, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.TextView[resource_id]com.carwale:id/tvReviewValue", 
+      "is_password": false, 
+      "parent": 392, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.TextView", 
+      "scrollable": false, 
+      "package": "com.carwale", 
+      "long_clickable": false, 
+      "view_str": "382d00ef162d7721a3e7ce9fcc24141f", 
+      "enabled": true, 
+      "bounds": [
+        [
+          3028, 
+          2045
+        ], 
+        [
+          1080, 
+          1794
+        ]
+      ], 
+      "signature": "[class]android.widget.TextView[resource_id]com.carwale:id/tvReviewValue[text]Grey , --[enabled,,]"
+    }
+  }, 
+  "start_state": "5d9a9a1a6ea7d671db8fc33b1cd55a1a"
+}

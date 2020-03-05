@@ -1,0 +1,9 @@
+25540ZZZgetDrawable:android.support.v7.widget.AppCompatDrawableManager:$r3 = $r2
+25346ZZZaddMenuPresenter:android.support.v7.view.menu.MenuBuilder:$r2 = $r0.<android.support.v7.view.menu.MenuBuilder: android.content.Context mContext>
+25526ZZZgetDrawable:android.support.v7.widget.TintTypedArray:$r2 = $r0.<android.support.v7.widget.TintTypedArray: android.content.Context mContext>
+25523ZZZgetDrawable:android.support.v7.widget.TintTypedArray:$r1 = $r0.<android.support.v7.widget.TintTypedArray: android.content.res.TypedArray mWrapped>
+25343ZZZgetListMenuView:android.support.v7.app.AppCompatDelegateImplV9$PanelFeatureState:$r3 = $r0.<android.support.v7.app.AppCompatDelegateImplV9$PanelFeatureState: android.support.v7.view.menu.MenuBuilder menu>
+25524ZZZgetDrawable:android.support.v7.widget.TintTypedArray:$i1 = virtualinvoke $r1.<android.content.res.TypedArray: int getResourceId(int,int)>($i0, 0)
+25344ZZZgetListMenuView:android.support.v7.app.AppCompatDelegateImplV9$PanelFeatureState:$r4 = $r0.<android.support.v7.app.AppCompatDelegateImplV9$PanelFeatureState: android.support.v7.view.menu.ListMenuPresenter listMenuPresenter>
+25500ZZZ<init>:android.support.v7.view.menu.ExpandedMenuView:$r3 = <android.support.v7.view.menu.ExpandedMenuView: int[] TINT_ATTRS>
+25520ZZZgetDrawable:android.support.v7.widget.TintTypedArray:$r1 = $r0.<android.support.v7.widget.TintTypedArray: android.content.res.TypedArray mWrapped>

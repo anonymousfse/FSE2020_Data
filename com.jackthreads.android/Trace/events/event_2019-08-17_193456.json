@@ -1,0 +1,48 @@
+{
+  "stop_state": "d667a1e8e7d2b54973e4206f05e72271", 
+  "event_str": "TouchEvent(state=ecea9c1b3448c97dccdcc1abe24dd193, view=e00586f3f3954f7a0bb3ecb3fed5a2b0)", 
+  "tag": "2019-08-17_193456", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "event_type": "touch", 
+    "view": {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": "HUDSON OUTERWEAR The Meatball Space-Suite Crew Tee $58.00", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "483*2", 
+      "checked": false, 
+      "temp_id": 252, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.view.View[resource_id]None", 
+      "is_password": false, 
+      "parent": 249, 
+      "focusable": true, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": true, 
+      "class": "android.view.View", 
+      "scrollable": false, 
+      "package": "com.jackthreads.android", 
+      "long_clickable": false, 
+      "view_str": "e00586f3f3954f7a0bb3ecb3fed5a2b0", 
+      "enabled": true, 
+      "bounds": [
+        [
+          580, 
+          1792
+        ], 
+        [
+          1063, 
+          1794
+        ]
+      ], 
+      "signature": "[class]android.view.View[resource_id]None[text]None[enabled,,]"
+    }
+  }, 
+  "start_state": "ecea9c1b3448c97dccdcc1abe24dd193"
+}

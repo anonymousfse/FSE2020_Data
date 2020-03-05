@@ -1,0 +1,3 @@
+6870ZZZonCreateView:com.restaurant.mobile.fragments.CertFragment:$r4 = virtualinvoke $r5.<android.view.View: android.view.View findViewById(int)>(2131230954)
+6865ZZZsetCookie:com.restaurant.mobile.fragments.WebViewFragment:$r4 = staticinvoke <android.webkit.CookieManager: android.webkit.CookieManager getInstance()>()
+6871ZZZonCreateView:com.restaurant.mobile.fragments.CertFragment:$r7 = (android.webkit.WebView) $r4

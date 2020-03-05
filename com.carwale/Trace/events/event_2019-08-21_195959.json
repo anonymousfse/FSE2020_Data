@@ -1,0 +1,48 @@
+{
+  "stop_state": "5d9a9a1a6ea7d671db8fc33b1cd55a1a", 
+  "event_str": "TouchEvent(state=5d9a9a1a6ea7d671db8fc33b1cd55a1a, view=72cd565a00a414609ed1e36e9ff91913)", 
+  "tag": "2019-08-21_195959", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "event_type": "touch", 
+    "view": {
+      "content_description": null, 
+      "resource_id": "com.carwale:id/tvReviewProp", 
+      "text": "Color (Exterior, Interior)", 
+      "visible": false, 
+      "checkable": false, 
+      "children": [], 
+      "size": "-1144*-251", 
+      "checked": false, 
+      "temp_id": 391, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.TextView[resource_id]com.carwale:id/tvReviewProp", 
+      "is_password": false, 
+      "parent": 390, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.TextView", 
+      "scrollable": false, 
+      "package": "com.carwale", 
+      "long_clickable": false, 
+      "view_str": "72cd565a00a414609ed1e36e9ff91913", 
+      "enabled": true, 
+      "bounds": [
+        [
+          2224, 
+          2045
+        ], 
+        [
+          1080, 
+          1794
+        ]
+      ], 
+      "signature": "[class]android.widget.TextView[resource_id]com.carwale:id/tvReviewProp[text]Color (Exterior, Interior)[enabled,,]"
+    }
+  }, 
+  "start_state": "5d9a9a1a6ea7d671db8fc33b1cd55a1a"
+}

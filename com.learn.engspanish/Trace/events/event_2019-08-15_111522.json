@@ -1,0 +1,48 @@
+{
+  "stop_state": "aa9b83103977d4cf1f64f6182de21aad", 
+  "event_str": "TouchEvent(state=33bde7267e9688e90446d45b9dde2e02, view=1818f1abe94bc3795d57169da15c5e1e)", 
+  "tag": "2019-08-15_111522", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "event_type": "touch", 
+    "view": {
+      "content_description": null, 
+      "resource_id": "com.learn.engspanish:id/group_name", 
+      "text": "Convert into Spanish ON", 
+      "visible": true, 
+      "checkable": true, 
+      "children": [], 
+      "size": "478*71", 
+      "checked": true, 
+      "temp_id": 9, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.Switch[resource_id]com.learn.engspanish:id/group_name", 
+      "is_password": false, 
+      "parent": 7, 
+      "focusable": true, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": true, 
+      "class": "android.widget.Switch", 
+      "scrollable": false, 
+      "package": "com.learn.engspanish", 
+      "long_clickable": false, 
+      "view_str": "1818f1abe94bc3795d57169da15c5e1e", 
+      "enabled": true, 
+      "bounds": [
+        [
+          589, 
+          13
+        ], 
+        [
+          1067, 
+          84
+        ]
+      ], 
+      "signature": "[class]android.widget.Switch[resource_id]com.learn.engspanish:id/group_name[text]Convert into Spanish ON[enabled,checked,]"
+    }
+  }, 
+  "start_state": "33bde7267e9688e90446d45b9dde2e02"
+}

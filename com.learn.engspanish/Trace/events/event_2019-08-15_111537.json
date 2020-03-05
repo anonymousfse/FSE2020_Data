@@ -1,0 +1,63 @@
+{
+  "stop_state": "e32bb1770f88dbdc5b011e8b2754c6a2", 
+  "event_str": "ScrollEvent(state=9ec04e2bbc43317e3253661e4fd5a436, view=c7220ce00b933c581910b58f730f920b, direction=DOWN)", 
+  "tag": "2019-08-15_111537", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "direction": "DOWN", 
+    "event_type": "scroll", 
+    "view": {
+      "content_description": null, 
+      "resource_id": "com.learn.engspanish:id/lvExp", 
+      "text": null, 
+      "visible": true, 
+      "checkable": false, 
+      "children": [
+        16, 
+        18, 
+        20, 
+        22, 
+        24, 
+        26, 
+        28, 
+        30, 
+        32, 
+        34, 
+        36, 
+        38, 
+        40
+      ], 
+      "size": "1080*1400", 
+      "checked": false, 
+      "temp_id": 15, 
+      "selected": false, 
+      "child_count": 13, 
+      "content_free_signature": "[class]android.widget.ExpandableListView[resource_id]com.learn.engspanish:id/lvExp", 
+      "is_password": false, 
+      "parent": 14, 
+      "focusable": true, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.ExpandableListView", 
+      "scrollable": true, 
+      "package": "com.learn.engspanish", 
+      "long_clickable": false, 
+      "view_str": "c7220ce00b933c581910b58f730f920b", 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          394
+        ], 
+        [
+          1080, 
+          1794
+        ]
+      ], 
+      "signature": "[class]android.widget.ExpandableListView[resource_id]com.learn.engspanish:id/lvExp[text]None[enabled,,]"
+    }
+  }, 
+  "start_state": "9ec04e2bbc43317e3253661e4fd5a436"
+}

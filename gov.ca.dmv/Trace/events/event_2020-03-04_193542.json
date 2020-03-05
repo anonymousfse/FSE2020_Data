@@ -1,0 +1,51 @@
+{
+  "stop_state": "27bdf178e19d2b6b4666148b4588f846", 
+  "event_str": "TouchEvent(state=7aec5c1a8f202f43d5da75f11299d982, view=3ace57aaff70c65696a8845d558d974c)", 
+  "tag": "2020-03-04_193542", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "event_type": "touch", 
+    "view": {
+      "content_description": null, 
+      "resource_id": "gov.ca.dmv:id/homeVideos", 
+      "text": null, 
+      "visible": true, 
+      "checkable": false, 
+      "children": [
+        35, 
+        36
+      ], 
+      "size": "301*251", 
+      "checked": false, 
+      "temp_id": 34, 
+      "selected": false, 
+      "child_count": 2, 
+      "content_free_signature": "[class]android.widget.LinearLayout[resource_id]gov.ca.dmv:id/homeVideos", 
+      "is_password": false, 
+      "parent": 27, 
+      "focusable": true, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": true, 
+      "class": "android.widget.LinearLayout", 
+      "scrollable": false, 
+      "package": "gov.ca.dmv", 
+      "long_clickable": false, 
+      "view_str": "3ace57aaff70c65696a8845d558d974c", 
+      "enabled": true, 
+      "bounds": [
+        [
+          768, 
+          1042
+        ], 
+        [
+          1069, 
+          1293
+        ]
+      ], 
+      "signature": "[class]android.widget.LinearLayout[resource_id]gov.ca.dmv:id/homeVideos[text]None[enabled,,]"
+    }
+  }, 
+  "start_state": "7aec5c1a8f202f43d5da75f11299d982"
+}

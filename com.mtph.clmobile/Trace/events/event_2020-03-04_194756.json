@@ -1,0 +1,48 @@
+{
+  "stop_state": "46402f9c8879e0444d59eadbd6344e0f", 
+  "event_str": "TouchEvent(state=45c86466e3996e0667ebf5d95df9af05, view=6e87e18ee9da9123b262a85b86e7be79)", 
+  "tag": "2020-03-04_194756", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "event_type": "touch", 
+    "view": {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": "flag as prohibited / spam / miscategorized", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "160*68", 
+      "checked": false, 
+      "temp_id": 37, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.Button[resource_id]None", 
+      "is_password": false, 
+      "parent": 36, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": true, 
+      "class": "android.widget.Button", 
+      "scrollable": false, 
+      "package": "com.mtph.clmobile", 
+      "long_clickable": false, 
+      "view_str": "6e87e18ee9da9123b262a85b86e7be79", 
+      "enabled": true, 
+      "bounds": [
+        [
+          409, 
+          451
+        ], 
+        [
+          569, 
+          519
+        ]
+      ], 
+      "signature": "[class]android.widget.Button[resource_id]None[text]flag as prohibited / spam / miscategorized[enabled,,]"
+    }
+  }, 
+  "start_state": "45c86466e3996e0667ebf5d95df9af05"
+}

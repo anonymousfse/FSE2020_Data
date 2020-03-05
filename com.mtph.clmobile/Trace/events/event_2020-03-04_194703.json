@@ -1,0 +1,48 @@
+{
+  "stop_state": "5c945f3f9bdf78df6692a9686f8546a1", 
+  "event_str": "TouchEvent(state=2bc9d139fa667e3f0ed28966b7158392, view=2df1637660e35e5e3f82944b4c325889)", 
+  "tag": "2020-03-04_194703", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "event_type": "touch", 
+    "view": {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": "(berkeley)", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "152*1", 
+      "checked": false, 
+      "temp_id": 983, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.view.View[resource_id]None", 
+      "is_password": false, 
+      "parent": 977, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.view.View", 
+      "scrollable": false, 
+      "package": "com.mtph.clmobile", 
+      "long_clickable": false, 
+      "view_str": "2df1637660e35e5e3f82944b4c325889", 
+      "enabled": true, 
+      "bounds": [
+        [
+          131, 
+          1793
+        ], 
+        [
+          283, 
+          1794
+        ]
+      ], 
+      "signature": "[class]android.view.View[resource_id]None[text](berkeley)[enabled,,]"
+    }
+  }, 
+  "start_state": "2bc9d139fa667e3f0ed28966b7158392"
+}

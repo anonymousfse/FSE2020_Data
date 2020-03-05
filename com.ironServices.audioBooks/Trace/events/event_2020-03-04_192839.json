@@ -1,0 +1,48 @@
+{
+  "stop_state": "82a1a008a7c73217053137063835cb70", 
+  "event_str": "TouchEvent(state=82a1a008a7c73217053137063835cb70, view=753297f2753d27ac306791e93b801f33)", 
+  "tag": "2020-03-04_192839", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "event_type": "touch", 
+    "view": {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": "The successive and simultaneous scenes of this grand slaughter we renounce all attempts at depicting. The epic alone has the right to fill twelve thousand verses with a battle.", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "2*472", 
+      "checked": false, 
+      "temp_id": 58, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.view.View[resource_id]None", 
+      "is_password": false, 
+      "parent": 32, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.view.View", 
+      "scrollable": false, 
+      "package": "com.ironServices.audioBooks", 
+      "long_clickable": false, 
+      "view_str": "753297f2753d27ac306791e93b801f33", 
+      "enabled": true, 
+      "bounds": [
+        [
+          1021, 
+          1008
+        ], 
+        [
+          1023, 
+          1480
+        ]
+      ], 
+      "signature": "[class]android.view.View[resource_id]None[text]None[enabled,,]"
+    }
+  }, 
+  "start_state": "82a1a008a7c73217053137063835cb70"
+}

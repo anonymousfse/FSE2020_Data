@@ -1,0 +1,10 @@
+{
+  "stop_state": "721fc2bc8f3cb9cf5b0cc1ebcb37a5c1", 
+  "event_str": "IntentEvent(intent='am start webexplorer.amazing.speed/acr.browser.lightning.activity.SplashScreenActivity')", 
+  "tag": "2020-03-04_185141", 
+  "event": {
+    "intent": "am start webexplorer.amazing.speed/acr.browser.lightning.activity.SplashScreenActivity", 
+    "event_type": "intent"
+  }, 
+  "start_state": "ed19b3dbe79d63ccedad6eec0419c728"
+}

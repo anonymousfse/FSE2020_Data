@@ -1,0 +1,9 @@
+60182ZZZonCreateViewHolder:acr.browser.lightning.fragment.TabsFragment$LightningViewAdapter:$i0 = $r0.<acr.browser.lightning.fragment.TabsFragment$LightningViewAdapter: int mLayoutResourceId>
+60209ZZZ<init>:acr.browser.lightning.fragment.TabsFragment$LightningViewAdapter$LightningViewHolder:$r9 = <android.graphics.PorterDuff$Mode: android.graphics.PorterDuff$Mode SRC_IN>
+60181ZZZonCreateViewHolder:acr.browser.lightning.fragment.TabsFragment$LightningViewAdapter:$r3 = staticinvoke <android.view.LayoutInflater: android.view.LayoutInflater 'from'(android.content.Context)>($r2)
+60148ZZZonBindViewHolder:acr.browser.lightning.fragment.TabsFragment$LightningViewAdapter:$r15 = $r1.<acr.browser.lightning.fragment.TabsFragment$LightningViewAdapter$LightningViewHolder: android.widget.LinearLayout layout>
+60183ZZZonCreateViewHolder:acr.browser.lightning.fragment.TabsFragment$LightningViewAdapter:$r4 = virtualinvoke $r3.<android.view.LayoutInflater: android.view.View inflate(int,android.view.ViewGroup,boolean)>($i0, $r1, 0)
+60102ZZZonBindViewHolder:acr.browser.lightning.fragment.TabsFragment$LightningViewAdapter:$r2 = (acr.browser.lightning.fragment.TabsFragment$LightningViewAdapter$LightningViewHolder) $r1
+60186ZZZonCreateViewHolder:acr.browser.lightning.fragment.TabsFragment$LightningViewAdapter:$r6 = new acr.browser.lightning.fragment.TabsFragment$LightningViewAdapter$LightningViewHolder
+60149ZZZonBindViewHolder:acr.browser.lightning.fragment.TabsFragment$LightningViewAdapter:$r17 = $r0.<acr.browser.lightning.fragment.TabsFragment$LightningViewAdapter: android.graphics.drawable.Drawable mBackgroundTabDrawable>
+60180ZZZonCreateViewHolder:acr.browser.lightning.fragment.TabsFragment$LightningViewAdapter:$r2 = virtualinvoke $r1.<android.view.ViewGroup: android.content.Context getContext()>()

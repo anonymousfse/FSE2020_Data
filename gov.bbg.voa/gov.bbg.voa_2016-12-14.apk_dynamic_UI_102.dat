@@ -1,0 +1,3 @@
+521615ZZZa:org.rferl.ui.widget.TouchImageView:$r11 = $r0.<org.rferl.ui.widget.TouchImageView: android.widget.ImageView$ScaleType q>
+521627ZZZa:org.rferl.ui.widget.TouchImageView:$r11 = <android.widget.ImageView$ScaleType: android.widget.ImageView$ScaleType MATRIX>
+521635ZZZsetScaleType:org.rferl.ui.widget.TouchImageView:$r1 = <android.widget.ImageView$ScaleType: android.widget.ImageView$ScaleType MATRIX>

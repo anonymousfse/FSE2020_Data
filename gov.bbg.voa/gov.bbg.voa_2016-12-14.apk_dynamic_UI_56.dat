@@ -1,0 +1,7 @@
+115770ZZZa:bt:$r3 = $r0.<bt: android.support.v4.app.LoaderManager$LoaderCallbacks c>
+115758ZZZa:bt:$r4 = $r0.<bt: bs o>
+115755ZZZa:bt:$r5 = staticinvoke <bs: android.support.v4.app.FragmentHostCallback a(bs)>($r4)
+115752ZZZa:bt:$r3 = $r0.<bt: android.support.v4.app.LoaderManager$LoaderCallbacks c>
+115754ZZZa:bt:$r4 = $r0.<bt: bs o>
+115763ZZZa:bt:$r4 = $r0.<bt: bs o>
+115759ZZZa:bt:$r5 = staticinvoke <bs: android.support.v4.app.FragmentHostCallback a(bs)>($r4)

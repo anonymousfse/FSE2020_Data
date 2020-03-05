@@ -1,0 +1,7 @@
+33879ZZZloadUrl:acr.browser.lightning.view.LightningView:$r3 = $r0.<acr.browser.lightning.view.LightningView: android.webkit.WebView mWebView>
+33872ZZZloadUrl:acr.browser.lightning.view.LightningView:$r4 = $r0.<acr.browser.lightning.view.LightningView: android.app.Activity mActivity>
+33880ZZZloadUrl:acr.browser.lightning.view.LightningView:$r11 = $r0.<acr.browser.lightning.view.LightningView: java.util.Map mRequestHeaders>
+33845ZZZonPostExecute:acr.browser.lightning.constant.StartPage:$r2 = virtualinvoke $r4.<java.lang.ref.WeakReference: java.lang.Object get()>()
+33848ZZZonPostExecute:acr.browser.lightning.constant.StartPage:$r1 = $r0.<acr.browser.lightning.constant.StartPage: java.lang.String mStartpageUrl>
+33846ZZZonPostExecute:acr.browser.lightning.constant.StartPage:$r5 = (acr.browser.lightning.view.LightningView) $r2
+33844ZZZonPostExecute:acr.browser.lightning.constant.StartPage:$r4 = $r0.<acr.browser.lightning.constant.StartPage: java.lang.ref.WeakReference mTabReference>

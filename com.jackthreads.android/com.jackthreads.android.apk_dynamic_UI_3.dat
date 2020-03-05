@@ -1,0 +1,7 @@
+13012ZZZloadFromAttributes:android.support.v7.widget.AppCompatImageHelper:$r4 = <android.support.v7.appcompat.R$styleable: int[] AppCompatImageView>
+13014ZZZobtainStyledAttributes:android.support.v7.widget.TintTypedArray:$r3 = new android.support.v7.widget.TintTypedArray
+13302ZZZloadFromAttributes:android.support.v7.widget.AppCompatImageHelper:$r2 = $r0.<android.support.v7.widget.AppCompatImageHelper: android.widget.ImageView mView>
+13053ZZZgetDrawable:android.support.v7.widget.AppCompatDrawableManager:$r3 = $r2
+13015ZZZobtainStyledAttributes:android.support.v7.widget.TintTypedArray:$r4 = virtualinvoke $r0.<android.content.Context: android.content.res.TypedArray obtainStyledAttributes(android.util.AttributeSet,int[],int,int)>($r1, $r2, $i0, $i1)
+13011ZZZloadFromAttributes:android.support.v7.widget.AppCompatImageHelper:$r3 = virtualinvoke $r2.<android.widget.ImageView: android.content.Context getContext()>()
+13010ZZZloadFromAttributes:android.support.v7.widget.AppCompatImageHelper:$r2 = $r0.<android.support.v7.widget.AppCompatImageHelper: android.widget.ImageView mView>

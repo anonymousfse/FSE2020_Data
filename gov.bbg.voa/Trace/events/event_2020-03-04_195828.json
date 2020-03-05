@@ -1,0 +1,48 @@
+{
+  "stop_state": "9961716e87a3189e42db4639b75f8740", 
+  "event_str": "TouchEvent(state=9961716e87a3189e42db4639b75f8740, view=75d89cc06d0c346eb02e194832e5345b)", 
+  "tag": "2020-03-04_195828", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "event_type": "touch", 
+    "view": {
+      "content_description": null, 
+      "resource_id": "gov.bbg.voa:id/audio_player_shadow", 
+      "text": null, 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "1080*12", 
+      "checked": false, 
+      "temp_id": 77, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.ImageView[resource_id]gov.bbg.voa:id/audio_player_shadow", 
+      "is_password": false, 
+      "parent": 15, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.ImageView", 
+      "scrollable": false, 
+      "package": "gov.bbg.voa", 
+      "long_clickable": false, 
+      "view_str": "75d89cc06d0c346eb02e194832e5345b", 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          1522
+        ], 
+        [
+          1080, 
+          1534
+        ]
+      ], 
+      "signature": "[class]android.widget.ImageView[resource_id]gov.bbg.voa:id/audio_player_shadow[text]None[enabled,,]"
+    }
+  }, 
+  "start_state": "9961716e87a3189e42db4639b75f8740"
+}

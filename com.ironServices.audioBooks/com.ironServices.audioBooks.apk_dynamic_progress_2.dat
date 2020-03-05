@@ -1,0 +1,7 @@
+6545ZZZrun:org.apache.cordova.splashscreen.SplashScreen$6:$r4 = new android.widget.RelativeLayout$LayoutParams
+25024ZZZloadUrl:org.apache.cordova.engine.SystemWebViewEngine:$r2 = $r0.<org.apache.cordova.engine.SystemWebViewEngine: org.apache.cordova.engine.SystemWebView webView>
+6899ZZZloadUrl:org.apache.cordova.engine.SystemWebViewEngine:$r2 = $r0.<org.apache.cordova.engine.SystemWebViewEngine: org.apache.cordova.engine.SystemWebView webView>
+6515ZZZrun:org.apache.cordova.splashscreen.SplashScreen$6:$r11 = new org.apache.cordova.splashscreen.SplashScreen$6$1
+11586ZZZloadUrl:org.apache.cordova.engine.SystemWebViewEngine:$r2 = $r0.<org.apache.cordova.engine.SystemWebViewEngine: org.apache.cordova.engine.SystemWebView webView>
+25022ZZZloadUrlIntoView:org.apache.cordova.CordovaWebViewImpl:$r6 = $r0.<org.apache.cordova.CordovaWebViewImpl: org.apache.cordova.CordovaWebViewEngine engine>
+11584ZZZloadUrlIntoView:org.apache.cordova.CordovaWebViewImpl:$r6 = $r0.<org.apache.cordova.CordovaWebViewImpl: org.apache.cordova.CordovaWebViewEngine engine>

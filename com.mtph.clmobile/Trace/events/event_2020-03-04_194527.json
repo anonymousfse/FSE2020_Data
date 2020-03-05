@@ -1,0 +1,50 @@
+{
+  "stop_state": "1993a04f3260d4e5003ca36a3079e194", 
+  "event_str": "TouchEvent(state=e315ecf1f318870df654ed2d19e91583, view=49584c796124edc65ea66bce77b5138d)", 
+  "tag": "2020-03-04_194527", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "event_type": "touch", 
+    "view": {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": "jobs", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [
+        65
+      ], 
+      "size": "1081*121", 
+      "checked": false, 
+      "temp_id": 64, 
+      "selected": false, 
+      "child_count": 1, 
+      "content_free_signature": "[class]android.view.View[resource_id]None", 
+      "is_password": false, 
+      "parent": 63, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": true, 
+      "class": "android.view.View", 
+      "scrollable": false, 
+      "package": "com.mtph.clmobile", 
+      "long_clickable": false, 
+      "view_str": "49584c796124edc65ea66bce77b5138d", 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          782
+        ], 
+        [
+          1081, 
+          903
+        ]
+      ], 
+      "signature": "[class]android.view.View[resource_id]None[text]jobs[enabled,,]"
+    }
+  }, 
+  "start_state": "e315ecf1f318870df654ed2d19e91583"
+}

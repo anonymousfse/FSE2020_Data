@@ -1,0 +1,51 @@
+{
+  "stop_state": "5d9a9a1a6ea7d671db8fc33b1cd55a1a", 
+  "event_str": "ScrollEvent(state=5d9a9a1a6ea7d671db8fc33b1cd55a1a, view=ee8a7d46e2cbcf76c90edfd3cd1c791a, direction=UP)", 
+  "tag": "2019-08-21_200018", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "direction": "UP", 
+    "event_type": "scroll", 
+    "view": {
+      "content_description": null, 
+      "resource_id": "com.carwale:id/scroll", 
+      "text": null, 
+      "visible": true, 
+      "checkable": false, 
+      "children": [
+        31
+      ], 
+      "size": "1080*1075", 
+      "checked": false, 
+      "temp_id": 30, 
+      "selected": false, 
+      "child_count": 1, 
+      "content_free_signature": "[class]android.widget.ScrollView[resource_id]com.carwale:id/scroll", 
+      "is_password": false, 
+      "parent": 13, 
+      "focusable": true, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.ScrollView", 
+      "scrollable": true, 
+      "package": "com.carwale", 
+      "long_clickable": false, 
+      "view_str": "ee8a7d46e2cbcf76c90edfd3cd1c791a", 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          719
+        ], 
+        [
+          1080, 
+          1794
+        ]
+      ], 
+      "signature": "[class]android.widget.ScrollView[resource_id]com.carwale:id/scroll[text]None[enabled,,]"
+    }
+  }, 
+  "start_state": "5d9a9a1a6ea7d671db8fc33b1cd55a1a"
+}

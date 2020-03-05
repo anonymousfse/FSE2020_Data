@@ -1,0 +1,48 @@
+{
+  "stop_state": "b89f69bb2493d61553849736012f58cf", 
+  "event_str": "TouchEvent(state=70e45edb5ec56cf0bd99396a91bb319d, view=dcc96d252555db12e9bf91519647deda)", 
+  "tag": "2019-08-15_171445", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "event_type": "touch", 
+    "view": {
+      "content_description": "holds an ad", 
+      "resource_id": "com.kbb.mobile:id/adlabel", 
+      "text": null, 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "53*131", 
+      "checked": false, 
+      "temp_id": 33, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.ImageView[resource_id]com.kbb.mobile:id/adlabel", 
+      "is_password": false, 
+      "parent": 18, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.ImageView", 
+      "scrollable": false, 
+      "package": "com.kbb.mobile", 
+      "long_clickable": false, 
+      "view_str": "dcc96d252555db12e9bf91519647deda", 
+      "enabled": true, 
+      "bounds": [
+        [
+          907, 
+          1663
+        ], 
+        [
+          960, 
+          1794
+        ]
+      ], 
+      "signature": "[class]android.widget.ImageView[resource_id]com.kbb.mobile:id/adlabel[text]None[enabled,,]"
+    }
+  }, 
+  "start_state": "70e45edb5ec56cf0bd99396a91bb319d"
+}

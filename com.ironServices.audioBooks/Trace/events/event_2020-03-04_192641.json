@@ -1,0 +1,48 @@
+{
+  "stop_state": "3294e55a13f90d81d06e3f192f52b336", 
+  "event_str": "TouchEvent(state=710bcfd5772e92aa8d516f500db3d731, view=2b4e6f5123ed4a8d66af11a335242f6f)", 
+  "tag": "2020-03-04_192641", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "event_type": "touch", 
+    "view": {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": "07 - Chapters 23 - 26", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "788*116", 
+      "checked": false, 
+      "temp_id": 105, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.view.View[resource_id]None", 
+      "is_password": false, 
+      "parent": 98, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": true, 
+      "class": "android.view.View", 
+      "scrollable": false, 
+      "package": "com.ironServices.audioBooks", 
+      "long_clickable": false, 
+      "view_str": "2b4e6f5123ed4a8d66af11a335242f6f", 
+      "enabled": true, 
+      "bounds": [
+        [
+          10, 
+          889
+        ], 
+        [
+          798, 
+          1005
+        ]
+      ], 
+      "signature": "[class]android.view.View[resource_id]None[text]07 - Chapters 23 - 26[enabled,,]"
+    }
+  }, 
+  "start_state": "710bcfd5772e92aa8d516f500db3d731"
+}

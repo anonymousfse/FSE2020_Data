@@ -1,0 +1,51 @@
+{
+  "stop_state": "48253330107a2da46e5daa7f7f5522f1", 
+  "event_str": "ScrollEvent(state=9a6e7ae76d8dea9f91fd63514bf63f56, view=7af059979d4c61ae8bed5df23abe5c4f, direction=DOWN)", 
+  "tag": "2019-08-15_180656", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "direction": "DOWN", 
+    "event_type": "scroll", 
+    "view": {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": "Products", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [
+        15
+      ], 
+      "size": "1081*1421", 
+      "checked": false, 
+      "temp_id": 14, 
+      "selected": false, 
+      "child_count": 1, 
+      "content_free_signature": "[class]android.webkit.WebView[resource_id]None", 
+      "is_password": false, 
+      "parent": 13, 
+      "focusable": true, 
+      "editable": false, 
+      "focused": true, 
+      "clickable": false, 
+      "class": "android.webkit.WebView", 
+      "scrollable": true, 
+      "package": "com.restaurant.mobile", 
+      "long_clickable": false, 
+      "view_str": "7af059979d4c61ae8bed5df23abe5c4f", 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          210
+        ], 
+        [
+          1081, 
+          1631
+        ]
+      ], 
+      "signature": "[class]android.webkit.WebView[resource_id]None[text]Products[enabled,,]"
+    }
+  }, 
+  "start_state": "9a6e7ae76d8dea9f91fd63514bf63f56"
+}

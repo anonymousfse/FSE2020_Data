@@ -1,0 +1,48 @@
+{
+  "stop_state": "fc16cb1155853727bfee54d1d5955d49", 
+  "event_str": "TouchEvent(state=fc16cb1155853727bfee54d1d5955d49, view=753297f2753d27ac306791e93b801f33)", 
+  "tag": "2020-03-04_192410", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "event_type": "touch", 
+    "view": {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": "\"My dear, you flatter me. I certainly havehad my share of beauty, but I do not pretend to be anything extraordinary now. When a woman has five grown-up daughters, she ought to give over thinking of her own beauty.\"", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "2*362", 
+      "checked": false, 
+      "temp_id": 52, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.view.View[resource_id]None", 
+      "is_password": false, 
+      "parent": 30, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.view.View", 
+      "scrollable": false, 
+      "package": "com.ironServices.audioBooks", 
+      "long_clickable": false, 
+      "view_str": "753297f2753d27ac306791e93b801f33", 
+      "enabled": true, 
+      "bounds": [
+        [
+          1021, 
+          1005
+        ], 
+        [
+          1023, 
+          1367
+        ]
+      ], 
+      "signature": "[class]android.view.View[resource_id]None[text]None[enabled,,]"
+    }
+  }, 
+  "start_state": "fc16cb1155853727bfee54d1d5955d49"
+}

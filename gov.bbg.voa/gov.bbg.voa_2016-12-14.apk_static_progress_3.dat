@@ -1,0 +1,16 @@
+93335ZZZsetCustomProgress:org.rferl.ui.activity.BaseActivity:virtualinvoke $r1.<android.widget.ProgressBar: void setProgress(int)>($i0)
+-1ZZZsetCustomProgress:org.rferl.ui.activity.BaseActivity:$i0 := @parameter0: int
+-1ZZZsetCustomProgress:org.rferl.ui.activity.BaseActivity:$r1 = $r0.<org.rferl.ui.activity.BaseActivity: android.widget.ProgressBar d>
+-1ZZZsetCustomProgress:org.rferl.ui.activity.BaseActivity:$r0 := @this: org.rferl.ui.activity.BaseActivity
+93331ZZZonReceive:agm:virtualinvoke $r3.<org.rferl.ui.activity.HomeActivity: void setCustomProgress(int)>($i0)
+-1ZZZonReceive:agm:$i0 = (int) $d0
+-1ZZZonReceive:agm:$r3 = $r0.<agm: org.rferl.ui.activity.HomeActivity a>
+-1ZZZonReceive:agm:$d0 = (double) $f0
+-1ZZZonReceive:agm:$d0 = 0.9 * $d0
+-1ZZZonReceive:agm:$d0 = 0.1 + $d0
+-1ZZZonReceive:agm:$d0 = 100.0 * $d0
+-1ZZZonReceive:agm:$r0 := @this: agm
+-1ZZZonReceive:agm:$f0 = virtualinvoke $r2.<android.content.Intent: float getFloatExtra(java.lang.String,float)>("paramProgress", 0.0F)
+-1ZZZonReceive:agm:$r2 := @parameter1: android.content.Intent
+93298ZZZupdateProviderContent:org.rferl.service.SyncService:specialinvoke $r0.<org.rferl.service.SyncService: void b()>()
+-1ZZZupdateProviderContent:org.rferl.service.SyncService:$r0 := @this: org.rferl.service.SyncService

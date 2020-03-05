@@ -1,0 +1,3983 @@
+{
+  "views": [
+    {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": null, 
+      "visible": true, 
+      "checkable": false, 
+      "children": [
+        1, 
+        100, 
+        101
+      ], 
+      "size": "1080*1920", 
+      "checked": false, 
+      "temp_id": 0, 
+      "selected": false, 
+      "child_count": 3, 
+      "content_free_signature": "[class]android.widget.FrameLayout[resource_id]None", 
+      "is_password": false, 
+      "parent": -1, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.FrameLayout", 
+      "scrollable": false, 
+      "package": "com.restaurant.mobile", 
+      "long_clickable": false, 
+      "view_str": "55ef04e019d52c9f9a79ae03e2f773b1", 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          0
+        ], 
+        [
+          1080, 
+          1920
+        ]
+      ], 
+      "signature": "[class]android.widget.FrameLayout[resource_id]None[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": null, 
+      "visible": true, 
+      "checkable": false, 
+      "children": [
+        2
+      ], 
+      "size": "1080*1794", 
+      "checked": false, 
+      "temp_id": 1, 
+      "selected": false, 
+      "child_count": 1, 
+      "content_free_signature": "[class]android.widget.LinearLayout[resource_id]None", 
+      "is_password": false, 
+      "parent": 0, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.LinearLayout", 
+      "scrollable": false, 
+      "package": "com.restaurant.mobile", 
+      "long_clickable": false, 
+      "view_str": "371daff207d93c7ae57d017d9f1a8893", 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          0
+        ], 
+        [
+          1080, 
+          1794
+        ]
+      ], 
+      "signature": "[class]android.widget.LinearLayout[resource_id]None[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": null, 
+      "visible": true, 
+      "checkable": false, 
+      "children": [
+        3
+      ], 
+      "size": "1080*1731", 
+      "checked": false, 
+      "temp_id": 2, 
+      "selected": false, 
+      "child_count": 1, 
+      "content_free_signature": "[class]android.widget.FrameLayout[resource_id]None", 
+      "is_password": false, 
+      "parent": 1, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.FrameLayout", 
+      "scrollable": false, 
+      "package": "com.restaurant.mobile", 
+      "long_clickable": false, 
+      "view_str": "04aab6c6040905a4045d61ae8b403301", 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          63
+        ], 
+        [
+          1080, 
+          1794
+        ]
+      ], 
+      "signature": "[class]android.widget.FrameLayout[resource_id]None[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": "com.restaurant.mobile:id/action_bar_root", 
+      "text": null, 
+      "visible": true, 
+      "checkable": false, 
+      "children": [
+        4
+      ], 
+      "size": "1080*1731", 
+      "checked": false, 
+      "temp_id": 3, 
+      "selected": false, 
+      "child_count": 1, 
+      "content_free_signature": "[class]android.widget.LinearLayout[resource_id]com.restaurant.mobile:id/action_bar_root", 
+      "is_password": false, 
+      "parent": 2, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.LinearLayout", 
+      "scrollable": false, 
+      "package": "com.restaurant.mobile", 
+      "long_clickable": false, 
+      "view_str": "8df85560b6bddbeb94cc5b80dbb452b5", 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          63
+        ], 
+        [
+          1080, 
+          1794
+        ]
+      ], 
+      "signature": "[class]android.widget.LinearLayout[resource_id]com.restaurant.mobile:id/action_bar_root[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": "android:id/content", 
+      "text": null, 
+      "visible": true, 
+      "checkable": false, 
+      "children": [
+        5
+      ], 
+      "size": "1080*1731", 
+      "checked": false, 
+      "temp_id": 4, 
+      "selected": false, 
+      "child_count": 1, 
+      "content_free_signature": "[class]android.widget.FrameLayout[resource_id]android:id/content", 
+      "is_password": false, 
+      "parent": 3, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.FrameLayout", 
+      "scrollable": false, 
+      "package": "com.restaurant.mobile", 
+      "long_clickable": false, 
+      "view_str": "dfdded1572a7c40de8d87ec7eeadfbae", 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          63
+        ], 
+        [
+          1080, 
+          1794
+        ]
+      ], 
+      "signature": "[class]android.widget.FrameLayout[resource_id]android:id/content[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": "com.restaurant.mobile:id/activityRoot", 
+      "text": null, 
+      "visible": true, 
+      "checkable": false, 
+      "children": [
+        6, 
+        9, 
+        85, 
+        86, 
+        87
+      ], 
+      "size": "1080*1731", 
+      "checked": false, 
+      "temp_id": 5, 
+      "selected": false, 
+      "child_count": 5, 
+      "content_free_signature": "[class]android.widget.RelativeLayout[resource_id]com.restaurant.mobile:id/activityRoot", 
+      "is_password": false, 
+      "parent": 4, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.RelativeLayout", 
+      "scrollable": false, 
+      "package": "com.restaurant.mobile", 
+      "long_clickable": false, 
+      "view_str": "4e90de0dd159a4c38c06a48787834511", 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          63
+        ], 
+        [
+          1080, 
+          1794
+        ]
+      ], 
+      "signature": "[class]android.widget.RelativeLayout[resource_id]com.restaurant.mobile:id/activityRoot[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": "com.restaurant.mobile:id/toolbar", 
+      "text": null, 
+      "visible": true, 
+      "checkable": false, 
+      "children": [
+        7, 
+        8
+      ], 
+      "size": "1080*147", 
+      "checked": false, 
+      "temp_id": 6, 
+      "selected": false, 
+      "child_count": 2, 
+      "content_free_signature": "[class]android.view.ViewGroup[resource_id]com.restaurant.mobile:id/toolbar", 
+      "is_password": false, 
+      "parent": 5, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.view.ViewGroup", 
+      "scrollable": false, 
+      "package": "com.restaurant.mobile", 
+      "long_clickable": false, 
+      "view_str": "7051e5326eb9b26c88f531125eaa7294", 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          63
+        ], 
+        [
+          1080, 
+          210
+        ]
+      ], 
+      "signature": "[class]android.view.ViewGroup[resource_id]com.restaurant.mobile:id/toolbar[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": "com.restaurant.mobile:id/title_bar", 
+      "text": "Restaurant Details", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "435*65", 
+      "checked": false, 
+      "temp_id": 7, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.TextView[resource_id]com.restaurant.mobile:id/title_bar", 
+      "is_password": false, 
+      "parent": 6, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.TextView", 
+      "scrollable": false, 
+      "package": "com.restaurant.mobile", 
+      "long_clickable": false, 
+      "view_str": "6950c27f0b95bfb3101475a3e26e074e", 
+      "enabled": true, 
+      "bounds": [
+        [
+          323, 
+          104
+        ], 
+        [
+          758, 
+          169
+        ]
+      ], 
+      "signature": "[class]android.widget.TextView[resource_id]com.restaurant.mobile:id/title_bar[text]Restaurant Details[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": null, 
+      "visible": false, 
+      "checkable": false, 
+      "children": [], 
+      "size": "0*147", 
+      "checked": false, 
+      "temp_id": 8, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.support.v7.widget.LinearLayoutCompat[resource_id]None", 
+      "is_password": false, 
+      "parent": 6, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.support.v7.widget.LinearLayoutCompat", 
+      "scrollable": false, 
+      "package": "com.restaurant.mobile", 
+      "long_clickable": false, 
+      "view_str": "296fc181df61e1718cca716e77d23c0a", 
+      "enabled": true, 
+      "bounds": [
+        [
+          1080, 
+          63
+        ], 
+        [
+          1080, 
+          210
+        ]
+      ], 
+      "signature": "[class]android.support.v7.widget.LinearLayoutCompat[resource_id]None[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": null, 
+      "visible": true, 
+      "checkable": false, 
+      "children": [
+        10, 
+        84
+      ], 
+      "size": "1080*1421", 
+      "checked": false, 
+      "temp_id": 9, 
+      "selected": false, 
+      "child_count": 2, 
+      "content_free_signature": "[class]android.widget.RelativeLayout[resource_id]None", 
+      "is_password": false, 
+      "parent": 5, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.RelativeLayout", 
+      "scrollable": false, 
+      "package": "com.restaurant.mobile", 
+      "long_clickable": false, 
+      "view_str": "2c3c1ba03a295641e73d86eec9af5f65", 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          210
+        ], 
+        [
+          1080, 
+          1631
+        ]
+      ], 
+      "signature": "[class]android.widget.RelativeLayout[resource_id]None[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": "com.restaurant.mobile:id/fragment_layout", 
+      "text": null, 
+      "visible": true, 
+      "checkable": false, 
+      "children": [
+        11
+      ], 
+      "size": "1080*1421", 
+      "checked": false, 
+      "temp_id": 10, 
+      "selected": false, 
+      "child_count": 1, 
+      "content_free_signature": "[class]android.widget.FrameLayout[resource_id]com.restaurant.mobile:id/fragment_layout", 
+      "is_password": false, 
+      "parent": 9, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.FrameLayout", 
+      "scrollable": false, 
+      "package": "com.restaurant.mobile", 
+      "long_clickable": false, 
+      "view_str": "a3cb5c3b0a35a12ddb489e967caf2a50", 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          210
+        ], 
+        [
+          1080, 
+          1631
+        ]
+      ], 
+      "signature": "[class]android.widget.FrameLayout[resource_id]com.restaurant.mobile:id/fragment_layout[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": null, 
+      "visible": true, 
+      "checkable": false, 
+      "children": [
+        12
+      ], 
+      "size": "1080*1421", 
+      "checked": false, 
+      "temp_id": 11, 
+      "selected": false, 
+      "child_count": 1, 
+      "content_free_signature": "[class]android.widget.RelativeLayout[resource_id]None", 
+      "is_password": false, 
+      "parent": 10, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.RelativeLayout", 
+      "scrollable": false, 
+      "package": "com.restaurant.mobile", 
+      "long_clickable": false, 
+      "view_str": "af2346e1eb32834b2bb99b586b69e39e", 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          210
+        ], 
+        [
+          1080, 
+          1631
+        ]
+      ], 
+      "signature": "[class]android.widget.RelativeLayout[resource_id]None[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": null, 
+      "visible": true, 
+      "checkable": false, 
+      "children": [
+        13
+      ], 
+      "size": "1080*1421", 
+      "checked": false, 
+      "temp_id": 12, 
+      "selected": false, 
+      "child_count": 1, 
+      "content_free_signature": "[class]android.webkit.WebView[resource_id]None", 
+      "is_password": false, 
+      "parent": 11, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.webkit.WebView", 
+      "scrollable": false, 
+      "package": "com.restaurant.mobile", 
+      "long_clickable": false, 
+      "view_str": "a315fe455fb676e3410b900eaf632365", 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          210
+        ], 
+        [
+          1080, 
+          1631
+        ]
+      ], 
+      "signature": "[class]android.webkit.WebView[resource_id]None[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": "Cinnamom Bakery Anywhere - Reviews and Deals at Restaurant.com", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [
+        14
+      ], 
+      "size": "1081*1421", 
+      "checked": false, 
+      "temp_id": 13, 
+      "selected": false, 
+      "child_count": 1, 
+      "content_free_signature": "[class]android.webkit.WebView[resource_id]None", 
+      "is_password": false, 
+      "parent": 12, 
+      "focusable": true, 
+      "editable": false, 
+      "focused": true, 
+      "clickable": false, 
+      "class": "android.webkit.WebView", 
+      "scrollable": true, 
+      "package": "com.restaurant.mobile", 
+      "long_clickable": false, 
+      "view_str": "501409c7c04f17b81674299a48097e37", 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          210
+        ], 
+        [
+          1081, 
+          1631
+        ]
+      ], 
+      "signature": "[class]android.webkit.WebView[resource_id]None[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": "", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [
+        15
+      ], 
+      "size": "1081*1421", 
+      "checked": false, 
+      "temp_id": 14, 
+      "selected": false, 
+      "child_count": 1, 
+      "content_free_signature": "[class]android.view.View[resource_id]None", 
+      "is_password": false, 
+      "parent": 13, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": true, 
+      "class": "android.view.View", 
+      "scrollable": false, 
+      "package": "com.restaurant.mobile", 
+      "long_clickable": false, 
+      "view_str": "cac799cba5db6fc434488e50d1d5d70a", 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          210
+        ], 
+        [
+          1081, 
+          1631
+        ]
+      ], 
+      "signature": "[class]android.view.View[resource_id]None[text][enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": "page_restaurant_detail", 
+      "text": "", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [
+        16, 
+        25, 
+        26, 
+        51, 
+        69, 
+        72, 
+        74, 
+        81, 
+        82
+      ], 
+      "size": "1081*1357", 
+      "checked": false, 
+      "temp_id": 15, 
+      "selected": false, 
+      "child_count": 9, 
+      "content_free_signature": "[class]android.view.View[resource_id]page_restaurant_detail", 
+      "is_password": false, 
+      "parent": 14, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.view.View", 
+      "scrollable": false, 
+      "package": "com.restaurant.mobile", 
+      "long_clickable": false, 
+      "view_str": "aea7f6e090ad923a03977aa7ff76d163", 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          210
+        ], 
+        [
+          1081, 
+          1567
+        ]
+      ], 
+      "signature": "[class]android.view.View[resource_id]page_restaurant_detail[text][enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": "", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [
+        17, 
+        18, 
+        19, 
+        20
+      ], 
+      "size": "1029*2", 
+      "checked": false, 
+      "temp_id": 16, 
+      "selected": false, 
+      "child_count": 4, 
+      "content_free_signature": "[class]android.view.View[resource_id]None", 
+      "is_password": false, 
+      "parent": 15, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.view.View", 
+      "scrollable": false, 
+      "package": "com.restaurant.mobile", 
+      "long_clickable": false, 
+      "view_str": "188ab015f8d5eb1a417750368aea0ead", 
+      "enabled": true, 
+      "bounds": [
+        [
+          26, 
+          210
+        ], 
+        [
+          1055, 
+          212
+        ]
+      ], 
+      "signature": "[class]android.view.View[resource_id]None[text][enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": "343932", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "221*2", 
+      "checked": false, 
+      "temp_id": 17, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.view.View[resource_id]None", 
+      "is_password": false, 
+      "parent": 16, 
+      "focusable": true, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": true, 
+      "class": "android.view.View", 
+      "scrollable": false, 
+      "package": "com.restaurant.mobile", 
+      "long_clickable": false, 
+      "view_str": "73885a26d8afb3cb1515c39385819745", 
+      "enabled": true, 
+      "bounds": [
+        [
+          78, 
+          210
+        ], 
+        [
+          299, 
+          212
+        ]
+      ], 
+      "signature": "[class]android.view.View[resource_id]None[text]343932[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": "Cinnamom Bakery", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "924*2", 
+      "checked": false, 
+      "temp_id": 18, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.view.View[resource_id]None", 
+      "is_password": false, 
+      "parent": 16, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.view.View", 
+      "scrollable": false, 
+      "package": "com.restaurant.mobile", 
+      "long_clickable": false, 
+      "view_str": "672a9f53cdc489fe0b27655f91ae30fd", 
+      "enabled": true, 
+      "bounds": [
+        [
+          78, 
+          210
+        ], 
+        [
+          1002, 
+          212
+        ]
+      ], 
+      "signature": "[class]android.view.View[resource_id]None[text]Cinnamom Bakery[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": "Cuisine: Coffee/Tea/Bakery, Dessert", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "924*2", 
+      "checked": false, 
+      "temp_id": 19, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.view.View[resource_id]None", 
+      "is_password": false, 
+      "parent": 16, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.view.View", 
+      "scrollable": false, 
+      "package": "com.restaurant.mobile", 
+      "long_clickable": false, 
+      "view_str": "e6f59ebe0b9ef9c6959db4d414f27726", 
+      "enabled": true, 
+      "bounds": [
+        [
+          78, 
+          210
+        ], 
+        [
+          1002, 
+          212
+        ]
+      ], 
+      "signature": "[class]android.view.View[resource_id]None[text]Cuisine: Coffee/Tea/Bakery, Dessert[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": "", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [
+        21, 
+        22
+      ], 
+      "size": "924*2", 
+      "checked": false, 
+      "temp_id": 20, 
+      "selected": false, 
+      "child_count": 2, 
+      "content_free_signature": "[class]android.view.View[resource_id]None", 
+      "is_password": false, 
+      "parent": 16, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.view.View", 
+      "scrollable": false, 
+      "package": "com.restaurant.mobile", 
+      "long_clickable": false, 
+      "view_str": "51b9b9e2bc9452c2a7c4c4bce15eb7d6", 
+      "enabled": true, 
+      "bounds": [
+        [
+          78, 
+          210
+        ], 
+        [
+          1002, 
+          212
+        ]
+      ], 
+      "signature": "[class]android.view.View[resource_id]None[text][enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": "(3.2/5)", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "326*2", 
+      "checked": false, 
+      "temp_id": 21, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.view.View[resource_id]None", 
+      "is_password": false, 
+      "parent": 20, 
+      "focusable": true, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": true, 
+      "class": "android.view.View", 
+      "scrollable": false, 
+      "package": "com.restaurant.mobile", 
+      "long_clickable": false, 
+      "view_str": "d4c43ab3c523f8fa1c442099f0b2a150", 
+      "enabled": true, 
+      "bounds": [
+        [
+          78, 
+          210
+        ], 
+        [
+          404, 
+          212
+        ]
+      ], 
+      "signature": "[class]android.view.View[resource_id]None[text](3.2/5)[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": "", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [
+        23, 
+        24
+      ], 
+      "size": "228*2", 
+      "checked": false, 
+      "temp_id": 22, 
+      "selected": false, 
+      "child_count": 2, 
+      "content_free_signature": "[class]android.view.View[resource_id]None", 
+      "is_password": false, 
+      "parent": 20, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.view.View", 
+      "scrollable": false, 
+      "package": "com.restaurant.mobile", 
+      "long_clickable": false, 
+      "view_str": "3f8ac8d852681856ea3a898c70a6ef1c", 
+      "enabled": true, 
+      "bounds": [
+        [
+          774, 
+          210
+        ], 
+        [
+          1002, 
+          212
+        ]
+      ], 
+      "signature": "[class]android.view.View[resource_id]None[text][enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": "Price:", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "102*2", 
+      "checked": false, 
+      "temp_id": 23, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.view.View[resource_id]None", 
+      "is_password": false, 
+      "parent": 22, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.view.View", 
+      "scrollable": false, 
+      "package": "com.restaurant.mobile", 
+      "long_clickable": false, 
+      "view_str": "235a360e71fbf59b07f7e10d21f4028f", 
+      "enabled": true, 
+      "bounds": [
+        [
+          774, 
+          210
+        ], 
+        [
+          876, 
+          212
+        ]
+      ], 
+      "signature": "[class]android.view.View[resource_id]None[text]Price:[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": "", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "126*2", 
+      "checked": false, 
+      "temp_id": 24, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.view.View[resource_id]None", 
+      "is_password": false, 
+      "parent": 22, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.view.View", 
+      "scrollable": false, 
+      "package": "com.restaurant.mobile", 
+      "long_clickable": false, 
+      "view_str": "434f0e45c042b9146d94163c0c817379", 
+      "enabled": true, 
+      "bounds": [
+        [
+          876, 
+          210
+        ], 
+        [
+          1002, 
+          212
+        ]
+      ], 
+      "signature": "[class]android.view.View[resource_id]None[text][enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": "Purchase a Certificate", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "1003*2", 
+      "checked": false, 
+      "temp_id": 25, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.view.View[resource_id]None", 
+      "is_password": false, 
+      "parent": 15, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.view.View", 
+      "scrollable": false, 
+      "package": "com.restaurant.mobile", 
+      "long_clickable": false, 
+      "view_str": "d3fb5b42d92d4262b1b51387c5396d15", 
+      "enabled": true, 
+      "bounds": [
+        [
+          52, 
+          210
+        ], 
+        [
+          1055, 
+          212
+        ]
+      ], 
+      "signature": "[class]android.view.View[resource_id]None[text]Purchase a Certificate[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": "", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [
+        27
+      ], 
+      "size": "1029*2", 
+      "checked": false, 
+      "temp_id": 26, 
+      "selected": false, 
+      "child_count": 1, 
+      "content_free_signature": "[class]android.view.View[resource_id]None", 
+      "is_password": false, 
+      "parent": 15, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.view.View", 
+      "scrollable": false, 
+      "package": "com.restaurant.mobile", 
+      "long_clickable": false, 
+      "view_str": "b9886be4563c97951c424b3acc04cb4e", 
+      "enabled": true, 
+      "bounds": [
+        [
+          26, 
+          210
+        ], 
+        [
+          1055, 
+          212
+        ]
+      ], 
+      "signature": "[class]android.view.View[resource_id]None[text][enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": "", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [
+        28, 
+        42
+      ], 
+      "size": "977*2", 
+      "checked": false, 
+      "temp_id": 27, 
+      "selected": false, 
+      "child_count": 2, 
+      "content_free_signature": "[class]android.view.View[resource_id]None", 
+      "is_password": false, 
+      "parent": 26, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.view.View", 
+      "scrollable": false, 
+      "package": "com.restaurant.mobile", 
+      "long_clickable": false, 
+      "view_str": "d8e8a1ef7102fa0073f2a217349bffde", 
+      "enabled": true, 
+      "bounds": [
+        [
+          52, 
+          210
+        ], 
+        [
+          1029, 
+          212
+        ]
+      ], 
+      "signature": "[class]android.view.View[resource_id]None[text][enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": "", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [
+        29, 
+        35
+      ], 
+      "size": "977*2", 
+      "checked": false, 
+      "temp_id": 28, 
+      "selected": false, 
+      "child_count": 2, 
+      "content_free_signature": "[class]android.view.View[resource_id]None", 
+      "is_password": false, 
+      "parent": 27, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.view.View", 
+      "scrollable": false, 
+      "package": "com.restaurant.mobile", 
+      "long_clickable": false, 
+      "view_str": "057cf218eaea293b466373c3c008569a", 
+      "enabled": true, 
+      "bounds": [
+        [
+          52, 
+          210
+        ], 
+        [
+          1029, 
+          212
+        ]
+      ], 
+      "signature": "[class]android.view.View[resource_id]None[text][enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": "", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [
+        30, 
+        31, 
+        34
+      ], 
+      "size": "977*2", 
+      "checked": false, 
+      "temp_id": 29, 
+      "selected": false, 
+      "child_count": 3, 
+      "content_free_signature": "[class]android.view.View[resource_id]None", 
+      "is_password": false, 
+      "parent": 28, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.view.View", 
+      "scrollable": false, 
+      "package": "com.restaurant.mobile", 
+      "long_clickable": false, 
+      "view_str": "e7c967c091fc9508059b6dd01dbb76c9", 
+      "enabled": true, 
+      "bounds": [
+        [
+          52, 
+          210
+        ], 
+        [
+          1029, 
+          212
+        ]
+      ], 
+      "signature": "[class]android.view.View[resource_id]None[text][enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": "  ", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "977*2", 
+      "checked": false, 
+      "temp_id": 30, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.view.View[resource_id]None", 
+      "is_password": false, 
+      "parent": 29, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.view.View", 
+      "scrollable": false, 
+      "package": "com.restaurant.mobile", 
+      "long_clickable": false, 
+      "view_str": "88a23a974f4d6607a7d8fa8fe2cfc24f", 
+      "enabled": true, 
+      "bounds": [
+        [
+          52, 
+          210
+        ], 
+        [
+          1029, 
+          212
+        ]
+      ], 
+      "signature": "[class]android.view.View[resource_id]None[text]  [enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": "", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [
+        32, 
+        33
+      ], 
+      "size": "977*2", 
+      "checked": false, 
+      "temp_id": 31, 
+      "selected": false, 
+      "child_count": 2, 
+      "content_free_signature": "[class]android.view.View[resource_id]None", 
+      "is_password": false, 
+      "parent": 29, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.view.View", 
+      "scrollable": false, 
+      "package": "com.restaurant.mobile", 
+      "long_clickable": false, 
+      "view_str": "30ac2285ab44581a5364e2ab6fccd7b7", 
+      "enabled": true, 
+      "bounds": [
+        [
+          52, 
+          210
+        ], 
+        [
+          1029, 
+          212
+        ]
+      ], 
+      "signature": "[class]android.view.View[resource_id]None[text][enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": "$10 Gift Certificate for $4.00 ", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "522*2", 
+      "checked": false, 
+      "temp_id": 32, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.view.View[resource_id]None", 
+      "is_password": false, 
+      "parent": 31, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.view.View", 
+      "scrollable": false, 
+      "package": "com.restaurant.mobile", 
+      "long_clickable": false, 
+      "view_str": "ecd848f3239b37f549afe1b15c452601", 
+      "enabled": true, 
+      "bounds": [
+        [
+          55, 
+          210
+        ], 
+        [
+          577, 
+          212
+        ]
+      ], 
+      "signature": "[class]android.view.View[resource_id]None[text]$10 Gift Certificate for $4.00 [enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": "\n", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "977*2", 
+      "checked": false, 
+      "temp_id": 33, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.view.View[resource_id]None", 
+      "is_password": false, 
+      "parent": 31, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.view.View", 
+      "scrollable": false, 
+      "package": "com.restaurant.mobile", 
+      "long_clickable": false, 
+      "view_str": "f77a1517b8823572bbad530d5b5e6a12", 
+      "enabled": true, 
+      "bounds": [
+        [
+          52, 
+          210
+        ], 
+        [
+          1029, 
+          212
+        ]
+      ], 
+      "signature": "[class]android.view.View[resource_id]None[text]\n[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": "  ", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "977*2", 
+      "checked": false, 
+      "temp_id": 34, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.view.View[resource_id]None", 
+      "is_password": false, 
+      "parent": 29, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.view.View", 
+      "scrollable": false, 
+      "package": "com.restaurant.mobile", 
+      "long_clickable": false, 
+      "view_str": "88a23a974f4d6607a7d8fa8fe2cfc24f", 
+      "enabled": true, 
+      "bounds": [
+        [
+          52, 
+          210
+        ], 
+        [
+          1029, 
+          212
+        ]
+      ], 
+      "signature": "[class]android.view.View[resource_id]None[text]  [enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": "", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [
+        36, 
+        37, 
+        41
+      ], 
+      "size": "977*2", 
+      "checked": false, 
+      "temp_id": 35, 
+      "selected": false, 
+      "child_count": 3, 
+      "content_free_signature": "[class]android.view.View[resource_id]None", 
+      "is_password": false, 
+      "parent": 28, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.view.View", 
+      "scrollable": false, 
+      "package": "com.restaurant.mobile", 
+      "long_clickable": false, 
+      "view_str": "e7c967c091fc9508059b6dd01dbb76c9", 
+      "enabled": true, 
+      "bounds": [
+        [
+          52, 
+          210
+        ], 
+        [
+          1029, 
+          212
+        ]
+      ], 
+      "signature": "[class]android.view.View[resource_id]None[text][enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": "  ", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "977*2", 
+      "checked": false, 
+      "temp_id": 36, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.view.View[resource_id]None", 
+      "is_password": false, 
+      "parent": 35, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.view.View", 
+      "scrollable": false, 
+      "package": "com.restaurant.mobile", 
+      "long_clickable": false, 
+      "view_str": "88a23a974f4d6607a7d8fa8fe2cfc24f", 
+      "enabled": true, 
+      "bounds": [
+        [
+          52, 
+          210
+        ], 
+        [
+          1029, 
+          212
+        ]
+      ], 
+      "signature": "[class]android.view.View[resource_id]None[text]  [enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": "", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [
+        38, 
+        39, 
+        40
+      ], 
+      "size": "977*2", 
+      "checked": false, 
+      "temp_id": 37, 
+      "selected": false, 
+      "child_count": 3, 
+      "content_free_signature": "[class]android.view.View[resource_id]None", 
+      "is_password": false, 
+      "parent": 35, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.view.View", 
+      "scrollable": false, 
+      "package": "com.restaurant.mobile", 
+      "long_clickable": false, 
+      "view_str": "8f0bda2bce2a81714ba58f3c2336c65e", 
+      "enabled": true, 
+      "bounds": [
+        [
+          52, 
+          210
+        ], 
+        [
+          1029, 
+          212
+        ]
+      ], 
+      "signature": "[class]android.view.View[resource_id]None[text][enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": "$25 Gift Certificate for $10.00 ", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "543*2", 
+      "checked": false, 
+      "temp_id": 38, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.view.View[resource_id]None", 
+      "is_password": false, 
+      "parent": 37, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.view.View", 
+      "scrollable": false, 
+      "package": "com.restaurant.mobile", 
+      "long_clickable": false, 
+      "view_str": "19ca6b1bfd6133540e703655afb31c3c", 
+      "enabled": true, 
+      "bounds": [
+        [
+          55, 
+          210
+        ], 
+        [
+          598, 
+          212
+        ]
+      ], 
+      "signature": "[class]android.view.View[resource_id]None[text]$25 Gift Certificate for $10.00 [enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": "\n", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "938*2", 
+      "checked": false, 
+      "temp_id": 39, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.view.View[resource_id]None", 
+      "is_password": false, 
+      "parent": 37, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.view.View", 
+      "scrollable": false, 
+      "package": "com.restaurant.mobile", 
+      "long_clickable": false, 
+      "view_str": "f77a1517b8823572bbad530d5b5e6a12", 
+      "enabled": true, 
+      "bounds": [
+        [
+          91, 
+          210
+        ], 
+        [
+          1029, 
+          212
+        ]
+      ], 
+      "signature": "[class]android.view.View[resource_id]None[text]\n[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": "Special Term(s): Minimum purchase of $50. TO BE USED ONLINE ONLY. Not valid with any other coupon. Does not include shipping &amp; handling which is based on location. Orders ship from Michigan. 10-digit gift card codes are not accepted. Apply 9-digit certificate number at checkout at http://www.cinnamombakery.com.", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "871*2", 
+      "checked": false, 
+      "temp_id": 40, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.view.View[resource_id]None", 
+      "is_password": false, 
+      "parent": 37, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.view.View", 
+      "scrollable": false, 
+      "package": "com.restaurant.mobile", 
+      "long_clickable": false, 
+      "view_str": "38fdd14138ca9c518fa4115b5173e8ee", 
+      "enabled": true, 
+      "bounds": [
+        [
+          55, 
+          210
+        ], 
+        [
+          926, 
+          212
+        ]
+      ], 
+      "signature": "[class]android.view.View[resource_id]None[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": "  ", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "977*2", 
+      "checked": false, 
+      "temp_id": 41, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.view.View[resource_id]None", 
+      "is_password": false, 
+      "parent": 35, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.view.View", 
+      "scrollable": false, 
+      "package": "com.restaurant.mobile", 
+      "long_clickable": false, 
+      "view_str": "88a23a974f4d6607a7d8fa8fe2cfc24f", 
+      "enabled": true, 
+      "bounds": [
+        [
+          52, 
+          210
+        ], 
+        [
+          1029, 
+          212
+        ]
+      ], 
+      "signature": "[class]android.view.View[resource_id]None[text]  [enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": "", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [
+        43, 
+        44, 
+        48, 
+        50
+      ], 
+      "size": "977*2", 
+      "checked": false, 
+      "temp_id": 42, 
+      "selected": false, 
+      "child_count": 4, 
+      "content_free_signature": "[class]android.view.View[resource_id]None", 
+      "is_password": false, 
+      "parent": 27, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.view.View", 
+      "scrollable": false, 
+      "package": "com.restaurant.mobile", 
+      "long_clickable": false, 
+      "view_str": "35f61a6659509f37e9fb4b6db4d42b01", 
+      "enabled": true, 
+      "bounds": [
+        [
+          52, 
+          210
+        ], 
+        [
+          1029, 
+          212
+        ]
+      ], 
+      "signature": "[class]android.view.View[resource_id]None[text][enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": "  ", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "898*2", 
+      "checked": false, 
+      "temp_id": 43, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.view.View[resource_id]None", 
+      "is_password": false, 
+      "parent": 42, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.view.View", 
+      "scrollable": false, 
+      "package": "com.restaurant.mobile", 
+      "long_clickable": false, 
+      "view_str": "39f5d479baba6697b0cab55ab323a5b7", 
+      "enabled": true, 
+      "bounds": [
+        [
+          52, 
+          210
+        ], 
+        [
+          950, 
+          212
+        ]
+      ], 
+      "signature": "[class]android.view.View[resource_id]None[text]  [enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": "", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [
+        45
+      ], 
+      "size": "488*2", 
+      "checked": false, 
+      "temp_id": 44, 
+      "selected": false, 
+      "child_count": 1, 
+      "content_free_signature": "[class]android.view.View[resource_id]None", 
+      "is_password": false, 
+      "parent": 42, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.view.View", 
+      "scrollable": false, 
+      "package": "com.restaurant.mobile", 
+      "long_clickable": false, 
+      "view_str": "4001e469a35546c62ef77ef7500bb0eb", 
+      "enabled": true, 
+      "bounds": [
+        [
+          52, 
+          210
+        ], 
+        [
+          540, 
+          212
+        ]
+      ], 
+      "signature": "[class]android.view.View[resource_id]None[text][enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": "", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [
+        46, 
+        47
+      ], 
+      "size": "449*2", 
+      "checked": false, 
+      "temp_id": 45, 
+      "selected": false, 
+      "child_count": 2, 
+      "content_free_signature": "[class]android.view.View[resource_id]None", 
+      "is_password": false, 
+      "parent": 44, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.view.View", 
+      "scrollable": false, 
+      "package": "com.restaurant.mobile", 
+      "long_clickable": false, 
+      "view_str": "ef134f696963573ba8395ed66c416efd", 
+      "enabled": true, 
+      "bounds": [
+        [
+          52, 
+          210
+        ], 
+        [
+          501, 
+          212
+        ]
+      ], 
+      "signature": "[class]android.view.View[resource_id]None[text][enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": "QTY: ", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "121*2", 
+      "checked": false, 
+      "temp_id": 46, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.view.View[resource_id]None", 
+      "is_password": false, 
+      "parent": 45, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.view.View", 
+      "scrollable": false, 
+      "package": "com.restaurant.mobile", 
+      "long_clickable": false, 
+      "view_str": "80231c4a74c33957e34078b6d9e6efb3", 
+      "enabled": true, 
+      "bounds": [
+        [
+          52, 
+          210
+        ], 
+        [
+          173, 
+          212
+        ]
+      ], 
+      "signature": "[class]android.view.View[resource_id]None[text]QTY: [enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": "select343932", 
+      "text": "1", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "305*2", 
+      "checked": false, 
+      "temp_id": 47, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.Spinner[resource_id]select343932", 
+      "is_password": false, 
+      "parent": 45, 
+      "focusable": true, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": true, 
+      "class": "android.widget.Spinner", 
+      "scrollable": false, 
+      "package": "com.restaurant.mobile", 
+      "long_clickable": false, 
+      "view_str": "ed95f1d32fa9d3e27bdd607edbd16661", 
+      "enabled": true, 
+      "bounds": [
+        [
+          183, 
+          210
+        ], 
+        [
+          488, 
+          212
+        ]
+      ], 
+      "signature": "[class]android.widget.Spinner[resource_id]select343932[text]1[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": "", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [
+        49
+      ], 
+      "size": "489*2", 
+      "checked": false, 
+      "temp_id": 48, 
+      "selected": false, 
+      "child_count": 1, 
+      "content_free_signature": "[class]android.view.View[resource_id]None", 
+      "is_password": false, 
+      "parent": 42, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.view.View", 
+      "scrollable": false, 
+      "package": "com.restaurant.mobile", 
+      "long_clickable": false, 
+      "view_str": "8ced55150e668f1df1636d676afccad9", 
+      "enabled": true, 
+      "bounds": [
+        [
+          540, 
+          210
+        ], 
+        [
+          1029, 
+          212
+        ]
+      ], 
+      "signature": "[class]android.view.View[resource_id]None[text][enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": "Add to Cart", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "449*2", 
+      "checked": false, 
+      "temp_id": 49, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.Button[resource_id]None", 
+      "is_password": false, 
+      "parent": 48, 
+      "focusable": true, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": true, 
+      "class": "android.widget.Button", 
+      "scrollable": false, 
+      "package": "com.restaurant.mobile", 
+      "long_clickable": false, 
+      "view_str": "fc5c598ec9802577ac6e1675a608a426", 
+      "enabled": true, 
+      "bounds": [
+        [
+          580, 
+          210
+        ], 
+        [
+          1029, 
+          212
+        ]
+      ], 
+      "signature": "[class]android.widget.Button[resource_id]None[text]Add to Cart[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": "  ", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "950*2", 
+      "checked": false, 
+      "temp_id": 50, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.view.View[resource_id]None", 
+      "is_password": false, 
+      "parent": 42, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.view.View", 
+      "scrollable": false, 
+      "package": "com.restaurant.mobile", 
+      "long_clickable": false, 
+      "view_str": "39f5d479baba6697b0cab55ab323a5b7", 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          210
+        ], 
+        [
+          950, 
+          212
+        ]
+      ], 
+      "signature": "[class]android.view.View[resource_id]None[text]  [enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": "", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [
+        52, 
+        53
+      ], 
+      "size": "1029*44", 
+      "checked": false, 
+      "temp_id": 51, 
+      "selected": false, 
+      "child_count": 2, 
+      "content_free_signature": "[class]android.view.View[resource_id]None", 
+      "is_password": false, 
+      "parent": 15, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.view.View", 
+      "scrollable": false, 
+      "package": "com.restaurant.mobile", 
+      "long_clickable": false, 
+      "view_str": "ed09e3a4e9930ace016654020adbc046", 
+      "enabled": true, 
+      "bounds": [
+        [
+          26, 
+          210
+        ], 
+        [
+          1055, 
+          254
+        ]
+      ], 
+      "signature": "[class]android.view.View[resource_id]None[text][enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": "HOW TO USE:", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "977*2", 
+      "checked": false, 
+      "temp_id": 52, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.view.View[resource_id]None", 
+      "is_password": false, 
+      "parent": 51, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.view.View", 
+      "scrollable": false, 
+      "package": "com.restaurant.mobile", 
+      "long_clickable": false, 
+      "view_str": "3b824ff7b82bceb10eecf369d6fd9b0e", 
+      "enabled": true, 
+      "bounds": [
+        [
+          52, 
+          210
+        ], 
+        [
+          1029, 
+          212
+        ]
+      ], 
+      "signature": "[class]android.view.View[resource_id]None[text]HOW TO USE:[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": "", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [
+        54, 
+        58, 
+        61, 
+        66
+      ], 
+      "size": "938*23", 
+      "checked": false, 
+      "temp_id": 53, 
+      "selected": false, 
+      "child_count": 4, 
+      "content_free_signature": "[class]android.widget.ListView[resource_id]None", 
+      "is_password": false, 
+      "parent": 51, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.ListView", 
+      "scrollable": false, 
+      "package": "com.restaurant.mobile", 
+      "long_clickable": false, 
+      "view_str": "40d2e15c9454612834b37aa284ad4795", 
+      "enabled": true, 
+      "bounds": [
+        [
+          91, 
+          210
+        ], 
+        [
+          1029, 
+          233
+        ]
+      ], 
+      "signature": "[class]android.widget.ListView[resource_id]None[text][enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": "", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [
+        55, 
+        56, 
+        57
+      ], 
+      "size": "938*2", 
+      "checked": false, 
+      "temp_id": 54, 
+      "selected": false, 
+      "child_count": 3, 
+      "content_free_signature": "[class]android.view.View[resource_id]None", 
+      "is_password": false, 
+      "parent": 53, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.view.View", 
+      "scrollable": false, 
+      "package": "com.restaurant.mobile", 
+      "long_clickable": false, 
+      "view_str": "4ba1852874b56c225ecae036a7c60ec8", 
+      "enabled": true, 
+      "bounds": [
+        [
+          91, 
+          210
+        ], 
+        [
+          1029, 
+          212
+        ]
+      ], 
+      "signature": "[class]android.view.View[resource_id]None[text][enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": "\u2022 ", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "18*2", 
+      "checked": false, 
+      "temp_id": 55, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.view.View[resource_id]None", 
+      "is_password": false, 
+      "parent": 54, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.view.View", 
+      "scrollable": false, 
+      "package": "com.restaurant.mobile", 
+      "long_clickable": false, 
+      "view_str": "f7ab561045b846557e17b6f8cf5965e6", 
+      "enabled": true, 
+      "bounds": [
+        [
+          47, 
+          210
+        ], 
+        [
+          65, 
+          212
+        ]
+      ], 
+      "signature": "[class]android.view.View[resource_id]None[text]\u2022 [enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": "View the available products ", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "447*2", 
+      "checked": false, 
+      "temp_id": 56, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.view.View[resource_id]None", 
+      "is_password": false, 
+      "parent": 54, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.view.View", 
+      "scrollable": false, 
+      "package": "com.restaurant.mobile", 
+      "long_clickable": false, 
+      "view_str": "527bdce891653a6ff7ac9c9019f0a287", 
+      "enabled": true, 
+      "bounds": [
+        [
+          91, 
+          210
+        ], 
+        [
+          538, 
+          212
+        ]
+      ], 
+      "signature": "[class]android.view.View[resource_id]None[text]View the available products [enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": "HERE", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "89*2", 
+      "checked": false, 
+      "temp_id": 57, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.view.View[resource_id]None", 
+      "is_password": false, 
+      "parent": 54, 
+      "focusable": true, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": true, 
+      "class": "android.view.View", 
+      "scrollable": false, 
+      "package": "com.restaurant.mobile", 
+      "long_clickable": false, 
+      "view_str": "04e9d1a69fe0552ee7da13c335a702e2", 
+      "enabled": true, 
+      "bounds": [
+        [
+          535, 
+          210
+        ], 
+        [
+          624, 
+          212
+        ]
+      ], 
+      "signature": "[class]android.view.View[resource_id]None[text]HERE[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": "", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [
+        59, 
+        60
+      ], 
+      "size": "938*2", 
+      "checked": false, 
+      "temp_id": 58, 
+      "selected": false, 
+      "child_count": 2, 
+      "content_free_signature": "[class]android.view.View[resource_id]None", 
+      "is_password": false, 
+      "parent": 53, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.view.View", 
+      "scrollable": false, 
+      "package": "com.restaurant.mobile", 
+      "long_clickable": false, 
+      "view_str": "752015066b1f78b5ece4ead34988cc36", 
+      "enabled": true, 
+      "bounds": [
+        [
+          91, 
+          210
+        ], 
+        [
+          1029, 
+          212
+        ]
+      ], 
+      "signature": "[class]android.view.View[resource_id]None[text][enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": "\u2022 ", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "18*2", 
+      "checked": false, 
+      "temp_id": 59, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.view.View[resource_id]None", 
+      "is_password": false, 
+      "parent": 58, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.view.View", 
+      "scrollable": false, 
+      "package": "com.restaurant.mobile", 
+      "long_clickable": false, 
+      "view_str": "f7ab561045b846557e17b6f8cf5965e6", 
+      "enabled": true, 
+      "bounds": [
+        [
+          47, 
+          210
+        ], 
+        [
+          65, 
+          212
+        ]
+      ], 
+      "signature": "[class]android.view.View[resource_id]None[text]\u2022 [enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": "Return to this page and buy the discount certificate", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "814*2", 
+      "checked": false, 
+      "temp_id": 60, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.view.View[resource_id]None", 
+      "is_password": false, 
+      "parent": 58, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.view.View", 
+      "scrollable": false, 
+      "package": "com.restaurant.mobile", 
+      "long_clickable": false, 
+      "view_str": "deff9654a91a903acaef0ae86ce67e90", 
+      "enabled": true, 
+      "bounds": [
+        [
+          91, 
+          210
+        ], 
+        [
+          905, 
+          212
+        ]
+      ], 
+      "signature": "[class]android.view.View[resource_id]None[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": "", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [
+        62, 
+        63, 
+        64, 
+        65
+      ], 
+      "size": "938*2", 
+      "checked": false, 
+      "temp_id": 61, 
+      "selected": false, 
+      "child_count": 4, 
+      "content_free_signature": "[class]android.view.View[resource_id]None", 
+      "is_password": false, 
+      "parent": 53, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.view.View", 
+      "scrollable": false, 
+      "package": "com.restaurant.mobile", 
+      "long_clickable": false, 
+      "view_str": "d40097091a7258d751028a0112272103", 
+      "enabled": true, 
+      "bounds": [
+        [
+          91, 
+          210
+        ], 
+        [
+          1029, 
+          212
+        ]
+      ], 
+      "signature": "[class]android.view.View[resource_id]None[text][enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": "\u2022 ", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "18*2", 
+      "checked": false, 
+      "temp_id": 62, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.view.View[resource_id]None", 
+      "is_password": false, 
+      "parent": 61, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.view.View", 
+      "scrollable": false, 
+      "package": "com.restaurant.mobile", 
+      "long_clickable": false, 
+      "view_str": "f7ab561045b846557e17b6f8cf5965e6", 
+      "enabled": true, 
+      "bounds": [
+        [
+          47, 
+          210
+        ], 
+        [
+          65, 
+          212
+        ]
+      ], 
+      "signature": "[class]android.view.View[resource_id]None[text]\u2022 [enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": "Click ", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "84*2", 
+      "checked": false, 
+      "temp_id": 63, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.view.View[resource_id]None", 
+      "is_password": false, 
+      "parent": 61, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.view.View", 
+      "scrollable": false, 
+      "package": "com.restaurant.mobile", 
+      "long_clickable": false, 
+      "view_str": "618a361f947a8d978157af62c9f7b792", 
+      "enabled": true, 
+      "bounds": [
+        [
+          91, 
+          210
+        ], 
+        [
+          175, 
+          212
+        ]
+      ], 
+      "signature": "[class]android.view.View[resource_id]None[text]Click [enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": "HERE", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "89*2", 
+      "checked": false, 
+      "temp_id": 64, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.view.View[resource_id]None", 
+      "is_password": false, 
+      "parent": 61, 
+      "focusable": true, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": true, 
+      "class": "android.view.View", 
+      "scrollable": false, 
+      "package": "com.restaurant.mobile", 
+      "long_clickable": false, 
+      "view_str": "04e9d1a69fe0552ee7da13c335a702e2", 
+      "enabled": true, 
+      "bounds": [
+        [
+          173, 
+          210
+        ], 
+        [
+          262, 
+          212
+        ]
+      ], 
+      "signature": "[class]android.view.View[resource_id]None[text]HERE[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": " to buy your products", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "344*2", 
+      "checked": false, 
+      "temp_id": 65, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.view.View[resource_id]None", 
+      "is_password": false, 
+      "parent": 61, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.view.View", 
+      "scrollable": false, 
+      "package": "com.restaurant.mobile", 
+      "long_clickable": false, 
+      "view_str": "d087e0a1f3f0365916239d1e7b55246a", 
+      "enabled": true, 
+      "bounds": [
+        [
+          259, 
+          210
+        ], 
+        [
+          603, 
+          212
+        ]
+      ], 
+      "signature": "[class]android.view.View[resource_id]None[text] to buy your products[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": "", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [
+        67, 
+        68
+      ], 
+      "size": "938*23", 
+      "checked": false, 
+      "temp_id": 66, 
+      "selected": false, 
+      "child_count": 2, 
+      "content_free_signature": "[class]android.view.View[resource_id]None", 
+      "is_password": false, 
+      "parent": 53, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.view.View", 
+      "scrollable": false, 
+      "package": "com.restaurant.mobile", 
+      "long_clickable": false, 
+      "view_str": "752015066b1f78b5ece4ead34988cc36", 
+      "enabled": true, 
+      "bounds": [
+        [
+          91, 
+          210
+        ], 
+        [
+          1029, 
+          233
+        ]
+      ], 
+      "signature": "[class]android.view.View[resource_id]None[text][enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": "\u2022 ", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "18*2", 
+      "checked": false, 
+      "temp_id": 67, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.view.View[resource_id]None", 
+      "is_password": false, 
+      "parent": 66, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.view.View", 
+      "scrollable": false, 
+      "package": "com.restaurant.mobile", 
+      "long_clickable": false, 
+      "view_str": "f7ab561045b846557e17b6f8cf5965e6", 
+      "enabled": true, 
+      "bounds": [
+        [
+          47, 
+          210
+        ], 
+        [
+          65, 
+          212
+        ]
+      ], 
+      "signature": "[class]android.view.View[resource_id]None[text]\u2022 [enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": "Apply the certificate during checkout and receive your savings", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "856*23", 
+      "checked": false, 
+      "temp_id": 68, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.view.View[resource_id]None", 
+      "is_password": false, 
+      "parent": 66, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.view.View", 
+      "scrollable": false, 
+      "package": "com.restaurant.mobile", 
+      "long_clickable": false, 
+      "view_str": "deff9654a91a903acaef0ae86ce67e90", 
+      "enabled": true, 
+      "bounds": [
+        [
+          91, 
+          210
+        ], 
+        [
+          947, 
+          233
+        ]
+      ], 
+      "signature": "[class]android.view.View[resource_id]None[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": "", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [
+        70, 
+        71
+      ], 
+      "size": "1029*82", 
+      "checked": false, 
+      "temp_id": 69, 
+      "selected": false, 
+      "child_count": 2, 
+      "content_free_signature": "[class]android.view.View[resource_id]None", 
+      "is_password": false, 
+      "parent": 15, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.view.View", 
+      "scrollable": false, 
+      "package": "com.restaurant.mobile", 
+      "long_clickable": false, 
+      "view_str": "a53121cdc134524d5f8927971d48c601", 
+      "enabled": true, 
+      "bounds": [
+        [
+          26, 
+          280
+        ], 
+        [
+          1055, 
+          362
+        ]
+      ], 
+      "signature": "[class]android.view.View[resource_id]None[text][enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": "Visit us online at ", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "270*47", 
+      "checked": false, 
+      "temp_id": 70, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.view.View[resource_id]None", 
+      "is_password": false, 
+      "parent": 69, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.view.View", 
+      "scrollable": false, 
+      "package": "com.restaurant.mobile", 
+      "long_clickable": false, 
+      "view_str": "45bb391330b8672677a0e79301e4d8f4", 
+      "enabled": true, 
+      "bounds": [
+        [
+          52, 
+          299
+        ], 
+        [
+          322, 
+          346
+        ]
+      ], 
+      "signature": "[class]android.view.View[resource_id]None[text]Visit us online at [enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": "http://cinnamombakery.com", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "496*47", 
+      "checked": false, 
+      "temp_id": 71, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.view.View[resource_id]None", 
+      "is_password": false, 
+      "parent": 69, 
+      "focusable": true, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": true, 
+      "class": "android.view.View", 
+      "scrollable": false, 
+      "package": "com.restaurant.mobile", 
+      "long_clickable": false, 
+      "view_str": "f2502ea506522e5562cf80f0d11bf9f4", 
+      "enabled": true, 
+      "bounds": [
+        [
+          320, 
+          299
+        ], 
+        [
+          816, 
+          346
+        ]
+      ], 
+      "signature": "[class]android.view.View[resource_id]None[text]http://cinnamombakery.com[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": "", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [
+        73
+      ], 
+      "size": "1029*147", 
+      "checked": false, 
+      "temp_id": 72, 
+      "selected": false, 
+      "child_count": 1, 
+      "content_free_signature": "[class]android.view.View[resource_id]None", 
+      "is_password": false, 
+      "parent": 15, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.view.View", 
+      "scrollable": false, 
+      "package": "com.restaurant.mobile", 
+      "long_clickable": false, 
+      "view_str": "169ea2c2670174ffa1500a2fcfaaeaf4", 
+      "enabled": true, 
+      "bounds": [
+        [
+          26, 
+          388
+        ], 
+        [
+          1055, 
+          535
+        ]
+      ], 
+      "signature": "[class]android.view.View[resource_id]None[text][enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": "Menu ", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "977*147", 
+      "checked": false, 
+      "temp_id": 73, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.view.View[resource_id]None", 
+      "is_password": false, 
+      "parent": 72, 
+      "focusable": true, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": true, 
+      "class": "android.view.View", 
+      "scrollable": false, 
+      "package": "com.restaurant.mobile", 
+      "long_clickable": false, 
+      "view_str": "27f670bf98c86a62e1ed488aacaa8152", 
+      "enabled": true, 
+      "bounds": [
+        [
+          52, 
+          388
+        ], 
+        [
+          1029, 
+          535
+        ]
+      ], 
+      "signature": "[class]android.view.View[resource_id]None[text]Menu [enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": "", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [
+        75, 
+        78
+      ], 
+      "size": "1029*189", 
+      "checked": false, 
+      "temp_id": 74, 
+      "selected": false, 
+      "child_count": 2, 
+      "content_free_signature": "[class]android.view.View[resource_id]None", 
+      "is_password": false, 
+      "parent": 15, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.view.View", 
+      "scrollable": false, 
+      "package": "com.restaurant.mobile", 
+      "long_clickable": false, 
+      "view_str": "c90c5fd421bab87f864ae56111f95a94", 
+      "enabled": true, 
+      "bounds": [
+        [
+          26, 
+          561
+        ], 
+        [
+          1055, 
+          750
+        ]
+      ], 
+      "signature": "[class]android.view.View[resource_id]None[text][enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": "", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [
+        76, 
+        77
+      ], 
+      "size": "977*52", 
+      "checked": false, 
+      "temp_id": 75, 
+      "selected": false, 
+      "child_count": 2, 
+      "content_free_signature": "[class]android.view.View[resource_id]None", 
+      "is_password": false, 
+      "parent": 74, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.view.View", 
+      "scrollable": false, 
+      "package": "com.restaurant.mobile", 
+      "long_clickable": false, 
+      "view_str": "034d03941d16a9ebed6a2f5e8f667e4f", 
+      "enabled": true, 
+      "bounds": [
+        [
+          52, 
+          588
+        ], 
+        [
+          1029, 
+          640
+        ]
+      ], 
+      "signature": "[class]android.view.View[resource_id]None[text][enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": "Meal Times Served", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "294*52", 
+      "checked": false, 
+      "temp_id": 76, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.view.View[resource_id]None", 
+      "is_password": false, 
+      "parent": 75, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.view.View", 
+      "scrollable": false, 
+      "package": "com.restaurant.mobile", 
+      "long_clickable": false, 
+      "view_str": "17ced1d50c9de4963aef28fc0e772d9c", 
+      "enabled": true, 
+      "bounds": [
+        [
+          52, 
+          588
+        ], 
+        [
+          346, 
+          640
+        ]
+      ], 
+      "signature": "[class]android.view.View[resource_id]None[text]Meal Times Served[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": "Breakfast, Dinner, Lunch", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "368*52", 
+      "checked": false, 
+      "temp_id": 77, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.view.View[resource_id]None", 
+      "is_password": false, 
+      "parent": 75, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.view.View", 
+      "scrollable": false, 
+      "package": "com.restaurant.mobile", 
+      "long_clickable": false, 
+      "view_str": "b82ef9ec42d2f0353cefbc94f328dca9", 
+      "enabled": true, 
+      "bounds": [
+        [
+          661, 
+          588
+        ], 
+        [
+          1029, 
+          640
+        ]
+      ], 
+      "signature": "[class]android.view.View[resource_id]None[text]Breakfast, Dinner, Lunch[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": "", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [
+        79, 
+        80
+      ], 
+      "size": "977*84", 
+      "checked": false, 
+      "temp_id": 78, 
+      "selected": false, 
+      "child_count": 2, 
+      "content_free_signature": "[class]android.view.View[resource_id]None", 
+      "is_password": false, 
+      "parent": 74, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.view.View", 
+      "scrollable": false, 
+      "package": "com.restaurant.mobile", 
+      "long_clickable": false, 
+      "view_str": "cf2d2771a3fef980eb31d3c55ed7e699", 
+      "enabled": true, 
+      "bounds": [
+        [
+          52, 
+          640
+        ], 
+        [
+          1029, 
+          724
+        ]
+      ], 
+      "signature": "[class]android.view.View[resource_id]None[text][enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": "Payment Methods:", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "297*53", 
+      "checked": false, 
+      "temp_id": 79, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.view.View[resource_id]None", 
+      "is_password": false, 
+      "parent": 78, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.view.View", 
+      "scrollable": false, 
+      "package": "com.restaurant.mobile", 
+      "long_clickable": false, 
+      "view_str": "8d2781699d68a1b9056114a040f1a9c2", 
+      "enabled": true, 
+      "bounds": [
+        [
+          52, 
+          640
+        ], 
+        [
+          349, 
+          693
+        ]
+      ], 
+      "signature": "[class]android.view.View[resource_id]None[text]Payment Methods:[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": "Amex, Discover, Mastercard, Visa", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "368*84", 
+      "checked": false, 
+      "temp_id": 80, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.view.View[resource_id]None", 
+      "is_password": false, 
+      "parent": 78, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.view.View", 
+      "scrollable": false, 
+      "package": "com.restaurant.mobile", 
+      "long_clickable": false, 
+      "view_str": "80e6aa3b4ef2d2342eac142cc17d0264", 
+      "enabled": true, 
+      "bounds": [
+        [
+          661, 
+          640
+        ], 
+        [
+          1029, 
+          724
+        ]
+      ], 
+      "signature": "[class]android.view.View[resource_id]None[text]Amex, Discover, Mastercard, Visa[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": "Highlights", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "1003*47", 
+      "checked": false, 
+      "temp_id": 81, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.view.View[resource_id]None", 
+      "is_password": false, 
+      "parent": 15, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.view.View", 
+      "scrollable": false, 
+      "package": "com.restaurant.mobile", 
+      "long_clickable": false, 
+      "view_str": "c0ab6a10937c63d9903e97a236ab1d10", 
+      "enabled": true, 
+      "bounds": [
+        [
+          52, 
+          816
+        ], 
+        [
+          1055, 
+          863
+        ]
+      ], 
+      "signature": "[class]android.view.View[resource_id]None[text]Highlights[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": "", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [
+        83
+      ], 
+      "size": "1029*678", 
+      "checked": false, 
+      "temp_id": 82, 
+      "selected": false, 
+      "child_count": 1, 
+      "content_free_signature": "[class]android.view.View[resource_id]None", 
+      "is_password": false, 
+      "parent": 15, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.view.View", 
+      "scrollable": false, 
+      "package": "com.restaurant.mobile", 
+      "long_clickable": false, 
+      "view_str": "b6d8c0845e8d4739013eaeabef9ef213", 
+      "enabled": true, 
+      "bounds": [
+        [
+          26, 
+          889
+        ], 
+        [
+          1055, 
+          1567
+        ]
+      ], 
+      "signature": "[class]android.view.View[resource_id]None[text][enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": "CINNAMOM specializes in fresh, baked, homemade, Old-fashioned cinnamon rolls. These gourmet rolls are made from scratch daily using our special family recipe and shipped straight from Mom's kitchen to Yours! Now offered with over 40 toppings to choose from, these make the perfect gifts for Mother and Father's Day, Birthdays, Business gifts, Christmas morning and other holidays. Of course, they are great for the \"hard to buy for person\" on your gift list and are perfect for any occasion. What can be better than a yummy, soft, warm, spicy cinnamon roll topped with your choice of frosting for any season, and for any reason? These cinnamon rolls are guaranteed to be the very best you've ever had! Shipped anywhere in the United States in 6-packs of Jumbo cinnamon rolls with frostings and toppings on the side, these amazing rolls are the perfect way to spoil yourself or somebody else who appreciates good old-fashioned quality.", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "977*630", 
+      "checked": false, 
+      "temp_id": 83, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.view.View[resource_id]None", 
+      "is_password": false, 
+      "parent": 82, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.view.View", 
+      "scrollable": false, 
+      "package": "com.restaurant.mobile", 
+      "long_clickable": false, 
+      "view_str": "7e41cff52e66dba5fc357e7760f4f337", 
+      "enabled": true, 
+      "bounds": [
+        [
+          52, 
+          916
+        ], 
+        [
+          1029, 
+          1546
+        ]
+      ], 
+      "signature": "[class]android.view.View[resource_id]None[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": "com.restaurant.mobile:id/fragment_layout2", 
+      "text": null, 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "1080*1421", 
+      "checked": false, 
+      "temp_id": 84, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.FrameLayout[resource_id]com.restaurant.mobile:id/fragment_layout2", 
+      "is_password": false, 
+      "parent": 9, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.FrameLayout", 
+      "scrollable": false, 
+      "package": "com.restaurant.mobile", 
+      "long_clickable": false, 
+      "view_str": "e05baceea85e5882578666673b0b48c1", 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          210
+        ], 
+        [
+          1080, 
+          1631
+        ]
+      ], 
+      "signature": "[class]android.widget.FrameLayout[resource_id]com.restaurant.mobile:id/fragment_layout2[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": null, 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "1080*5", 
+      "checked": false, 
+      "temp_id": 85, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.ImageView[resource_id]None", 
+      "is_password": false, 
+      "parent": 5, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.ImageView", 
+      "scrollable": false, 
+      "package": "com.restaurant.mobile", 
+      "long_clickable": false, 
+      "view_str": "a4992c51b433889620a76d7bc132b3f8", 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          210
+        ], 
+        [
+          1080, 
+          215
+        ]
+      ], 
+      "signature": "[class]android.widget.ImageView[resource_id]None[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": null, 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "1080*5", 
+      "checked": false, 
+      "temp_id": 86, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.ImageView[resource_id]None", 
+      "is_password": false, 
+      "parent": 5, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.ImageView", 
+      "scrollable": false, 
+      "package": "com.restaurant.mobile", 
+      "long_clickable": false, 
+      "view_str": "a4992c51b433889620a76d7bc132b3f8", 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          1626
+        ], 
+        [
+          1080, 
+          1631
+        ]
+      ], 
+      "signature": "[class]android.widget.ImageView[resource_id]None[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": "com.restaurant.mobile:id/bottom_navigation", 
+      "text": null, 
+      "visible": true, 
+      "checkable": false, 
+      "children": [
+        88, 
+        91, 
+        94, 
+        97
+      ], 
+      "size": "1080*163", 
+      "checked": false, 
+      "temp_id": 87, 
+      "selected": false, 
+      "child_count": 4, 
+      "content_free_signature": "[class]android.widget.LinearLayout[resource_id]com.restaurant.mobile:id/bottom_navigation", 
+      "is_password": false, 
+      "parent": 5, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.LinearLayout", 
+      "scrollable": false, 
+      "package": "com.restaurant.mobile", 
+      "long_clickable": false, 
+      "view_str": "30d25413cc476aaec3cea26485e3abcf", 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          1631
+        ], 
+        [
+          1080, 
+          1794
+        ]
+      ], 
+      "signature": "[class]android.widget.LinearLayout[resource_id]com.restaurant.mobile:id/bottom_navigation[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": "com.restaurant.mobile:id/deal", 
+      "text": null, 
+      "visible": true, 
+      "checkable": false, 
+      "children": [
+        89, 
+        90
+      ], 
+      "size": "270*141", 
+      "checked": false, 
+      "temp_id": 88, 
+      "selected": true, 
+      "child_count": 2, 
+      "content_free_signature": "[class]android.widget.LinearLayout[resource_id]com.restaurant.mobile:id/deal", 
+      "is_password": false, 
+      "parent": 87, 
+      "focusable": true, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": true, 
+      "class": "android.widget.LinearLayout", 
+      "scrollable": false, 
+      "package": "com.restaurant.mobile", 
+      "long_clickable": false, 
+      "view_str": "d8382015229f9cb3b9b7e285708aef9c", 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          1642
+        ], 
+        [
+          270, 
+          1783
+        ]
+      ], 
+      "signature": "[class]android.widget.LinearLayout[resource_id]com.restaurant.mobile:id/deal[text]None[enabled,,selected]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": "com.restaurant.mobile:id/deal_image", 
+      "text": null, 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "105*105", 
+      "checked": false, 
+      "temp_id": 89, 
+      "selected": true, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.ImageView[resource_id]com.restaurant.mobile:id/deal_image", 
+      "is_password": false, 
+      "parent": 88, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.ImageView", 
+      "scrollable": false, 
+      "package": "com.restaurant.mobile", 
+      "long_clickable": false, 
+      "view_str": "9cb70024e32c205b75519078376e7e35", 
+      "enabled": true, 
+      "bounds": [
+        [
+          82, 
+          1642
+        ], 
+        [
+          187, 
+          1747
+        ]
+      ], 
+      "signature": "[class]android.widget.ImageView[resource_id]com.restaurant.mobile:id/deal_image[text]None[enabled,,selected]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": "com.restaurant.mobile:id/deal_text", 
+      "text": "Deals", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "71*36", 
+      "checked": false, 
+      "temp_id": 90, 
+      "selected": true, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.TextView[resource_id]com.restaurant.mobile:id/deal_text", 
+      "is_password": false, 
+      "parent": 88, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.TextView", 
+      "scrollable": false, 
+      "package": "com.restaurant.mobile", 
+      "long_clickable": false, 
+      "view_str": "c0be26eb15dbdeca54181c9bfccd65bf", 
+      "enabled": true, 
+      "bounds": [
+        [
+          99, 
+          1747
+        ], 
+        [
+          170, 
+          1783
+        ]
+      ], 
+      "signature": "[class]android.widget.TextView[resource_id]com.restaurant.mobile:id/deal_text[text]Deals[enabled,,selected]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": "com.restaurant.mobile:id/cert", 
+      "text": null, 
+      "visible": true, 
+      "checkable": false, 
+      "children": [
+        92, 
+        93
+      ], 
+      "size": "270*141", 
+      "checked": false, 
+      "temp_id": 91, 
+      "selected": false, 
+      "child_count": 2, 
+      "content_free_signature": "[class]android.widget.LinearLayout[resource_id]com.restaurant.mobile:id/cert", 
+      "is_password": false, 
+      "parent": 87, 
+      "focusable": true, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": true, 
+      "class": "android.widget.LinearLayout", 
+      "scrollable": false, 
+      "package": "com.restaurant.mobile", 
+      "long_clickable": false, 
+      "view_str": "8356844b63f9c2e8c1778fbb4046e0e0", 
+      "enabled": true, 
+      "bounds": [
+        [
+          270, 
+          1642
+        ], 
+        [
+          540, 
+          1783
+        ]
+      ], 
+      "signature": "[class]android.widget.LinearLayout[resource_id]com.restaurant.mobile:id/cert[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": "com.restaurant.mobile:id/cert_image", 
+      "text": null, 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "270*105", 
+      "checked": false, 
+      "temp_id": 92, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.ImageView[resource_id]com.restaurant.mobile:id/cert_image", 
+      "is_password": false, 
+      "parent": 91, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.ImageView", 
+      "scrollable": false, 
+      "package": "com.restaurant.mobile", 
+      "long_clickable": false, 
+      "view_str": "6ff1caeb1e05622e2e527bfd5a806d01", 
+      "enabled": true, 
+      "bounds": [
+        [
+          270, 
+          1642
+        ], 
+        [
+          540, 
+          1747
+        ]
+      ], 
+      "signature": "[class]android.widget.ImageView[resource_id]com.restaurant.mobile:id/cert_image[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": "com.restaurant.mobile:id/cert_text", 
+      "text": "Certificates", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "135*36", 
+      "checked": false, 
+      "temp_id": 93, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.TextView[resource_id]com.restaurant.mobile:id/cert_text", 
+      "is_password": false, 
+      "parent": 91, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.TextView", 
+      "scrollable": false, 
+      "package": "com.restaurant.mobile", 
+      "long_clickable": false, 
+      "view_str": "d5c35c1fff1edc452c8e54cfae31fae8", 
+      "enabled": true, 
+      "bounds": [
+        [
+          337, 
+          1747
+        ], 
+        [
+          472, 
+          1783
+        ]
+      ], 
+      "signature": "[class]android.widget.TextView[resource_id]com.restaurant.mobile:id/cert_text[text]Certificates[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": "com.restaurant.mobile:id/cart", 
+      "text": null, 
+      "visible": true, 
+      "checkable": false, 
+      "children": [
+        95, 
+        96
+      ], 
+      "size": "270*141", 
+      "checked": false, 
+      "temp_id": 94, 
+      "selected": false, 
+      "child_count": 2, 
+      "content_free_signature": "[class]android.widget.LinearLayout[resource_id]com.restaurant.mobile:id/cart", 
+      "is_password": false, 
+      "parent": 87, 
+      "focusable": true, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": true, 
+      "class": "android.widget.LinearLayout", 
+      "scrollable": false, 
+      "package": "com.restaurant.mobile", 
+      "long_clickable": false, 
+      "view_str": "01cd91248c3f9ebbe701753dd9acbee1", 
+      "enabled": true, 
+      "bounds": [
+        [
+          540, 
+          1642
+        ], 
+        [
+          810, 
+          1783
+        ]
+      ], 
+      "signature": "[class]android.widget.LinearLayout[resource_id]com.restaurant.mobile:id/cart[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": "com.restaurant.mobile:id/cart_image", 
+      "text": null, 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "270*105", 
+      "checked": false, 
+      "temp_id": 95, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.ImageView[resource_id]com.restaurant.mobile:id/cart_image", 
+      "is_password": false, 
+      "parent": 94, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.ImageView", 
+      "scrollable": false, 
+      "package": "com.restaurant.mobile", 
+      "long_clickable": false, 
+      "view_str": "33e4eedbdf25feb9dca6836d0e8b65a2", 
+      "enabled": true, 
+      "bounds": [
+        [
+          540, 
+          1642
+        ], 
+        [
+          810, 
+          1747
+        ]
+      ], 
+      "signature": "[class]android.widget.ImageView[resource_id]com.restaurant.mobile:id/cart_image[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": "com.restaurant.mobile:id/cart_text", 
+      "text": "Cart", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "50*36", 
+      "checked": false, 
+      "temp_id": 96, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.TextView[resource_id]com.restaurant.mobile:id/cart_text", 
+      "is_password": false, 
+      "parent": 94, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.TextView", 
+      "scrollable": false, 
+      "package": "com.restaurant.mobile", 
+      "long_clickable": false, 
+      "view_str": "e750dfca49ac9ff64d6daf577adeaf34", 
+      "enabled": true, 
+      "bounds": [
+        [
+          650, 
+          1747
+        ], 
+        [
+          700, 
+          1783
+        ]
+      ], 
+      "signature": "[class]android.widget.TextView[resource_id]com.restaurant.mobile:id/cart_text[text]Cart[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": "com.restaurant.mobile:id/account", 
+      "text": null, 
+      "visible": true, 
+      "checkable": false, 
+      "children": [
+        98, 
+        99
+      ], 
+      "size": "270*141", 
+      "checked": false, 
+      "temp_id": 97, 
+      "selected": false, 
+      "child_count": 2, 
+      "content_free_signature": "[class]android.widget.LinearLayout[resource_id]com.restaurant.mobile:id/account", 
+      "is_password": false, 
+      "parent": 87, 
+      "focusable": true, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": true, 
+      "class": "android.widget.LinearLayout", 
+      "scrollable": false, 
+      "package": "com.restaurant.mobile", 
+      "long_clickable": false, 
+      "view_str": "fc293d0e73d07a960ecba107734c0b25", 
+      "enabled": true, 
+      "bounds": [
+        [
+          810, 
+          1642
+        ], 
+        [
+          1080, 
+          1783
+        ]
+      ], 
+      "signature": "[class]android.widget.LinearLayout[resource_id]com.restaurant.mobile:id/account[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": "com.restaurant.mobile:id/account_image", 
+      "text": null, 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "270*105", 
+      "checked": false, 
+      "temp_id": 98, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.ImageView[resource_id]com.restaurant.mobile:id/account_image", 
+      "is_password": false, 
+      "parent": 97, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.ImageView", 
+      "scrollable": false, 
+      "package": "com.restaurant.mobile", 
+      "long_clickable": false, 
+      "view_str": "99f35e210e914365108b97308f236a81", 
+      "enabled": true, 
+      "bounds": [
+        [
+          810, 
+          1642
+        ], 
+        [
+          1080, 
+          1747
+        ]
+      ], 
+      "signature": "[class]android.widget.ImageView[resource_id]com.restaurant.mobile:id/account_image[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": "com.restaurant.mobile:id/account_text", 
+      "text": "Account", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "97*36", 
+      "checked": false, 
+      "temp_id": 99, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.TextView[resource_id]com.restaurant.mobile:id/account_text", 
+      "is_password": false, 
+      "parent": 97, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.TextView", 
+      "scrollable": false, 
+      "package": "com.restaurant.mobile", 
+      "long_clickable": false, 
+      "view_str": "ddc85ba8fef1ad2f67e3da1c3688690a", 
+      "enabled": true, 
+      "bounds": [
+        [
+          896, 
+          1747
+        ], 
+        [
+          993, 
+          1783
+        ]
+      ], 
+      "signature": "[class]android.widget.TextView[resource_id]com.restaurant.mobile:id/account_text[text]Account[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": "android:id/statusBarBackground", 
+      "text": null, 
+      "visible": false, 
+      "checkable": false, 
+      "children": [], 
+      "size": "1080*63", 
+      "checked": false, 
+      "temp_id": 100, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.view.View[resource_id]android:id/statusBarBackground", 
+      "is_password": false, 
+      "parent": 0, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.view.View", 
+      "scrollable": false, 
+      "package": "com.restaurant.mobile", 
+      "long_clickable": false, 
+      "view_str": "259833751c79fd9c3df7c7a7bc062a9f", 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          0
+        ], 
+        [
+          1080, 
+          63
+        ]
+      ], 
+      "signature": "[class]android.view.View[resource_id]android:id/statusBarBackground[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": "android:id/navigationBarBackground", 
+      "text": null, 
+      "visible": false, 
+      "checkable": false, 
+      "children": [], 
+      "size": "1080*126", 
+      "checked": false, 
+      "temp_id": 101, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.view.View[resource_id]android:id/navigationBarBackground", 
+      "is_password": false, 
+      "parent": 0, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.view.View", 
+      "scrollable": false, 
+      "package": "com.restaurant.mobile", 
+      "long_clickable": false, 
+      "view_str": "9f048fd7e379a37fb8fcd6307b0c7de5", 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          1794
+        ], 
+        [
+          1080, 
+          1920
+        ]
+      ], 
+      "signature": "[class]android.view.View[resource_id]android:id/navigationBarBackground[text]None[enabled,,]"
+    }
+  ], 
+  "state_str_content_free": "bd5aab823850607e90457313e564d1d2", 
+  "activity_stack": [
+    "com.restaurant.mobile/.MainActivity"
+  ], 
+  "background_services": [
+    "com.restaurant.mobile/org.chromium.content.app.SandboxedProcessService0", 
+    "com.google.android.gms/.deviceconnection.service.DeviceConnectionWatcherService", 
+    "com.google.android.gms/com.google.android.location.places.service.PlaceDetectionAsyncService", 
+    "com.android.systemui/.keyguard.KeyguardService", 
+    "com.android.systemui/.ImageWallpaper", 
+    "com.google.android.gms/com.google.android.location.geocode.GeocodeService", 
+    "com.google.android.gms/.auth.setup.devicesignals.LockScreenService", 
+    "com.google.android.gms/.gcm.GcmService", 
+    "com.google.android.gms/.clearcut.debug.ClearcutDebugDumpService", 
+    "com.google.android.gms/.chimera.PersistentApiService", 
+    "com.android.phone/com.android.internal.telephony.CellularNetworkService", 
+    "com.google.android.gms/.chimera.PersistentBoundBrokerService", 
+    "com.google.android.gms/.chimera.GmsBoundBrokerService", 
+    "com.google.android.gms/.usagereporting.service.UsageReportingService", 
+    "com.google.android.gms/.tron.CollectionService", 
+    "com.google.android.gms/.fido.fido2.pollux.CableAuthenticatorService", 
+    "com.google.android.googlequicksearchbox/com.google.android.apps.gsa.nowoverlayservice.DrawerOverlayService", 
+    "io.github.ylimit.droidbotapp/.DroidBotIME", 
+    "com.google.android.gms/com.google.android.location.fused.FusedLocationService", 
+    "com.google.android.gms/.gcm.nts.SchedulerService", 
+    "com.google.android.setupwizard/.logging.ScreenOnClock", 
+    "io.github.ylimit.droidbotapp/io.github.privacystreams.accessibility.PSAccessibilityService", 
+    "com.google.android.gms/com.google.android.location.geofencer.service.GeofenceProviderService", 
+    "com.google.android.gms/.thunderbird.EmergencyPersistentService", 
+    "com.google.android.apps.messaging/.fcm.BugleFirebaseInstanceIDService", 
+    "com.android.systemui/.SystemUIService", 
+    "com.google.android.gms/org.chromium.content.app.SandboxedProcessService0", 
+    "android/.hardware.location.GeofenceHardwareService", 
+    "com.android.se/.SecureElementService", 
+    "com.google.android.gms/.chimera.PersistentDirectBootAwareApiService", 
+    "com.google.android.ext.services/android.ext.services.notification.Assistant", 
+    "com.google.android.gms/com.google.android.location.internal.PendingIntentCallbackService", 
+    "com.google.android.gms/com.google.android.location.reporting.service.ReportingAndroidService", 
+    "com.google.android.gms/com.google.android.location.internal.server.GoogleLocationService", 
+    "com.google.android.gms/com.google.android.contextmanager.service.ContextManagerService", 
+    "com.google.android.gms/com.google.android.location.network.NetworkLocationService", 
+    "com.google.android.gms/com.google.android.location.internal.GoogleLocationManagerService", 
+    "com.android.phone/com.android.internal.telephony.dataconnection.CellularDataService", 
+    "com.android.server.telecom/.components.TelecomService", 
+    "com.google.android.googlequicksearchbox/com.google.android.voiceinteraction.GsaVoiceInteractionService", 
+    "com.android.smspush/.WapPushManager", 
+    "com.android.phone/.vvm.RemoteVvmTaskManager", 
+    "com.google.android.gms/.lockbox.service.LockboxBrokerService", 
+    "android/com.android.server.content.SyncJobService", 
+    "com.google.android.gms/.common.stats.GmsCoreStatsService", 
+    "com.google.android.gms/com.google.android.location.internal.server.HardwareArProviderService", 
+    "com.android.phone/.TelephonyDebugService", 
+    "com.google.android.videos/.service.pinning.TransferService", 
+    "com.google.android.gms/.icing.service.IndexService", 
+    "com.google.android.apps.nexuslauncher/com.android.quickstep.TouchInteractionService"
+  ], 
+  "state_str": "c709a610a8ae987e8aaff9b6525240d9", 
+  "tag": "2019-08-15_180339", 
+  "foreground_activity": "com.restaurant.mobile/.MainActivity"
+}

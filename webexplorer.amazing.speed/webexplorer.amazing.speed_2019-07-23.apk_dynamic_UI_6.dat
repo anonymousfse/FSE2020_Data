@@ -1,0 +1,16 @@
+77333ZZZdispatchQueuedEvents:com.squareup.otto.Bus:$r1 = $r0.<com.squareup.otto.Bus: java.lang.ThreadLocal isDispatching>
+77349ZZZcurrentPageInfo:acr.browser.lightning.fragment.BookmarksFragment:$r2 = $r1.<acr.browser.lightning.bus.BrowserEvents$CurrentPageUrl: java.lang.String url>
+77356ZZZupdateBookmarkIndicator:acr.browser.lightning.fragment.BookmarksFragment:$r3 = $r0.<acr.browser.lightning.fragment.BookmarksFragment: android.widget.ImageView mBookmarkImage>
+77342ZZZdispatchQueuedEvents:com.squareup.otto.Bus:$r6 = $r5.<com.squareup.otto.Bus$EventWithHandler: com.squareup.otto.EventHandler handler>
+77340ZZZdispatchQueuedEvents:com.squareup.otto.Bus:$r5 = (com.squareup.otto.Bus$EventWithHandler) $r2
+77346ZZZdispatchQueuedEvents:com.squareup.otto.Bus:$r6 = $r5.<com.squareup.otto.Bus$EventWithHandler: com.squareup.otto.EventHandler handler>
+77339ZZZdispatchQueuedEvents:com.squareup.otto.Bus:$r2 = virtualinvoke $r4.<java.util.concurrent.ConcurrentLinkedQueue: java.lang.Object poll()>()
+77359ZZZupdateBookmarkIndicator:acr.browser.lightning.fragment.BookmarksFragment:$i0 = $r0.<acr.browser.lightning.fragment.BookmarksFragment: int mIconColor>
+77328ZZZdispatchQueuedEvents:com.squareup.otto.Bus:$r1 = $r0.<com.squareup.otto.Bus: java.lang.ThreadLocal isDispatching>
+77360ZZZupdateBookmarkIndicator:acr.browser.lightning.fragment.BookmarksFragment:$r4 = <android.graphics.PorterDuff$Mode: android.graphics.PorterDuff$Mode SRC_IN>
+77329ZZZdispatchQueuedEvents:com.squareup.otto.Bus:$r2 = virtualinvoke $r1.<java.lang.ThreadLocal: java.lang.Object get()>()
+77358ZZZupdateBookmarkIndicator:acr.browser.lightning.fragment.BookmarksFragment:$r3 = $r0.<acr.browser.lightning.fragment.BookmarksFragment: android.widget.ImageView mBookmarkImage>
+77337ZZZdispatchQueuedEvents:com.squareup.otto.Bus:$r2 = virtualinvoke $r1.<java.lang.ThreadLocal: java.lang.Object get()>()
+77336ZZZdispatchQueuedEvents:com.squareup.otto.Bus:$r1 = $r0.<com.squareup.otto.Bus: java.lang.ThreadLocal eventsToDispatch>
+77345ZZZdispatchQueuedEvents:com.squareup.otto.Bus:$r2 = $r5.<com.squareup.otto.Bus$EventWithHandler: java.lang.Object event>
+77338ZZZdispatchQueuedEvents:com.squareup.otto.Bus:$r4 = (java.util.concurrent.ConcurrentLinkedQueue) $r2

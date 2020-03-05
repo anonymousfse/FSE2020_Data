@@ -1,0 +1,48 @@
+{
+  "stop_state": "78f679069e0030d5e5fd86ae2d55e4db", 
+  "event_str": "TouchEvent(state=78f679069e0030d5e5fd86ae2d55e4db, view=15e45f211de5a18f072308a008c8b20c)", 
+  "tag": "2019-08-15_111352", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "event_type": "touch", 
+    "view": {
+      "content_description": null, 
+      "resource_id": "android:id/title", 
+      "text": "Open with", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "334*147", 
+      "checked": false, 
+      "temp_id": 5, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.TextView[resource_id]android:id/title", 
+      "is_password": false, 
+      "parent": 4, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.TextView", 
+      "scrollable": false, 
+      "package": "android", 
+      "long_clickable": false, 
+      "view_str": "15e45f211de5a18f072308a008c8b20c", 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          1181
+        ], 
+        [
+          334, 
+          1328
+        ]
+      ], 
+      "signature": "[class]android.widget.TextView[resource_id]android:id/title[text]Open with[enabled,,]"
+    }
+  }, 
+  "start_state": "78f679069e0030d5e5fd86ae2d55e4db"
+}

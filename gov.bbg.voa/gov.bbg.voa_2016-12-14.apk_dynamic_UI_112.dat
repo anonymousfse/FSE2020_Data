@@ -1,0 +1,3 @@
+504598ZZZa:org.rferl.ui.activity.multimedia.MultimediaTabsActivity:$r8 = virtualinvoke $r7.<android.view.View: android.view.View findViewById(int)>(2131624042)
+504595ZZZa:org.rferl.ui.activity.multimedia.MultimediaTabsActivity:$r8 = virtualinvoke $r7.<android.view.View: android.view.View findViewById(int)>(2131624043)
+504599ZZZa:org.rferl.ui.activity.multimedia.MultimediaTabsActivity:$r10 = (org.rferl.ui.widget.FontAwesomeTextView) $r8

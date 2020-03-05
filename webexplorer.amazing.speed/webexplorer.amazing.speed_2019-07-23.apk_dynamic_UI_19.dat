@@ -1,0 +1,9 @@
+20997ZZZinitialize:acr.browser.lightning.activity.BrowserActivity:$r23 = (android.widget.ImageView) $r22
+20991ZZZinitialize:acr.browser.lightning.activity.BrowserActivity:$r22 = virtualinvoke $r20.<android.view.View: android.view.View findViewById(int)>(2131296301)
+20996ZZZinitialize:acr.browser.lightning.activity.BrowserActivity:$r22 = virtualinvoke $r20.<android.view.View: android.view.View findViewById(int)>(2131296515)
+20909ZZZ<init>:acr.browser.lightning.fragment.BookmarksFragment:$r3 = new acr.browser.lightning.fragment.BookmarksFragment$3
+20994ZZZinitialize:acr.browser.lightning.activity.BrowserActivity:$r23 = <acr.browser.lightning.activity.BrowserActivity: android.widget.ImageView mArrowImage>
+21006ZZZinitialize:acr.browser.lightning.activity.BrowserActivity:$r23 = <acr.browser.lightning.activity.BrowserActivity: android.widget.ImageView mArrowImage>
+20985ZZZinitialize:acr.browser.lightning.activity.BrowserActivity:$r20 = virtualinvoke $r5.<android.support.v7.app.ActionBar: android.view.View getCustomView()>()
+20999ZZZinitialize:acr.browser.lightning.activity.BrowserActivity:$r23 = <acr.browser.lightning.activity.BrowserActivity: android.widget.ImageView settingIcon>
+20992ZZZinitialize:acr.browser.lightning.activity.BrowserActivity:$r23 = (android.widget.ImageView) $r22

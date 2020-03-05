@@ -1,0 +1,48 @@
+{
+  "stop_state": "defb7bd80884ecd2806b55211aa7653d", 
+  "event_str": "TouchEvent(state=4f248aec29e4abe160f5b57ae617eecd, view=36920c5c0a7a1ca8dd3621563d80b580)", 
+  "tag": "2020-03-04_194852", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "event_type": "touch", 
+    "view": {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": "AWESOME LOCATION: ", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "467*1", 
+      "checked": false, 
+      "temp_id": 73, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.view.View[resource_id]None", 
+      "is_password": false, 
+      "parent": 69, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.view.View", 
+      "scrollable": false, 
+      "package": "com.mtph.clmobile", 
+      "long_clickable": false, 
+      "view_str": "36920c5c0a7a1ca8dd3621563d80b580", 
+      "enabled": true, 
+      "bounds": [
+        [
+          23, 
+          1793
+        ], 
+        [
+          490, 
+          1794
+        ]
+      ], 
+      "signature": "[class]android.view.View[resource_id]None[text]AWESOME LOCATION: [enabled,,]"
+    }
+  }, 
+  "start_state": "4f248aec29e4abe160f5b57ae617eecd"
+}

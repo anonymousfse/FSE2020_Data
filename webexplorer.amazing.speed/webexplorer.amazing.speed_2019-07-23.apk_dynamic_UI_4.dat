@@ -1,0 +1,9 @@
+100341ZZZonBindViewHolder:acr.browser.lightning.fragment.TabsFragment$LightningViewAdapter:$r2 = (acr.browser.lightning.fragment.TabsFragment$LightningViewAdapter$LightningViewHolder) $r1
+100302ZZZrun:com.anthonycr.bonsai.OnNextRunnable:$r1 = $r0.<com.anthonycr.bonsai.OnNextRunnable: com.anthonycr.bonsai.OnSubscribe onSubscribe>
+100305ZZZonNext:acr.browser.lightning.search.Suggestions$2:$r2 = (java.util.List) $r1
+100422ZZZchangeToolbarBackground:acr.browser.lightning.activity.BrowserActivity:$r4 = new acr.browser.lightning.activity.BrowserActivity$22
+100418ZZZchangeToolbarBackground:acr.browser.lightning.activity.BrowserActivity:$i0 = staticinvoke <android.support.v4.content.ContextCompat: int getColor(android.content.Context,int)>($r0, 2131099796)
+100307ZZZonNext:acr.browser.lightning.search.Suggestions$2:$r2 = $r0.<acr.browser.lightning.search.Suggestions$2: acr.browser.lightning.search.Suggestions this$0>
+100433ZZZonBindViewHolder:acr.browser.lightning.fragment.TabsFragment$LightningViewAdapter:$r15 = $r1.<acr.browser.lightning.fragment.TabsFragment$LightningViewAdapter$LightningViewHolder: android.widget.LinearLayout layout>
+100438ZZZonBindViewHolder:acr.browser.lightning.fragment.TabsFragment$LightningViewAdapter:$r16 = $r1.<acr.browser.lightning.fragment.TabsFragment$LightningViewAdapter$LightningViewHolder: android.widget.ImageView favicon>
+100303ZZZrun:com.anthonycr.bonsai.OnNextRunnable:$r2 = $r0.<com.anthonycr.bonsai.OnNextRunnable: java.lang.Object item>

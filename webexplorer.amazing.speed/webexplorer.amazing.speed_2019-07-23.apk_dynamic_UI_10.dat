@@ -1,0 +1,3 @@
+26374ZZZupdateUrl:acr.browser.lightning.activity.BrowserActivity:$r4 = $r0.<acr.browser.lightning.activity.BrowserActivity: acr.browser.lightning.view.SearchView mSearch>
+26351ZZZupdateUrl:acr.browser.lightning.activity.BrowserActivity:$r3 = virtualinvoke $r3.<java.lang.String: java.lang.String replaceFirst(java.lang.String,java.lang.String)>("http://", "")
+26313ZZZsetBookmarkDataSet:acr.browser.lightning.fragment.BookmarksFragment:$r7 = new acr.browser.lightning.fragment.BookmarksFragment$8

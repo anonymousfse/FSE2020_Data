@@ -1,0 +1,48 @@
+{
+  "stop_state": "5d9a9a1a6ea7d671db8fc33b1cd55a1a", 
+  "event_str": "TouchEvent(state=68392a6bc774095f14988d8760d2fa14, view=a9967804f0a4ae8b151bfba1c8bb895e)", 
+  "tag": "2019-08-21_195941", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "event_type": "touch", 
+    "view": {
+      "content_description": null, 
+      "resource_id": "com.carwale:id/tvCarDetails", 
+      "text": "25,000 Kms  | Petrol | 2013", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "1054*59", 
+      "checked": false, 
+      "temp_id": 36, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.TextView[resource_id]com.carwale:id/tvCarDetails", 
+      "is_password": false, 
+      "parent": 32, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.TextView", 
+      "scrollable": false, 
+      "package": "com.carwale", 
+      "long_clickable": false, 
+      "view_str": "a9967804f0a4ae8b151bfba1c8bb895e", 
+      "enabled": true, 
+      "bounds": [
+        [
+          26, 
+          1030
+        ], 
+        [
+          1080, 
+          1089
+        ]
+      ], 
+      "signature": "[class]android.widget.TextView[resource_id]com.carwale:id/tvCarDetails[text]25,000 Kms  | Petrol | 2013[enabled,,]"
+    }
+  }, 
+  "start_state": "68392a6bc774095f14988d8760d2fa14"
+}

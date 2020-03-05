@@ -1,0 +1,163 @@
+Activity Resolver Table:
+  Non-Data Actions:
+      android.intent.action.MAIN:
+        817eb34 com.restaurant.mobile/.SplashActivity filter c9b7208
+          Action: "android.intent.action.MAIN"
+          Category: "android.intent.category.LAUNCHER"
+
+Permissions:
+  Permission [com.restaurant.mobile.permission.MAPS_RECEIVE] (a112d5d):
+    sourcePackage=com.restaurant.mobile
+    uid=10355 gids=null type=0 prot=signature
+    perm=Permission{810d6d2 com.restaurant.mobile.permission.MAPS_RECEIVE}
+    packageSetting=PackageSetting{90ba3a3 com.restaurant.mobile/10355}
+
+Registered ContentProviders:
+  com.restaurant.mobile/.provider.RestaurantContentProvider:
+    Provider{8e286a0 com.restaurant.mobile/.provider.RestaurantContentProvider}
+
+ContentProvider Authorities:
+  [com.restaurant.mobile.provider]:
+    Provider{8e286a0 com.restaurant.mobile/.provider.RestaurantContentProvider}
+      applicationInfo=ApplicationInfo{d384259 com.restaurant.mobile}
+
+Key Set Manager:
+  [com.restaurant.mobile]
+      Signing KeySets: 3
+
+Packages:
+  Package [com.restaurant.mobile] (90ba3a3):
+    userId=10355
+    pkg=Package{f018e1e com.restaurant.mobile}
+    codePath=/data/app/com.restaurant.mobile-NyRhpEw9J712jz8o91AmUQ==
+    resourcePath=/data/app/com.restaurant.mobile-NyRhpEw9J712jz8o91AmUQ==
+    legacyNativeLibraryDir=/data/app/com.restaurant.mobile-NyRhpEw9J712jz8o91AmUQ==/lib
+    primaryCpuAbi=null
+    secondaryCpuAbi=null
+    versionCode=10 minSdk=15 targetSdk=26
+    versionName=3.0.0
+    splits=[base]
+    apkSigningVersion=1
+    applicationInfo=ApplicationInfo{d384259 com.restaurant.mobile}
+    flags=[ HAS_CODE ALLOW_CLEAR_USER_DATA ALLOW_BACKUP ]
+    privateFlags=[ PRIVATE_FLAG_ACTIVITIES_RESIZE_MODE_RESIZEABLE_VIA_SDK_VERSION ]
+    dataDir=/data/user/0/com.restaurant.mobile
+    supportsScreens=[small, medium, large, xlarge, resizeable, anyDensity]
+    usesLibraries:
+      org.apache.http.legacy
+    usesLibraryFiles:
+      /system/framework/org.apache.http.legacy.boot.jar
+    timeStamp=2019-08-16 01:00:41
+    firstInstallTime=2019-08-16 00:59:52
+    lastUpdateTime=2019-08-16 01:00:41
+    signatures=PackageSignatures{62ad6ff version:1, signatures:[d7f1f224], past signatures:[]}
+    installPermissionsFixed=true
+    pkgFlags=[ HAS_CODE ALLOW_CLEAR_USER_DATA ALLOW_BACKUP ]
+    declared permissions:
+      com.restaurant.mobile.permission.MAPS_RECEIVE: prot=signature, INSTALLED
+    requested permissions:
+      android.permission.INTERNET
+      android.permission.ACCESS_COARSE_LOCATION
+      android.permission.ACCESS_FINE_LOCATION
+      android.permission.ACCESS_NETWORK_STATE
+      com.google.android.providers.gsf.permission.READ_GSERVICES
+      com.restaurant.mobile.permission.MAPS_RECEIVE
+      android.permission.REQUEST_INSTALL_PACKAGES
+    install permissions:
+      com.google.android.providers.gsf.permission.READ_GSERVICES: granted=true
+      android.permission.INTERNET: granted=true
+      android.permission.ACCESS_NETWORK_STATE: granted=true
+      com.restaurant.mobile.permission.MAPS_RECEIVE: granted=true
+    User 0: ceDataInode=-4294836164 installed=true hidden=false suspended=false stopped=false notLaunched=false enabled=0 instant=false virtual=false
+      gids=[3003]
+      runtime permissions:
+        android.permission.ACCESS_FINE_LOCATION: granted=true
+
+Package Changes:
+  Sequence number=227
+  User 0:
+    seq=0, package=androidauto.freeandroidauto
+    seq=2, package=com.v3.africallshop
+    seq=12, package=com.huffingtonpost.android
+    seq=14, package=com.happyconz.blackbox
+    seq=15, package=com.carpart.classic
+    seq=18, package=com.insfra.incar
+    seq=19, package=com.ktwapps.speedometer
+    seq=22, package=com.smalltalkapps.textdrive
+    seq=23, package=com.snailboat.teslacamreviewer
+    seq=56, package=com.bsro.fcac
+    seq=58, package=com.sport.car.doctor
+    seq=59, package=com.firststarcommunications.ampmscratchpower.android
+    seq=60, package=mureung.obdproject
+    seq=61, package=com.digby.android.cabela
+    seq=72, package=com.punchh.fazolis
+    seq=73, package=com.baskinrobbins.app
+    seq=74, package=com.sourceapp.bru
+    seq=75, package=com.auntieannes.pretzelperks
+    seq=76, package=com.punchh.toojays
+    seq=77, package=com.loyaltyplant.partner.degrees
+    seq=78, package=com.carmax.carmax
+    seq=82, package=com.buyvia.foodcoupons
+    seq=87, package=com.google.android.gms
+    seq=89, package=com.dominos.caribbean
+    seq=97, package=com.guru.cocktails
+    seq=98, package=com.mufumbo.android.recipe.search
+    seq=104, package=com.talabatey
+    seq=110, package=com.riatech.cakerecipes
+    seq=111, package=com.yogurtland.production
+    seq=112, package=fr.recettetek
+    seq=114, package=order.food.online.delivery.offers.deals
+    seq=116, package=cc.dreamspark.intervaltimer
+    seq=118, package=com.ascendik.eyeshield
+    seq=121, package=com.FitnessApp.loseBellyFat
+    seq=123, package=com.gen.betterwalking
+    seq=125, package=com.josmantek.macros
+    seq=126, package=com.plantoeat.mobile
+    seq=128, package=com.github.jamesgay.fitnotes
+    seq=129, package=com.medco.medcopharmacy
+    seq=138, package=com.sevencupsoftea.app
+    seq=139, package=is.abide
+    seq=142, package=org.na.naapp
+    seq=146, package=com.chic.violetlight2
+    seq=147, package=codematics.lgtv.lgsmarttv.lgtvremote.wifitvremote.tvremote
+    seq=150, package=com.deptiranidey.echodotcommands
+    seq=153, package=com.hannapp.homepaintideas
+    seq=154, package=com.designyourownhome.YEREMIA
+    seq=161, package=com.nvc.familyhomeplans
+    seq=162, package=mobiletoolsshop.tvremote.emerson
+    seq=164, package=mobiletoolsshop.tvremote.insignia
+    seq=166, package=mobiletoolsshop.tvremote.rca
+    seq=169, package=roid.spikesroid.tv_remote_for_toshiba
+    seq=176, package=xyz.markapp.renthouse
+    seq=181, package=com.anysoftkeyboard.languagepack.hebrew
+    seq=183, package=com.chic.colorlightsshake
+    seq=184, package=com.cardsd.transfert
+    seq=187, package=com.cmer.terminal
+    seq=188, package=com.devuni.flashlight.ledclassic
+    seq=191, package=com.inoapp.cardinfo
+    seq=192, package=com.anysoftkeyboard.languagepack.french
+    seq=193, package=com.flyersoft.plugin_pdf
+    seq=195, package=com.keramidas.MarketUpdateHelper
+    seq=197, package=ginlemon.smartlauncher.extratool
+    seq=201, package=com.af.screenmanager
+    seq=203, package=com.appmagna.sleepaidfan
+    seq=206, package=com.clproforcraigslist
+    seq=216, package=com.google.android.setupwizard
+    seq=219, package=com.love.messagespics
+    seq=220, package=com.kbb.mobile
+    seq=221, package=com.pack.jobonji
+    seq=222, package=com.nissan.nissanconnect
+    seq=223, package=com.atiw.wc
+    seq=225, package=com.restaurant.mobile
+    seq=226, package=io.github.ylimit.droidbotapp
+
+
+Dexopt state:
+  [com.restaurant.mobile]
+    path: /data/app/com.restaurant.mobile-NyRhpEw9J712jz8o91AmUQ==/base.apk
+      x86: [status=speed-profile] [reason=install]
+
+
+Compiler stats:
+  [com.restaurant.mobile]
+     base.apk - 871

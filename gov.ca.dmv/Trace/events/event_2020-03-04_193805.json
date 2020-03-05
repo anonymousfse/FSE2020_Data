@@ -1,0 +1,48 @@
+{
+  "stop_state": "3be05e67fca43e46d528ac0e48b3a535", 
+  "event_str": "TouchEvent(state=b67f2dec155c7d733a71914d55344e44, view=bbcd68ccf1fe29959ca99446d74a70fc)", 
+  "tag": "2020-03-04_193805", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "event_type": "touch", 
+    "view": {
+      "content_description": null, 
+      "resource_id": "gov.ca.dmv:id/snackbarContainer", 
+      "text": null, 
+      "visible": false, 
+      "checkable": false, 
+      "children": [], 
+      "size": "1080*0", 
+      "checked": false, 
+      "temp_id": 38, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.view.ViewGroup[resource_id]gov.ca.dmv:id/snackbarContainer", 
+      "is_password": false, 
+      "parent": 14, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.view.ViewGroup", 
+      "scrollable": false, 
+      "package": "gov.ca.dmv", 
+      "long_clickable": false, 
+      "view_str": "bbcd68ccf1fe29959ca99446d74a70fc", 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          1794
+        ], 
+        [
+          1080, 
+          1794
+        ]
+      ], 
+      "signature": "[class]android.view.ViewGroup[resource_id]gov.ca.dmv:id/snackbarContainer[text]None[enabled,,]"
+    }
+  }, 
+  "start_state": "b67f2dec155c7d733a71914d55344e44"
+}

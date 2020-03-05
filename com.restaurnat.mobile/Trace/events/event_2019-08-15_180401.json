@@ -1,0 +1,48 @@
+{
+  "stop_state": "c709a610a8ae987e8aaff9b6525240d9", 
+  "event_str": "TouchEvent(state=c709a610a8ae987e8aaff9b6525240d9, view=672a9f53cdc489fe0b27655f91ae30fd)", 
+  "tag": "2019-08-15_180401", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "event_type": "touch", 
+    "view": {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": "Cinnamom Bakery", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "924*2", 
+      "checked": false, 
+      "temp_id": 18, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.view.View[resource_id]None", 
+      "is_password": false, 
+      "parent": 16, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.view.View", 
+      "scrollable": false, 
+      "package": "com.restaurant.mobile", 
+      "long_clickable": false, 
+      "view_str": "672a9f53cdc489fe0b27655f91ae30fd", 
+      "enabled": true, 
+      "bounds": [
+        [
+          78, 
+          210
+        ], 
+        [
+          1002, 
+          212
+        ]
+      ], 
+      "signature": "[class]android.view.View[resource_id]None[text]Cinnamom Bakery[enabled,,]"
+    }
+  }, 
+  "start_state": "c709a610a8ae987e8aaff9b6525240d9"
+}

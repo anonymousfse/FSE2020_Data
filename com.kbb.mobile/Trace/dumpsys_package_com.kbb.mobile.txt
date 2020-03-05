@@ -1,0 +1,163 @@
+Activity Resolver Table:
+  Non-Data Actions:
+      android.intent.action.MAIN:
+        add35d6 com.kbb.mobile/.ActivityPanel filter b0813e8
+          Action: "android.intent.action.MAIN"
+          Category: "android.intent.category.LAUNCHER"
+      android.appwidget.action.APPWIDGET_CONFIGURE:
+        1b5057 com.kbb.mobile/.ActivityWidgetConfigureFavorites filter ef5d0a6
+          Action: "android.appwidget.action.APPWIDGET_CONFIGURE"
+      android.intent.action.SEARCH:
+        865e744 com.kbb.mobile/.ActivityVideos filter 5f15a01
+          Action: "android.intent.action.SEARCH"
+
+Receiver Resolver Table:
+  Schemes:
+      whats_my_cars_value_widget:
+        272602d com.kbb.mobile/.WidgetProviderWhatsMyCarWorth filter 395790b
+          Action: "android.appwidget.action.APPWIDGET_UPDATE"
+          Scheme: "whats_my_cars_value_widget"
+
+  Non-Data Actions:
+      android.appwidget.action.APPWIDGET_UPDATE:
+        3ced962 com.kbb.mobile/.WidgetProviderWhatsMyCarWorth filter f8080da
+          Action: "android.appwidget.action.APPWIDGET_UPDATE"
+
+Key Set Manager:
+  [com.kbb.mobile]
+      Signing KeySets: 3
+
+Packages:
+  Package [com.kbb.mobile] (91a9af3):
+    userId=10347
+    pkg=Package{67c33b0 com.kbb.mobile}
+    codePath=/data/app/com.kbb.mobile-OOys7Q6rkNWUfoCHoXFMvg==
+    resourcePath=/data/app/com.kbb.mobile-OOys7Q6rkNWUfoCHoXFMvg==
+    legacyNativeLibraryDir=/data/app/com.kbb.mobile-OOys7Q6rkNWUfoCHoXFMvg==/lib
+    primaryCpuAbi=null
+    secondaryCpuAbi=null
+    versionCode=32 minSdk=9 targetSdk=26
+    versionName=1.1.27
+    splits=[base]
+    apkSigningVersion=1
+    applicationInfo=ApplicationInfo{4c1d229 com.kbb.mobile}
+    flags=[ HAS_CODE ALLOW_CLEAR_USER_DATA ALLOW_BACKUP ]
+    privateFlags=[ PRIVATE_FLAG_ACTIVITIES_RESIZE_MODE_RESIZEABLE_VIA_SDK_VERSION ]
+    dataDir=/data/user/0/com.kbb.mobile
+    supportsScreens=[small, medium, large, xlarge, resizeable, anyDensity]
+    usesLibraries:
+      org.apache.http.legacy
+      com.google.android.maps
+    usesLibraryFiles:
+      /system/framework/org.apache.http.legacy.boot.jar
+      /system/framework/com.google.android.maps.jar
+    timeStamp=2019-08-16 00:10:24
+    firstInstallTime=2019-08-16 00:10:24
+    lastUpdateTime=2019-08-16 00:10:24
+    signatures=PackageSignatures{94529ae version:1, signatures:[d7f1f224], past signatures:[]}
+    installPermissionsFixed=true
+    pkgFlags=[ HAS_CODE ALLOW_CLEAR_USER_DATA ALLOW_BACKUP ]
+    requested permissions:
+      android.permission.ACCESS_COARSE_LOCATION
+      android.permission.ACCESS_FINE_LOCATION
+      android.permission.INTERNET
+      android.permission.ACCESS_NETWORK_STATE
+      com.google.android.providers.gsf.permission.READ_GSERVICES
+      android.permission.WRITE_EXTERNAL_STORAGE
+      android.permission.READ_EXTERNAL_STORAGE
+    install permissions:
+      com.google.android.providers.gsf.permission.READ_GSERVICES: granted=true
+      android.permission.INTERNET: granted=true
+      android.permission.ACCESS_NETWORK_STATE: granted=true
+    User 0: ceDataInode=-4294835997 installed=true hidden=false suspended=false stopped=false notLaunched=false enabled=0 instant=false virtual=false
+      gids=[3003]
+      runtime permissions:
+        android.permission.ACCESS_FINE_LOCATION: granted=true
+
+Package Changes:
+  Sequence number=212
+  User 0:
+    seq=0, package=androidauto.freeandroidauto
+    seq=2, package=com.v3.africallshop
+    seq=12, package=com.huffingtonpost.android
+    seq=14, package=com.happyconz.blackbox
+    seq=15, package=com.carpart.classic
+    seq=18, package=com.insfra.incar
+    seq=19, package=com.ktwapps.speedometer
+    seq=22, package=com.smalltalkapps.textdrive
+    seq=23, package=com.snailboat.teslacamreviewer
+    seq=56, package=com.bsro.fcac
+    seq=58, package=com.sport.car.doctor
+    seq=59, package=com.firststarcommunications.ampmscratchpower.android
+    seq=60, package=mureung.obdproject
+    seq=61, package=com.digby.android.cabela
+    seq=72, package=com.punchh.fazolis
+    seq=73, package=com.baskinrobbins.app
+    seq=74, package=com.sourceapp.bru
+    seq=75, package=com.auntieannes.pretzelperks
+    seq=76, package=com.punchh.toojays
+    seq=77, package=com.loyaltyplant.partner.degrees
+    seq=78, package=com.carmax.carmax
+    seq=82, package=com.buyvia.foodcoupons
+    seq=87, package=com.google.android.gms
+    seq=89, package=com.dominos.caribbean
+    seq=97, package=com.guru.cocktails
+    seq=98, package=com.mufumbo.android.recipe.search
+    seq=104, package=com.talabatey
+    seq=110, package=com.riatech.cakerecipes
+    seq=111, package=com.yogurtland.production
+    seq=112, package=fr.recettetek
+    seq=114, package=order.food.online.delivery.offers.deals
+    seq=116, package=cc.dreamspark.intervaltimer
+    seq=118, package=com.ascendik.eyeshield
+    seq=121, package=com.FitnessApp.loseBellyFat
+    seq=123, package=com.gen.betterwalking
+    seq=125, package=com.josmantek.macros
+    seq=126, package=com.plantoeat.mobile
+    seq=128, package=com.github.jamesgay.fitnotes
+    seq=129, package=com.medco.medcopharmacy
+    seq=138, package=com.sevencupsoftea.app
+    seq=139, package=is.abide
+    seq=142, package=org.na.naapp
+    seq=146, package=com.chic.violetlight2
+    seq=147, package=codematics.lgtv.lgsmarttv.lgtvremote.wifitvremote.tvremote
+    seq=150, package=com.deptiranidey.echodotcommands
+    seq=153, package=com.hannapp.homepaintideas
+    seq=154, package=com.designyourownhome.YEREMIA
+    seq=161, package=com.nvc.familyhomeplans
+    seq=162, package=mobiletoolsshop.tvremote.emerson
+    seq=164, package=mobiletoolsshop.tvremote.insignia
+    seq=166, package=mobiletoolsshop.tvremote.rca
+    seq=169, package=roid.spikesroid.tv_remote_for_toshiba
+    seq=176, package=xyz.markapp.renthouse
+    seq=181, package=com.anysoftkeyboard.languagepack.hebrew
+    seq=183, package=com.chic.colorlightsshake
+    seq=184, package=com.cardsd.transfert
+    seq=187, package=com.cmer.terminal
+    seq=188, package=com.devuni.flashlight.ledclassic
+    seq=191, package=com.inoapp.cardinfo
+    seq=192, package=com.anysoftkeyboard.languagepack.french
+    seq=193, package=com.flyersoft.plugin_pdf
+    seq=195, package=com.keramidas.MarketUpdateHelper
+    seq=197, package=ginlemon.smartlauncher.extratool
+    seq=199, package=com.google.android.setupwizard
+    seq=201, package=com.af.screenmanager
+    seq=202, package=com.atiw.wc
+    seq=203, package=com.appmagna.sleepaidfan
+    seq=205, package=com.kbb.mobile
+    seq=206, package=com.clproforcraigslist
+    seq=211, package=io.github.ylimit.droidbotapp
+
+
+Dexopt state:
+  [com.kbb.mobile]
+    path: /data/app/com.kbb.mobile-OOys7Q6rkNWUfoCHoXFMvg==/base.apk
+      x86: [status=speed-profile] [reason=install]
+      known secondary dex files:
+        /data/user/0/com.kbb.mobile/cache/1548865591327.jar
+          class loader context: PCL[];PCL[/system/framework/org.apache.http.legacy.boot.jar:/system/framework/com.google.android.maps.jar:/data/app/com.kbb.mobile-OOys7Q6rkNWUfoCHoXFMvg==/base.apk]
+
+
+Compiler stats:
+  [com.kbb.mobile]
+     base.apk - 1339

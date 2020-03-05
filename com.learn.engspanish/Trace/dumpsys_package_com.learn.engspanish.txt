@@ -1,0 +1,238 @@
+Activity Resolver Table:
+  Non-Data Actions:
+      android.intent.action.MAIN:
+        c57b933 com.learn.engspanish/.SplashActivity filter 51e7ef2
+          Action: "android.intent.action.MAIN"
+          Category: "android.intent.category.LAUNCHER"
+
+Receiver Resolver Table:
+  Non-Data Actions:
+      android.intent.action.QUICKBOOT_POWERON:
+        185ba69 com.learn.engspanish/com.onesignal.BootUpReceiver filter dc35ac1
+          Action: "android.intent.action.BOOT_COMPLETED"
+          Action: "android.intent.action.QUICKBOOT_POWERON"
+      com.facebook.sdk.ACTION_CURRENT_ACCESS_TOKEN_CHANGED:
+        e4ab58f com.learn.engspanish/com.facebook.CurrentAccessTokenExpirationBroadcastReceiver filter 8e9e1fd
+          Action: "com.facebook.sdk.ACTION_CURRENT_ACCESS_TOKEN_CHANGED"
+      com.android.vending.INSTALL_REFERRER:
+        4bb101c com.learn.engspanish/com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver filter db669a7
+          Action: "com.android.vending.INSTALL_REFERRER"
+      com.google.android.c2dm.intent.RECEIVE:
+        4369425 com.learn.engspanish/com.onesignal.GcmBroadcastReceiver filter 2529fa8
+          Action: "com.google.android.c2dm.intent.RECEIVE"
+          Category: "com.learn.engspanish"
+          mPriority=999, mOrder=0, mHasPartialTypes=false
+        5fe89fa com.learn.engspanish/com.google.firebase.iid.FirebaseInstanceIdReceiver filter 9060e54
+          Action: "com.google.android.c2dm.intent.RECEIVE"
+      android.intent.action.BOOT_COMPLETED:
+        185ba69 com.learn.engspanish/com.onesignal.BootUpReceiver filter dc35ac1
+          Action: "android.intent.action.BOOT_COMPLETED"
+          Action: "android.intent.action.QUICKBOOT_POWERON"
+      android.intent.action.MY_PACKAGE_REPLACED:
+        cc71bab com.learn.engspanish/com.onesignal.UpgradeReceiver filter 41aa266
+          Action: "android.intent.action.MY_PACKAGE_REPLACED"
+
+Service Resolver Table:
+  Non-Data Actions:
+      com.google.firebase.MESSAGING_EVENT:
+        c771208 com.learn.engspanish/com.google.firebase.messaging.FirebaseMessagingService filter 7dbcb
+          Action: "com.google.firebase.MESSAGING_EVENT"
+          mPriority=-500, mOrder=0, mHasPartialTypes=false
+
+Permissions:
+  Permission [com.learn.engspanish.permission.C2D_MESSAGE] (614da1):
+    sourcePackage=com.learn.engspanish
+    uid=10392 gids=null type=0 prot=signature
+    perm=Permission{a9b4bc6 com.learn.engspanish.permission.C2D_MESSAGE}
+    packageSetting=PackageSetting{659c787 com.learn.engspanish/10392}
+
+Registered ContentProviders:
+  com.learn.engspanish/.GenericFileProvider:
+    Provider{86f46b4 com.learn.engspanish/.GenericFileProvider}
+  com.learn.engspanish/com.google.android.gms.ads.MobileAdsInitProvider:
+    Provider{22422dd com.learn.engspanish/com.google.android.gms.ads.MobileAdsInitProvider}
+  com.learn.engspanish/com.facebook.marketing.internal.MarketingInitProvider:
+    Provider{ff05e52 com.learn.engspanish/com.facebook.marketing.internal.MarketingInitProvider}
+  com.learn.engspanish/com.google.firebase.provider.FirebaseInitProvider:
+    Provider{b815523 com.learn.engspanish/com.google.firebase.provider.FirebaseInitProvider}
+  com.learn.engspanish/com.facebook.internal.FacebookInitProvider:
+    Provider{a141a20 com.learn.engspanish/com.facebook.internal.FacebookInitProvider}
+
+ContentProvider Authorities:
+  [com.learn.engspanish.mobileadsinitprovider]:
+    Provider{22422dd com.learn.engspanish/com.google.android.gms.ads.MobileAdsInitProvider}
+      applicationInfo=ApplicationInfo{f450fd9 com.learn.engspanish}
+  [com.learn.engspanish.provider]:
+    Provider{86f46b4 com.learn.engspanish/.GenericFileProvider}
+      applicationInfo=ApplicationInfo{f450fd9 com.learn.engspanish}
+  [com.learn.engspanish.firebaseinitprovider]:
+    Provider{b815523 com.learn.engspanish/com.google.firebase.provider.FirebaseInitProvider}
+      applicationInfo=ApplicationInfo{f450fd9 com.learn.engspanish}
+  [com.learn.engspanish.FacebookInitProvider]:
+    Provider{a141a20 com.learn.engspanish/com.facebook.internal.FacebookInitProvider}
+      applicationInfo=ApplicationInfo{f450fd9 com.learn.engspanish}
+  [com.learn.engspanish.MarketingInitProvider]:
+    Provider{ff05e52 com.learn.engspanish/com.facebook.marketing.internal.MarketingInitProvider}
+      applicationInfo=ApplicationInfo{f450fd9 com.learn.engspanish}
+
+Key Set Manager:
+  [com.learn.engspanish]
+      Signing KeySets: 3
+
+Packages:
+  Package [com.learn.engspanish] (659c787):
+    userId=10392
+    pkg=Package{6120d9e com.learn.engspanish}
+    codePath=/data/app/com.learn.engspanish-ebSgZqbT2l350i3U_oxz7g==
+    resourcePath=/data/app/com.learn.engspanish-ebSgZqbT2l350i3U_oxz7g==
+    legacyNativeLibraryDir=/data/app/com.learn.engspanish-ebSgZqbT2l350i3U_oxz7g==/lib
+    primaryCpuAbi=null
+    secondaryCpuAbi=null
+    versionCode=7 minSdk=19 targetSdk=28
+    versionName=2.3
+    splits=[base]
+    apkSigningVersion=1
+    applicationInfo=ApplicationInfo{f450fd9 com.learn.engspanish}
+    flags=[ HAS_CODE ALLOW_CLEAR_USER_DATA ALLOW_BACKUP ]
+    privateFlags=[ PRIVATE_FLAG_ACTIVITIES_RESIZE_MODE_RESIZEABLE_VIA_SDK_VERSION ]
+    dataDir=/data/user/0/com.learn.engspanish
+    supportsScreens=[small, medium, large, xlarge, resizeable, anyDensity]
+    usesOptionalLibraries:
+      org.apache.http.legacy
+    usesLibraryFiles:
+      /system/framework/org.apache.http.legacy.boot.jar
+    timeStamp=2019-08-15 18:12:22
+    firstInstallTime=2019-08-15 18:12:22
+    lastUpdateTime=2019-08-15 18:12:22
+    signatures=PackageSignatures{c0a207f version:1, signatures:[d7f1f224], past signatures:[]}
+    installPermissionsFixed=true
+    pkgFlags=[ HAS_CODE ALLOW_CLEAR_USER_DATA ALLOW_BACKUP ]
+    declared permissions:
+      com.learn.engspanish.permission.C2D_MESSAGE: prot=signature, INSTALLED
+    requested permissions:
+      android.permission.INTERNET
+      android.permission.ACCESS_NETWORK_STATE
+      android.permission.WRITE_EXTERNAL_STORAGE
+      com.learn.engspanish.permission.C2D_MESSAGE
+      com.google.android.c2dm.permission.RECEIVE
+      android.permission.WAKE_LOCK
+      android.permission.VIBRATE
+      android.permission.RECEIVE_BOOT_COMPLETED
+      com.sec.android.provider.badge.permission.READ
+      com.sec.android.provider.badge.permission.WRITE
+      com.htc.launcher.permission.READ_SETTINGS
+      com.htc.launcher.permission.UPDATE_SHORTCUT
+      com.sonyericsson.home.permission.BROADCAST_BADGE
+      com.sonymobile.home.permission.PROVIDER_INSERT_BADGE
+      com.anddoes.launcher.permission.UPDATE_COUNT
+      com.majeur.launcher.permission.UPDATE_BADGE
+      com.huawei.android.launcher.permission.CHANGE_BADGE
+      com.huawei.android.launcher.permission.READ_SETTINGS
+      com.huawei.android.launcher.permission.WRITE_SETTINGS
+      android.permission.READ_APP_BADGE
+      com.oppo.launcher.permission.READ_SETTINGS
+      com.oppo.launcher.permission.WRITE_SETTINGS
+      me.everything.badger.permission.BADGE_COUNT_READ
+      me.everything.badger.permission.BADGE_COUNT_WRITE
+      com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE
+      android.permission.READ_EXTERNAL_STORAGE
+    install permissions:
+      com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE: granted=true
+      com.google.android.c2dm.permission.RECEIVE: granted=true
+      android.permission.RECEIVE_BOOT_COMPLETED: granted=true
+      android.permission.INTERNET: granted=true
+      com.learn.engspanish.permission.C2D_MESSAGE: granted=true
+      android.permission.ACCESS_NETWORK_STATE: granted=true
+      android.permission.VIBRATE: granted=true
+      android.permission.WAKE_LOCK: granted=true
+    User 0: ceDataInode=-4294836184 installed=true hidden=false suspended=false stopped=true notLaunched=true enabled=0 instant=false virtual=false
+      gids=[3003]
+      runtime permissions:
+
+Package Changes:
+  Sequence number=302
+  User 0:
+    seq=2, package=com.v3.africallshop
+    seq=12, package=com.huffingtonpost.android
+    seq=56, package=com.bsro.fcac
+    seq=59, package=com.firststarcommunications.ampmscratchpower.android
+    seq=61, package=com.digby.android.cabela
+    seq=72, package=com.punchh.fazolis
+    seq=84, package=com.punchh.toojays
+    seq=85, package=com.sourceapp.bru
+    seq=86, package=com.baskinrobbins.app
+    seq=87, package=com.auntieannes.pretzelperks
+    seq=88, package=com.loyaltyplant.partner.degrees
+    seq=89, package=com.carmax.carmax
+    seq=94, package=com.aries.software.california_dmv_test
+    seq=96, package=com.bestcarpictures.bcw
+    seq=101, package=com.happyconz.blackbox
+    seq=102, package=com.insfra.incar
+    seq=104, package=com.ktwapps.speedometer
+    seq=106, package=com.smalltalkapps.textdrive
+    seq=108, package=com.snailboat.teslacamreviewer
+    seq=110, package=com.soft24hours.dictionaries.dictionary27
+    seq=112, package=com.sport.car.doctor
+    seq=114, package=com.trovit.android.apps.cars
+    seq=116, package=mureung.obdproject
+    seq=122, package=androidauto.freeandroidauto
+    seq=124, package=com.carpart.classic
+    seq=127, package=best2017translatorapps.all.language.translator.free
+    seq=154, package=com.biblehub.biblehubapp
+    seq=156, package=com.google.android.gms
+    seq=164, package=com.darkdesign.constitution
+    seq=168, package=com.faultexception.reader
+    seq=170, package=com.freetheapp.livevideotips
+    seq=179, package=com.merlynho.newmapneighborformcpe
+    seq=181, package=com.repulimallocca.mcpe.luckyblock
+    seq=187, package=kjv.study.bible
+    seq=189, package=com.gameproemu.gamecubedownload
+    seq=190, package=com.infinisource.iSolvedTime.Mobile
+    seq=193, package=net.blackenvelope.writeinrunic
+    seq=195, package=pdfdrive.inc.asaha.pdfdrive_official
+    seq=196, package=studio.love.sweet.psychologyfactsoflife
+    seq=203, package=us.pacourts.docket
+    seq=206, package=com.bluecrewjobs.bluecrew
+    seq=209, package=com.dynamixsoftware.printershare
+    seq=212, package=nextapp.fx
+    seq=213, package=com.mlab.expense.manager
+    seq=215, package=com.aadhk.time
+    seq=217, package=com.animefree.animeonlinehd
+    seq=226, package=com.collectorz.javamobile.android.comics
+    seq=230, package=com.creative.Learn.to.draw.princess
+    seq=232, package=com.mangacoder.mangareader
+    seq=235, package=callid.name.announcer
+    seq=238, package=com.advtechgrp.android.corrlinks
+    seq=239, package=com.wuqinngen2.bbmanga
+    seq=240, package=com.allmessages.inonemessenger
+    seq=241, package=com.dsi.ant.service.socket
+    seq=243, package=com.fevdev.nakedbrowser
+    seq=250, package=com.soundamplifier.bluetoothearpiece
+    seq=254, package=com.google.android.apps.docs
+    seq=259, package=webexplorer.amazing.speed
+    seq=262, package=messengerchatapp.new17.update2017
+    seq=263, package=org.adblockplus.adblockplussbrowser
+    seq=265, package=com.messaging.schedule.android
+    seq=272, package=canadianmeet.dating.chatsingles.friends
+    seq=275, package=christiansingles.match.dating.meetfriends.chat
+    seq=278, package=com.atranssexualdate
+    seq=280, package=co.brainly
+    seq=282, package=com.google.android.setupwizard
+    seq=283, package=com.muslimmarriage
+    seq=287, package=com.diy.school
+    seq=293, package=com.gyrocade.starlight
+    seq=295, package=com.android.chrome
+    seq=299, package=com.kinedu.appkinedu
+    seq=300, package=io.github.ylimit.droidbotapp
+    seq=301, package=com.learn.engspanish
+
+
+Dexopt state:
+  [com.learn.engspanish]
+    path: /data/app/com.learn.engspanish-ebSgZqbT2l350i3U_oxz7g==/base.apk
+      x86: [status=speed-profile] [reason=install]
+
+
+Compiler stats:
+  [com.learn.engspanish]
+     base.apk - 1511

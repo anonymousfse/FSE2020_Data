@@ -1,0 +1,48 @@
+{
+  "stop_state": "f4b91f9970baa0278f40a250ca623d4c", 
+  "event_str": "TouchEvent(state=0f65a88ec581690668b68f3d733d85e0, view=aaff50da54cbfbcf246cfa019684bbe7)", 
+  "tag": "2019-08-15_111309", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "event_type": "touch", 
+    "view": {
+      "content_description": null, 
+      "resource_id": "com.learn.engspanish:id/txtqn", 
+      "text": "PREGUNTA", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "966*79", 
+      "checked": false, 
+      "temp_id": 10, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.TextView[resource_id]com.learn.engspanish:id/txtqn", 
+      "is_password": false, 
+      "parent": 9, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.TextView", 
+      "scrollable": false, 
+      "package": "com.learn.engspanish", 
+      "long_clickable": false, 
+      "view_str": "aaff50da54cbfbcf246cfa019684bbe7", 
+      "enabled": true, 
+      "bounds": [
+        [
+          57, 
+          586
+        ], 
+        [
+          1023, 
+          665
+        ]
+      ], 
+      "signature": "[class]android.widget.TextView[resource_id]com.learn.engspanish:id/txtqn[text]PREGUNTA[enabled,,]"
+    }
+  }, 
+  "start_state": "0f65a88ec581690668b68f3d733d85e0"
+}

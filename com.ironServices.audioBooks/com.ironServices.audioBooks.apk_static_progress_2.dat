@@ -1,0 +1,6 @@
+6525ZZZrun:org.apache.cordova.splashscreen.SplashScreen$6:virtualinvoke $r8.<android.app.ProgressDialog: void setIndeterminate(boolean)>(1)
+-1ZZZrun:org.apache.cordova.splashscreen.SplashScreen$6:$r8 = new android.app.ProgressDialog
+-1ZZZrun:org.apache.cordova.splashscreen.SplashScreen$6:$r8 = staticinvoke <org.apache.cordova.splashscreen.SplashScreen: android.app.ProgressDialog access$1100()>()
+6516ZZZrun:org.apache.cordova.splashscreen.SplashScreen$6:specialinvoke $r11.<org.apache.cordova.splashscreen.SplashScreen$6$1: void <init>(org.apache.cordova.splashscreen.SplashScreen$6)>($r0)
+-1ZZZrun:org.apache.cordova.splashscreen.SplashScreen$6:$r0 := @this: org.apache.cordova.splashscreen.SplashScreen$6
+-1ZZZrun:org.apache.cordova.splashscreen.SplashScreen$6:$r11 = new org.apache.cordova.splashscreen.SplashScreen$6$1

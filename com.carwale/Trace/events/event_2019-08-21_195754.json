@@ -1,0 +1,50 @@
+{
+  "stop_state": "95cf1e95231f827f92ae5bbe3e6b3e6e", 
+  "event_str": "TouchEvent(state=08f4e7dc291e79e64f4016ec8c6238c3, view=effcb994c3767b2805b3874500e4bb81)", 
+  "tag": "2019-08-21_195754", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "event_type": "touch", 
+    "view": {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": null, 
+      "visible": true, 
+      "checkable": false, 
+      "children": [
+        31
+      ], 
+      "size": "270*147", 
+      "checked": false, 
+      "temp_id": 30, 
+      "selected": false, 
+      "child_count": 1, 
+      "content_free_signature": "[class]android.support.v7.a.c[resource_id]None", 
+      "is_password": false, 
+      "parent": 29, 
+      "focusable": true, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": true, 
+      "class": "android.support.v7.a.c", 
+      "scrollable": false, 
+      "package": "com.carwale", 
+      "long_clickable": false, 
+      "view_str": "effcb994c3767b2805b3874500e4bb81", 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          604
+        ], 
+        [
+          270, 
+          751
+        ]
+      ], 
+      "signature": "[class]android.support.v7.a.c[resource_id]None[text]None[enabled,,]"
+    }
+  }, 
+  "start_state": "08f4e7dc291e79e64f4016ec8c6238c3"
+}

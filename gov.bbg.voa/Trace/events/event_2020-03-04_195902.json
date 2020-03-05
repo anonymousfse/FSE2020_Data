@@ -1,0 +1,48 @@
+{
+  "stop_state": "1433a39ece21f141f666208c1f8620ca", 
+  "event_str": "TouchEvent(state=6499bfbf5e870c7dc0f08cb542b94c5d, view=d225f1d04f91af238cd0b072b64d831b)", 
+  "tag": "2020-03-04_195902", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "event_type": "touch", 
+    "view": {
+      "content_description": null, 
+      "resource_id": "gov.bbg.voa:id/f_audio_player_collapsed_description", 
+      "text": "Gabina VOA is designed to be an infotainment youth radio show broadcasting to Ethiopia and Eritrea in the Amharic language. The show brings varied perspectives on issues concerning young people in the Horn of Africa region. \u201cGabina\u201d in the Amharic language is a front row taxi ride\u2014symbolic of the show\u2019s content as a fun ride that takes audiences from point \u201cA\u201d to point \u201cB\u201d. Gabina VOA\u2019s main goal is Enlightening young people, introducing them to cutting-edge technological innovations, exposing them to new processes and ideas so they can be productive, informed and self-governing citizens.", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "846*57", 
+      "checked": false, 
+      "temp_id": 70, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.TextView[resource_id]gov.bbg.voa:id/f_audio_player_collapsed_description", 
+      "is_password": false, 
+      "parent": 68, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.TextView", 
+      "scrollable": false, 
+      "package": "gov.bbg.voa", 
+      "long_clickable": false, 
+      "view_str": "d225f1d04f91af238cd0b072b64d831b", 
+      "enabled": true, 
+      "bounds": [
+        [
+          26, 
+          1706
+        ], 
+        [
+          872, 
+          1763
+        ]
+      ], 
+      "signature": "[class]android.widget.TextView[resource_id]gov.bbg.voa:id/f_audio_player_collapsed_description[text]None[enabled,,]"
+    }
+  }, 
+  "start_state": "6499bfbf5e870c7dc0f08cb542b94c5d"
+}

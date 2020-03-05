@@ -1,0 +1,48 @@
+{
+  "stop_state": "01cdd9d3e131ed982ea2e39862611b37", 
+  "event_str": "TouchEvent(state=01cdd9d3e131ed982ea2e39862611b37, view=3025821fc747349171a89d3a1417806d)", 
+  "tag": "2019-08-15_111336", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "event_type": "touch", 
+    "view": {
+      "content_description": null, 
+      "resource_id": "com.learn.engspanish:id/textscore", 
+      "text": "Your Score is : 3 Points.", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "914*79", 
+      "checked": false, 
+      "temp_id": 10, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.TextView[resource_id]com.learn.engspanish:id/textscore", 
+      "is_password": false, 
+      "parent": 8, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.TextView", 
+      "scrollable": false, 
+      "package": "com.learn.engspanish", 
+      "long_clickable": false, 
+      "view_str": "3025821fc747349171a89d3a1417806d", 
+      "enabled": true, 
+      "bounds": [
+        [
+          83, 
+          861
+        ], 
+        [
+          997, 
+          940
+        ]
+      ], 
+      "signature": "[class]android.widget.TextView[resource_id]com.learn.engspanish:id/textscore[text]Your Score is : 3 Points.[enabled,,]"
+    }
+  }, 
+  "start_state": "01cdd9d3e131ed982ea2e39862611b37"
+}

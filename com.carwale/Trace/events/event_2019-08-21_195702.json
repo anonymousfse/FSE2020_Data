@@ -1,0 +1,48 @@
+{
+  "stop_state": "121fd0830698d660b1964d4fd4dfefac", 
+  "event_str": "TouchEvent(state=779bf4be4cc13ac55553ce1c2202f2e9, view=23f44f3a8862a873bee6bc89c71d6eeb)", 
+  "tag": "2019-08-21_195702", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "event_type": "touch", 
+    "view": {
+      "content_description": null, 
+      "resource_id": "com.carwale:id/iv_cross", 
+      "text": null, 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "105*47", 
+      "checked": false, 
+      "temp_id": 12, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.ImageView[resource_id]com.carwale:id/iv_cross", 
+      "is_password": false, 
+      "parent": 9, 
+      "focusable": true, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": true, 
+      "class": "android.widget.ImageView", 
+      "scrollable": false, 
+      "package": "com.carwale", 
+      "long_clickable": false, 
+      "view_str": "23f44f3a8862a873bee6bc89c71d6eeb", 
+      "enabled": true, 
+      "bounds": [
+        [
+          975, 
+          98
+        ], 
+        [
+          1080, 
+          145
+        ]
+      ], 
+      "signature": "[class]android.widget.ImageView[resource_id]com.carwale:id/iv_cross[text]None[enabled,,]"
+    }
+  }, 
+  "start_state": "779bf4be4cc13ac55553ce1c2202f2e9"
+}

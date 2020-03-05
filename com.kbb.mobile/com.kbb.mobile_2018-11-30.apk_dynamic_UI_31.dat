@@ -1,0 +1,4 @@
+68976ZZZOnPostExecute:com.kbb.mobile.views.hub.CarHubConsumerReviews:$r15 = $r0.<com.kbb.mobile.views.hub.CarHubConsumerReviews: com.kbb.mobile.views.hub.ConsumerReviewAdapter adapter>
+69007ZZZOnPostExecute:com.kbb.mobile.views.hub.CarHubConsumerReviews:$r18 = staticinvoke <java.lang.String: java.lang.String format(java.lang.String,java.lang.Object[])>("%3.1f", $r2)
+68955ZZZ<init>:com.kbb.mobile.views.hub.ConsumerReviewAdapter:$r2 = new java.util.ArrayList
+68977ZZZOnPostExecute:com.kbb.mobile.views.hub.CarHubConsumerReviews:$r4 = $r0.<com.kbb.mobile.views.hub.CarHubConsumerReviews: com.kbb.mobile.Business.ConsumerReviews consumerReviews>

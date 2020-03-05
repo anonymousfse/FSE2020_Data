@@ -1,0 +1,48 @@
+{
+  "stop_state": "ef95791b13d83b640a35a52f3db07327", 
+  "event_str": "TouchEvent(state=78f679069e0030d5e5fd86ae2d55e4db, view=153b6c1b4e22ac553735cc9e749cc203)", 
+  "tag": "2019-08-15_111419", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "event_type": "touch", 
+    "view": {
+      "content_description": null, 
+      "resource_id": "android:id/icon", 
+      "text": null, 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "63*63", 
+      "checked": false, 
+      "temp_id": 12, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.ImageView[resource_id]android:id/icon", 
+      "is_password": false, 
+      "parent": 11, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.ImageView", 
+      "scrollable": false, 
+      "package": "android", 
+      "long_clickable": false, 
+      "view_str": "153b6c1b4e22ac553735cc9e749cc203", 
+      "enabled": true, 
+      "bounds": [
+        [
+          63, 
+          1520
+        ], 
+        [
+          126, 
+          1583
+        ]
+      ], 
+      "signature": "[class]android.widget.ImageView[resource_id]android:id/icon[text]None[enabled,,]"
+    }
+  }, 
+  "start_state": "78f679069e0030d5e5fd86ae2d55e4db"
+}

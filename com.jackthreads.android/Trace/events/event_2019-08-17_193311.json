@@ -1,0 +1,48 @@
+{
+  "stop_state": "e7fb1ea39553d4c03dbf51c83dcea0df", 
+  "event_str": "TouchEvent(state=e7fb1ea39553d4c03dbf51c83dcea0df, view=38f1aa46c50afd6ecfe55e6c58089783)", 
+  "tag": "2019-08-17_193311", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "event_type": "touch", 
+    "view": {
+      "content_description": null, 
+      "resource_id": "android:id/statusBarBackground", 
+      "text": null, 
+      "visible": false, 
+      "checkable": false, 
+      "children": [], 
+      "size": "1080*63", 
+      "checked": false, 
+      "temp_id": 8, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.view.View[resource_id]android:id/statusBarBackground", 
+      "is_password": false, 
+      "parent": 0, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.view.View", 
+      "scrollable": false, 
+      "package": "com.jackthreads.android", 
+      "long_clickable": false, 
+      "view_str": "38f1aa46c50afd6ecfe55e6c58089783", 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          0
+        ], 
+        [
+          1080, 
+          63
+        ]
+      ], 
+      "signature": "[class]android.view.View[resource_id]android:id/statusBarBackground[text]None[enabled,,]"
+    }
+  }, 
+  "start_state": "e7fb1ea39553d4c03dbf51c83dcea0df"
+}

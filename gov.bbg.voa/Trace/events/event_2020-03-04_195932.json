@@ -1,0 +1,48 @@
+{
+  "stop_state": "1bfef2ad3fc31c781ca175b229bf6b1b", 
+  "event_str": "TouchEvent(state=77cf89387f6a2c638c8e0a7d90c4ff46, view=88a70fca3a39ea2f9f90e195d19248a9)", 
+  "tag": "2020-03-04_195932", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "event_type": "touch", 
+    "view": {
+      "content_description": null, 
+      "resource_id": "gov.bbg.voa:id/li_article_title", 
+      "text": "\u12e8\u1273\u120b\u1241 \u121b\u12ad\u1230\u129e Super Tuesday \u12e8\u1245\u12f5\u1218 \u121d\u122d\u132b \u1202\u12f0\u1275 \u1232\u1308\u1218\u1308\u121d", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "1080*133", 
+      "checked": false, 
+      "temp_id": 32, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.TextView[resource_id]gov.bbg.voa:id/li_article_title", 
+      "is_password": false, 
+      "parent": 27, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.TextView", 
+      "scrollable": false, 
+      "package": "gov.bbg.voa", 
+      "long_clickable": false, 
+      "view_str": "88a70fca3a39ea2f9f90e195d19248a9", 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          239
+        ], 
+        [
+          1080, 
+          372
+        ]
+      ], 
+      "signature": "[class]android.widget.TextView[resource_id]gov.bbg.voa:id/li_article_title[text]\u12e8\u1273\u120b\u1241 \u121b\u12ad\u1230\u129e Super Tuesday \u12e8\u1245\u12f5\u1218 \u121d\u122d\u132b \u1202\u12f0\u1275 \u1232\u1308\u1218\u1308\u121d[enabled,,]"
+    }
+  }, 
+  "start_state": "77cf89387f6a2c638c8e0a7d90c4ff46"
+}

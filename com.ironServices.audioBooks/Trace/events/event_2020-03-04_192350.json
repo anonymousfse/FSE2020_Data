@@ -1,0 +1,10 @@
+{
+  "stop_state": "fac64e1918f98c183d06eaacbd45fd25", 
+  "event_str": "IntentEvent(intent='am start com.ironServices.audioBooks/com.ironServices.audioBooks.MainActivity')", 
+  "tag": "2020-03-04_192350", 
+  "event": {
+    "intent": "am start com.ironServices.audioBooks/com.ironServices.audioBooks.MainActivity", 
+    "event_type": "intent"
+  }, 
+  "start_state": "ed15f217dd849fc4c411fb0065bebebe"
+}

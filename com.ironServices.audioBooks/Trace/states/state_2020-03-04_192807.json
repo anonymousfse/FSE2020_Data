@@ -1,0 +1,2368 @@
+{
+  "views": [
+    {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": null, 
+      "visible": true, 
+      "checkable": false, 
+      "children": [
+        1, 
+        58, 
+        59
+      ], 
+      "size": "1080*1920", 
+      "checked": false, 
+      "temp_id": 0, 
+      "selected": false, 
+      "child_count": 3, 
+      "content_free_signature": "[class]android.widget.FrameLayout[resource_id]None", 
+      "is_password": false, 
+      "parent": -1, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.FrameLayout", 
+      "scrollable": false, 
+      "package": "com.ironServices.audioBooks", 
+      "long_clickable": false, 
+      "view_str": "3cbc76df1597c7a3d37aae493003bc7c", 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          0
+        ], 
+        [
+          1080, 
+          1920
+        ]
+      ], 
+      "signature": "[class]android.widget.FrameLayout[resource_id]None[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": null, 
+      "visible": true, 
+      "checkable": false, 
+      "children": [
+        2
+      ], 
+      "size": "1080*1794", 
+      "checked": false, 
+      "temp_id": 1, 
+      "selected": false, 
+      "child_count": 1, 
+      "content_free_signature": "[class]android.widget.LinearLayout[resource_id]None", 
+      "is_password": false, 
+      "parent": 0, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.LinearLayout", 
+      "scrollable": false, 
+      "package": "com.ironServices.audioBooks", 
+      "long_clickable": false, 
+      "view_str": "71ebc323c898dd233e962603950ae976", 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          0
+        ], 
+        [
+          1080, 
+          1794
+        ]
+      ], 
+      "signature": "[class]android.widget.LinearLayout[resource_id]None[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": "android:id/content", 
+      "text": null, 
+      "visible": true, 
+      "checkable": false, 
+      "children": [
+        3
+      ], 
+      "size": "1080*1731", 
+      "checked": false, 
+      "temp_id": 2, 
+      "selected": false, 
+      "child_count": 1, 
+      "content_free_signature": "[class]android.widget.FrameLayout[resource_id]android:id/content", 
+      "is_password": false, 
+      "parent": 1, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.FrameLayout", 
+      "scrollable": false, 
+      "package": "com.ironServices.audioBooks", 
+      "long_clickable": false, 
+      "view_str": "9079d8bd50865ee7d0907dd0bccbbecb", 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          63
+        ], 
+        [
+          1080, 
+          1794
+        ]
+      ], 
+      "signature": "[class]android.widget.FrameLayout[resource_id]android:id/content[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": null, 
+      "visible": true, 
+      "checkable": false, 
+      "children": [
+        4, 
+        56
+      ], 
+      "size": "1080*1731", 
+      "checked": false, 
+      "temp_id": 3, 
+      "selected": false, 
+      "child_count": 2, 
+      "content_free_signature": "[class]android.widget.LinearLayout[resource_id]None", 
+      "is_password": false, 
+      "parent": 2, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.LinearLayout", 
+      "scrollable": false, 
+      "package": "com.ironServices.audioBooks", 
+      "long_clickable": false, 
+      "view_str": "0c0e2e071d55f0cb00a88a17eb9be677", 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          63
+        ], 
+        [
+          1080, 
+          1794
+        ]
+      ], 
+      "signature": "[class]android.widget.LinearLayout[resource_id]None[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": null, 
+      "visible": true, 
+      "checkable": false, 
+      "children": [
+        5
+      ], 
+      "size": "1080*1731", 
+      "checked": false, 
+      "temp_id": 4, 
+      "selected": false, 
+      "child_count": 1, 
+      "content_free_signature": "[class]android.webkit.WebView[resource_id]None", 
+      "is_password": false, 
+      "parent": 3, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.webkit.WebView", 
+      "scrollable": false, 
+      "package": "com.ironServices.audioBooks", 
+      "long_clickable": false, 
+      "view_str": "0b4af548c4fffa3e3993f68bde0d9dfc", 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          63
+        ], 
+        [
+          1080, 
+          1794
+        ]
+      ], 
+      "signature": "[class]android.webkit.WebView[resource_id]None[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": "Audio Books - Librivox", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [
+        6
+      ], 
+      "size": "1081*1731", 
+      "checked": false, 
+      "temp_id": 5, 
+      "selected": false, 
+      "child_count": 1, 
+      "content_free_signature": "[class]android.webkit.WebView[resource_id]None", 
+      "is_password": false, 
+      "parent": 4, 
+      "focusable": true, 
+      "editable": false, 
+      "focused": true, 
+      "clickable": false, 
+      "class": "android.webkit.WebView", 
+      "scrollable": true, 
+      "package": "com.ironServices.audioBooks", 
+      "long_clickable": false, 
+      "view_str": "e5fd9f7245477979af926c0f9432e48a", 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          63
+        ], 
+        [
+          1081, 
+          1794
+        ]
+      ], 
+      "signature": "[class]android.webkit.WebView[resource_id]None[text]Audio Books - Librivox[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": "", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [
+        7
+      ], 
+      "size": "1081*1731", 
+      "checked": false, 
+      "temp_id": 6, 
+      "selected": false, 
+      "child_count": 1, 
+      "content_free_signature": "[class]android.view.View[resource_id]None", 
+      "is_password": false, 
+      "parent": 5, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.view.View", 
+      "scrollable": false, 
+      "package": "com.ironServices.audioBooks", 
+      "long_clickable": false, 
+      "view_str": "e182fe94f0020475fe499dceb5125207", 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          63
+        ], 
+        [
+          1081, 
+          1794
+        ]
+      ], 
+      "signature": "[class]android.view.View[resource_id]None[text][enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": "splitter", 
+      "text": "", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [
+        8
+      ], 
+      "size": "1081*1731", 
+      "checked": false, 
+      "temp_id": 7, 
+      "selected": false, 
+      "child_count": 1, 
+      "content_free_signature": "[class]android.view.View[resource_id]splitter", 
+      "is_password": false, 
+      "parent": 6, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.view.View", 
+      "scrollable": false, 
+      "package": "com.ironServices.audioBooks", 
+      "long_clickable": false, 
+      "view_str": "a853bbd22c16a80d7c63d59108d962e8", 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          63
+        ], 
+        [
+          1081, 
+          1794
+        ]
+      ], 
+      "signature": "[class]android.view.View[resource_id]splitter[text][enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": "rightPane", 
+      "text": "", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [
+        9
+      ], 
+      "size": "1081*1731", 
+      "checked": false, 
+      "temp_id": 8, 
+      "selected": false, 
+      "child_count": 1, 
+      "content_free_signature": "[class]android.view.View[resource_id]rightPane", 
+      "is_password": false, 
+      "parent": 7, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.view.View", 
+      "scrollable": false, 
+      "package": "com.ironServices.audioBooks", 
+      "long_clickable": false, 
+      "view_str": "aeda46fc8f4085d903cd17b733afa87c", 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          63
+        ], 
+        [
+          1081, 
+          1794
+        ]
+      ], 
+      "signature": "[class]android.view.View[resource_id]rightPane[text][enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": "bookPane", 
+      "text": "", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [
+        10, 
+        20, 
+        31, 
+        53, 
+        54
+      ], 
+      "size": "1081*1731", 
+      "checked": false, 
+      "temp_id": 9, 
+      "selected": false, 
+      "child_count": 5, 
+      "content_free_signature": "[class]android.view.View[resource_id]bookPane", 
+      "is_password": false, 
+      "parent": 8, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.view.View", 
+      "scrollable": false, 
+      "package": "com.ironServices.audioBooks", 
+      "long_clickable": false, 
+      "view_str": "29d1199662a9627913853724fa13e5f0", 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          63
+        ], 
+        [
+          1081, 
+          1794
+        ]
+      ], 
+      "signature": "[class]android.view.View[resource_id]bookPane[text][enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": "bookHead", 
+      "text": "", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [
+        11, 
+        12, 
+        14, 
+        16, 
+        18
+      ], 
+      "size": "1081*118", 
+      "checked": false, 
+      "temp_id": 10, 
+      "selected": false, 
+      "child_count": 5, 
+      "content_free_signature": "[class]android.view.View[resource_id]bookHead", 
+      "is_password": false, 
+      "parent": 9, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.view.View", 
+      "scrollable": false, 
+      "package": "com.ironServices.audioBooks", 
+      "long_clickable": false, 
+      "view_str": "43f4aca7054599c3c06e31e0dd34cf80", 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          63
+        ], 
+        [
+          1081, 
+          181
+        ]
+      ], 
+      "signature": "[class]android.view.View[resource_id]bookHead[text][enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": "Back", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "134*82", 
+      "checked": false, 
+      "temp_id": 11, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.view.View[resource_id]None", 
+      "is_password": false, 
+      "parent": 10, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": true, 
+      "class": "android.view.View", 
+      "scrollable": false, 
+      "package": "com.ironServices.audioBooks", 
+      "long_clickable": false, 
+      "view_str": "b45db64a74239742ce71b98c6a8f94af", 
+      "enabled": true, 
+      "bounds": [
+        [
+          15, 
+          78
+        ], 
+        [
+          149, 
+          160
+        ]
+      ], 
+      "signature": "[class]android.view.View[resource_id]None[text]Back[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": "btnSelChp", 
+      "text": "", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [
+        13
+      ], 
+      "size": "94*82", 
+      "checked": false, 
+      "temp_id": 12, 
+      "selected": false, 
+      "child_count": 1, 
+      "content_free_signature": "[class]android.view.View[resource_id]btnSelChp", 
+      "is_password": false, 
+      "parent": 10, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": true, 
+      "class": "android.view.View", 
+      "scrollable": false, 
+      "package": "com.ironServices.audioBooks", 
+      "long_clickable": false, 
+      "view_str": "4ab5f1e174b8fb4e52666d306f484039", 
+      "enabled": true, 
+      "bounds": [
+        [
+          181, 
+          78
+        ], 
+        [
+          275, 
+          160
+        ]
+      ], 
+      "signature": "[class]android.view.View[resource_id]btnSelChp[text][enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": "btn-selchp", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "36*37", 
+      "checked": false, 
+      "temp_id": 13, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.Image[resource_id]None", 
+      "is_password": false, 
+      "parent": 12, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.Image", 
+      "scrollable": false, 
+      "package": "com.ironServices.audioBooks", 
+      "long_clickable": false, 
+      "view_str": "e0f1e9de1640294b01241fba0bf36e9c", 
+      "enabled": true, 
+      "bounds": [
+        [
+          210, 
+          91
+        ], 
+        [
+          246, 
+          128
+        ]
+      ], 
+      "signature": "[class]android.widget.Image[resource_id]None[text]btn-selchp[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": "btnDwn", 
+      "text": "", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [
+        15
+      ], 
+      "size": "162*82", 
+      "checked": false, 
+      "temp_id": 14, 
+      "selected": false, 
+      "child_count": 1, 
+      "content_free_signature": "[class]android.view.View[resource_id]btnDwn", 
+      "is_password": false, 
+      "parent": 10, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": true, 
+      "class": "android.view.View", 
+      "scrollable": false, 
+      "package": "com.ironServices.audioBooks", 
+      "long_clickable": false, 
+      "view_str": "867c2b51a2f908f2f7d579cfd2a8c601", 
+      "enabled": true, 
+      "bounds": [
+        [
+          307, 
+          78
+        ], 
+        [
+          469, 
+          160
+        ]
+      ], 
+      "signature": "[class]android.view.View[resource_id]btnDwn[text][enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": "btn-download", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "105*76", 
+      "checked": false, 
+      "temp_id": 15, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.Image[resource_id]None", 
+      "is_password": false, 
+      "parent": 14, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.Image", 
+      "scrollable": false, 
+      "package": "com.ironServices.audioBooks", 
+      "long_clickable": false, 
+      "view_str": "aa735ac80f818fd015b11f897d174f0c", 
+      "enabled": true, 
+      "bounds": [
+        [
+          336, 
+          81
+        ], 
+        [
+          441, 
+          157
+        ]
+      ], 
+      "signature": "[class]android.widget.Image[resource_id]None[text]btn-download[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": "btnAddBook", 
+      "text": "", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [
+        17
+      ], 
+      "size": "162*82", 
+      "checked": false, 
+      "temp_id": 16, 
+      "selected": false, 
+      "child_count": 1, 
+      "content_free_signature": "[class]android.view.View[resource_id]btnAddBook", 
+      "is_password": false, 
+      "parent": 10, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": true, 
+      "class": "android.view.View", 
+      "scrollable": false, 
+      "package": "com.ironServices.audioBooks", 
+      "long_clickable": false, 
+      "view_str": "d2acf09df95d513443007f396f10a0a3", 
+      "enabled": true, 
+      "bounds": [
+        [
+          903, 
+          78
+        ], 
+        [
+          1065, 
+          160
+        ]
+      ], 
+      "signature": "[class]android.view.View[resource_id]btnAddBook[text][enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": "addfav1", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "105*76", 
+      "checked": false, 
+      "temp_id": 17, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.Image[resource_id]None", 
+      "is_password": false, 
+      "parent": 16, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.Image", 
+      "scrollable": false, 
+      "package": "com.ironServices.audioBooks", 
+      "long_clickable": false, 
+      "view_str": "65bf503e3764ef616dcc5933c0cd9f19", 
+      "enabled": true, 
+      "bounds": [
+        [
+          931, 
+          81
+        ], 
+        [
+          1036, 
+          157
+        ]
+      ], 
+      "signature": "[class]android.widget.Image[resource_id]None[text]addfav1[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": "btnFontSize", 
+      "text": "", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [
+        19
+      ], 
+      "size": "163*82", 
+      "checked": false, 
+      "temp_id": 18, 
+      "selected": false, 
+      "child_count": 1, 
+      "content_free_signature": "[class]android.view.View[resource_id]btnFontSize", 
+      "is_password": false, 
+      "parent": 10, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": true, 
+      "class": "android.view.View", 
+      "scrollable": false, 
+      "package": "com.ironServices.audioBooks", 
+      "long_clickable": false, 
+      "view_str": "5f60c6c12d07d633a3946919aa07e5ec", 
+      "enabled": true, 
+      "bounds": [
+        [
+          708, 
+          78
+        ], 
+        [
+          871, 
+          160
+        ]
+      ], 
+      "signature": "[class]android.view.View[resource_id]btnFontSize[text][enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": "btn-font", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "105*76", 
+      "checked": false, 
+      "temp_id": 19, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.Image[resource_id]None", 
+      "is_password": false, 
+      "parent": 18, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.Image", 
+      "scrollable": false, 
+      "package": "com.ironServices.audioBooks", 
+      "long_clickable": false, 
+      "view_str": "c6845f7d0b62621e359d89405b3187ed", 
+      "enabled": true, 
+      "bounds": [
+        [
+          737, 
+          81
+        ], 
+        [
+          842, 
+          157
+        ]
+      ], 
+      "signature": "[class]android.widget.Image[resource_id]None[text]btn-font[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": "bookFoot", 
+      "text": "", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [
+        21, 
+        23, 
+        25, 
+        29
+      ], 
+      "size": "1081*114", 
+      "checked": false, 
+      "temp_id": 20, 
+      "selected": false, 
+      "child_count": 4, 
+      "content_free_signature": "[class]android.view.View[resource_id]bookFoot", 
+      "is_password": false, 
+      "parent": 9, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.view.View", 
+      "scrollable": false, 
+      "package": "com.ironServices.audioBooks", 
+      "long_clickable": false, 
+      "view_str": "7c81e50f1c4669b4b5149f4c950da63e", 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          1680
+        ], 
+        [
+          1081, 
+          1794
+        ]
+      ], 
+      "signature": "[class]android.view.View[resource_id]bookFoot[text][enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": "btnPreviousChapter", 
+      "text": "", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [
+        22
+      ], 
+      "size": "176*82", 
+      "checked": false, 
+      "temp_id": 21, 
+      "selected": false, 
+      "child_count": 1, 
+      "content_free_signature": "[class]android.view.View[resource_id]btnPreviousChapter", 
+      "is_password": false, 
+      "parent": 20, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": true, 
+      "class": "android.view.View", 
+      "scrollable": false, 
+      "package": "com.ironServices.audioBooks", 
+      "long_clickable": false, 
+      "view_str": "3ea530de03b4731b38ecbc5f144f359b", 
+      "enabled": true, 
+      "bounds": [
+        [
+          15, 
+          1695
+        ], 
+        [
+          191, 
+          1777
+        ]
+      ], 
+      "signature": "[class]android.view.View[resource_id]btnPreviousChapter[text][enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": "btn-prev", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "108*76", 
+      "checked": false, 
+      "temp_id": 22, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.Image[resource_id]None", 
+      "is_password": false, 
+      "parent": 21, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.Image", 
+      "scrollable": false, 
+      "package": "com.ironServices.audioBooks", 
+      "long_clickable": false, 
+      "view_str": "2076a18e4489f3f4631c325acc8f4c29", 
+      "enabled": true, 
+      "bounds": [
+        [
+          49, 
+          1698
+        ], 
+        [
+          157, 
+          1774
+        ]
+      ], 
+      "signature": "[class]android.widget.Image[resource_id]None[text]btn-prev[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": "btnPlayChapter", 
+      "text": "", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [
+        24
+      ], 
+      "size": "176*82", 
+      "checked": false, 
+      "temp_id": 23, 
+      "selected": false, 
+      "child_count": 1, 
+      "content_free_signature": "[class]android.view.View[resource_id]btnPlayChapter", 
+      "is_password": false, 
+      "parent": 20, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": true, 
+      "class": "android.view.View", 
+      "scrollable": false, 
+      "package": "com.ironServices.audioBooks", 
+      "long_clickable": false, 
+      "view_str": "c00a966cbd769819d2b3e405e074d15d", 
+      "enabled": true, 
+      "bounds": [
+        [
+          223, 
+          1695
+        ], 
+        [
+          399, 
+          1777
+        ]
+      ], 
+      "signature": "[class]android.view.View[resource_id]btnPlayChapter[text][enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": "btn-play", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "76*76", 
+      "checked": false, 
+      "temp_id": 24, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.Image[resource_id]None", 
+      "is_password": false, 
+      "parent": 23, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.Image", 
+      "scrollable": false, 
+      "package": "com.ironServices.audioBooks", 
+      "long_clickable": false, 
+      "view_str": "7096c25e18216bd01f2173e6ca311459", 
+      "enabled": true, 
+      "bounds": [
+        [
+          273, 
+          1698
+        ], 
+        [
+          349, 
+          1774
+        ]
+      ], 
+      "signature": "[class]android.widget.Image[resource_id]None[text]btn-play[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": "sldTimeSound", 
+      "text": "", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [
+        26
+      ], 
+      "size": "399*105", 
+      "checked": false, 
+      "temp_id": 25, 
+      "selected": false, 
+      "child_count": 1, 
+      "content_free_signature": "[class]android.view.View[resource_id]sldTimeSound", 
+      "is_password": false, 
+      "parent": 20, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.view.View", 
+      "scrollable": false, 
+      "package": "com.ironServices.audioBooks", 
+      "long_clickable": false, 
+      "view_str": "5cf05401c66e0ba86379843dd19d3849", 
+      "enabled": true, 
+      "bounds": [
+        [
+          414, 
+          1680
+        ], 
+        [
+          813, 
+          1785
+        ]
+      ], 
+      "signature": "[class]android.view.View[resource_id]sldTimeSound[text][enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": "inputTimeSound", 
+      "text": "", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [
+        27, 
+        28
+      ], 
+      "size": "338*40", 
+      "checked": false, 
+      "temp_id": 26, 
+      "selected": false, 
+      "child_count": 2, 
+      "content_free_signature": "[class]android.view.View[resource_id]inputTimeSound", 
+      "is_password": false, 
+      "parent": 25, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": true, 
+      "class": "android.view.View", 
+      "scrollable": false, 
+      "package": "com.ironServices.audioBooks", 
+      "long_clickable": false, 
+      "view_str": "7f4ae4a23969d63aaec1c2c2a2baf631", 
+      "enabled": true, 
+      "bounds": [
+        [
+          467, 
+          1716
+        ], 
+        [
+          805, 
+          1756
+        ]
+      ], 
+      "signature": "[class]android.view.View[resource_id]inputTimeSound[text][enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": "", 
+      "visible": false, 
+      "checkable": false, 
+      "children": [], 
+      "size": "0*2", 
+      "checked": false, 
+      "temp_id": 27, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.view.View[resource_id]None", 
+      "is_password": false, 
+      "parent": 26, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.view.View", 
+      "scrollable": false, 
+      "package": "com.ironServices.audioBooks", 
+      "long_clickable": false, 
+      "view_str": "a0b928f8e4139a40824fba7ed942ca2d", 
+      "enabled": true, 
+      "bounds": [
+        [
+          469, 
+          1792
+        ], 
+        [
+          469, 
+          1794
+        ]
+      ], 
+      "signature": "[class]android.view.View[resource_id]None[text][enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": "", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "66*65", 
+      "checked": false, 
+      "temp_id": 28, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.view.View[resource_id]None", 
+      "is_password": false, 
+      "parent": 26, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.view.View", 
+      "scrollable": false, 
+      "package": "com.ironServices.audioBooks", 
+      "long_clickable": false, 
+      "view_str": "a0b928f8e4139a40824fba7ed942ca2d", 
+      "enabled": true, 
+      "bounds": [
+        [
+          438, 
+          1701
+        ], 
+        [
+          504, 
+          1766
+        ]
+      ], 
+      "signature": "[class]android.view.View[resource_id]None[text][enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": "btnNextChapter", 
+      "text": "", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [
+        30
+      ], 
+      "size": "176*90", 
+      "checked": false, 
+      "temp_id": 29, 
+      "selected": false, 
+      "child_count": 1, 
+      "content_free_signature": "[class]android.view.View[resource_id]btnNextChapter", 
+      "is_password": false, 
+      "parent": 20, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": true, 
+      "class": "android.view.View", 
+      "scrollable": false, 
+      "package": "com.ironServices.audioBooks", 
+      "long_clickable": false, 
+      "view_str": "e7137a05469441c1b6e2a4e7309d70cf", 
+      "enabled": true, 
+      "bounds": [
+        [
+          889, 
+          1695
+        ], 
+        [
+          1065, 
+          1785
+        ]
+      ], 
+      "signature": "[class]android.view.View[resource_id]btnNextChapter[text][enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": "btn-next", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "107*76", 
+      "checked": false, 
+      "temp_id": 30, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.Image[resource_id]None", 
+      "is_password": false, 
+      "parent": 29, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.Image", 
+      "scrollable": false, 
+      "package": "com.ironServices.audioBooks", 
+      "long_clickable": false, 
+      "view_str": "d18b007f79956d875981bafaf556b2fb", 
+      "enabled": true, 
+      "bounds": [
+        [
+          924, 
+          1698
+        ], 
+        [
+          1031, 
+          1774
+        ]
+      ], 
+      "signature": "[class]android.widget.Image[resource_id]None[text]btn-next[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": "bookContentPane", 
+      "text": "", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [
+        32
+      ], 
+      "size": "1081*1504", 
+      "checked": false, 
+      "temp_id": 31, 
+      "selected": false, 
+      "child_count": 1, 
+      "content_free_signature": "[class]android.view.View[resource_id]bookContentPane", 
+      "is_password": false, 
+      "parent": 9, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.view.View", 
+      "scrollable": false, 
+      "package": "com.ironServices.audioBooks", 
+      "long_clickable": false, 
+      "view_str": "87ccd68d6f647f69f5924e5845444658", 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          178
+        ], 
+        [
+          1081, 
+          1682
+        ]
+      ], 
+      "signature": "[class]android.view.View[resource_id]bookContentPane[text][enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": "bookContent", 
+      "text": "", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [
+        33, 
+        34, 
+        35, 
+        36, 
+        37, 
+        38, 
+        39, 
+        40, 
+        41, 
+        42, 
+        43, 
+        44, 
+        45, 
+        46, 
+        47, 
+        48, 
+        49, 
+        50, 
+        51, 
+        52
+      ], 
+      "size": "966*1407", 
+      "checked": false, 
+      "temp_id": 32, 
+      "selected": false, 
+      "child_count": 20, 
+      "content_free_signature": "[class]android.view.View[resource_id]bookContent", 
+      "is_password": false, 
+      "parent": 31, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.view.View", 
+      "scrollable": false, 
+      "package": "com.ironServices.audioBooks", 
+      "long_clickable": false, 
+      "view_str": "cd3865a91b807cf74cb1d9bd7140d9df", 
+      "enabled": true, 
+      "bounds": [
+        [
+          57, 
+          220
+        ], 
+        [
+          1023, 
+          1627
+        ]
+      ], 
+      "signature": "[class]android.view.View[resource_id]bookContent[text][enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": "link2HCH0320", 
+      "text": "", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "966*1407", 
+      "checked": false, 
+      "temp_id": 33, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.view.View[resource_id]link2HCH0320", 
+      "is_password": false, 
+      "parent": 32, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.view.View", 
+      "scrollable": false, 
+      "package": "com.ironServices.audioBooks", 
+      "long_clickable": false, 
+      "view_str": "dfa43db1483566aefb8aeecc29da7e01", 
+      "enabled": true, 
+      "bounds": [
+        [
+          57, 
+          220
+        ], 
+        [
+          1023, 
+          1627
+        ]
+      ], 
+      "signature": "[class]android.view.View[resource_id]link2HCH0320[text][enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": "\n\n\n\n", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "966*270", 
+      "checked": false, 
+      "temp_id": 34, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.view.View[resource_id]None", 
+      "is_password": false, 
+      "parent": 32, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.view.View", 
+      "scrollable": false, 
+      "package": "com.ironServices.audioBooks", 
+      "long_clickable": false, 
+      "view_str": "f12490fa1c1530d33977d4c8a7722541", 
+      "enabled": true, 
+      "bounds": [
+        [
+          57, 
+          220
+        ], 
+        [
+          1023, 
+          490
+        ]
+      ], 
+      "signature": "[class]android.view.View[resource_id]None[text]\n\n\n\n[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": "CHAPTER XXII\u2014FOOT TO FOOT", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "966*239", 
+      "checked": false, 
+      "temp_id": 35, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.view.View[resource_id]None", 
+      "is_password": false, 
+      "parent": 32, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.view.View", 
+      "scrollable": false, 
+      "package": "com.ironServices.audioBooks", 
+      "long_clickable": false, 
+      "view_str": "de6f2d3ac68c3fa915204d19c8cbb1a3", 
+      "enabled": true, 
+      "bounds": [
+        [
+          57, 
+          572
+        ], 
+        [
+          1023, 
+          811
+        ]
+      ], 
+      "signature": "[class]android.view.View[resource_id]None[text]CHAPTER XXII\u2014FOOT TO FOOT[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": "When there were no longer any of the leaders left alive, except Enjolras and Marius at the two extremities of the barricade, the centre, which had so long sustained Courfeyrac, Joly, Bossuet, Feuilly and Combeferre, gave way. The cannon, though it had not effected a practicable breach, had made a rather large hollow in the middle of the redoubt; there, the summit of the wall had disappeared before the balls, and had crumbled away; and the rubbish which had fallen, now inside, now outside, had, as it accumulated, formed two piles in the nature of slopes on the two sides of the barrier, one on the inside, the other on the outside. The exterior slope presented an inclined plane to the attack.", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "966*735", 
+      "checked": false, 
+      "temp_id": 36, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.view.View[resource_id]None", 
+      "is_password": false, 
+      "parent": 32, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.view.View", 
+      "scrollable": false, 
+      "package": "com.ironServices.audioBooks", 
+      "long_clickable": false, 
+      "view_str": "753297f2753d27ac306791e93b801f33", 
+      "enabled": true, 
+      "bounds": [
+        [
+          57, 
+          892
+        ], 
+        [
+          1023, 
+          1627
+        ]
+      ], 
+      "signature": "[class]android.view.View[resource_id]None[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": "A final assault was there attempted, and this assault succeeded. The mass bristling with bayonets and hurled forward at a run, came up with irresistible force, and the serried front of battle of the attacking column made its appearance through the smoke on the crest of the battlements. This time, it was decisive. The group of insurgents who were defending the centre retreated in confusion.", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "2*281", 
+      "checked": false, 
+      "temp_id": 37, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.view.View[resource_id]None", 
+      "is_password": false, 
+      "parent": 32, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.view.View", 
+      "scrollable": false, 
+      "package": "com.ironServices.audioBooks", 
+      "long_clickable": false, 
+      "view_str": "753297f2753d27ac306791e93b801f33", 
+      "enabled": true, 
+      "bounds": [
+        [
+          1021, 
+          1401
+        ], 
+        [
+          1023, 
+          1682
+        ]
+      ], 
+      "signature": "[class]android.view.View[resource_id]None[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": "Then the gloomy love of life awoke once more in some of them. Many, finding themselves under the muzzles of this forest of guns, did not wish to die. This is a moment when the instinct of self-preservation emits howls, when the beast re-appears in men. They were hemmed in by the lofty, six-story house which formed the background of their redoubt. This house might prove their salvation. The building was barricaded, and walled, as it were, from top to bottom. Before the troops of the line had reached the interior of the redoubt, there was time for a door to open and shut, the space of a flash of lightning was sufficient for that, and the door of that house, suddenly opened a crack and closed again instantly, was life for these despairing men. Behind this house, there were streets, possible flight, space. They set to knocking at that door with the butts of their guns, and with kicks, shouting, calling, entreating, wringing their hands. No one opened. From the little window on the third floor, the head of the dead man gazed down upon them.", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "2*517", 
+      "checked": false, 
+      "temp_id": 38, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.view.View[resource_id]None", 
+      "is_password": false, 
+      "parent": 32, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.view.View", 
+      "scrollable": false, 
+      "package": "com.ironServices.audioBooks", 
+      "long_clickable": false, 
+      "view_str": "753297f2753d27ac306791e93b801f33", 
+      "enabled": true, 
+      "bounds": [
+        [
+          1021, 
+          1165
+        ], 
+        [
+          1023, 
+          1682
+        ]
+      ], 
+      "signature": "[class]android.view.View[resource_id]None[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": "But Enjolras and Marius, and the seven or eight rallied about them, sprang forward and protected them. Enjolras had shouted to the soldiers: \"Don't advance!\" and as an officer had not obeyed, Enjolras had killed the officer. He was now in the little inner court of the redoubt, with his back planted against the Corinthe building, a sword in one hand, a rifle in the other, holding open the door of the wine-shop which he barred against assailants. He shouted to the desperate men:\u2014\"There is but one door open; this one.\"\u2014And shielding them with his body, and facing an entire battalion alone, he made them pass in behind him. All precipitated themselves thither. Enjolras, executing with his rifle, which he now used like a cane, what single-stick players call a \"covered rose\" round his head, levelled the bayonets around and in front of him, and was the last to enter; and then ensued a horrible moment, when the soldiers tried to make their way in, and the insurgents strove to bar them out. The door was slammed with such violence, that, as it fell back into its frame, it showed the five fingers of a soldier who had been clinging to it, cut off and glued to the post.", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "2*359", 
+      "checked": false, 
+      "temp_id": 39, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.view.View[resource_id]None", 
+      "is_password": false, 
+      "parent": 32, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.view.View", 
+      "scrollable": false, 
+      "package": "com.ironServices.audioBooks", 
+      "long_clickable": false, 
+      "view_str": "753297f2753d27ac306791e93b801f33", 
+      "enabled": true, 
+      "bounds": [
+        [
+          1021, 
+          1323
+        ], 
+        [
+          1023, 
+          1682
+        ]
+      ], 
+      "signature": "[class]android.view.View[resource_id]None[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": "Marius remained outside. A shot had just broken his collar bone, he felt that he was fainting and falling. At that moment, with eyes already shut, he felt the shock of a vigorous hand seizing him, and the swoon in which his senses vanished, hardly allowed him time for the thought, mingled with a last memory of Cosette:\u2014\"I am taken prisoner. I shall be shot.\"", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "2*1023", 
+      "checked": false, 
+      "temp_id": 40, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.view.View[resource_id]None", 
+      "is_password": false, 
+      "parent": 32, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.view.View", 
+      "scrollable": false, 
+      "package": "com.ironServices.audioBooks", 
+      "long_clickable": false, 
+      "view_str": "753297f2753d27ac306791e93b801f33", 
+      "enabled": true, 
+      "bounds": [
+        [
+          1021, 
+          378
+        ], 
+        [
+          1023, 
+          1401
+        ]
+      ], 
+      "signature": "[class]android.view.View[resource_id]None[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": "Enjolras, not seeing Marius among those who had taken refuge in the wine-shop, had the same idea. But they had reached a moment when each man has not the time to meditate on his own death. Enjolras fixed the bar across the door, and bolted it, and double-locked it with key and chain, while those outside were battering furiously at it, the soldiers with the butts of their muskets, the sappers with their axes. The assailants were grouped about that door. The siege of the wine-shop was now beginning.", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "2*281", 
+      "checked": false, 
+      "temp_id": 41, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.view.View[resource_id]None", 
+      "is_password": false, 
+      "parent": 32, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.view.View", 
+      "scrollable": false, 
+      "package": "com.ironServices.audioBooks", 
+      "long_clickable": false, 
+      "view_str": "753297f2753d27ac306791e93b801f33", 
+      "enabled": true, 
+      "bounds": [
+        [
+          1021, 
+          1401
+        ], 
+        [
+          1023, 
+          1682
+        ]
+      ], 
+      "signature": "[class]android.view.View[resource_id]None[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": "The soldiers, we will observe, were full of wrath.", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "2*158", 
+      "checked": false, 
+      "temp_id": 42, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.view.View[resource_id]None", 
+      "is_password": false, 
+      "parent": 32, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.view.View", 
+      "scrollable": false, 
+      "package": "com.ironServices.audioBooks", 
+      "long_clickable": false, 
+      "view_str": "dde48df61478f433ee4fcf42747623e5", 
+      "enabled": true, 
+      "bounds": [
+        [
+          1021, 
+          220
+        ], 
+        [
+          1023, 
+          378
+        ]
+      ], 
+      "signature": "[class]android.view.View[resource_id]None[text]The soldiers, we will observe, were full of wrath.[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": "The death of the artillery-sergeant had enraged them, and then, a still more melancholy circumstance. During the few hours which had preceded the attack, it had been reported among them that the insurgents were mutilating their prisoners, and that there was the headless body of a soldier in the wine-shop. This sort of fatal rumor is the usual accompaniment of civil wars, and it was a false report of this kind which, later on, produced the catastrophe of the Rue Transnonain.", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "2*1304", 
+      "checked": false, 
+      "temp_id": 43, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.view.View[resource_id]None", 
+      "is_password": false, 
+      "parent": 32, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.view.View", 
+      "scrollable": false, 
+      "package": "com.ironServices.audioBooks", 
+      "long_clickable": false, 
+      "view_str": "753297f2753d27ac306791e93b801f33", 
+      "enabled": true, 
+      "bounds": [
+        [
+          1021, 
+          378
+        ], 
+        [
+          1023, 
+          1682
+        ]
+      ], 
+      "signature": "[class]android.view.View[resource_id]None[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": "When the door was barricaded, Enjolras said to the others:", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "2*157", 
+      "checked": false, 
+      "temp_id": 44, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.view.View[resource_id]None", 
+      "is_password": false, 
+      "parent": 32, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.view.View", 
+      "scrollable": false, 
+      "package": "com.ironServices.audioBooks", 
+      "long_clickable": false, 
+      "view_str": "753297f2753d27ac306791e93b801f33", 
+      "enabled": true, 
+      "bounds": [
+        [
+          1021, 
+          378
+        ], 
+        [
+          1023, 
+          535
+        ]
+      ], 
+      "signature": "[class]android.view.View[resource_id]None[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": "\"Let us sell our lives dearly.\"", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "2*79", 
+      "checked": false, 
+      "temp_id": 45, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.view.View[resource_id]None", 
+      "is_password": false, 
+      "parent": 32, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.view.View", 
+      "scrollable": false, 
+      "package": "com.ironServices.audioBooks", 
+      "long_clickable": false, 
+      "view_str": "580d885bed9cb62799aa71546d259f07", 
+      "enabled": true, 
+      "bounds": [
+        [
+          1021, 
+          535
+        ], 
+        [
+          1023, 
+          614
+        ]
+      ], 
+      "signature": "[class]android.view.View[resource_id]None[text]\"Let us sell our lives dearly.\"[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": "Then he approached the table on which lay Mabeuf and Gavroche. Beneath the black cloth two straight and rigid forms were visible, one large, the other small, and the two faces were vaguely outlined beneath the cold folds of the shroud. A hand projected from beneath the winding sheet and hung near the floor. It was that of the old man.", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "2*945", 
+      "checked": false, 
+      "temp_id": 46, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.view.View[resource_id]None", 
+      "is_password": false, 
+      "parent": 32, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.view.View", 
+      "scrollable": false, 
+      "package": "com.ironServices.audioBooks", 
+      "long_clickable": false, 
+      "view_str": "753297f2753d27ac306791e93b801f33", 
+      "enabled": true, 
+      "bounds": [
+        [
+          1021, 
+          614
+        ], 
+        [
+          1023, 
+          1559
+        ]
+      ], 
+      "signature": "[class]android.view.View[resource_id]None[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": "Enjolras bent down and kissed that venerable hand, just as he had kissed his brow on the preceding evening.", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "2*315", 
+      "checked": false, 
+      "temp_id": 47, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.view.View[resource_id]None", 
+      "is_password": false, 
+      "parent": 32, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.view.View", 
+      "scrollable": false, 
+      "package": "com.ironServices.audioBooks", 
+      "long_clickable": false, 
+      "view_str": "753297f2753d27ac306791e93b801f33", 
+      "enabled": true, 
+      "bounds": [
+        [
+          1021, 
+          220
+        ], 
+        [
+          1023, 
+          535
+        ]
+      ], 
+      "signature": "[class]android.view.View[resource_id]None[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": "These were the only two kisses which he had bestowed in the course of his life.", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "2*236", 
+      "checked": false, 
+      "temp_id": 48, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.view.View[resource_id]None", 
+      "is_password": false, 
+      "parent": 32, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.view.View", 
+      "scrollable": false, 
+      "package": "com.ironServices.audioBooks", 
+      "long_clickable": false, 
+      "view_str": "753297f2753d27ac306791e93b801f33", 
+      "enabled": true, 
+      "bounds": [
+        [
+          1021, 
+          535
+        ], 
+        [
+          1023, 
+          771
+        ]
+      ], 
+      "signature": "[class]android.view.View[resource_id]None[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": "Let us abridge the tale. The barricade had fought like a gate of Thebes; the wine-shop fought like a house of Saragossa. These resistances are dogged. No quarter. No flag of truce possible. Men are willing to die, provided their opponent will kill them.", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "2*709", 
+      "checked": false, 
+      "temp_id": 49, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.view.View[resource_id]None", 
+      "is_password": false, 
+      "parent": 32, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.view.View", 
+      "scrollable": false, 
+      "package": "com.ironServices.audioBooks", 
+      "long_clickable": false, 
+      "view_str": "753297f2753d27ac306791e93b801f33", 
+      "enabled": true, 
+      "bounds": [
+        [
+          1021, 
+          771
+        ], 
+        [
+          1023, 
+          1480
+        ]
+      ], 
+      "signature": "[class]android.view.View[resource_id]None[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": "When Suchet says:\u2014\"Capitulate,\"\u2014Palafox replies: \"After the war with cannon, the war with knives.\" Nothing was lacking in the capture by assault of the Hucheloup wine-shop; neither paving-stones raining from the windows and the roof on the besiegers and exasperating the soldiers by crushing them horribly, nor shots fired from the attic-windows and the cellar, nor the fury of attack, nor, finally, when the door yielded, the frenzied madness of extermination. The assailants, rushing into the wine-shop, their feet entangled in the panels of the door which had been beaten in and flung on the ground, found not a single combatant there. The spiral staircase, hewn asunder with the axe, lay in the middle of the tap-room, a few wounded men were just breathing their last, every one who was not killed was on the first floor, and from there, through the hole in the ceiling, which had formed the entrance of the stairs, a terrific fire burst forth. It was the last of their cartridges. When they were exhausted, when these formidable men on the point of death had no longer either powder or ball, each grasped in his hands two of the bottles which Enjolras had reserved, and of which we have spoken, and held the scaling party in check with these frightfully fragile clubs. They were bottles of aquafortis.", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "2*1462", 
+      "checked": false, 
+      "temp_id": 50, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.view.View[resource_id]None", 
+      "is_password": false, 
+      "parent": 32, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.view.View", 
+      "scrollable": false, 
+      "package": "com.ironServices.audioBooks", 
+      "long_clickable": false, 
+      "view_str": "753297f2753d27ac306791e93b801f33", 
+      "enabled": true, 
+      "bounds": [
+        [
+          1021, 
+          220
+        ], 
+        [
+          1023, 
+          1682
+        ]
+      ], 
+      "signature": "[class]android.view.View[resource_id]None[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": "We relate these gloomy incidents of carnage as they occurred. The besieged man, alas! converts everything into a weapon. Greek fire did not disgrace Archimedes, boiling pitch did not disgrace Bayard. All war is a thing of terror, and there is no choice in it. The musketry of the besiegers, though confined and embarrassed by being directed from below upwards, was deadly. The rim of the hole in the ceiling was speedily surrounded by heads of the slain, whence dripped long, red and smoking streams, the uproar was indescribable; a close and burning smoke almost produced night over this combat. Words are lacking to express horror when it has reached this pitch. There were no longer men in this conflict, which was now infernal. They were no longer giants matched with colossi. It resembled Milton and Dante rather than Homer. Demons attacked, spectres resisted.", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "2*674", 
+      "checked": false, 
+      "temp_id": 51, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.view.View[resource_id]None", 
+      "is_password": false, 
+      "parent": 32, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.view.View", 
+      "scrollable": false, 
+      "package": "com.ironServices.audioBooks", 
+      "long_clickable": false, 
+      "view_str": "753297f2753d27ac306791e93b801f33", 
+      "enabled": true, 
+      "bounds": [
+        [
+          1021, 
+          1008
+        ], 
+        [
+          1023, 
+          1682
+        ]
+      ], 
+      "signature": "[class]android.view.View[resource_id]None[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": "It was heroism become monstrous.", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "2*158", 
+      "checked": false, 
+      "temp_id": 52, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.view.View[resource_id]None", 
+      "is_password": false, 
+      "parent": 32, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.view.View", 
+      "scrollable": false, 
+      "package": "com.ironServices.audioBooks", 
+      "long_clickable": false, 
+      "view_str": "9bae34c5d470108e525872d71ede13f7", 
+      "enabled": true, 
+      "bounds": [
+        [
+          1021, 
+          771
+        ], 
+        [
+          1023, 
+          929
+        ]
+      ], 
+      "signature": "[class]android.view.View[resource_id]None[text]It was heroism become monstrous.[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": "bookPageCenter", 
+      "text": "", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "1081*1407", 
+      "checked": false, 
+      "temp_id": 53, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.view.View[resource_id]bookPageCenter", 
+      "is_password": false, 
+      "parent": 9, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.view.View", 
+      "scrollable": false, 
+      "package": "com.ironServices.audioBooks", 
+      "long_clickable": false, 
+      "view_str": "13e3249a28512470460a52146017e89c", 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          178
+        ], 
+        [
+          1081, 
+          1585
+        ]
+      ], 
+      "signature": "[class]android.view.View[resource_id]bookPageCenter[text][enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": "bookPageBottom", 
+      "text": "", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [
+        55
+      ], 
+      "size": "1081*79", 
+      "checked": false, 
+      "temp_id": 54, 
+      "selected": false, 
+      "child_count": 1, 
+      "content_free_signature": "[class]android.view.View[resource_id]bookPageBottom", 
+      "is_password": false, 
+      "parent": 9, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.view.View", 
+      "scrollable": false, 
+      "package": "com.ironServices.audioBooks", 
+      "long_clickable": false, 
+      "view_str": "b2825f2fe91a43ecc299378f8819cb1b", 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          1601
+        ], 
+        [
+          1081, 
+          1680
+        ]
+      ], 
+      "signature": "[class]android.view.View[resource_id]bookPageBottom[text][enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": "bookPageNumber", 
+      "text": "1 of 17", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "108*39", 
+      "checked": false, 
+      "temp_id": 55, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.view.View[resource_id]bookPageNumber", 
+      "is_password": false, 
+      "parent": 54, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.view.View", 
+      "scrollable": false, 
+      "package": "com.ironServices.audioBooks", 
+      "long_clickable": false, 
+      "view_str": "1a488de59417095c52a87bd8c3d5a2f5", 
+      "enabled": true, 
+      "bounds": [
+        [
+          763, 
+          1601
+        ], 
+        [
+          871, 
+          1640
+        ]
+      ], 
+      "signature": "[class]android.view.View[resource_id]bookPageNumber[text]1 of 17[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": null, 
+      "visible": false, 
+      "checkable": false, 
+      "children": [
+        57
+      ], 
+      "size": "1080*0", 
+      "checked": false, 
+      "temp_id": 56, 
+      "selected": false, 
+      "child_count": 1, 
+      "content_free_signature": "[class]android.view.ViewGroup[resource_id]None", 
+      "is_password": false, 
+      "parent": 3, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.view.ViewGroup", 
+      "scrollable": false, 
+      "package": "com.ironServices.audioBooks", 
+      "long_clickable": false, 
+      "view_str": "04fb92c9e0d70a1d8658b45c3579d022", 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          1794
+        ], 
+        [
+          1080, 
+          1794
+        ]
+      ], 
+      "signature": "[class]android.view.ViewGroup[resource_id]None[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": null, 
+      "visible": false, 
+      "checkable": false, 
+      "children": [], 
+      "size": "0*0", 
+      "checked": false, 
+      "temp_id": 57, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.FrameLayout[resource_id]None", 
+      "is_password": false, 
+      "parent": 56, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.FrameLayout", 
+      "scrollable": false, 
+      "package": "com.ironServices.audioBooks", 
+      "long_clickable": false, 
+      "view_str": "a527ffa97b6c67b536322da110bdc3ec", 
+      "enabled": true, 
+      "bounds": [
+        [
+          540, 
+          1794
+        ], 
+        [
+          540, 
+          1794
+        ]
+      ], 
+      "signature": "[class]android.widget.FrameLayout[resource_id]None[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": "android:id/statusBarBackground", 
+      "text": null, 
+      "visible": false, 
+      "checkable": false, 
+      "children": [], 
+      "size": "1080*63", 
+      "checked": false, 
+      "temp_id": 58, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.view.View[resource_id]android:id/statusBarBackground", 
+      "is_password": false, 
+      "parent": 0, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.view.View", 
+      "scrollable": false, 
+      "package": "com.ironServices.audioBooks", 
+      "long_clickable": false, 
+      "view_str": "87653b4f15bed79069ad3e6245f56d6f", 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          0
+        ], 
+        [
+          1080, 
+          63
+        ]
+      ], 
+      "signature": "[class]android.view.View[resource_id]android:id/statusBarBackground[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": "android:id/navigationBarBackground", 
+      "text": null, 
+      "visible": false, 
+      "checkable": false, 
+      "children": [], 
+      "size": "1080*126", 
+      "checked": false, 
+      "temp_id": 59, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.view.View[resource_id]android:id/navigationBarBackground", 
+      "is_password": false, 
+      "parent": 0, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.view.View", 
+      "scrollable": false, 
+      "package": "com.ironServices.audioBooks", 
+      "long_clickable": false, 
+      "view_str": "666174298e7c5bfa1ff26f29bd8e43cd", 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          1794
+        ], 
+        [
+          1080, 
+          1920
+        ]
+      ], 
+      "signature": "[class]android.view.View[resource_id]android:id/navigationBarBackground[text]None[enabled,,]"
+    }
+  ], 
+  "state_str_content_free": "f782abf645be1554e890a14391bbde01", 
+  "activity_stack": [
+    "com.ironServices.audioBooks/.MainActivity"
+  ], 
+  "background_services": [
+    "com.google.android.tts/.service.GoogleTTSService", 
+    "com.google.android.gms/.deviceconnection.service.DeviceConnectionWatcherService", 
+    "com.google.android.gms/com.google.android.location.places.service.PlaceDetectionAsyncService", 
+    "com.android.systemui/.keyguard.KeyguardService", 
+    "com.android.systemui/.ImageWallpaper", 
+    "com.google.android.gms/com.google.android.location.geocode.GeocodeService", 
+    "com.google.android.gms/.auth.setup.devicesignals.LockScreenService", 
+    "com.google.android.gms/.gcm.GcmService", 
+    "com.google.android.gms/.clearcut.debug.ClearcutDebugDumpService", 
+    "com.google.android.gms/.chimera.PersistentApiService", 
+    "com.android.phone/com.android.internal.telephony.CellularNetworkService", 
+    "com.google.android.gms/.chimera.PersistentBoundBrokerService", 
+    "com.ironServices.audioBooks/org.chromium.content.app.SandboxedProcessService0", 
+    "com.google.android.gms/.chimera.GmsBoundBrokerService", 
+    "com.google.android.gms/.fido.fido2.pollux.CableAuthenticatorService", 
+    "com.google.android.googlequicksearchbox/com.google.android.apps.gsa.nowoverlayservice.DrawerOverlayService", 
+    "io.github.ylimit.droidbotapp/.DroidBotIME", 
+    "com.google.android.gms/com.google.android.location.fused.FusedLocationService", 
+    "com.google.android.gms/.gcm.nts.SchedulerService", 
+    "com.google.android.setupwizard/.logging.ScreenOnClock", 
+    "com.android.vending/com.google.android.finsky.deviceconfig.PhoneskyFirebaseMessagingService", 
+    "io.github.ylimit.droidbotapp/io.github.privacystreams.accessibility.PSAccessibilityService", 
+    "com.google.android.gms/com.google.android.location.geofencer.service.GeofenceProviderService", 
+    "com.google.android.gms/.thunderbird.EmergencyPersistentService", 
+    "com.google.android.apps.messaging/.fcm.BugleFirebaseInstanceIDService", 
+    "com.android.systemui/.SystemUIService", 
+    "com.google.android.gms/org.chromium.content.app.SandboxedProcessService0", 
+    "android/.hardware.location.GeofenceHardwareService", 
+    "com.android.se/.SecureElementService", 
+    "com.google.android.gms/.chimera.PersistentDirectBootAwareApiService", 
+    "com.google.android.ext.services/android.ext.services.notification.Assistant", 
+    "com.google.android.gms/.location.persistent.LocationPersistentService", 
+    "com.google.android.gms/com.google.android.location.internal.PendingIntentCallbackService", 
+    "com.google.android.gms/com.google.android.location.internal.server.GoogleLocationService", 
+    "com.google.android.gms/com.google.android.contextmanager.service.ContextManagerService", 
+    "com.google.android.gms/com.google.android.location.network.NetworkLocationService", 
+    "com.google.android.gms/com.google.android.location.internal.GoogleLocationManagerService", 
+    "com.google.android.gms/.ads.cache.CacheBrokerService", 
+    "com.android.phone/com.android.internal.telephony.dataconnection.CellularDataService", 
+    "com.android.server.telecom/.components.TelecomService", 
+    "com.google.android.googlequicksearchbox/com.google.android.voiceinteraction.GsaVoiceInteractionService", 
+    "com.android.smspush/.WapPushManager", 
+    "com.android.phone/.vvm.RemoteVvmTaskManager", 
+    "android/com.android.server.content.SyncJobService", 
+    "com.google.android.gms/.common.stats.GmsCoreStatsService", 
+    "com.google.android.gms/com.google.android.location.internal.server.HardwareArProviderService", 
+    "com.google.android.gm/com.google.firebase.iid.FirebaseInstanceIdService", 
+    "com.android.phone/.TelephonyDebugService", 
+    "com.google.android.videos/.service.pinning.TransferService", 
+    "com.google.android.apps.messaging/.shared.datamodel.action.ActionExecutorImpl", 
+    "com.google.android.apps.nexuslauncher/com.android.quickstep.TouchInteractionService"
+  ], 
+  "state_str": "d87b9f82e03b5a5fc4319cab99c003a2", 
+  "tag": "2020-03-04_192807", 
+  "foreground_activity": "com.ironServices.audioBooks/.MainActivity"
+}

@@ -1,0 +1,6 @@
+6548ZZZrun:org.apache.cordova.splashscreen.SplashScreen$6:virtualinvoke $r5.<android.widget.ProgressBar: void setLayoutParams(android.view.ViewGroup$LayoutParams)>($r4)
+-1ZZZrun:org.apache.cordova.splashscreen.SplashScreen$6:$r4 = new android.widget.RelativeLayout$LayoutParams
+-1ZZZrun:org.apache.cordova.splashscreen.SplashScreen$6:$r5 = new android.widget.ProgressBar
+6516ZZZrun:org.apache.cordova.splashscreen.SplashScreen$6:specialinvoke $r11.<org.apache.cordova.splashscreen.SplashScreen$6$1: void <init>(org.apache.cordova.splashscreen.SplashScreen$6)>($r0)
+-1ZZZrun:org.apache.cordova.splashscreen.SplashScreen$6:$r0 := @this: org.apache.cordova.splashscreen.SplashScreen$6
+-1ZZZrun:org.apache.cordova.splashscreen.SplashScreen$6:$r11 = new org.apache.cordova.splashscreen.SplashScreen$6$1

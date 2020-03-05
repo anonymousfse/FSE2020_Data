@@ -1,0 +1,48 @@
+{
+  "stop_state": "0c197e1c3d2949e907c86a84e4f1895c", 
+  "event_str": "TouchEvent(state=89368db7dc77155fa832fc40613dfef5, view=ef754917a6b4d98f75d1dab809c1f29a)", 
+  "tag": "2020-03-04_185359", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "event_type": "touch", 
+    "view": {
+      "content_description": null, 
+      "resource_id": "webexplorer.amazing.speed:id/arrow", 
+      "text": null, 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "66*66", 
+      "checked": false, 
+      "temp_id": 21, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.ImageView[resource_id]webexplorer.amazing.speed:id/arrow", 
+      "is_password": false, 
+      "parent": 20, 
+      "focusable": true, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": true, 
+      "class": "android.widget.ImageView", 
+      "scrollable": false, 
+      "package": "webexplorer.amazing.speed", 
+      "long_clickable": false, 
+      "view_str": "ef754917a6b4d98f75d1dab809c1f29a", 
+      "enabled": true, 
+      "bounds": [
+        [
+          27, 
+          180
+        ], 
+        [
+          93, 
+          246
+        ]
+      ], 
+      "signature": "[class]android.widget.ImageView[resource_id]webexplorer.amazing.speed:id/arrow[text]None[enabled,,]"
+    }
+  }, 
+  "start_state": "89368db7dc77155fa832fc40613dfef5"
+}

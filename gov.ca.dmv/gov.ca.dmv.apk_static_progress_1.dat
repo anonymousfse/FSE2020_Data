@@ -1,0 +1,6 @@
+101926ZZZprogressBarUpdate:gov.ca.dmv.online.OnlineWebView:virtualinvoke $r1.<android.widget.ProgressBar: void setVisibility(int)>(0)
+-1ZZZprogressBarUpdate:gov.ca.dmv.online.OnlineWebView:$r1 = $r0.<gov.ca.dmv.online.OnlineWebView: android.widget.ProgressBar progressBar>
+-1ZZZprogressBarUpdate:gov.ca.dmv.online.OnlineWebView:$r0 := @this: gov.ca.dmv.online.OnlineWebView
+101851ZZZonLayout:android.support.v7.widget.Toolbar:specialinvoke $r0.<android.support.v7.widget.Toolbar: void addCustomViewsWithGravity(java.util.List,int)>($r11, 3)
+-1ZZZonLayout:android.support.v7.widget.Toolbar:$r11 = $r0.<android.support.v7.widget.Toolbar: java.util.ArrayList mTempViews>
+-1ZZZonLayout:android.support.v7.widget.Toolbar:$r0 := @this: android.support.v7.widget.Toolbar

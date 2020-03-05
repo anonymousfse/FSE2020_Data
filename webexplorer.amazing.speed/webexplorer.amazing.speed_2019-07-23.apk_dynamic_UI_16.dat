@@ -1,0 +1,4 @@
+97018ZZZexecuteOnObserverThread:com.anthonycr.bonsai.Observable:$r2 = $r0.<com.anthonycr.bonsai.Observable: com.anthonycr.bonsai.Scheduler mObserverThread>
+97041ZZZonPostExecute:acr.browser.lightning.async.DownloadUrlImageTask:$r2 = (android.graphics.Bitmap) $r1
+97020ZZZexecuteOnObserverThread:com.anthonycr.bonsai.Observable:$r2 = $r0.<com.anthonycr.bonsai.Observable: com.anthonycr.bonsai.Scheduler mObserverThread>
+97047ZZZonPostExecute:acr.browser.lightning.async.DownloadUrlImageTask:$r3 = $r0.<acr.browser.lightning.async.DownloadUrlImageTask: android.widget.ImageView bmImage>

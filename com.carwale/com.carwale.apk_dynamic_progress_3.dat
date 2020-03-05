@@ -1,0 +1,5 @@
+67693ZZZgetGroupView:com.carwale.carwale.adapters.o:$r8 = virtualinvoke $r2.<android.view.View: android.view.View findViewById(int)>(2131756158)
+67691ZZZgetGroupView:com.carwale.carwale.adapters.o:$r8 = virtualinvoke $r2.<android.view.View: android.view.View findViewById(int)>(2131756159)
+67493ZZZonResume:com.carwale.carwale.activities.newcars.ActivityModelDetails:$r2 = $r0.<com.carwale.carwale.activities.newcars.ActivityModelDetails: android.content.BroadcastReceiver bH>
+67689ZZZgetGroupView:com.carwale.carwale.adapters.o:$r8 = virtualinvoke $r2.<android.view.View: android.view.View findViewById(int)>(2131756157)
+67491ZZZonResume:com.carwale.carwale.activities.newcars.ActivityModelDetails:$r2 = $r0.<com.carwale.carwale.activities.newcars.ActivityModelDetails: android.content.BroadcastReceiver bH>

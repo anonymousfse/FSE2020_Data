@@ -1,0 +1,4 @@
+379575ZZZw:org.rferl.ui.slidingmenu.SlidingMenuFragment:$r4 = virtualinvoke $r0.<org.rferl.ui.slidingmenu.SlidingMenuFragment: java.lang.String getString(int)>(2131165264)
+379578ZZZa:org.rferl.ui.slidingmenu.SlidingMenuFragment:$r2 = (android.widget.TextView) $r0
+379302ZZZa:org.rferl.ui.fragment.HeadlinesAdapter:$r3 = new ajx
+379299ZZZbuildComplete:org.rferl.ui.fragment.HeadlinesAdapter:$r1 = $r0.<org.rferl.ui.fragment.HeadlinesAdapter: org.rferl.app.HeadlinesCache$HeadlinesHolder a>

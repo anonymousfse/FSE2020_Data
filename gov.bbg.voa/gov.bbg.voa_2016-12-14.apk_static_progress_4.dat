@@ -1,0 +1,29 @@
+185421ZZZsetCustomProgress:org.rferl.ui.activity.BaseActivity:virtualinvoke $r1.<android.widget.ProgressBar: void setProgress(int)>($i0)
+-1ZZZsetCustomProgress:org.rferl.ui.activity.BaseActivity:$i0 := @parameter0: int
+-1ZZZsetCustomProgress:org.rferl.ui.activity.BaseActivity:$r1 = $r0.<org.rferl.ui.activity.BaseActivity: android.widget.ProgressBar d>
+-1ZZZsetCustomProgress:org.rferl.ui.activity.BaseActivity:$r0 := @this: org.rferl.ui.activity.BaseActivity
+185417ZZZonReceive:agm:virtualinvoke $r3.<org.rferl.ui.activity.HomeActivity: void setCustomProgress(int)>($i0)
+-1ZZZonReceive:agm:$i0 = (int) $d0
+-1ZZZonReceive:agm:$r3 = $r0.<agm: org.rferl.ui.activity.HomeActivity a>
+-1ZZZonReceive:agm:$d0 = (double) $f0
+-1ZZZonReceive:agm:$d0 = 0.9 * $d0
+-1ZZZonReceive:agm:$d0 = 0.1 + $d0
+-1ZZZonReceive:agm:$d0 = 100.0 * $d0
+-1ZZZonReceive:agm:$r0 := @this: agm
+-1ZZZonReceive:agm:$f0 = virtualinvoke $r2.<android.content.Intent: float getFloatExtra(java.lang.String,float)>("paramProgress", 0.0F)
+-1ZZZonReceive:agm:$r2 := @parameter1: android.content.Intent
+185379ZZZonMeasure:org.rferl.ui.widget.FontableTextView:specialinvoke $r0.<android.widget.TextView: void onMeasure(int,int)>($i0, $i1)
+-1ZZZonMeasure:org.rferl.ui.widget.FontableTextView:$i0 := @parameter0: int
+-1ZZZonMeasure:org.rferl.ui.widget.FontableTextView:$i0 = virtualinvoke $r1.<android.text.TextPaint: int getFontMetricsInt(android.graphics.Paint$FontMetricsInt)>(null)
+-1ZZZonMeasure:org.rferl.ui.widget.FontableTextView:$i0 = virtualinvoke $r0.<org.rferl.ui.widget.FontableTextView: int getMeasuredWidth()>()
+-1ZZZonMeasure:org.rferl.ui.widget.FontableTextView:$i1 := @parameter1: int
+-1ZZZonMeasure:org.rferl.ui.widget.FontableTextView:$i1 = virtualinvoke $r0.<org.rferl.ui.widget.FontableTextView: int getLineHeight()>()
+-1ZZZonMeasure:org.rferl.ui.widget.FontableTextView:$i1 = $i0 - $i1
+-1ZZZonMeasure:org.rferl.ui.widget.FontableTextView:$i1 = $i1 + $i2
+-1ZZZonMeasure:org.rferl.ui.widget.FontableTextView:$r0 := @this: org.rferl.ui.widget.FontableTextView
+-1ZZZonMeasure:org.rferl.ui.widget.FontableTextView:$r1 = virtualinvoke $r0.<org.rferl.ui.widget.FontableTextView: android.text.TextPaint getPaint()>()
+-1ZZZonMeasure:org.rferl.ui.widget.FontableTextView:$i2 = virtualinvoke $r0.<org.rferl.ui.widget.FontableTextView: int getMeasuredHeight()>()
+185343ZZZa:adh:$r2 = staticinvoke <org.rferl.app.HeadlinesCache: android.content.Context a(org.rferl.app.HeadlinesCache)>($r1)
+-1ZZZa:adh:$r1 = $r0.<adh: org.rferl.app.HeadlinesCache j>
+-1ZZZa:adh:$r2 = staticinvoke <org.rferl.app.HeadlinesCache: android.content.Context a(org.rferl.app.HeadlinesCache)>($r1)
+-1ZZZa:adh:$r0 := @this: adh

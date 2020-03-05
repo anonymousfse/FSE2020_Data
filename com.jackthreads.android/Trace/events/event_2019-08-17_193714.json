@@ -1,0 +1,48 @@
+{
+  "stop_state": "e0fa333d1d5ee9db17a122b90be0e37f", 
+  "event_str": "TouchEvent(state=ebdda869c4bf639ea018d92acef2cdcc, view=c682661ca0058833cf783e64d8b56672)", 
+  "tag": "2019-08-17_193714", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "event_type": "touch", 
+    "view": {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": "JACKTHREADS The Daily Tee 2.0 $18.00 2 FOR $30", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "3*2", 
+      "checked": false, 
+      "temp_id": 116, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.view.View[resource_id]None", 
+      "is_password": false, 
+      "parent": 113, 
+      "focusable": true, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": true, 
+      "class": "android.view.View", 
+      "scrollable": false, 
+      "package": "com.jackthreads.android", 
+      "long_clickable": false, 
+      "view_str": "c682661ca0058833cf783e64d8b56672", 
+      "enabled": true, 
+      "bounds": [
+        [
+          1039, 
+          1792
+        ], 
+        [
+          1042, 
+          1794
+        ]
+      ], 
+      "signature": "[class]android.view.View[resource_id]None[text]JACKTHREADS The Daily Tee 2.0 $18.00 2 FOR $30[enabled,,]"
+    }
+  }, 
+  "start_state": "ebdda869c4bf639ea018d92acef2cdcc"
+}

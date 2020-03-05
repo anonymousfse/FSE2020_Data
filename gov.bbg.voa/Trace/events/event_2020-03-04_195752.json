@@ -1,0 +1,49 @@
+{
+  "stop_state": "3ef92bef34d509f6ec49062db1a95369", 
+  "event_str": "LongTouchEvent(state=3ef92bef34d509f6ec49062db1a95369, view=07424fca80c333d2e611269442733615, duration=2000)", 
+  "tag": "2020-03-04_195752", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "duration": 2000, 
+    "event_type": "long_touch", 
+    "view": {
+      "content_description": null, 
+      "resource_id": "gov.bbg.voa:id/f_simple_article_content", 
+      "text": "\u12e8\u1203\u12cb\u1233 \u12a8\u1270\u121b \u12a0\u1235\u1270\u12f3\u12f0\u122d \u1356\u120a\u1235 \u1218\u121d\u122a\u12eb \u12e8\u12a8\u1270\u121b\u12cd \u1340\u1325\u1273\u1293 \u1230\u120b\u121d \u12a0\u1235\u1270\u121b\u121b\u129d \u1208\u121b\u12f5\u1228\u130d \u12e8\u12c8\u1295\u1300\u120d \u1218\u12a8\u120b\u12a8\u120d \u1225\u120d\u1275\u1293 \u12e8\u1225\u121d\u122a\u1275 \u1225\u122d\u12d3\u1275 \u1260\u1218\u1240\u12e8\u122d \u12c8\u1295\u1300\u1208\u129e\u127d\u1295 \u1260\u1241\u1325\u1325\u122d \u1225\u122d \u12a5\u12eb\u12cb\u1208 \u1218\u1206\u1291\u1295 \u12a0\u1235\u1273\u12c8\u1240\u1362\n\n\u1356\u120a\u1235 \u12db\u122c \u1263\u12c8\u1323\u12cd \u1218\u130d\u1208\u132b \u1270\u123d\u12a8\u122d\u12ab\u122a\u12ce\u127d\u1295 \u132d\u121d\u122d \u1230\u1228\u1240\u12cb\u120d \u12eb\u120b\u1278\u12cd\u1295 \u12e8\u1270\u1208\u12eb\u12e9 \u12c8\u1295\u1300\u1208\u129e\u127d \u121b\u1230\u1229\u1295\u1293 \u201c\u12e8\u12a2\u1275\u12ee\u1335\u12eb \u1308\u1295\u12d8\u1265 \u12a0\u1273\u121a \u1290\u129d\u201d \u12ed\u120b\u120d \u12eb\u1209\u1275 \u12dc\u130d\u1290\u1271 \u12a2\u1275\u12ee\u1335\u12eb\u12ca \u12eb\u120d\u1206\u1290 \u12a0\u1295\u12f5 \u130d\u1208\u1230\u1265 \u12a8\u1205\u1308\u12c8\u1325 \u1308\u1295\u12d8\u1265 \u121b\u1270\u121a\u12eb \u1218\u1233\u122a\u12eb \u130b\u122d \u1218\u12eb\u12d9\u1295 \u1308\u120d\u133f\u120d\u1362\n\n\u1208\u1270\u1328\u121b\u122a \u12e8\u1270\u12eb\u12eb\u12d8\u12cd\u1295 \u12e8\u12f5\u121d\u1345 \u134b\u12ed\u120d \u12eb\u12f3\u121d\u1321\u1362\n\n\n\u00a0\n\n", 
+      "visible": false, 
+      "checkable": false, 
+      "children": [], 
+      "size": "0*317", 
+      "checked": false, 
+      "temp_id": 58, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.TextView[resource_id]gov.bbg.voa:id/f_simple_article_content", 
+      "is_password": false, 
+      "parent": 43, 
+      "focusable": true, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": true, 
+      "class": "android.widget.TextView", 
+      "scrollable": false, 
+      "package": "gov.bbg.voa", 
+      "long_clickable": true, 
+      "view_str": "07424fca80c333d2e611269442733615", 
+      "enabled": true, 
+      "bounds": [
+        [
+          1080, 
+          1217
+        ], 
+        [
+          1080, 
+          1534
+        ]
+      ], 
+      "signature": "[class]android.widget.TextView[resource_id]gov.bbg.voa:id/f_simple_article_content[text]None[enabled,,]"
+    }
+  }, 
+  "start_state": "3ef92bef34d509f6ec49062db1a95369"
+}

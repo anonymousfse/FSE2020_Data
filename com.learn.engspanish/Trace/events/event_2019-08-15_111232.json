@@ -1,0 +1,48 @@
+{
+  "stop_state": "bd1e16dde44f032748be7d1136882847", 
+  "event_str": "TouchEvent(state=bd1e16dde44f032748be7d1136882847, view=0652d6feac8ca59569625e2fa14abc86)", 
+  "tag": "2019-08-15_111232", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "event_type": "touch", 
+    "view": {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": "Translator and Learn English", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "1029*132", 
+      "checked": false, 
+      "temp_id": 7, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.TextView[resource_id]None", 
+      "is_password": false, 
+      "parent": 5, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.TextView", 
+      "scrollable": false, 
+      "package": "com.learn.engspanish", 
+      "long_clickable": false, 
+      "view_str": "0652d6feac8ca59569625e2fa14abc86", 
+      "enabled": true, 
+      "bounds": [
+        [
+          25, 
+          1246
+        ], 
+        [
+          1054, 
+          1378
+        ]
+      ], 
+      "signature": "[class]android.widget.TextView[resource_id]None[text]Translator and Learn English[enabled,,]"
+    }
+  }, 
+  "start_state": "bd1e16dde44f032748be7d1136882847"
+}

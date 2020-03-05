@@ -1,0 +1,9 @@
+93328ZZZonReceive:agm:$d0 = 0.1 + $d0
+93332ZZZsetCustomProgress:org.rferl.ui.activity.BaseActivity:$r1 = $r0.<org.rferl.ui.activity.BaseActivity: android.widget.ProgressBar d>
+93324ZZZonReceive:agm:$f0 = virtualinvoke $r2.<android.content.Intent: float getFloatExtra(java.lang.String,float)>("paramProgress", 0.0F)
+93330ZZZonReceive:agm:$i0 = (int) $d0
+93329ZZZonReceive:agm:$d0 = 100.0 * $d0
+93327ZZZonReceive:agm:$d0 = 0.9 * $d0
+93325ZZZonReceive:agm:$r3 = $r0.<agm: org.rferl.ui.activity.HomeActivity a>
+93334ZZZsetCustomProgress:org.rferl.ui.activity.BaseActivity:$r1 = $r0.<org.rferl.ui.activity.BaseActivity: android.widget.ProgressBar d>
+93326ZZZonReceive:agm:$d0 = (double) $f0

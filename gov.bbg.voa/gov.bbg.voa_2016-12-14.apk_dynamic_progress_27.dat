@@ -1,0 +1,6 @@
+16007ZZZinitActionBarButtons:org.rferl.ui.activity.BaseActivity:$r4 = $r0.<org.rferl.ui.activity.BaseActivity: android.widget.ProgressBar d>
+16000ZZZinitActionBarButtons:org.rferl.ui.activity.BaseActivity:$r2 = virtualinvoke $r1.<android.support.v7.app.ActionBar: android.view.View getCustomView()>()
+16005ZZZinitActionBarButtons:org.rferl.ui.activity.BaseActivity:$r4 = $r0.<org.rferl.ui.activity.BaseActivity: android.widget.ProgressBar d>
+15999ZZZinitActionBarButtons:org.rferl.ui.activity.BaseActivity:$r1 = virtualinvoke $r0.<org.rferl.ui.activity.BaseActivity: android.support.v7.app.ActionBar getSupportActionBar()>()
+16003ZZZinitActionBarButtons:org.rferl.ui.activity.BaseActivity:$r4 = (android.widget.ProgressBar) $r3
+16002ZZZinitActionBarButtons:org.rferl.ui.activity.BaseActivity:$r3 = virtualinvoke $r2.<android.view.View: android.view.View findViewById(int)>(2131624085)

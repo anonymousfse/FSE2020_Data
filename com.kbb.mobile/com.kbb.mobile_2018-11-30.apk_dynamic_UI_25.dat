@@ -1,0 +1,9 @@
+80029ZZZOnPostExecute:com.kbb.mobile.ActivityNewCarHub:$r3 = (com.kbb.mobile.Business.Dealers) $r1
+80041ZZZinformPagesThatDealersHaveBeenFetch:com.kbb.mobile.ActivityNewCarHub:$r4 = interfaceinvoke $r3.<java.util.Iterator: java.lang.Object next()>()
+80045ZZZinformPagesThatDealersHaveBeenFetch:com.kbb.mobile.ActivityNewCarHub:$r6 = (com.kbb.mobile.views.hub.NeedDealers) $r5
+80036ZZZinformPagesThatDealersHaveBeenFetch:com.kbb.mobile.ActivityNewCarHub:$r5 = (com.kbb.mobile.views.hub.CarHub) $r4
+80035ZZZinformPagesThatDealersHaveBeenFetch:com.kbb.mobile.ActivityNewCarHub:$r4 = interfaceinvoke $r3.<java.util.Iterator: java.lang.Object next()>()
+80031ZZZinformPagesThatDealersHaveBeenFetch:com.kbb.mobile.ActivityNewCarHub:$r2 = $r0.<com.kbb.mobile.ActivityNewCarHub: java.util.ArrayList pages>
+80032ZZZinformPagesThatDealersHaveBeenFetch:com.kbb.mobile.ActivityNewCarHub:$r3 = virtualinvoke $r2.<java.util.ArrayList: java.util.Iterator iterator()>()
+80051ZZZfetched:com.kbb.mobile.views.hub.CarHubValueNew:$r2 = $r0.<com.kbb.mobile.views.hub.CarHubValueNew: android.widget.Button button>
+80042ZZZinformPagesThatDealersHaveBeenFetch:com.kbb.mobile.ActivityNewCarHub:$r5 = (com.kbb.mobile.views.hub.CarHub) $r4

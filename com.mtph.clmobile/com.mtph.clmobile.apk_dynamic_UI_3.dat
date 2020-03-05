@@ -1,0 +1,5 @@
+71049ZZZgetDrawable:android.support.v7.widget.AppCompatDrawableManager:$r3 = $r2
+71034ZZZsetImageResource:android.support.v7.widget.AppCompatImageHelper:$r1 = $r0.<android.support.v7.widget.AppCompatImageHelper: android.widget.ImageView mView>
+71301ZZZsetImageResource:android.support.v7.widget.AppCompatImageHelper:$r1 = $r0.<android.support.v7.widget.AppCompatImageHelper: android.widget.ImageView mView>
+71035ZZZsetImageResource:android.support.v7.widget.AppCompatImageHelper:$r2 = virtualinvoke $r1.<android.widget.ImageView: android.content.Context getContext()>()
+71029ZZZsetup:com.clmobile.MainActivity:$r7 = $r0.<com.clmobile.MainActivity: android.widget.ImageView ivFavourite>

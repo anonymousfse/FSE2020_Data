@@ -1,0 +1,278 @@
+Activity Resolver Table:
+  Full MIME Types:
+      audio/*:
+        f822ff5 gov.bbg.voa/org.rferl.ui.activity.upload.UploadActivity filter b7e6b3f
+          Action: "android.intent.action.SEND"
+          Category: "android.intent.category.DEFAULT"
+          Type: "text/plain"
+          Type: "image"
+          Type: "video"
+          Type: "audio"
+          mPriority=0, mOrder=0, mHasPartialTypes=true
+      video/*:
+        f822ff5 gov.bbg.voa/org.rferl.ui.activity.upload.UploadActivity filter b7e6b3f
+          Action: "android.intent.action.SEND"
+          Category: "android.intent.category.DEFAULT"
+          Type: "text/plain"
+          Type: "image"
+          Type: "video"
+          Type: "audio"
+          mPriority=0, mOrder=0, mHasPartialTypes=true
+      text/plain:
+        f822ff5 gov.bbg.voa/org.rferl.ui.activity.upload.UploadActivity filter b7e6b3f
+          Action: "android.intent.action.SEND"
+          Category: "android.intent.category.DEFAULT"
+          Type: "text/plain"
+          Type: "image"
+          Type: "video"
+          Type: "audio"
+          mPriority=0, mOrder=0, mHasPartialTypes=true
+      image/*:
+        f822ff5 gov.bbg.voa/org.rferl.ui.activity.upload.UploadActivity filter b7e6b3f
+          Action: "android.intent.action.SEND"
+          Category: "android.intent.category.DEFAULT"
+          Type: "text/plain"
+          Type: "image"
+          Type: "video"
+          Type: "audio"
+          mPriority=0, mOrder=0, mHasPartialTypes=true
+
+  Base MIME Types:
+      text:
+        f822ff5 gov.bbg.voa/org.rferl.ui.activity.upload.UploadActivity filter b7e6b3f
+          Action: "android.intent.action.SEND"
+          Category: "android.intent.category.DEFAULT"
+          Type: "text/plain"
+          Type: "image"
+          Type: "video"
+          Type: "audio"
+          mPriority=0, mOrder=0, mHasPartialTypes=true
+
+  Wild MIME Types:
+      audio:
+        f822ff5 gov.bbg.voa/org.rferl.ui.activity.upload.UploadActivity filter b7e6b3f
+          Action: "android.intent.action.SEND"
+          Category: "android.intent.category.DEFAULT"
+          Type: "text/plain"
+          Type: "image"
+          Type: "video"
+          Type: "audio"
+          mPriority=0, mOrder=0, mHasPartialTypes=true
+      image:
+        f822ff5 gov.bbg.voa/org.rferl.ui.activity.upload.UploadActivity filter b7e6b3f
+          Action: "android.intent.action.SEND"
+          Category: "android.intent.category.DEFAULT"
+          Type: "text/plain"
+          Type: "image"
+          Type: "video"
+          Type: "audio"
+          mPriority=0, mOrder=0, mHasPartialTypes=true
+      video:
+        f822ff5 gov.bbg.voa/org.rferl.ui.activity.upload.UploadActivity filter b7e6b3f
+          Action: "android.intent.action.SEND"
+          Category: "android.intent.category.DEFAULT"
+          Type: "text/plain"
+          Type: "image"
+          Type: "video"
+          Type: "audio"
+          mPriority=0, mOrder=0, mHasPartialTypes=true
+
+  Non-Data Actions:
+      android.intent.action.MAIN:
+        189418a gov.bbg.voa/org.rferl.ui.activity.MainActivity filter 48cb1e0
+          Action: "android.intent.action.MAIN"
+          Category: "android.intent.category.LAUNCHER"
+      com.testpackage.permissiontestclient.MyAction:
+        189418a gov.bbg.voa/org.rferl.ui.activity.MainActivity filter 15a2c99
+          Action: "com.testpackage.permissiontestclient.MyAction"
+          Category: "android.intent.category.DEFAULT"
+      android.appwidget.action.APPWIDGET_CONFIGURE:
+        42523fb gov.bbg.voa/org.rferl.homescreenwidget.HomescreenWidgetConfigurationActivity filter 451cb5e
+          Action: "android.appwidget.action.APPWIDGET_CONFIGURE"
+
+  MIME Typed Actions:
+      android.intent.action.SEND:
+        f822ff5 gov.bbg.voa/org.rferl.ui.activity.upload.UploadActivity filter b7e6b3f
+          Action: "android.intent.action.SEND"
+          Category: "android.intent.category.DEFAULT"
+          Type: "text/plain"
+          Type: "image"
+          Type: "video"
+          Type: "audio"
+          mPriority=0, mOrder=0, mHasPartialTypes=true
+
+Receiver Resolver Table:
+  Non-Data Actions:
+      org.rferl.homescreenwidget.REFRESH:
+        3e8fc18 gov.bbg.voa/org.rferl.homescreenwidget.HomescreenWidgetProvider filter 89cf39d
+          Action: "android.appwidget.action.APPWIDGET_UPDATE"
+          Action: "android.appwidget.action.APPWIDGET_ENABLED"
+          Action: "android.appwidget.action.APPWIDGET_DELETED"
+          Action: "android.appwidget.action.APPWIDGET_DISABLED"
+          Action: "org.rferl.homescreenwidget.REFRESH"
+      android.media.AUDIO_BECOMING_NOISY:
+        992d671 gov.bbg.voa/org.rferl.remote.MusicIntentReceiver filter 57bc012
+          Action: "android.media.AUDIO_BECOMING_NOISY"
+      com.google.android.c2dm.intent.RECEIVE:
+        d41ec56 gov.bbg.voa/org.rferl.receiver.GCMReceiver filter 5427a47
+          Action: "com.google.android.c2dm.intent.RECEIVE"
+          Action: "com.google.android.c2dm.intent.REGISTRATION"
+          Category: "gov.bbg.voa"
+      android.appwidget.action.APPWIDGET_DELETED:
+        3e8fc18 gov.bbg.voa/org.rferl.homescreenwidget.HomescreenWidgetProvider filter 89cf39d
+          Action: "android.appwidget.action.APPWIDGET_UPDATE"
+          Action: "android.appwidget.action.APPWIDGET_ENABLED"
+          Action: "android.appwidget.action.APPWIDGET_DELETED"
+          Action: "android.appwidget.action.APPWIDGET_DISABLED"
+          Action: "org.rferl.homescreenwidget.REFRESH"
+      android.appwidget.action.APPWIDGET_DISABLED:
+        3e8fc18 gov.bbg.voa/org.rferl.homescreenwidget.HomescreenWidgetProvider filter 89cf39d
+          Action: "android.appwidget.action.APPWIDGET_UPDATE"
+          Action: "android.appwidget.action.APPWIDGET_ENABLED"
+          Action: "android.appwidget.action.APPWIDGET_DELETED"
+          Action: "android.appwidget.action.APPWIDGET_DISABLED"
+          Action: "org.rferl.homescreenwidget.REFRESH"
+      android.intent.action.BOOT_COMPLETED:
+        b9804d7 gov.bbg.voa/org.rferl.receiver.BootReceiver filter 879e274
+          Action: "android.intent.action.BOOT_COMPLETED"
+      android.appwidget.action.APPWIDGET_ENABLED:
+        3e8fc18 gov.bbg.voa/org.rferl.homescreenwidget.HomescreenWidgetProvider filter 89cf39d
+          Action: "android.appwidget.action.APPWIDGET_UPDATE"
+          Action: "android.appwidget.action.APPWIDGET_ENABLED"
+          Action: "android.appwidget.action.APPWIDGET_DELETED"
+          Action: "android.appwidget.action.APPWIDGET_DISABLED"
+          Action: "org.rferl.homescreenwidget.REFRESH"
+      android.appwidget.action.APPWIDGET_UPDATE:
+        3e8fc18 gov.bbg.voa/org.rferl.homescreenwidget.HomescreenWidgetProvider filter 89cf39d
+          Action: "android.appwidget.action.APPWIDGET_UPDATE"
+          Action: "android.appwidget.action.APPWIDGET_ENABLED"
+          Action: "android.appwidget.action.APPWIDGET_DELETED"
+          Action: "android.appwidget.action.APPWIDGET_DISABLED"
+          Action: "org.rferl.homescreenwidget.REFRESH"
+      com.google.android.c2dm.intent.REGISTRATION:
+        d41ec56 gov.bbg.voa/org.rferl.receiver.GCMReceiver filter 5427a47
+          Action: "com.google.android.c2dm.intent.RECEIVE"
+          Action: "com.google.android.c2dm.intent.REGISTRATION"
+          Category: "gov.bbg.voa"
+      android.intent.action.MEDIA_BUTTON:
+        992d671 gov.bbg.voa/org.rferl.remote.MusicIntentReceiver filter a2273e3
+          Action: "android.intent.action.MEDIA_BUTTON"
+
+Service Resolver Table:
+  Non-Data Actions:
+      android.net.VpnService:
+        67dc1c4 gov.bbg.voa/com.psiphon3.psiphonlibrary.TunnelService filter 5401186 permission android.permission.BIND_VPN_SERVICE
+          Action: "android.net.VpnService"
+
+Permissions:
+  Permission [gov.bbg.voa.permission.C2D_MESSAGE] (62d68ad):
+    sourcePackage=gov.bbg.voa
+    uid=10511 gids=null type=0 prot=signature
+    perm=Permission{a0877e2 gov.bbg.voa.permission.C2D_MESSAGE}
+    packageSetting=PackageSetting{4ee1773 gov.bbg.voa/10511}
+
+Permissions:
+  Permission [gov.bbg.voa.permission.SIGNATURE] (a773630):
+    sourcePackage=gov.bbg.voa
+    uid=10511 gids=null type=0 prot=signature
+    perm=Permission{64e2a9 gov.bbg.voa.permission.SIGNATURE}
+    packageSetting=PackageSetting{4ee1773 gov.bbg.voa/10511}
+
+Registered ContentProviders:
+  gov.bbg.voa/org.rferl.provider.Provider:
+    Provider{fba302e gov.bbg.voa/org.rferl.provider.Provider}
+
+ContentProvider Authorities:
+  [gov.bbg.voa.news]:
+    Provider{fba302e gov.bbg.voa/org.rferl.provider.Provider}
+      applicationInfo=ApplicationInfo{e88b7cf gov.bbg.voa}
+
+Key Set Manager:
+  [gov.bbg.voa]
+      Signing KeySets: 323
+
+Packages:
+  Package [gov.bbg.voa] (4ee1773):
+    userId=10511
+    pkg=Package{151855c gov.bbg.voa}
+    codePath=/data/app/gov.bbg.voa-RcLIthtCstEK66pnAHMJDQ==
+    resourcePath=/data/app/gov.bbg.voa-RcLIthtCstEK66pnAHMJDQ==
+    legacyNativeLibraryDir=/data/app/gov.bbg.voa-RcLIthtCstEK66pnAHMJDQ==/lib
+    primaryCpuAbi=x86
+    secondaryCpuAbi=null
+    versionCode=33004 minSdk=10 targetSdk=23
+    versionName=3.3.1
+    splits=[base]
+    apkSigningVersion=1
+    applicationInfo=ApplicationInfo{e88b7cf gov.bbg.voa}
+    flags=[ HAS_CODE ALLOW_CLEAR_USER_DATA ALLOW_BACKUP LARGE_HEAP ]
+    dataDir=/data/user/0/gov.bbg.voa
+    supportsScreens=[small, medium, large, xlarge, resizeable, anyDensity]
+    usesLibraries:
+      org.apache.http.legacy
+    usesLibraryFiles:
+      /system/framework/org.apache.http.legacy.boot.jar
+    timeStamp=2020-03-05 03:57:15
+    firstInstallTime=2020-03-05 03:57:16
+    lastUpdateTime=2020-03-05 03:57:16
+    signatures=PackageSignatures{7800065 version:1, signatures:[85875eff], past signatures:[]}
+    installPermissionsFixed=true
+    pkgFlags=[ HAS_CODE ALLOW_CLEAR_USER_DATA ALLOW_BACKUP LARGE_HEAP ]
+    declared permissions:
+      gov.bbg.voa.permission.C2D_MESSAGE: prot=signature, INSTALLED
+      gov.bbg.voa.permission.SIGNATURE: prot=signature, INSTALLED
+    requested permissions:
+      gov.bbg.voa.permission.C2D_MESSAGE
+      gov.bbg.voa.permission.SIGNATURE
+      android.permission.INTERNET
+      android.permission.ACCESS_NETWORK_STATE
+      android.permission.BLUETOOTH
+      android.permission.BROADCAST_STICKY
+      android.permission.VIBRATE
+      android.permission.RECEIVE_BOOT_COMPLETED
+      android.permission.WRITE_EXTERNAL_STORAGE
+      android.permission.CAMERA
+      android.permission.RECORD_AUDIO
+      android.permission.WAKE_LOCK
+      com.google.android.c2dm.permission.RECEIVE
+      android.permission.GET_ACCOUNTS
+      android.permission.READ_EXTERNAL_STORAGE
+    install permissions:
+      com.google.android.c2dm.permission.RECEIVE: granted=true
+      android.permission.RECEIVE_BOOT_COMPLETED: granted=true
+      android.permission.BLUETOOTH: granted=true
+      android.permission.INTERNET: granted=true
+      android.permission.BROADCAST_STICKY: granted=true
+      android.permission.ACCESS_NETWORK_STATE: granted=true
+      android.permission.VIBRATE: granted=true
+      gov.bbg.voa.permission.C2D_MESSAGE: granted=true
+      gov.bbg.voa.permission.SIGNATURE: granted=true
+      android.permission.WAKE_LOCK: granted=true
+    User 0: ceDataInode=-4294835966 installed=true hidden=false suspended=false stopped=true notLaunched=true enabled=0 instant=false virtual=false
+      gids=[3002, 3003]
+      runtime permissions:
+
+Package Changes:
+  Sequence number=35
+  User 0:
+    seq=10, package=com.google.android.gms
+    seq=11, package=com.google.android.syncadapters.contacts
+    seq=15, package=com.WanApps.allamaiqbalshayari
+    seq=18, package=com.google.android.setupwizard
+    seq=20, package=com.ironServices.audioBooks
+    seq=26, package=gov.ca.dmv
+    seq=27, package=com.google.android.apps.maps
+    seq=32, package=com.mtph.clmobile
+    seq=33, package=io.github.ylimit.droidbotapp
+    seq=34, package=gov.bbg.voa
+
+
+Dexopt state:
+  [gov.bbg.voa]
+    path: /data/app/gov.bbg.voa-RcLIthtCstEK66pnAHMJDQ==/base.apk
+      x86: [status=speed-profile] [reason=install]
+
+
+Compiler stats:
+  [gov.bbg.voa]
+     base.apk - 733

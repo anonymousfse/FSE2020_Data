@@ -1,0 +1,48 @@
+{
+  "stop_state": "08f4e7dc291e79e64f4016ec8c6238c3", 
+  "event_str": "TouchEvent(state=32679c0b28fe044f1a92c7ec3f4acb33, view=55980aa1c83ad7baadc72af1d6ef4f47)", 
+  "tag": "2019-08-21_195740", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "event_type": "touch", 
+    "view": {
+      "content_description": null, 
+      "resource_id": "com.carwale:id/tv_car_name", 
+      "text": "Lexus NX", 
+      "visible": false, 
+      "checkable": false, 
+      "children": [], 
+      "size": "709*-1538", 
+      "checked": false, 
+      "temp_id": 113, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.TextView[resource_id]com.carwale:id/tv_car_name", 
+      "is_password": false, 
+      "parent": 111, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.TextView", 
+      "scrollable": false, 
+      "package": "com.carwale", 
+      "long_clickable": false, 
+      "view_str": "55980aa1c83ad7baadc72af1d6ef4f47", 
+      "enabled": true, 
+      "bounds": [
+        [
+          32, 
+          3332
+        ], 
+        [
+          741, 
+          1794
+        ]
+      ], 
+      "signature": "[class]android.widget.TextView[resource_id]com.carwale:id/tv_car_name[text]Lexus NX[enabled,,]"
+    }
+  }, 
+  "start_state": "32679c0b28fe044f1a92c7ec3f4acb33"
+}

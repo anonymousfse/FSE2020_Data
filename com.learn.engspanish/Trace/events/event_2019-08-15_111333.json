@@ -1,0 +1,48 @@
+{
+  "stop_state": "01cdd9d3e131ed982ea2e39862611b37", 
+  "event_str": "TouchEvent(state=590a9e762ee8033e8b91e902c9853f69, view=4d37609a4aa43cd815f7294a0ffe13cc)", 
+  "tag": "2019-08-15_111333", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "event_type": "touch", 
+    "view": {
+      "content_description": null, 
+      "resource_id": "com.learn.engspanish:id/btn4", 
+      "text": "VICTORIA", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "455*126", 
+      "checked": false, 
+      "temp_id": 22, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.Button[resource_id]com.learn.engspanish:id/btn4", 
+      "is_password": false, 
+      "parent": 21, 
+      "focusable": true, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": true, 
+      "class": "android.widget.Button", 
+      "scrollable": false, 
+      "package": "com.learn.engspanish", 
+      "long_clickable": false, 
+      "view_str": "4d37609a4aa43cd815f7294a0ffe13cc", 
+      "enabled": true, 
+      "bounds": [
+        [
+          554, 
+          1090
+        ], 
+        [
+          1009, 
+          1216
+        ]
+      ], 
+      "signature": "[class]android.widget.Button[resource_id]com.learn.engspanish:id/btn4[text]VICTORIA[enabled,,]"
+    }
+  }, 
+  "start_state": "590a9e762ee8033e8b91e902c9853f69"
+}

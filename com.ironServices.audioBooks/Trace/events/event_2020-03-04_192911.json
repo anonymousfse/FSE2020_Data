@@ -1,0 +1,48 @@
+{
+  "stop_state": "f7af441af16b50c3439b89648499e9bf", 
+  "event_str": "TouchEvent(state=f7af441af16b50c3439b89648499e9bf, view=753297f2753d27ac306791e93b801f33)", 
+  "tag": "2020-03-04_192911", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "event_type": "touch", 
+    "view": {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": "Moreover, there are, and it is proper to add this distinction to the distinctions already pointed out in another chapter,\u2014there are accepted revolutions, revolutions which are called revolutions; there are refused revolutions, which are called riots.", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "2*708", 
+      "checked": false, 
+      "temp_id": 62, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.view.View[resource_id]None", 
+      "is_password": false, 
+      "parent": 32, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.view.View", 
+      "scrollable": false, 
+      "package": "com.ironServices.audioBooks", 
+      "long_clickable": false, 
+      "view_str": "753297f2753d27ac306791e93b801f33", 
+      "enabled": true, 
+      "bounds": [
+        [
+          1021, 
+          693
+        ], 
+        [
+          1023, 
+          1401
+        ]
+      ], 
+      "signature": "[class]android.view.View[resource_id]None[text]None[enabled,,]"
+    }
+  }, 
+  "start_state": "f7af441af16b50c3439b89648499e9bf"
+}

@@ -1,0 +1,48 @@
+{
+  "stop_state": "d565eae72e6c1017298dba107493b74b", 
+  "event_str": "TouchEvent(state=593f184fe0fa077c2a874f17afbd2f3b, view=65be21b376fa49a297f56b44637d1adc)", 
+  "tag": "2019-08-21_195852", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "event_type": "touch", 
+    "view": {
+      "content_description": "Location", 
+      "resource_id": "com.carwale:id/action_location", 
+      "text": null, 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "126*126", 
+      "checked": false, 
+      "temp_id": 17, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.TextView[resource_id]com.carwale:id/action_location", 
+      "is_password": false, 
+      "parent": 16, 
+      "focusable": true, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": true, 
+      "class": "android.widget.TextView", 
+      "scrollable": false, 
+      "package": "com.carwale", 
+      "long_clickable": true, 
+      "view_str": "65be21b376fa49a297f56b44637d1adc", 
+      "enabled": true, 
+      "bounds": [
+        [
+          954, 
+          73
+        ], 
+        [
+          1080, 
+          199
+        ]
+      ], 
+      "signature": "[class]android.widget.TextView[resource_id]com.carwale:id/action_location[text]None[enabled,,]"
+    }
+  }, 
+  "start_state": "593f184fe0fa077c2a874f17afbd2f3b"
+}

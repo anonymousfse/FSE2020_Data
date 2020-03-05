@@ -1,0 +1,309 @@
+Activity Resolver Table:
+  Schemes:
+      carwaleandroid1:
+        3d65bf4 com.carwale/.carwale.activities.IntentsActivity filter fbb5348
+          Action: "android.intent.action.VIEW"
+          Category: "android.intent.category.DEFAULT"
+          Category: "android.intent.category.BROWSABLE"
+          Scheme: "carwaleandroid1"
+          Scheme: "carwaleandroid"
+          Authority: "www.carwale.com": -1
+          Authority: "m.carwale.com": -1
+          Authority: "www.carwale.com": -1
+          Path: "PatternMatcher{PREFIX: /m}"
+      carwaleandroid:
+        3d65bf4 com.carwale/.carwale.activities.IntentsActivity filter fbb5348
+          Action: "android.intent.action.VIEW"
+          Category: "android.intent.category.DEFAULT"
+          Category: "android.intent.category.BROWSABLE"
+          Scheme: "carwaleandroid1"
+          Scheme: "carwaleandroid"
+          Authority: "www.carwale.com": -1
+          Authority: "m.carwale.com": -1
+          Authority: "www.carwale.com": -1
+          Path: "PatternMatcher{PREFIX: /m}"
+
+  Non-Data Actions:
+      android.intent.action.MAIN:
+        501af1d com.carwale/.carwale.activities.home.ActivitySplash filter 7d295e1
+          Action: "android.intent.action.MAIN"
+          Category: "android.intent.category.LAUNCHER"
+
+Receiver Resolver Table:
+  Non-Data Actions:
+      com.google.android.gms.measurement.UPLOAD:
+        2809592 com.carwale/com.google.android.gms.measurement.AppMeasurementReceiver filter 5da99eb
+          Action: "com.google.android.gms.measurement.UPLOAD"
+      android.net.conn.CONNECTIVITY_CHANGE:
+        f3e5b63 com.carwale/com.notikum.notifypassive.receivers.NetworkStateChangeReceiver filter 137d865
+          Action: "android.net.conn.CONNECTIVITY_CHANGE"
+      com.google.android.gms.analytics.ANALYTICS_DISPATCH:
+        ef74360 com.carwale/com.google.android.gms.analytics.AnalyticsReceiver filter bd4193a
+          Action: "com.google.android.gms.analytics.ANALYTICS_DISPATCH"
+      com.android.vending.INSTALL_REFERRER:
+        20f2019 com.carwale/.carwale.utils.CarwaleReferalReciver filter d1a82e
+          Action: "com.android.vending.INSTALL_REFERRER"
+      com.google.android.c2dm.intent.RECEIVE:
+        88e78de com.carwale/com.google.android.gcm.GCMBroadcastReceiver filter c16cfcf
+          Action: "com.google.android.c2dm.intent.RECEIVE"
+          Action: "com.google.android.c2dm.intent.REGISTRATION"
+          Category: "com.carwale"
+        7314abf com.carwale/com.notikum.notifypassive.receivers.NotiphiGCMBroadCastReceiver filter 221bd5c
+          Action: "com.google.android.c2dm.intent.RECEIVE"
+          Category: "com.carwale"
+      com.google.android.c2dm.intent.REGISTRATION:
+        88e78de com.carwale/com.google.android.gcm.GCMBroadcastReceiver filter c16cfcf
+          Action: "com.google.android.c2dm.intent.RECEIVE"
+          Action: "com.google.android.c2dm.intent.REGISTRATION"
+          Category: "com.carwale"
+
+Service Resolver Table:
+  Non-Data Actions:
+      com.google.android.c2dm.intent.RECEIVE:
+        37d358c com.carwale/.GCMIntentService filter 33ee30
+          Action: "com.google.android.c2dm.intent.RECEIVE"
+      com.google.android.gms.iid.InstanceID:
+        8e8a4d5 com.carwale/.carwale.gcm.GCMInstanceIDListenerService filter 1cf3aa9
+          Action: "com.google.android.gms.iid.InstanceID"
+
+Permissions:
+  Permission [com.carwale.permission.C2D_MESSAGE] (f0544ea):
+    sourcePackage=com.carwale
+    uid=10247 gids=null type=0 prot=signature
+    perm=Permission{739d3db com.carwale.permission.C2D_MESSAGE}
+    packageSetting=PackageSetting{88e1e78 com.carwale/10247}
+
+Registered ContentProviders:
+  com.carwale/com.google.android.gms.measurement.AppMeasurementContentProvider:
+    Provider{a9bb951 com.carwale/com.google.android.gms.measurement.AppMeasurementContentProvider}
+
+ContentProvider Authorities:
+  [com.carwale.google_measurement_service]:
+    Provider{a9bb951 com.carwale/com.google.android.gms.measurement.AppMeasurementContentProvider}
+      applicationInfo=ApplicationInfo{c6ac5b6 com.carwale}
+
+Key Set Manager:
+  [com.carwale]
+      Signing KeySets: 2
+
+Packages:
+  Package [com.carwale] (88e1e78):
+    userId=10247
+    pkg=Package{277d2b7 com.carwale}
+    codePath=/data/app/com.carwale-5gsJllzOd5tEaY1_r7kWkA==
+    resourcePath=/data/app/com.carwale-5gsJllzOd5tEaY1_r7kWkA==
+    legacyNativeLibraryDir=/data/app/com.carwale-5gsJllzOd5tEaY1_r7kWkA==/lib
+    primaryCpuAbi=null
+    secondaryCpuAbi=null
+    versionCode=89 minSdk=16 targetSdk=23
+    versionName=4.3
+    splits=[base]
+    apkSigningVersion=1
+    applicationInfo=ApplicationInfo{c6ac5b6 com.carwale}
+    flags=[ HAS_CODE ALLOW_CLEAR_USER_DATA ALLOW_BACKUP LARGE_HEAP ]
+    dataDir=/data/user/0/com.carwale
+    supportsScreens=[small, medium, large, xlarge, resizeable, anyDensity]
+    usesLibraries:
+      org.apache.http.legacy
+    usesLibraryFiles:
+      /system/framework/org.apache.http.legacy.boot.jar
+    timeStamp=2019-08-22 02:55:44
+    firstInstallTime=2019-08-22 02:55:45
+    lastUpdateTime=2019-08-22 02:55:45
+    signatures=PackageSignatures{fc2aa24 version:1, signatures:[d7f1f224], past signatures:[]}
+    installPermissionsFixed=true
+    pkgFlags=[ HAS_CODE ALLOW_CLEAR_USER_DATA ALLOW_BACKUP LARGE_HEAP ]
+    declared permissions:
+      com.carwale.permission.C2D_MESSAGE: prot=signature, INSTALLED
+    requested permissions:
+      android.permission.GET_ACCOUNTS
+      android.permission.USE_CREDENTIALS
+      android.permission.INTERNET
+      android.permission.ACCESS_NETWORK_STATE
+      android.permission.ACCESS_WIFI_STATE
+      android.permission.READ_PHONE_STATE
+      android.permission.ACCESS_FINE_LOCATION
+      android.permission.VIBRATE
+      android.permission.ACCESS_COARSE_LOCATION
+      android.permission.READ_PROFILE
+      android.permission.READ_CONTACTS
+      android.permission.WAKE_LOCK
+      android.permission.NETWORK
+      com.google.android.c2dm.permission.RECEIVE
+      com.carwale.permission.C2D_MESSAGE
+    install permissions:
+      com.google.android.c2dm.permission.RECEIVE: granted=true
+      android.permission.USE_CREDENTIALS: granted=true
+      android.permission.READ_PROFILE: granted=true
+      android.permission.INTERNET: granted=true
+      android.permission.ACCESS_NETWORK_STATE: granted=true
+      android.permission.VIBRATE: granted=true
+      com.carwale.permission.C2D_MESSAGE: granted=true
+      android.permission.ACCESS_WIFI_STATE: granted=true
+      android.permission.WAKE_LOCK: granted=true
+    User 0: ceDataInode=-4294836201 installed=true hidden=false suspended=false stopped=true notLaunched=true enabled=0 instant=false virtual=false
+      gids=[3003]
+      runtime permissions:
+
+Package Changes:
+  Sequence number=930
+  User 0:
+    seq=0, package=com.google.android.apps.inputmethod.hindi
+    seq=1, package=com.google.android.inputmethod.pinyin
+    seq=2, package=com.google.android.webview
+    seq=4, package=com.android.systemui
+    seq=6, package=com.google.android.inputmethod.latin
+    seq=93, package=com.google.android.apps.nexuslauncher
+    seq=95, package=com.google.android.sdksetup
+    seq=96, package=com.google.android.apps.restore
+    seq=136, package=com.google.android.partnersetup
+    seq=349, package=com.google.android.calendar
+    seq=352, package=com.google.android.gsf
+    seq=360, package=com.android.camera2
+    seq=377, package=com.android.nfc
+    seq=418, package=com.google.android.apps.maps
+    seq=420, package=com.google.android.youtube
+    seq=428, package=com.google.android.videos
+    seq=444, package=com.google.android.gm
+    seq=450, package=com.google.android.googlequicksearchbox
+    seq=515, package=com.google.android.apps.messaging
+    seq=539, package=gov.state.apps.android.DOSCareers
+    seq=546, package=com.goodrx.gold
+    seq=550, package=com.newsdog
+    seq=553, package=com.bcs.dailythanthi
+    seq=554, package=all.newspapers.world
+    seq=557, package=app.plantationapp
+    seq=558, package=com.parval.vyral
+    seq=565, package=com.sandesh.epaper
+    seq=566, package=com.wetransfer.app.live
+    seq=568, package=ajit.news.paper
+    seq=572, package=com.dg.coupon
+    seq=573, package=com.vestidos.fiesta
+    seq=575, package=com.arash.sukhmanisahib
+    seq=576, package=com.elsdoerfer.photoworld.android
+    seq=579, package=net.languagecourse.vt.de
+    seq=582, package=elbanna.khaled.egytrains
+    seq=597, package=com.android.settings
+    seq=598, package=com.gmail.heagoo.sdcardmovable
+    seq=599, package=com.jappit.android.televideo
+    seq=602, package=com.grigerlab.transport.minsk
+    seq=603, package=vn.magik.english
+    seq=605, package=tfilon.tfilon
+    seq=613, package=com.wordreference
+    seq=615, package=fr.pap
+    seq=617, package=com.startpage.mobile
+    seq=619, package=com.autofillwand.nagalandlotteryresults
+    seq=622, package=com.electronial.derivatives
+    seq=639, package=com.aries.michaels
+    seq=640, package=status.status.wholesale.newhindijocks
+    seq=642, package=net.morettoni.terremoto
+    seq=646, package=com.invacore.damnlol
+    seq=647, package=victor_gonzalez_ollervidez.notas
+    seq=649, package=com.limi.baton
+    seq=650, package=com.sonnik.engnew
+    seq=654, package=com.farmersonly.android
+    seq=655, package=com.morningnightmessages
+    seq=656, package=com.ellize.rurules
+    seq=662, package=ru.mentalcalc
+    seq=663, package=com.status.love.shayariapp.romantic.hindi.shayari
+    seq=664, package=com.memeful.android
+    seq=672, package=com.mynewplace.android.app
+    seq=673, package=com.king.world.game.rtoexam.hindi
+    seq=674, package=com.mjsoft.apps.sc_ad
+    seq=675, package=com.sunlightlabs.android.congress
+    seq=680, package=nl.rtl.rtlnieuws
+    seq=681, package=com.miso
+    seq=682, package=com.onionsearchengine.onionsearchengine
+    seq=685, package=com.dotto.tatilsepeti.activity
+    seq=686, package=no.apps.dnbnor
+    seq=692, package=com.finnair
+    seq=695, package=com.bmretail.bmstores
+    seq=700, package=com.sofu.social.status.collections
+    seq=701, package=it.lrx.doggoldenwhistle
+    seq=702, package=mz.electric.guitar.tuner
+    seq=704, package=best.status.quotes.whatsapp
+    seq=705, package=com.google.android.music
+    seq=711, package=com.android.vending
+    seq=719, package=com.com2us.com2ushub.android.key
+    seq=720, package=com.balda.speedtrap
+    seq=736, package=net.cashpop.id
+    seq=738, package=com.kodeblink.trafficapp
+    seq=739, package=com.kj.hindistatus2017
+    seq=740, package=com.disc.invnt
+    seq=741, package=com.totrix.glwiz
+    seq=746, package=ballpool.guideline
+    seq=748, package=com.en.sennik
+    seq=760, package=com.gurmatsagar.nitnem
+    seq=765, package=com.droid.aio.Translator
+    seq=766, package=com.autoportal.india
+    seq=768, package=com.girnarsoft.cardekho
+    seq=770, package=com.delhi.usedcars
+    seq=771, package=com.yr.questions
+    seq=772, package=com.smartmobsolutions.android.whereami
+    seq=773, package=winesecretary.com
+    seq=774, package=com.ajinfo.trop
+    seq=775, package=com.axiommobile.tabatatraining
+    seq=782, package=com.epfbalanceandclaimstatus.aseelzameer.epfbalanceclaimstatus
+    seq=783, package=net.qpen.android.nihongo1
+    seq=789, package=com.onyx.cek.pajak.kendaraan
+    seq=790, package=tr.com.kkb.android
+    seq=791, package=attitude.style.attitudestyle
+    seq=792, package=com.gktalk.hindigrammar
+    seq=793, package=com.sajoy.SpokenEnglish_in_Malayalam
+    seq=794, package=com.yeayyy.tulisjawi
+    seq=801, package=com.MyIndieApp.FreeCountryRadio
+    seq=802, package=com.Flowers.Images.Gif
+    seq=803, package=com.mobiscreen.story
+    seq=806, package=com.cliqs.motivationalquotes
+    seq=807, package=net.zedge.android.companion
+    seq=815, package=se.mecenat.app
+    seq=816, package=com.newkech.sandaales
+    seq=824, package=com.MyIndieApp.Free70sRadio
+    seq=825, package=com.bizlog.triplog
+    seq=826, package=tweeter.gif.twittervideodownloader
+    seq=827, package=com.contentcarry.dailyjobs
+    seq=837, package=com.hwans.ninebynine
+    seq=838, package=com.desdepylabs.desdepy
+    seq=840, package=id.thirteen.katacintauntukpacar
+    seq=841, package=br.com.hapvida.hapvida
+    seq=842, package=com.hackdevelopers.nehakakkarhindisongs
+    seq=843, package=tr.com.alyaka.alper.professionalxylophone
+    seq=846, package=com.digitalgene.magicalrays
+    seq=851, package=com.prodege.answer
+    seq=852, package=com.ncert
+    seq=853, package=horhomun.oliviadrive
+    seq=854, package=co.uk.mrwebb.wakeonlan
+    seq=862, package=de.carknue.gmon2
+    seq=863, package=spiritualstudio.gayatri
+    seq=864, package=com.pkm.predictions
+    seq=865, package=uy.com.antel.tickantel
+    seq=866, package=com.nop.eortologio
+    seq=870, package=com.onecak.droid
+    seq=872, package=com.pocket.aptitude
+    seq=874, package=com.google.android.apps.docs
+    seq=881, package=cozbakayim.benimhocam
+    seq=883, package=fastcharge.fastcharging.chargemaster.batterydoctor
+    seq=884, package=br.com.mobits.cine
+    seq=885, package=mdr.currency
+    seq=887, package=com.danfoss.koolapp
+    seq=897, package=de.raumobil.android.busliniensuche
+    seq=901, package=com.WanApps.allamaiqbalshayari
+    seq=903, package=com.sanook.lottothai
+    seq=904, package=br.com.luizmarcus.quantoganhaumyoutuber
+    seq=905, package=com.benoit.outman.fortniteshopoftheday
+    seq=913, package=br.thiagopacheco.enfermagem
+    seq=915, package=com.google.android.gms
+    seq=927, package=com.google.android.setupwizard
+    seq=928, package=com.carwale
+    seq=929, package=io.github.ylimit.droidbotapp
+
+
+Dexopt state:
+  [com.carwale]
+    path: /data/app/com.carwale-5gsJllzOd5tEaY1_r7kWkA==/base.apk
+      x86: [status=run-from-apk] [reason=unknown]
+
+
+Compiler stats:
+  [com.carwale]
+     base.apk - 1091

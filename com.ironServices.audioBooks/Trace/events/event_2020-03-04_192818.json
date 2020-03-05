@@ -1,0 +1,48 @@
+{
+  "stop_state": "ee559f4dc1768add25aad667eff70f26", 
+  "event_str": "TouchEvent(state=ee559f4dc1768add25aad667eff70f26, view=753297f2753d27ac306791e93b801f33)", 
+  "tag": "2020-03-04_192818", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "event_type": "touch", 
+    "view": {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": "A final assault was there attempted, and this assault succeeded. The mass bristling with bayonets and hurled forward at a run, came up with irresistible force, and the serried front of battle of the attacking column made its appearance through the smoke on the crest of the battlements. This time, it was decisive. The group of insurgents who were defending the centre retreated in confusion.", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "2*281", 
+      "checked": false, 
+      "temp_id": 37, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.view.View[resource_id]None", 
+      "is_password": false, 
+      "parent": 32, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.view.View", 
+      "scrollable": false, 
+      "package": "com.ironServices.audioBooks", 
+      "long_clickable": false, 
+      "view_str": "753297f2753d27ac306791e93b801f33", 
+      "enabled": true, 
+      "bounds": [
+        [
+          1021, 
+          1401
+        ], 
+        [
+          1023, 
+          1682
+        ]
+      ], 
+      "signature": "[class]android.view.View[resource_id]None[text]None[enabled,,]"
+    }
+  }, 
+  "start_state": "ee559f4dc1768add25aad667eff70f26"
+}

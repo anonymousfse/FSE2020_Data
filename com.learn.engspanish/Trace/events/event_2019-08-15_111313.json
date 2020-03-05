@@ -1,0 +1,48 @@
+{
+  "stop_state": "df45b47a8f3befcc0e9820336591b238", 
+  "event_str": "TouchEvent(state=f4b91f9970baa0278f40a250ca623d4c, view=6007c413bffb411cac0a5466a7d72787)", 
+  "tag": "2019-08-15_111313", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "event_type": "touch", 
+    "view": {
+      "content_description": null, 
+      "resource_id": "com.learn.engspanish:id/btn4", 
+      "text": "QU\u00c9", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "455*126", 
+      "checked": false, 
+      "temp_id": 22, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.Button[resource_id]com.learn.engspanish:id/btn4", 
+      "is_password": false, 
+      "parent": 21, 
+      "focusable": true, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": true, 
+      "class": "android.widget.Button", 
+      "scrollable": false, 
+      "package": "com.learn.engspanish", 
+      "long_clickable": false, 
+      "view_str": "6007c413bffb411cac0a5466a7d72787", 
+      "enabled": true, 
+      "bounds": [
+        [
+          554, 
+          1090
+        ], 
+        [
+          1009, 
+          1216
+        ]
+      ], 
+      "signature": "[class]android.widget.Button[resource_id]com.learn.engspanish:id/btn4[text]QU\u00c9[enabled,,]"
+    }
+  }, 
+  "start_state": "f4b91f9970baa0278f40a250ca623d4c"
+}

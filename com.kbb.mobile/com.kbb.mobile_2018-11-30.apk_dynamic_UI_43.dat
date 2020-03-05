@@ -1,0 +1,3 @@
+37379ZZZgetViews:com.kbb.mobile.views.ViewHolder:$r3 = (android.widget.ImageView) $r2
+37378ZZZgetViews:com.kbb.mobile.views.ViewHolder:$r2 = virtualinvoke $r1.<android.view.View: android.view.View findViewById(int)>(2131558441)
+37382ZZZgetViews:com.kbb.mobile.views.ViewHolder:$r3 = $r0.<com.kbb.mobile.views.ViewHolder: android.widget.ImageView imageVehicle>

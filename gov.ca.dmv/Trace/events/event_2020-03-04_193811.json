@@ -1,0 +1,48 @@
+{
+  "stop_state": "6133911e622af0dad25482ae13872618", 
+  "event_str": "TouchEvent(state=b67f2dec155c7d733a71914d55344e44, view=be8bbe7690d9925fcf01d4e97ee44ba8)", 
+  "tag": "2020-03-04_193811", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "event_type": "touch", 
+    "view": {
+      "content_description": null, 
+      "resource_id": "com.google.android.apps.nexuslauncher:id/g_icon", 
+      "text": null, 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "63*63", 
+      "checked": false, 
+      "temp_id": 42, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.ImageView[resource_id]com.google.android.apps.nexuslauncher:id/g_icon", 
+      "is_password": false, 
+      "parent": 41, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.ImageView", 
+      "scrollable": false, 
+      "package": "com.google.android.apps.nexuslauncher", 
+      "long_clickable": false, 
+      "view_str": "be8bbe7690d9925fcf01d4e97ee44ba8", 
+      "enabled": true, 
+      "bounds": [
+        [
+          104, 
+          131
+        ], 
+        [
+          167, 
+          194
+        ]
+      ], 
+      "signature": "[class]android.widget.ImageView[resource_id]com.google.android.apps.nexuslauncher:id/g_icon[text]None[enabled,,]"
+    }
+  }, 
+  "start_state": "b67f2dec155c7d733a71914d55344e44"
+}

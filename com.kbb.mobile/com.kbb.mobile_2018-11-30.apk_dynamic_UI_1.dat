@@ -1,0 +1,6 @@
+32967ZZZsetText:com.kbb.mobile.DataBinding.StrategyBindingTextView:$r1 = $r0.<com.kbb.mobile.DataBinding.StrategyBindingTextView: android.widget.TextView textView>
+32940ZZZsetSelectionMade:com.kbb.mobile.Business.Header:$r2 = $r0.<com.kbb.mobile.Business.Header: java.lang.String selectionMade>
+32947ZZZcopy:com.kbb.mobile.Business.Header:$r2 = $r1.<com.kbb.mobile.Business.Header: java.lang.String selectionToMake>
+32957ZZZpropertyChange:com.kbb.mobile.DataBinding.StrategyBindingTextView:$r3 = (java.lang.String) $r2
+32949ZZZsetSelectionToMake:com.kbb.mobile.Business.Header:$r2 = $r0.<com.kbb.mobile.Business.Header: java.lang.String selectionToMake>
+32956ZZZpropertyChange:com.kbb.mobile.DataBinding.StrategyBindingTextView:$r2 = virtualinvoke $r1.<java.beans.PropertyChangeEvent: java.lang.Object getNewValue()>()

@@ -1,0 +1,9 @@
+3606ZZZa:com.android.volley.toolbox.b:$i0 = neg $i0
+3604ZZZa:com.android.volley.toolbox.b:$i1 = $i0
+3602ZZZa:com.android.volley.toolbox.b:$r3 = <com.android.volley.toolbox.b: java.util.Comparator a>
+3597ZZZa:com.android.volley.toolbox.b:$i1 = $r0.<com.android.volley.toolbox.b: int e>
+3593ZZZa:com.android.volley.toolbox.a:$r3 = $r0.<com.android.volley.toolbox.a: com.android.volley.toolbox.b c>
+3603ZZZa:com.android.volley.toolbox.b:$i0 = staticinvoke <java.util.Collections: int binarySearch(java.util.List,java.lang.Object,java.util.Comparator)>($r2, $r1, $r3)
+3599ZZZa:com.android.volley.toolbox.b:$r2 = $r0.<com.android.volley.toolbox.b: java.util.List b>
+3601ZZZa:com.android.volley.toolbox.b:$r2 = $r0.<com.android.volley.toolbox.b: java.util.List c>
+3596ZZZa:com.android.volley.toolbox.b:$i0 = lengthof $r1

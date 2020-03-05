@@ -1,0 +1,10 @@
+{
+  "stop_state": "7aec5c1a8f202f43d5da75f11299d982", 
+  "event_str": "IntentEvent(intent='am start gov.ca.dmv/gov.ca.dmv.main.MainActivity')", 
+  "tag": "2020-03-04_193532", 
+  "event": {
+    "intent": "am start gov.ca.dmv/gov.ca.dmv.main.MainActivity", 
+    "event_type": "intent"
+  }, 
+  "start_state": "ed15f217dd849fc4c411fb0065bebebe"
+}

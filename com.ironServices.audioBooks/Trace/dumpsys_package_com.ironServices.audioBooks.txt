@@ -1,0 +1,77 @@
+Activity Resolver Table:
+  Non-Data Actions:
+      android.intent.action.MAIN:
+        b078213 com.ironServices.audioBooks/.MainActivity filter 83f2b9f
+          Action: "android.intent.action.MAIN"
+          Category: "android.intent.category.LAUNCHER"
+
+Key Set Manager:
+  [com.ironServices.audioBooks]
+      Signing KeySets: 315
+
+Packages:
+  Package [com.ironServices.audioBooks] (9865c50):
+    userId=10503
+    pkg=Package{435de49 com.ironServices.audioBooks}
+    codePath=/data/app/com.ironServices.audioBooks-QgyTMMuDkY7X7uXHwzk1Sg==
+    resourcePath=/data/app/com.ironServices.audioBooks-QgyTMMuDkY7X7uXHwzk1Sg==
+    legacyNativeLibraryDir=/data/app/com.ironServices.audioBooks-QgyTMMuDkY7X7uXHwzk1Sg==/lib
+    primaryCpuAbi=null
+    secondaryCpuAbi=null
+    versionCode=49 minSdk=16 targetSdk=26
+    versionName=8.02
+    splits=[base]
+    apkSigningVersion=2
+    applicationInfo=ApplicationInfo{a20134e com.ironServices.audioBooks}
+    flags=[ HAS_CODE ALLOW_CLEAR_USER_DATA ]
+    privateFlags=[ PRIVATE_FLAG_ACTIVITIES_RESIZE_MODE_RESIZEABLE_VIA_SDK_VERSION ]
+    dataDir=/data/user/0/com.ironServices.audioBooks
+    supportsScreens=[medium, large, xlarge, resizeable, anyDensity]
+    usesLibraries:
+      org.apache.http.legacy
+    usesLibraryFiles:
+      /system/framework/org.apache.http.legacy.boot.jar
+    timeStamp=2020-03-05 03:23:16
+    firstInstallTime=2020-03-05 03:23:16
+    lastUpdateTime=2020-03-05 03:23:16
+    signatures=PackageSignatures{1de2c6f version:2, signatures:[aa2ab0f1], past signatures:[]}
+    installPermissionsFixed=true
+    pkgFlags=[ HAS_CODE ALLOW_CLEAR_USER_DATA ]
+    requested permissions:
+      android.permission.INTERNET
+      android.permission.WRITE_EXTERNAL_STORAGE
+      android.permission.RECORD_AUDIO
+      android.permission.RECORD_VIDEO
+      android.permission.READ_EXTERNAL_STORAGE
+      android.permission.MODIFY_AUDIO_SETTINGS
+      android.permission.READ_PHONE_STATE
+      android.permission.ACCESS_NETWORK_STATE
+      android.permission.VIBRATE
+    install permissions:
+      android.permission.MODIFY_AUDIO_SETTINGS: granted=true
+      android.permission.INTERNET: granted=true
+      android.permission.ACCESS_NETWORK_STATE: granted=true
+      android.permission.VIBRATE: granted=true
+    User 0: ceDataInode=-4294843142 installed=true hidden=false suspended=false stopped=true notLaunched=true enabled=0 instant=false virtual=false
+      gids=[3003]
+      runtime permissions:
+
+Package Changes:
+  Sequence number=18
+  User 0:
+    seq=10, package=com.google.android.gms
+    seq=11, package=com.google.android.syncadapters.contacts
+    seq=15, package=com.WanApps.allamaiqbalshayari
+    seq=16, package=io.github.ylimit.droidbotapp
+    seq=17, package=com.ironServices.audioBooks
+
+
+Dexopt state:
+  [com.ironServices.audioBooks]
+    path: /data/app/com.ironServices.audioBooks-QgyTMMuDkY7X7uXHwzk1Sg==/base.apk
+      x86: [status=speed-profile] [reason=install]
+
+
+Compiler stats:
+  [com.ironServices.audioBooks]
+     base.apk - 366

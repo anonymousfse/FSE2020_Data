@@ -1,0 +1,4 @@
+208571ZZZshowPage:com.kbb.mobile.views.hub.CarHubConfigurator:$r4 = (android.widget.ViewFlipper) $r3
+208570ZZZshowPage:com.kbb.mobile.views.hub.CarHubConfigurator:$r3 = virtualinvoke $r1.<com.kbb.mobile.ActivityHub: android.view.View findViewById(int)>(2131558504)
+208567ZZZshowPage:com.kbb.mobile.views.hub.CarHubConfigurator:$r1 = $r0.<com.kbb.mobile.views.hub.CarHubConfigurator: com.kbb.mobile.ActivityHub activity>
+208569ZZZshowPage:com.kbb.mobile.views.hub.CarHubConfigurator:$r1 = $r0.<com.kbb.mobile.views.hub.CarHubConfigurator: com.kbb.mobile.ActivityHub activity>

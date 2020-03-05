@@ -1,0 +1,10 @@
+250319ZZZa:agc:$i0 = virtualinvoke $r15.<java.lang.Integer: int intValue()>()
+250328ZZZa:agc:$r2 = $r0.<agc: org.rferl.ui.widget.FontAwesomeTextView b>
+250318ZZZa:agc:$r15 = $r1.<org.rferl.provider.Contract$Multimedia: java.lang.Integer type>
+250331ZZZa:agc:$i2 = $r0.<agc: int j>
+250323ZZZa:agc:$r2 = $r0.<agc: org.rferl.ui.widget.FontAwesomeTextView b>
+250329ZZZa:agc:$i0 = $r0.<agc: int j>
+250321ZZZa:agc:$r2 = $r0.<agc: org.rferl.ui.widget.FontAwesomeTextView b>
+250332ZZZa:agc:$i3 = $r0.<agc: int j>
+250330ZZZa:agc:$i1 = $r0.<agc: int j>
+250325ZZZa:agc:$r2 = $r0.<agc: org.rferl.ui.widget.FontAwesomeTextView b>

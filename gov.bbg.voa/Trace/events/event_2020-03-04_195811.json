@@ -1,0 +1,48 @@
+{
+  "stop_state": "9578996b66aeda205606c7552cefa3d4", 
+  "event_str": "TouchEvent(state=2aa1199d085251a78def35072286def0, view=5692aaf4e87a552b6e9dabe45f6ac691)", 
+  "tag": "2020-03-04_195811", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "event_type": "touch", 
+    "view": {
+      "content_description": null, 
+      "resource_id": "gov.bbg.voa:id/top_bar_close_button", 
+      "text": null, 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "102*81", 
+      "checked": false, 
+      "temp_id": 25, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.ImageView[resource_id]gov.bbg.voa:id/top_bar_close_button", 
+      "is_password": false, 
+      "parent": 24, 
+      "focusable": true, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": true, 
+      "class": "android.widget.ImageView", 
+      "scrollable": false, 
+      "package": "gov.bbg.voa", 
+      "long_clickable": false, 
+      "view_str": "5692aaf4e87a552b6e9dabe45f6ac691", 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          210
+        ], 
+        [
+          102, 
+          291
+        ]
+      ], 
+      "signature": "[class]android.widget.ImageView[resource_id]gov.bbg.voa:id/top_bar_close_button[text]None[enabled,,]"
+    }
+  }, 
+  "start_state": "2aa1199d085251a78def35072286def0"
+}

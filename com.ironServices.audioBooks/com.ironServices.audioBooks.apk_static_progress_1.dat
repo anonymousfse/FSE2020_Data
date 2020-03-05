@@ -1,0 +1,11 @@
+11401ZZZrun:org.apache.cordova.splashscreen.SplashScreen$4:virtualinvoke $r5.<android.widget.ImageView: void startAnimation(android.view.animation.Animation)>($r1)
+-1ZZZrun:org.apache.cordova.splashscreen.SplashScreen$4:$r1 = new android.view.animation.AlphaAnimation
+-1ZZZrun:org.apache.cordova.splashscreen.SplashScreen$4:$r5 = staticinvoke <org.apache.cordova.splashscreen.SplashScreen: android.widget.ImageView access$300(org.apache.cordova.splashscreen.SplashScreen)>($r3)
+-1ZZZrun:org.apache.cordova.splashscreen.SplashScreen$4:$r3 = $r0.<org.apache.cordova.splashscreen.SplashScreen$4: org.apache.cordova.splashscreen.SplashScreen this$0>
+-1ZZZrun:org.apache.cordova.splashscreen.SplashScreen$4:$r0 := @this: org.apache.cordova.splashscreen.SplashScreen$4
+11347ZZZremoveSplashScreen:org.apache.cordova.splashscreen.SplashScreen:specialinvoke $r1.<org.apache.cordova.splashscreen.SplashScreen$4: void <init>(org.apache.cordova.splashscreen.SplashScreen,boolean)>($r0, $z0)
+-1ZZZremoveSplashScreen:org.apache.cordova.splashscreen.SplashScreen:$r0 := @this: org.apache.cordova.splashscreen.SplashScreen
+-1ZZZremoveSplashScreen:org.apache.cordova.splashscreen.SplashScreen:$z0 := @parameter0: boolean
+-1ZZZremoveSplashScreen:org.apache.cordova.splashscreen.SplashScreen:$r1 = new org.apache.cordova.splashscreen.SplashScreen$4
+11342ZZZonMessage:org.apache.cordova.splashscreen.SplashScreen:specialinvoke $r0.<org.apache.cordova.splashscreen.SplashScreen: void removeSplashScreen(boolean)>(0)
+-1ZZZonMessage:org.apache.cordova.splashscreen.SplashScreen:$r0 := @this: org.apache.cordova.splashscreen.SplashScreen

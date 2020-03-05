@@ -1,0 +1,48 @@
+{
+  "stop_state": "0f65a88ec581690668b68f3d733d85e0", 
+  "event_str": "TouchEvent(state=6b50fa350049c1d943bbd6934980dd6c, view=d97cc8a37a6bf4e7d142b30acef9abf3)", 
+  "tag": "2019-08-15_111305", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "event_type": "touch", 
+    "view": {
+      "content_description": null, 
+      "resource_id": "com.learn.engspanish:id/txtquestion", 
+      "text": "Jump", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "966*114", 
+      "checked": false, 
+      "temp_id": 12, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.TextView[resource_id]com.learn.engspanish:id/txtquestion", 
+      "is_password": false, 
+      "parent": 9, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.TextView", 
+      "scrollable": false, 
+      "package": "com.learn.engspanish", 
+      "long_clickable": false, 
+      "view_str": "d97cc8a37a6bf4e7d142b30acef9abf3", 
+      "enabled": true, 
+      "bounds": [
+        [
+          57, 
+          720
+        ], 
+        [
+          1023, 
+          834
+        ]
+      ], 
+      "signature": "[class]android.widget.TextView[resource_id]com.learn.engspanish:id/txtquestion[text]Jump[enabled,,]"
+    }
+  }, 
+  "start_state": "6b50fa350049c1d943bbd6934980dd6c"
+}

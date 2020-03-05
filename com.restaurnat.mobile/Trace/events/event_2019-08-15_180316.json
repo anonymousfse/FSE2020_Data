@@ -1,0 +1,51 @@
+{
+  "stop_state": "52f060eb38caaf212a92deb1562cfd61", 
+  "event_str": "ScrollEvent(state=2b46cc971397c7ff117fb2ba934c96d6, view=eab32f4d182658e7fdbb2c59c3d2fecb, direction=RIGHT)", 
+  "tag": "2019-08-15_180316", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "direction": "RIGHT", 
+    "event_type": "scroll", 
+    "view": {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": "Restaurant.com: List Deals", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [
+        15
+      ], 
+      "size": "1081*1421", 
+      "checked": false, 
+      "temp_id": 14, 
+      "selected": false, 
+      "child_count": 1, 
+      "content_free_signature": "[class]android.webkit.WebView[resource_id]None", 
+      "is_password": false, 
+      "parent": 13, 
+      "focusable": true, 
+      "editable": false, 
+      "focused": true, 
+      "clickable": false, 
+      "class": "android.webkit.WebView", 
+      "scrollable": true, 
+      "package": "com.restaurant.mobile", 
+      "long_clickable": false, 
+      "view_str": "eab32f4d182658e7fdbb2c59c3d2fecb", 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          210
+        ], 
+        [
+          1081, 
+          1631
+        ]
+      ], 
+      "signature": "[class]android.webkit.WebView[resource_id]None[text]Restaurant.com: List Deals[enabled,,]"
+    }
+  }, 
+  "start_state": "2b46cc971397c7ff117fb2ba934c96d6"
+}

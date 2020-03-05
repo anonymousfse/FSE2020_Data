@@ -1,0 +1,48 @@
+{
+  "stop_state": "df6fe8ba19f39348b4543b3a2f0a8828", 
+  "event_str": "TouchEvent(state=0032b234af888e7482bc2d9861377d32, view=2d9eb9e4ba88695158995bf660aa3db3)", 
+  "tag": "2019-08-15_171631", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "event_type": "touch", 
+    "view": {
+      "content_description": null, 
+      "resource_id": "com.kbb.mobile:id/TextView01", 
+      "text": "2011", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "947*71", 
+      "checked": false, 
+      "temp_id": 35, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.TextView[resource_id]com.kbb.mobile:id/TextView01", 
+      "is_password": false, 
+      "parent": 34, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.TextView", 
+      "scrollable": false, 
+      "package": "com.kbb.mobile", 
+      "long_clickable": false, 
+      "view_str": "2d9eb9e4ba88695158995bf660aa3db3", 
+      "enabled": true, 
+      "bounds": [
+        [
+          18, 
+          1382
+        ], 
+        [
+          965, 
+          1453
+        ]
+      ], 
+      "signature": "[class]android.widget.TextView[resource_id]com.kbb.mobile:id/TextView01[text]2011[enabled,,]"
+    }
+  }, 
+  "start_state": "0032b234af888e7482bc2d9861377d32"
+}

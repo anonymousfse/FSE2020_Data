@@ -1,0 +1,48 @@
+{
+  "stop_state": "c709a610a8ae987e8aaff9b6525240d9", 
+  "event_str": "TouchEvent(state=c709a610a8ae987e8aaff9b6525240d9, view=fc5c598ec9802577ac6e1675a608a426)", 
+  "tag": "2019-08-15_180350", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "event_type": "touch", 
+    "view": {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": "Add to Cart", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "449*2", 
+      "checked": false, 
+      "temp_id": 49, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.Button[resource_id]None", 
+      "is_password": false, 
+      "parent": 48, 
+      "focusable": true, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": true, 
+      "class": "android.widget.Button", 
+      "scrollable": false, 
+      "package": "com.restaurant.mobile", 
+      "long_clickable": false, 
+      "view_str": "fc5c598ec9802577ac6e1675a608a426", 
+      "enabled": true, 
+      "bounds": [
+        [
+          580, 
+          210
+        ], 
+        [
+          1029, 
+          212
+        ]
+      ], 
+      "signature": "[class]android.widget.Button[resource_id]None[text]Add to Cart[enabled,,]"
+    }
+  }, 
+  "start_state": "c709a610a8ae987e8aaff9b6525240d9"
+}

@@ -1,0 +1,59 @@
+{
+  "stop_state": "bd3e879dc6132d3efe2ee66125f2a053", 
+  "event_str": "ScrollEvent(state=bd3e879dc6132d3efe2ee66125f2a053, view=404de795c6958e607475c38b0cb5a223, direction=UP)", 
+  "tag": "2019-08-15_111441", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "direction": "UP", 
+    "event_type": "scroll", 
+    "view": {
+      "content_description": null, 
+      "resource_id": "com.learn.engspanish:id/recycler_view", 
+      "text": null, 
+      "visible": true, 
+      "checkable": false, 
+      "children": [
+        9, 
+        12, 
+        15, 
+        18, 
+        21, 
+        24, 
+        27, 
+        30, 
+        33
+      ], 
+      "size": "1080*1794", 
+      "checked": false, 
+      "temp_id": 8, 
+      "selected": false, 
+      "child_count": 9, 
+      "content_free_signature": "[class]android.support.v7.widget.RecyclerView[resource_id]com.learn.engspanish:id/recycler_view", 
+      "is_password": false, 
+      "parent": 5, 
+      "focusable": true, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.support.v7.widget.RecyclerView", 
+      "scrollable": true, 
+      "package": "com.learn.engspanish", 
+      "long_clickable": false, 
+      "view_str": "404de795c6958e607475c38b0cb5a223", 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          0
+        ], 
+        [
+          1080, 
+          1794
+        ]
+      ], 
+      "signature": "[class]android.support.v7.widget.RecyclerView[resource_id]com.learn.engspanish:id/recycler_view[text]None[enabled,,]"
+    }
+  }, 
+  "start_state": "bd3e879dc6132d3efe2ee66125f2a053"
+}

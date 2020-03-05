@@ -1,0 +1,3583 @@
+{
+  "views": [
+    {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": null, 
+      "visible": true, 
+      "checkable": false, 
+      "children": [
+        1, 
+        90, 
+        91
+      ], 
+      "size": "1080*1920", 
+      "checked": false, 
+      "temp_id": 0, 
+      "selected": false, 
+      "child_count": 3, 
+      "content_free_signature": "[class]android.widget.FrameLayout[resource_id]None", 
+      "is_password": false, 
+      "parent": -1, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.FrameLayout", 
+      "scrollable": false, 
+      "package": "com.ironServices.audioBooks", 
+      "long_clickable": false, 
+      "view_str": "3cbc76df1597c7a3d37aae493003bc7c", 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          0
+        ], 
+        [
+          1080, 
+          1920
+        ]
+      ], 
+      "signature": "[class]android.widget.FrameLayout[resource_id]None[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": null, 
+      "visible": true, 
+      "checkable": false, 
+      "children": [
+        2
+      ], 
+      "size": "1080*1794", 
+      "checked": false, 
+      "temp_id": 1, 
+      "selected": false, 
+      "child_count": 1, 
+      "content_free_signature": "[class]android.widget.LinearLayout[resource_id]None", 
+      "is_password": false, 
+      "parent": 0, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.LinearLayout", 
+      "scrollable": false, 
+      "package": "com.ironServices.audioBooks", 
+      "long_clickable": false, 
+      "view_str": "71ebc323c898dd233e962603950ae976", 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          0
+        ], 
+        [
+          1080, 
+          1794
+        ]
+      ], 
+      "signature": "[class]android.widget.LinearLayout[resource_id]None[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": "android:id/content", 
+      "text": null, 
+      "visible": true, 
+      "checkable": false, 
+      "children": [
+        3
+      ], 
+      "size": "1080*1731", 
+      "checked": false, 
+      "temp_id": 2, 
+      "selected": false, 
+      "child_count": 1, 
+      "content_free_signature": "[class]android.widget.FrameLayout[resource_id]android:id/content", 
+      "is_password": false, 
+      "parent": 1, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.FrameLayout", 
+      "scrollable": false, 
+      "package": "com.ironServices.audioBooks", 
+      "long_clickable": false, 
+      "view_str": "9079d8bd50865ee7d0907dd0bccbbecb", 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          63
+        ], 
+        [
+          1080, 
+          1794
+        ]
+      ], 
+      "signature": "[class]android.widget.FrameLayout[resource_id]android:id/content[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": null, 
+      "visible": true, 
+      "checkable": false, 
+      "children": [
+        4, 
+        88
+      ], 
+      "size": "1080*1731", 
+      "checked": false, 
+      "temp_id": 3, 
+      "selected": false, 
+      "child_count": 2, 
+      "content_free_signature": "[class]android.widget.LinearLayout[resource_id]None", 
+      "is_password": false, 
+      "parent": 2, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.LinearLayout", 
+      "scrollable": false, 
+      "package": "com.ironServices.audioBooks", 
+      "long_clickable": false, 
+      "view_str": "0c0e2e071d55f0cb00a88a17eb9be677", 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          63
+        ], 
+        [
+          1080, 
+          1794
+        ]
+      ], 
+      "signature": "[class]android.widget.LinearLayout[resource_id]None[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": null, 
+      "visible": true, 
+      "checkable": false, 
+      "children": [
+        5
+      ], 
+      "size": "1080*1731", 
+      "checked": false, 
+      "temp_id": 4, 
+      "selected": false, 
+      "child_count": 1, 
+      "content_free_signature": "[class]android.webkit.WebView[resource_id]None", 
+      "is_password": false, 
+      "parent": 3, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.webkit.WebView", 
+      "scrollable": false, 
+      "package": "com.ironServices.audioBooks", 
+      "long_clickable": false, 
+      "view_str": "0b4af548c4fffa3e3993f68bde0d9dfc", 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          63
+        ], 
+        [
+          1080, 
+          1794
+        ]
+      ], 
+      "signature": "[class]android.webkit.WebView[resource_id]None[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": "Audio Books - Librivox", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [
+        6
+      ], 
+      "size": "1081*1731", 
+      "checked": false, 
+      "temp_id": 5, 
+      "selected": false, 
+      "child_count": 1, 
+      "content_free_signature": "[class]android.webkit.WebView[resource_id]None", 
+      "is_password": false, 
+      "parent": 4, 
+      "focusable": true, 
+      "editable": false, 
+      "focused": true, 
+      "clickable": false, 
+      "class": "android.webkit.WebView", 
+      "scrollable": true, 
+      "package": "com.ironServices.audioBooks", 
+      "long_clickable": false, 
+      "view_str": "e5fd9f7245477979af926c0f9432e48a", 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          63
+        ], 
+        [
+          1081, 
+          1794
+        ]
+      ], 
+      "signature": "[class]android.webkit.WebView[resource_id]None[text]Audio Books - Librivox[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": "", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [
+        7
+      ], 
+      "size": "1081*1731", 
+      "checked": false, 
+      "temp_id": 6, 
+      "selected": false, 
+      "child_count": 1, 
+      "content_free_signature": "[class]android.view.View[resource_id]None", 
+      "is_password": false, 
+      "parent": 5, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.view.View", 
+      "scrollable": false, 
+      "package": "com.ironServices.audioBooks", 
+      "long_clickable": false, 
+      "view_str": "e182fe94f0020475fe499dceb5125207", 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          63
+        ], 
+        [
+          1081, 
+          1794
+        ]
+      ], 
+      "signature": "[class]android.view.View[resource_id]None[text][enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": "splitter", 
+      "text": "", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [
+        8
+      ], 
+      "size": "1081*1731", 
+      "checked": false, 
+      "temp_id": 7, 
+      "selected": false, 
+      "child_count": 1, 
+      "content_free_signature": "[class]android.view.View[resource_id]splitter", 
+      "is_password": false, 
+      "parent": 6, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.view.View", 
+      "scrollable": false, 
+      "package": "com.ironServices.audioBooks", 
+      "long_clickable": false, 
+      "view_str": "a853bbd22c16a80d7c63d59108d962e8", 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          63
+        ], 
+        [
+          1081, 
+          1794
+        ]
+      ], 
+      "signature": "[class]android.view.View[resource_id]splitter[text][enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": "rightPane", 
+      "text": "", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [
+        9
+      ], 
+      "size": "1081*1731", 
+      "checked": false, 
+      "temp_id": 8, 
+      "selected": false, 
+      "child_count": 1, 
+      "content_free_signature": "[class]android.view.View[resource_id]rightPane", 
+      "is_password": false, 
+      "parent": 7, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.view.View", 
+      "scrollable": false, 
+      "package": "com.ironServices.audioBooks", 
+      "long_clickable": false, 
+      "view_str": "aeda46fc8f4085d903cd17b733afa87c", 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          63
+        ], 
+        [
+          1081, 
+          1794
+        ]
+      ], 
+      "signature": "[class]android.view.View[resource_id]rightPane[text][enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": "bookPane", 
+      "text": "", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [
+        10, 
+        20, 
+        31, 
+        85, 
+        86
+      ], 
+      "size": "1081*1731", 
+      "checked": false, 
+      "temp_id": 9, 
+      "selected": false, 
+      "child_count": 5, 
+      "content_free_signature": "[class]android.view.View[resource_id]bookPane", 
+      "is_password": false, 
+      "parent": 8, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.view.View", 
+      "scrollable": false, 
+      "package": "com.ironServices.audioBooks", 
+      "long_clickable": false, 
+      "view_str": "29d1199662a9627913853724fa13e5f0", 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          63
+        ], 
+        [
+          1081, 
+          1794
+        ]
+      ], 
+      "signature": "[class]android.view.View[resource_id]bookPane[text][enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": "bookHead", 
+      "text": "", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [
+        11, 
+        12, 
+        14, 
+        16, 
+        18
+      ], 
+      "size": "1081*118", 
+      "checked": false, 
+      "temp_id": 10, 
+      "selected": false, 
+      "child_count": 5, 
+      "content_free_signature": "[class]android.view.View[resource_id]bookHead", 
+      "is_password": false, 
+      "parent": 9, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.view.View", 
+      "scrollable": false, 
+      "package": "com.ironServices.audioBooks", 
+      "long_clickable": false, 
+      "view_str": "6837c89fd4bbbabeacfe030167581dd1", 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          63
+        ], 
+        [
+          1081, 
+          181
+        ]
+      ], 
+      "signature": "[class]android.view.View[resource_id]bookHead[text][enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": "Back", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "134*82", 
+      "checked": false, 
+      "temp_id": 11, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.view.View[resource_id]None", 
+      "is_password": false, 
+      "parent": 10, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": true, 
+      "class": "android.view.View", 
+      "scrollable": false, 
+      "package": "com.ironServices.audioBooks", 
+      "long_clickable": false, 
+      "view_str": "b45db64a74239742ce71b98c6a8f94af", 
+      "enabled": true, 
+      "bounds": [
+        [
+          15, 
+          78
+        ], 
+        [
+          149, 
+          160
+        ]
+      ], 
+      "signature": "[class]android.view.View[resource_id]None[text]Back[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": "btnSelChp", 
+      "text": "", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [
+        13
+      ], 
+      "size": "94*82", 
+      "checked": false, 
+      "temp_id": 12, 
+      "selected": false, 
+      "child_count": 1, 
+      "content_free_signature": "[class]android.view.View[resource_id]btnSelChp", 
+      "is_password": false, 
+      "parent": 10, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": true, 
+      "class": "android.view.View", 
+      "scrollable": false, 
+      "package": "com.ironServices.audioBooks", 
+      "long_clickable": false, 
+      "view_str": "4ab5f1e174b8fb4e52666d306f484039", 
+      "enabled": true, 
+      "bounds": [
+        [
+          181, 
+          78
+        ], 
+        [
+          275, 
+          160
+        ]
+      ], 
+      "signature": "[class]android.view.View[resource_id]btnSelChp[text][enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": "btn-selchp", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "36*37", 
+      "checked": false, 
+      "temp_id": 13, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.Image[resource_id]None", 
+      "is_password": false, 
+      "parent": 12, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.Image", 
+      "scrollable": false, 
+      "package": "com.ironServices.audioBooks", 
+      "long_clickable": false, 
+      "view_str": "e0f1e9de1640294b01241fba0bf36e9c", 
+      "enabled": true, 
+      "bounds": [
+        [
+          210, 
+          91
+        ], 
+        [
+          246, 
+          128
+        ]
+      ], 
+      "signature": "[class]android.widget.Image[resource_id]None[text]btn-selchp[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": "btnDwn", 
+      "text": "", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [
+        15
+      ], 
+      "size": "162*82", 
+      "checked": false, 
+      "temp_id": 14, 
+      "selected": false, 
+      "child_count": 1, 
+      "content_free_signature": "[class]android.view.View[resource_id]btnDwn", 
+      "is_password": false, 
+      "parent": 10, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": true, 
+      "class": "android.view.View", 
+      "scrollable": false, 
+      "package": "com.ironServices.audioBooks", 
+      "long_clickable": false, 
+      "view_str": "867c2b51a2f908f2f7d579cfd2a8c601", 
+      "enabled": true, 
+      "bounds": [
+        [
+          307, 
+          78
+        ], 
+        [
+          469, 
+          160
+        ]
+      ], 
+      "signature": "[class]android.view.View[resource_id]btnDwn[text][enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": "btn-download", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "105*76", 
+      "checked": false, 
+      "temp_id": 15, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.Image[resource_id]None", 
+      "is_password": false, 
+      "parent": 14, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.Image", 
+      "scrollable": false, 
+      "package": "com.ironServices.audioBooks", 
+      "long_clickable": false, 
+      "view_str": "aa735ac80f818fd015b11f897d174f0c", 
+      "enabled": true, 
+      "bounds": [
+        [
+          336, 
+          81
+        ], 
+        [
+          441, 
+          157
+        ]
+      ], 
+      "signature": "[class]android.widget.Image[resource_id]None[text]btn-download[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": "btnRemoveBook", 
+      "text": "", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [
+        17
+      ], 
+      "size": "162*82", 
+      "checked": false, 
+      "temp_id": 16, 
+      "selected": false, 
+      "child_count": 1, 
+      "content_free_signature": "[class]android.view.View[resource_id]btnRemoveBook", 
+      "is_password": false, 
+      "parent": 10, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": true, 
+      "class": "android.view.View", 
+      "scrollable": false, 
+      "package": "com.ironServices.audioBooks", 
+      "long_clickable": false, 
+      "view_str": "bda3d17e9609e6b2717f3c3865201a28", 
+      "enabled": true, 
+      "bounds": [
+        [
+          903, 
+          78
+        ], 
+        [
+          1065, 
+          160
+        ]
+      ], 
+      "signature": "[class]android.view.View[resource_id]btnRemoveBook[text][enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": "removefav1", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "105*76", 
+      "checked": false, 
+      "temp_id": 17, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.Image[resource_id]None", 
+      "is_password": false, 
+      "parent": 16, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.Image", 
+      "scrollable": false, 
+      "package": "com.ironServices.audioBooks", 
+      "long_clickable": false, 
+      "view_str": "89e2d9bcf6a36cdea951963efff27a8e", 
+      "enabled": true, 
+      "bounds": [
+        [
+          931, 
+          81
+        ], 
+        [
+          1036, 
+          157
+        ]
+      ], 
+      "signature": "[class]android.widget.Image[resource_id]None[text]removefav1[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": "btnFontSize", 
+      "text": "", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [
+        19
+      ], 
+      "size": "163*82", 
+      "checked": false, 
+      "temp_id": 18, 
+      "selected": false, 
+      "child_count": 1, 
+      "content_free_signature": "[class]android.view.View[resource_id]btnFontSize", 
+      "is_password": false, 
+      "parent": 10, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": true, 
+      "class": "android.view.View", 
+      "scrollable": false, 
+      "package": "com.ironServices.audioBooks", 
+      "long_clickable": false, 
+      "view_str": "5f60c6c12d07d633a3946919aa07e5ec", 
+      "enabled": true, 
+      "bounds": [
+        [
+          708, 
+          78
+        ], 
+        [
+          871, 
+          160
+        ]
+      ], 
+      "signature": "[class]android.view.View[resource_id]btnFontSize[text][enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": "btn-font", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "105*76", 
+      "checked": false, 
+      "temp_id": 19, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.Image[resource_id]None", 
+      "is_password": false, 
+      "parent": 18, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.Image", 
+      "scrollable": false, 
+      "package": "com.ironServices.audioBooks", 
+      "long_clickable": false, 
+      "view_str": "c6845f7d0b62621e359d89405b3187ed", 
+      "enabled": true, 
+      "bounds": [
+        [
+          737, 
+          81
+        ], 
+        [
+          842, 
+          157
+        ]
+      ], 
+      "signature": "[class]android.widget.Image[resource_id]None[text]btn-font[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": "bookFoot", 
+      "text": "", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [
+        21, 
+        23, 
+        25, 
+        29
+      ], 
+      "size": "1081*114", 
+      "checked": false, 
+      "temp_id": 20, 
+      "selected": false, 
+      "child_count": 4, 
+      "content_free_signature": "[class]android.view.View[resource_id]bookFoot", 
+      "is_password": false, 
+      "parent": 9, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.view.View", 
+      "scrollable": false, 
+      "package": "com.ironServices.audioBooks", 
+      "long_clickable": false, 
+      "view_str": "7c81e50f1c4669b4b5149f4c950da63e", 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          1680
+        ], 
+        [
+          1081, 
+          1794
+        ]
+      ], 
+      "signature": "[class]android.view.View[resource_id]bookFoot[text][enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": "btnPreviousChapter", 
+      "text": "", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [
+        22
+      ], 
+      "size": "176*82", 
+      "checked": false, 
+      "temp_id": 21, 
+      "selected": false, 
+      "child_count": 1, 
+      "content_free_signature": "[class]android.view.View[resource_id]btnPreviousChapter", 
+      "is_password": false, 
+      "parent": 20, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": true, 
+      "class": "android.view.View", 
+      "scrollable": false, 
+      "package": "com.ironServices.audioBooks", 
+      "long_clickable": false, 
+      "view_str": "3ea530de03b4731b38ecbc5f144f359b", 
+      "enabled": true, 
+      "bounds": [
+        [
+          15, 
+          1695
+        ], 
+        [
+          191, 
+          1777
+        ]
+      ], 
+      "signature": "[class]android.view.View[resource_id]btnPreviousChapter[text][enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": "btn-prev", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "108*76", 
+      "checked": false, 
+      "temp_id": 22, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.Image[resource_id]None", 
+      "is_password": false, 
+      "parent": 21, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.Image", 
+      "scrollable": false, 
+      "package": "com.ironServices.audioBooks", 
+      "long_clickable": false, 
+      "view_str": "2076a18e4489f3f4631c325acc8f4c29", 
+      "enabled": true, 
+      "bounds": [
+        [
+          49, 
+          1698
+        ], 
+        [
+          157, 
+          1774
+        ]
+      ], 
+      "signature": "[class]android.widget.Image[resource_id]None[text]btn-prev[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": "btnPlayChapter", 
+      "text": "", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [
+        24
+      ], 
+      "size": "176*82", 
+      "checked": false, 
+      "temp_id": 23, 
+      "selected": false, 
+      "child_count": 1, 
+      "content_free_signature": "[class]android.view.View[resource_id]btnPlayChapter", 
+      "is_password": false, 
+      "parent": 20, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": true, 
+      "class": "android.view.View", 
+      "scrollable": false, 
+      "package": "com.ironServices.audioBooks", 
+      "long_clickable": false, 
+      "view_str": "c00a966cbd769819d2b3e405e074d15d", 
+      "enabled": true, 
+      "bounds": [
+        [
+          223, 
+          1695
+        ], 
+        [
+          399, 
+          1777
+        ]
+      ], 
+      "signature": "[class]android.view.View[resource_id]btnPlayChapter[text][enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": "btn-play", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "76*76", 
+      "checked": false, 
+      "temp_id": 24, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.Image[resource_id]None", 
+      "is_password": false, 
+      "parent": 23, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.Image", 
+      "scrollable": false, 
+      "package": "com.ironServices.audioBooks", 
+      "long_clickable": false, 
+      "view_str": "7096c25e18216bd01f2173e6ca311459", 
+      "enabled": true, 
+      "bounds": [
+        [
+          273, 
+          1698
+        ], 
+        [
+          349, 
+          1774
+        ]
+      ], 
+      "signature": "[class]android.widget.Image[resource_id]None[text]btn-play[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": "sldTimeSound", 
+      "text": "", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [
+        26
+      ], 
+      "size": "399*105", 
+      "checked": false, 
+      "temp_id": 25, 
+      "selected": false, 
+      "child_count": 1, 
+      "content_free_signature": "[class]android.view.View[resource_id]sldTimeSound", 
+      "is_password": false, 
+      "parent": 20, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.view.View", 
+      "scrollable": false, 
+      "package": "com.ironServices.audioBooks", 
+      "long_clickable": false, 
+      "view_str": "5cf05401c66e0ba86379843dd19d3849", 
+      "enabled": true, 
+      "bounds": [
+        [
+          414, 
+          1680
+        ], 
+        [
+          813, 
+          1785
+        ]
+      ], 
+      "signature": "[class]android.view.View[resource_id]sldTimeSound[text][enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": "inputTimeSound", 
+      "text": "", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [
+        27, 
+        28
+      ], 
+      "size": "338*40", 
+      "checked": false, 
+      "temp_id": 26, 
+      "selected": false, 
+      "child_count": 2, 
+      "content_free_signature": "[class]android.view.View[resource_id]inputTimeSound", 
+      "is_password": false, 
+      "parent": 25, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": true, 
+      "class": "android.view.View", 
+      "scrollable": false, 
+      "package": "com.ironServices.audioBooks", 
+      "long_clickable": false, 
+      "view_str": "7f4ae4a23969d63aaec1c2c2a2baf631", 
+      "enabled": true, 
+      "bounds": [
+        [
+          467, 
+          1716
+        ], 
+        [
+          805, 
+          1756
+        ]
+      ], 
+      "signature": "[class]android.view.View[resource_id]inputTimeSound[text][enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": "", 
+      "visible": false, 
+      "checkable": false, 
+      "children": [], 
+      "size": "0*2", 
+      "checked": false, 
+      "temp_id": 27, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.view.View[resource_id]None", 
+      "is_password": false, 
+      "parent": 26, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.view.View", 
+      "scrollable": false, 
+      "package": "com.ironServices.audioBooks", 
+      "long_clickable": false, 
+      "view_str": "a0b928f8e4139a40824fba7ed942ca2d", 
+      "enabled": true, 
+      "bounds": [
+        [
+          469, 
+          1792
+        ], 
+        [
+          469, 
+          1794
+        ]
+      ], 
+      "signature": "[class]android.view.View[resource_id]None[text][enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": "", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "66*65", 
+      "checked": false, 
+      "temp_id": 28, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.view.View[resource_id]None", 
+      "is_password": false, 
+      "parent": 26, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.view.View", 
+      "scrollable": false, 
+      "package": "com.ironServices.audioBooks", 
+      "long_clickable": false, 
+      "view_str": "a0b928f8e4139a40824fba7ed942ca2d", 
+      "enabled": true, 
+      "bounds": [
+        [
+          438, 
+          1701
+        ], 
+        [
+          504, 
+          1766
+        ]
+      ], 
+      "signature": "[class]android.view.View[resource_id]None[text][enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": "btnNextChapter", 
+      "text": "", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [
+        30
+      ], 
+      "size": "176*90", 
+      "checked": false, 
+      "temp_id": 29, 
+      "selected": false, 
+      "child_count": 1, 
+      "content_free_signature": "[class]android.view.View[resource_id]btnNextChapter", 
+      "is_password": false, 
+      "parent": 20, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": true, 
+      "class": "android.view.View", 
+      "scrollable": false, 
+      "package": "com.ironServices.audioBooks", 
+      "long_clickable": false, 
+      "view_str": "e7137a05469441c1b6e2a4e7309d70cf", 
+      "enabled": true, 
+      "bounds": [
+        [
+          889, 
+          1695
+        ], 
+        [
+          1065, 
+          1785
+        ]
+      ], 
+      "signature": "[class]android.view.View[resource_id]btnNextChapter[text][enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": "btn-next", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "107*76", 
+      "checked": false, 
+      "temp_id": 30, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.Image[resource_id]None", 
+      "is_password": false, 
+      "parent": 29, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.Image", 
+      "scrollable": false, 
+      "package": "com.ironServices.audioBooks", 
+      "long_clickable": false, 
+      "view_str": "d18b007f79956d875981bafaf556b2fb", 
+      "enabled": true, 
+      "bounds": [
+        [
+          924, 
+          1698
+        ], 
+        [
+          1031, 
+          1774
+        ]
+      ], 
+      "signature": "[class]android.widget.Image[resource_id]None[text]btn-next[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": "bookContentPane", 
+      "text": "", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [
+        32
+      ], 
+      "size": "1081*1504", 
+      "checked": false, 
+      "temp_id": 31, 
+      "selected": false, 
+      "child_count": 1, 
+      "content_free_signature": "[class]android.view.View[resource_id]bookContentPane", 
+      "is_password": false, 
+      "parent": 9, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.view.View", 
+      "scrollable": false, 
+      "package": "com.ironServices.audioBooks", 
+      "long_clickable": false, 
+      "view_str": "87ccd68d6f647f69f5924e5845444658", 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          178
+        ], 
+        [
+          1081, 
+          1682
+        ]
+      ], 
+      "signature": "[class]android.view.View[resource_id]bookContentPane[text][enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": "bookContent", 
+      "text": "", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [
+        33, 
+        34, 
+        35, 
+        36, 
+        37, 
+        38, 
+        39, 
+        40, 
+        41, 
+        42, 
+        43, 
+        44, 
+        45, 
+        46, 
+        47, 
+        48, 
+        49, 
+        50, 
+        51, 
+        52, 
+        53, 
+        54, 
+        55, 
+        56, 
+        57, 
+        58, 
+        59, 
+        60, 
+        61, 
+        62, 
+        63, 
+        64, 
+        65, 
+        66, 
+        67, 
+        68, 
+        69, 
+        70, 
+        71, 
+        72, 
+        73, 
+        74, 
+        75, 
+        76, 
+        77, 
+        78, 
+        79, 
+        80, 
+        81, 
+        82, 
+        83, 
+        84
+      ], 
+      "size": "966*1407", 
+      "checked": false, 
+      "temp_id": 32, 
+      "selected": false, 
+      "child_count": 52, 
+      "content_free_signature": "[class]android.view.View[resource_id]bookContent", 
+      "is_password": false, 
+      "parent": 31, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.view.View", 
+      "scrollable": false, 
+      "package": "com.ironServices.audioBooks", 
+      "long_clickable": false, 
+      "view_str": "94c7d2b748575e2543d741fa2402d271", 
+      "enabled": true, 
+      "bounds": [
+        [
+          57, 
+          220
+        ], 
+        [
+          1023, 
+          1627
+        ]
+      ], 
+      "signature": "[class]android.view.View[resource_id]bookContent[text][enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": "link2HCH0318", 
+      "text": "", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "966*1407", 
+      "checked": false, 
+      "temp_id": 33, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.view.View[resource_id]link2HCH0318", 
+      "is_password": false, 
+      "parent": 32, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.view.View", 
+      "scrollable": false, 
+      "package": "com.ironServices.audioBooks", 
+      "long_clickable": false, 
+      "view_str": "89f2dcdcd011397c3671227fb2a5336f", 
+      "enabled": true, 
+      "bounds": [
+        [
+          57, 
+          220
+        ], 
+        [
+          1023, 
+          1627
+        ]
+      ], 
+      "signature": "[class]android.view.View[resource_id]link2HCH0318[text][enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": "\n\n\n\n", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "966*270", 
+      "checked": false, 
+      "temp_id": 34, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.view.View[resource_id]None", 
+      "is_password": false, 
+      "parent": 32, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.view.View", 
+      "scrollable": false, 
+      "package": "com.ironServices.audioBooks", 
+      "long_clickable": false, 
+      "view_str": "f12490fa1c1530d33977d4c8a7722541", 
+      "enabled": true, 
+      "bounds": [
+        [
+          57, 
+          220
+        ], 
+        [
+          1023, 
+          490
+        ]
+      ], 
+      "signature": "[class]android.view.View[resource_id]None[text]\n\n\n\n[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": "CHAPTER XX\u2014THE DEAD ARE IN THE RIGHT AND THE LIVING ARE NOT IN THE WRONG", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "966*593", 
+      "checked": false, 
+      "temp_id": 35, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.view.View[resource_id]None", 
+      "is_password": false, 
+      "parent": 32, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.view.View", 
+      "scrollable": false, 
+      "package": "com.ironServices.audioBooks", 
+      "long_clickable": false, 
+      "view_str": "753297f2753d27ac306791e93b801f33", 
+      "enabled": true, 
+      "bounds": [
+        [
+          57, 
+          572
+        ], 
+        [
+          1023, 
+          1165
+        ]
+      ], 
+      "signature": "[class]android.view.View[resource_id]None[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": "The death agony of the barricade was about to begin.", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "966*161", 
+      "checked": false, 
+      "temp_id": 36, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.view.View[resource_id]None", 
+      "is_password": false, 
+      "parent": 32, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.view.View", 
+      "scrollable": false, 
+      "package": "com.ironServices.audioBooks", 
+      "long_clickable": false, 
+      "view_str": "753297f2753d27ac306791e93b801f33", 
+      "enabled": true, 
+      "bounds": [
+        [
+          57, 
+          1246
+        ], 
+        [
+          1023, 
+          1407
+        ]
+      ], 
+      "signature": "[class]android.view.View[resource_id]None[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": "Everything contributed to its tragic majesty at that supreme moment; a thousand mysterious crashes in the air, the breath of armed masses set in movement in the streets which were not visible, the intermittent gallop of cavalry, the heavy shock of artillery on the march, the firing by squads, and the cannonades crossing each other in the labyrinth of Paris, the smokes of battle mounting all gilded above the roofs, indescribable and vaguely terrible cries, lightnings of menace everywhere, the tocsin of Saint-Merry, which now had the accents of a sob, the mildness of the weather, the splendor of the sky filled with sun and clouds, the beauty of the day, and the alarming silence of the houses.", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "966*223", 
+      "checked": false, 
+      "temp_id": 37, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.view.View[resource_id]None", 
+      "is_password": false, 
+      "parent": 32, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.view.View", 
+      "scrollable": false, 
+      "package": "com.ironServices.audioBooks", 
+      "long_clickable": false, 
+      "view_str": "753297f2753d27ac306791e93b801f33", 
+      "enabled": true, 
+      "bounds": [
+        [
+          57, 
+          1404
+        ], 
+        [
+          1023, 
+          1627
+        ]
+      ], 
+      "signature": "[class]android.view.View[resource_id]None[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": "For, since the preceding evening, the two rows of houses in the Rue de la Chanvrerie had become two walls; ferocious walls, doors closed, windows closed, shutters closed.", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "2*472", 
+      "checked": false, 
+      "temp_id": 38, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.view.View[resource_id]None", 
+      "is_password": false, 
+      "parent": 32, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.view.View", 
+      "scrollable": false, 
+      "package": "com.ironServices.audioBooks", 
+      "long_clickable": false, 
+      "view_str": "753297f2753d27ac306791e93b801f33", 
+      "enabled": true, 
+      "bounds": [
+        [
+          1021, 
+          614
+        ], 
+        [
+          1023, 
+          1086
+        ]
+      ], 
+      "signature": "[class]android.view.View[resource_id]None[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": "In those days, so different from those in which we live, when the hour was come, when the people wished to put an end to a situation, which had lasted too long, with a charter granted or with a legal country, when universal wrath was diffused in the atmosphere, when the city consented to the tearing up of the pavements, when insurrection made the bourgeoisie smile by whispering its password in its ear, then the inhabitant, thoroughly penetrated with the revolt, so to speak, was the auxiliary of the combatant, and the house fraternized with the improvised fortress which rested on it. When the situation was not ripe, when the insurrection was not decidedly admitted, when the masses disowned the movement, all was over with the combatants, the city was changed into a desert around the revolt, souls grew chilled, refuges were nailed up, and the street turned into a defile to help the army to take the barricade.", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "2*596", 
+      "checked": false, 
+      "temp_id": 39, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.view.View[resource_id]None", 
+      "is_password": false, 
+      "parent": 32, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.view.View", 
+      "scrollable": false, 
+      "package": "com.ironServices.audioBooks", 
+      "long_clickable": false, 
+      "view_str": "753297f2753d27ac306791e93b801f33", 
+      "enabled": true, 
+      "bounds": [
+        [
+          1021, 
+          1086
+        ], 
+        [
+          1023, 
+          1682
+        ]
+      ], 
+      "signature": "[class]android.view.View[resource_id]None[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": "A people cannot be forced, through surprise, to walk more quickly than it chooses. Woe to whomsoever tries to force its hand! A people does not let itself go at random. Then it abandons the insurrection to itself. The insurgents become noxious, infected with the plague. A house is an escarpment, a door is a refusal, a facade is a wall. This wall hears, sees and will not. It might open and save you. No. This wall is a judge. It gazes at you and condemns you. What dismal things are closed houses. They seem dead, they are living. Life which is, as it were, suspended there, persists there. No one has gone out of them for four and twenty hours, but no one is missing from them. In the interior of that rock, people go and come, go to bed and rise again; they are a family party there; there they eat and drink; they are afraid, a terrible thing! Fear excuses this fearful lack of hospitality; terror is mixed with it, an extenuating circumstance. Sometimes, even, and this has been actually seen, fear turns to passion; fright may change into fury, as prudence does into rage; hence this wise saying: \"The enraged moderates.\" There are outbursts of supreme terror, whence springs wrath like a mournful smoke.\u2014\"What do these people want? What have they come there to do? Let them get out of the scrape. So much the worse for them. It is their fault. They are only getting what they deserve. It does not concern us. Here is our poor street all riddled with balls. They are a pack of rascals. Above all things, don't open the door.\"\u2014And the house assumes the air of a tomb. The insurgent is in the death-throes in front of that house; he sees the grape-shot and naked swords drawing near; if he cries, he knows that they are listening to him, and that no one will come; there stand walls which might protect him, there are men who might save him; and these walls have ears of flesh, and these men have bowels of stone.", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "2*753", 
+      "checked": false, 
+      "temp_id": 40, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.view.View[resource_id]None", 
+      "is_password": false, 
+      "parent": 32, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.view.View", 
+      "scrollable": false, 
+      "package": "com.ironServices.audioBooks", 
+      "long_clickable": false, 
+      "view_str": "753297f2753d27ac306791e93b801f33", 
+      "enabled": true, 
+      "bounds": [
+        [
+          1021, 
+          929
+        ], 
+        [
+          1023, 
+          1682
+        ]
+      ], 
+      "signature": "[class]android.view.View[resource_id]None[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": "Whom shall he reproach?", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "2*79", 
+      "checked": false, 
+      "temp_id": 41, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.view.View[resource_id]None", 
+      "is_password": false, 
+      "parent": 32, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.view.View", 
+      "scrollable": false, 
+      "package": "com.ironServices.audioBooks", 
+      "long_clickable": false, 
+      "view_str": "e3e0250d9e091f04090206f605c43c77", 
+      "enabled": true, 
+      "bounds": [
+        [
+          1021, 
+          614
+        ], 
+        [
+          1023, 
+          693
+        ]
+      ], 
+      "signature": "[class]android.view.View[resource_id]None[text]Whom shall he reproach?[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": "No one and every one.", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "2*78", 
+      "checked": false, 
+      "temp_id": 42, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.view.View[resource_id]None", 
+      "is_password": false, 
+      "parent": 32, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.view.View", 
+      "scrollable": false, 
+      "package": "com.ironServices.audioBooks", 
+      "long_clickable": false, 
+      "view_str": "73213cb22e29b700d4667a94b08d2549", 
+      "enabled": true, 
+      "bounds": [
+        [
+          1021, 
+          693
+        ], 
+        [
+          1023, 
+          771
+        ]
+      ], 
+      "signature": "[class]android.view.View[resource_id]None[text]No one and every one.[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": "The incomplete times in which we live.", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "2*158", 
+      "checked": false, 
+      "temp_id": 43, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.view.View[resource_id]None", 
+      "is_password": false, 
+      "parent": 32, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.view.View", 
+      "scrollable": false, 
+      "package": "com.ironServices.audioBooks", 
+      "long_clickable": false, 
+      "view_str": "c5460b31bdfcf4f0a9d0d9d76f0f45ca", 
+      "enabled": true, 
+      "bounds": [
+        [
+          1021, 
+          771
+        ], 
+        [
+          1023, 
+          929
+        ]
+      ], 
+      "signature": "[class]android.view.View[resource_id]None[text]The incomplete times in which we live.[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": "It is always at its own risk and peril that Utopia is converted into revolution, and from philosophical protest becomes an armed protest, and from Minerva turns to Pallas.", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "2*472", 
+      "checked": false, 
+      "temp_id": 44, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.view.View[resource_id]None", 
+      "is_password": false, 
+      "parent": 32, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.view.View", 
+      "scrollable": false, 
+      "package": "com.ironServices.audioBooks", 
+      "long_clickable": false, 
+      "view_str": "753297f2753d27ac306791e93b801f33", 
+      "enabled": true, 
+      "bounds": [
+        [
+          1021, 
+          929
+        ], 
+        [
+          1023, 
+          1401
+        ]
+      ], 
+      "signature": "[class]android.view.View[resource_id]None[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": "The Utopia which grows impatient and becomes revolt knows what awaits it; it almost always comes too soon. Then it becomes resigned, and stoically accepts catastrophe in lieu of triumph. It serves those who deny it without complaint, even excusing them, and even disculpates them, and its magnanimity consists in consenting to abandonment. It is indomitable in the face of obstacles and gentle towards ingratitude.", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "2*281", 
+      "checked": false, 
+      "temp_id": 45, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.view.View[resource_id]None", 
+      "is_password": false, 
+      "parent": 32, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.view.View", 
+      "scrollable": false, 
+      "package": "com.ironServices.audioBooks", 
+      "long_clickable": false, 
+      "view_str": "753297f2753d27ac306791e93b801f33", 
+      "enabled": true, 
+      "bounds": [
+        [
+          1021, 
+          1401
+        ], 
+        [
+          1023, 
+          1682
+        ]
+      ], 
+      "signature": "[class]android.view.View[resource_id]None[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": "Is this ingratitude, however?", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "2*79", 
+      "checked": false, 
+      "temp_id": 46, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.view.View[resource_id]None", 
+      "is_password": false, 
+      "parent": 32, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.view.View", 
+      "scrollable": false, 
+      "package": "com.ironServices.audioBooks", 
+      "long_clickable": false, 
+      "view_str": "db38b4ab1159e939155f05be4c811a5b", 
+      "enabled": true, 
+      "bounds": [
+        [
+          1021, 
+          1244
+        ], 
+        [
+          1023, 
+          1323
+        ]
+      ], 
+      "signature": "[class]android.view.View[resource_id]None[text]Is this ingratitude, however?[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": "Yes, from the point of view of the human race.", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "2*157", 
+      "checked": false, 
+      "temp_id": 47, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.view.View[resource_id]None", 
+      "is_password": false, 
+      "parent": 32, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.view.View", 
+      "scrollable": false, 
+      "package": "com.ironServices.audioBooks", 
+      "long_clickable": false, 
+      "view_str": "91f5d165b87fb9795a4c70a4820e4dcf", 
+      "enabled": true, 
+      "bounds": [
+        [
+          1021, 
+          1323
+        ], 
+        [
+          1023, 
+          1480
+        ]
+      ], 
+      "signature": "[class]android.view.View[resource_id]None[text]Yes, from the point of view of the human race.[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": "No, from the point of view of the individual.", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "2*158", 
+      "checked": false, 
+      "temp_id": 48, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.view.View[resource_id]None", 
+      "is_password": false, 
+      "parent": 32, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.view.View", 
+      "scrollable": false, 
+      "package": "com.ironServices.audioBooks", 
+      "long_clickable": false, 
+      "view_str": "d015be40c81fbec80fc8b030f513c0a5", 
+      "enabled": true, 
+      "bounds": [
+        [
+          1021, 
+          220
+        ], 
+        [
+          1023, 
+          378
+        ]
+      ], 
+      "signature": "[class]android.view.View[resource_id]None[text]No, from the point of view of the individual.[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": "Progress is man's mode of existence. The general life of the human race is called Progress, the collective stride of the human race is called Progress. Progress advances; it makes the great human and terrestrial journey towards the celestial and the divine; it has its halting places where it rallies the laggard troop, it has its stations where it meditates, in the presence of some splendid Canaan suddenly unveiled on its horizon, it has its nights when it sleeps; and it is one of the poignant anxieties of the thinker that he sees the shadow resting on the human soul, and that he gropes in darkness without being able to awaken that slumbering Progress.", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "2*1304", 
+      "checked": false, 
+      "temp_id": 49, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.view.View[resource_id]None", 
+      "is_password": false, 
+      "parent": 32, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.view.View", 
+      "scrollable": false, 
+      "package": "com.ironServices.audioBooks", 
+      "long_clickable": false, 
+      "view_str": "753297f2753d27ac306791e93b801f33", 
+      "enabled": true, 
+      "bounds": [
+        [
+          1021, 
+          378
+        ], 
+        [
+          1023, 
+          1682
+        ]
+      ], 
+      "signature": "[class]android.view.View[resource_id]None[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": "\"God is dead, perhaps,\" said Gerard de Nerval one day to the writer of these lines, confounding progress with God, and taking the interruption of movement for the death of Being.", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "2*552", 
+      "checked": false, 
+      "temp_id": 50, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.view.View[resource_id]None", 
+      "is_password": false, 
+      "parent": 32, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.view.View", 
+      "scrollable": false, 
+      "package": "com.ironServices.audioBooks", 
+      "long_clickable": false, 
+      "view_str": "753297f2753d27ac306791e93b801f33", 
+      "enabled": true, 
+      "bounds": [
+        [
+          1021, 
+          771
+        ], 
+        [
+          1023, 
+          1323
+        ]
+      ], 
+      "signature": "[class]android.view.View[resource_id]None[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": "He who despairs is in the wrong. Progress infallibly awakes, and, in short, we may say that it marches on, even when it is asleep, for it has increased in size. When we behold it erect once more, we find it taller. To be always peaceful does not depend on progress any more than it does on the stream; erect no barriers, cast in no boulders; obstacles make water froth and humanity boil. Hence arise troubles; but after these troubles, we recognize the fact that ground has been gained. Until order, which is nothing else than universal peace, has been established, until harmony and unity reign, progress will have revolutions as its halting-places.", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "2*359", 
+      "checked": false, 
+      "temp_id": 51, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.view.View[resource_id]None", 
+      "is_password": false, 
+      "parent": 32, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.view.View", 
+      "scrollable": false, 
+      "package": "com.ironServices.audioBooks", 
+      "long_clickable": false, 
+      "view_str": "753297f2753d27ac306791e93b801f33", 
+      "enabled": true, 
+      "bounds": [
+        [
+          1021, 
+          1323
+        ], 
+        [
+          1023, 
+          1682
+        ]
+      ], 
+      "signature": "[class]android.view.View[resource_id]None[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": "What, then, is progress? We have just enunciated it; the permanent life of the peoples.", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "2*236", 
+      "checked": false, 
+      "temp_id": 52, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.view.View[resource_id]None", 
+      "is_password": false, 
+      "parent": 32, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.view.View", 
+      "scrollable": false, 
+      "package": "com.ironServices.audioBooks", 
+      "long_clickable": false, 
+      "view_str": "753297f2753d27ac306791e93b801f33", 
+      "enabled": true, 
+      "bounds": [
+        [
+          1021, 
+          378
+        ], 
+        [
+          1023, 
+          614
+        ]
+      ], 
+      "signature": "[class]android.view.View[resource_id]None[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": "Now, it sometimes happens, that the momentary life of individuals offers resistance to the eternal life of the human race.", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "2*394", 
+      "checked": false, 
+      "temp_id": 53, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.view.View[resource_id]None", 
+      "is_password": false, 
+      "parent": 32, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.view.View", 
+      "scrollable": false, 
+      "package": "com.ironServices.audioBooks", 
+      "long_clickable": false, 
+      "view_str": "753297f2753d27ac306791e93b801f33", 
+      "enabled": true, 
+      "bounds": [
+        [
+          1021, 
+          614
+        ], 
+        [
+          1023, 
+          1008
+        ]
+      ], 
+      "signature": "[class]android.view.View[resource_id]None[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": "Let us admit without bitterness, that the individual has his distinct interests, and can, without forfeiture, stipulate for his interest, and defend it; the present has its pardonable dose of egotism; momentary life has its rights, and is not bound to sacrifice itself constantly to the future. The generation which is passing in its turn over the earth, is not forced to abridge it for the sake of the generations, its equal, after all, who will have their turn later on.\u2014\"I exist,\" murmurs that some one whose name is All. \"I am young and in love, I am old and I wish to repose, I am the father of a family, I toil, I prosper, I am successful in business, I have houses to lease, I have money in the government funds, I am happy, I have a wife and children, I have all this, I desire to live, leave me in peace.\"\u2014Hence, at certain hours, a profound cold broods over the magnanimous vanguard of the human race.", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "2*674", 
+      "checked": false, 
+      "temp_id": 54, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.view.View[resource_id]None", 
+      "is_password": false, 
+      "parent": 32, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.view.View", 
+      "scrollable": false, 
+      "package": "com.ironServices.audioBooks", 
+      "long_clickable": false, 
+      "view_str": "753297f2753d27ac306791e93b801f33", 
+      "enabled": true, 
+      "bounds": [
+        [
+          1021, 
+          1008
+        ], 
+        [
+          1023, 
+          1682
+        ]
+      ], 
+      "signature": "[class]android.view.View[resource_id]None[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": "Utopia, moreover, we must admit, quits its radiant sphere when it makes war. It, the truth of to-morrow, borrows its mode of procedure, battle, from the lie of yesterday. It, the future, behaves like the past. It, pure idea, becomes a deed of violence. It complicates its heroism with a violence for which it is just that it should be held to answer; a violence of occasion and expedient, contrary to principle, and for which it is fatally punished. The Utopia, insurrection, fights with the old military code in its fist; it shoots spies, it executes traitors; it suppresses living beings and flings them into unknown darkness. It makes use of death, a serious matter. It seems as though Utopia had no longer any faith in radiance, its irresistible and incorruptible force. It strikes with the sword. Now, no sword is simple. Every blade has two edges; he who wounds with the one is wounded with the other.", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "2*989", 
+      "checked": false, 
+      "temp_id": 55, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.view.View[resource_id]None", 
+      "is_password": false, 
+      "parent": 32, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.view.View", 
+      "scrollable": false, 
+      "package": "com.ironServices.audioBooks", 
+      "long_clickable": false, 
+      "view_str": "753297f2753d27ac306791e93b801f33", 
+      "enabled": true, 
+      "bounds": [
+        [
+          1021, 
+          693
+        ], 
+        [
+          1023, 
+          1682
+        ]
+      ], 
+      "signature": "[class]android.view.View[resource_id]None[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": "Having made this reservation, and made it with all severity, it is impossible for us not to admire, whether they succeed or not, those the glorious combatants of the future, the confessors of Utopia. Even when they miscarry, they are worthy of veneration; and it is, perhaps, in failure, that they possess the most majesty. Victory, when it is in accord with progress, merits the applause of the people; but a heroic defeat merits their tender compassion. The one is magnificent, the other sublime. For our own part, we prefer martyrdom to success. John Brown is greater than Washington, and Pisacane is greater than Garibaldi.", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "2*1304", 
+      "checked": false, 
+      "temp_id": 56, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.view.View[resource_id]None", 
+      "is_password": false, 
+      "parent": 32, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.view.View", 
+      "scrollable": false, 
+      "package": "com.ironServices.audioBooks", 
+      "long_clickable": false, 
+      "view_str": "753297f2753d27ac306791e93b801f33", 
+      "enabled": true, 
+      "bounds": [
+        [
+          1021, 
+          378
+        ], 
+        [
+          1023, 
+          1682
+        ]
+      ], 
+      "signature": "[class]android.view.View[resource_id]None[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": "It certainly is necessary that some one should take the part of the vanquished.", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "2*236", 
+      "checked": false, 
+      "temp_id": 57, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.view.View[resource_id]None", 
+      "is_password": false, 
+      "parent": 32, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.view.View", 
+      "scrollable": false, 
+      "package": "com.ironServices.audioBooks", 
+      "long_clickable": false, 
+      "view_str": "753297f2753d27ac306791e93b801f33", 
+      "enabled": true, 
+      "bounds": [
+        [
+          1021, 
+          693
+        ], 
+        [
+          1023, 
+          929
+        ]
+      ], 
+      "signature": "[class]android.view.View[resource_id]None[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": "We are unjust towards these great men who attempt the future, when they fail.", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "2*236", 
+      "checked": false, 
+      "temp_id": 58, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.view.View[resource_id]None", 
+      "is_password": false, 
+      "parent": 32, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.view.View", 
+      "scrollable": false, 
+      "package": "com.ironServices.audioBooks", 
+      "long_clickable": false, 
+      "view_str": "753297f2753d27ac306791e93b801f33", 
+      "enabled": true, 
+      "bounds": [
+        [
+          1021, 
+          929
+        ], 
+        [
+          1023, 
+          1165
+        ]
+      ], 
+      "signature": "[class]android.view.View[resource_id]None[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": "Revolutionists are accused of sowing fear abroad. Every barricade seems a crime. Their theories are incriminated, their aim suspected, their ulterior motive is feared, their conscience denounced. They are reproached with raising, erecting, and heaping up, against the reigning social state, a mass of miseries, of griefs, of iniquities, of wrongs, of despairs, and of tearing from the lowest depths blocks of shadow in order therein to embattle themselves and to combat. People shout to them: \"You are tearing up the pavements of hell!\" They might reply: \"That is because our barricade is made of good intentions.\"", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "2*517", 
+      "checked": false, 
+      "temp_id": 59, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.view.View[resource_id]None", 
+      "is_password": false, 
+      "parent": 32, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.view.View", 
+      "scrollable": false, 
+      "package": "com.ironServices.audioBooks", 
+      "long_clickable": false, 
+      "view_str": "753297f2753d27ac306791e93b801f33", 
+      "enabled": true, 
+      "bounds": [
+        [
+          1021, 
+          1165
+        ], 
+        [
+          1023, 
+          1682
+        ]
+      ], 
+      "signature": "[class]android.view.View[resource_id]None[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": "The best thing, assuredly, is the pacific solution. In short, let us agree that when we behold the pavement, we think of the bear, and it is a good will which renders society uneasy. But it depends on society to save itself, it is to its own good will that we make our appeal. No violent remedy is necessary. To study evil amiably, to prove its existence, then to cure it. It is to this that we invite it.", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "2*1024", 
+      "checked": false, 
+      "temp_id": 60, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.view.View[resource_id]None", 
+      "is_password": false, 
+      "parent": 32, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.view.View", 
+      "scrollable": false, 
+      "package": "com.ironServices.audioBooks", 
+      "long_clickable": false, 
+      "view_str": "753297f2753d27ac306791e93b801f33", 
+      "enabled": true, 
+      "bounds": [
+        [
+          1021, 
+          220
+        ], 
+        [
+          1023, 
+          1244
+        ]
+      ], 
+      "signature": "[class]android.view.View[resource_id]None[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": "However that may be, even when fallen, above all when fallen, these men, who at every point of the universe, with their eyes fixed on France, are striving for the grand work with the inflexible logic of the ideal, are august; they give their life a free offering to progress; they accomplish the will of providence; they perform a religious act. At the appointed hour, with as much disinterestedness as an actor who answers to his cue, in obedience to the divine stage-manager, they enter the tomb. And this hopeless combat, this stoical disappearance they accept in order to bring about the supreme and universal consequences, the magnificent and irresistibly human movement begun on the 14th of July, 1789; these soldiers are priests. The French revolution is an act of God.", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "2*438", 
+      "checked": false, 
+      "temp_id": 61, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.view.View[resource_id]None", 
+      "is_password": false, 
+      "parent": 32, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.view.View", 
+      "scrollable": false, 
+      "package": "com.ironServices.audioBooks", 
+      "long_clickable": false, 
+      "view_str": "753297f2753d27ac306791e93b801f33", 
+      "enabled": true, 
+      "bounds": [
+        [
+          1021, 
+          1244
+        ], 
+        [
+          1023, 
+          1682
+        ]
+      ], 
+      "signature": "[class]android.view.View[resource_id]None[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": "Moreover, there are, and it is proper to add this distinction to the distinctions already pointed out in another chapter,\u2014there are accepted revolutions, revolutions which are called revolutions; there are refused revolutions, which are called riots.", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "2*708", 
+      "checked": false, 
+      "temp_id": 62, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.view.View[resource_id]None", 
+      "is_password": false, 
+      "parent": 32, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.view.View", 
+      "scrollable": false, 
+      "package": "com.ironServices.audioBooks", 
+      "long_clickable": false, 
+      "view_str": "753297f2753d27ac306791e93b801f33", 
+      "enabled": true, 
+      "bounds": [
+        [
+          1021, 
+          693
+        ], 
+        [
+          1023, 
+          1401
+        ]
+      ], 
+      "signature": "[class]android.view.View[resource_id]None[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": "An insurrection which breaks out, is an idea which is passing its examination before the people. If the people lets fall a black ball, the idea is dried fruit; the insurrection is a mere skirmish.", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "2*281", 
+      "checked": false, 
+      "temp_id": 63, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.view.View[resource_id]None", 
+      "is_password": false, 
+      "parent": 32, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.view.View", 
+      "scrollable": false, 
+      "package": "com.ironServices.audioBooks", 
+      "long_clickable": false, 
+      "view_str": "753297f2753d27ac306791e93b801f33", 
+      "enabled": true, 
+      "bounds": [
+        [
+          1021, 
+          1401
+        ], 
+        [
+          1023, 
+          1682
+        ]
+      ], 
+      "signature": "[class]android.view.View[resource_id]None[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": "Waging war at every summons and every time that Utopia desires it, is not the thing for the peoples. Nations have not always and at every hour the temperament of heroes and martyrs.", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "2*551", 
+      "checked": false, 
+      "temp_id": 64, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.view.View[resource_id]None", 
+      "is_password": false, 
+      "parent": 32, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.view.View", 
+      "scrollable": false, 
+      "package": "com.ironServices.audioBooks", 
+      "long_clickable": false, 
+      "view_str": "753297f2753d27ac306791e93b801f33", 
+      "enabled": true, 
+      "bounds": [
+        [
+          1021, 
+          614
+        ], 
+        [
+          1023, 
+          1165
+        ]
+      ], 
+      "signature": "[class]android.view.View[resource_id]None[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": "They are positive. A priori, insurrection is repugnant to them, in the first place, because it often results in a catastrophe, in the second place, because it always has an abstraction as its point of departure.", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "2*517", 
+      "checked": false, 
+      "temp_id": 65, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.view.View[resource_id]None", 
+      "is_password": false, 
+      "parent": 32, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.view.View", 
+      "scrollable": false, 
+      "package": "com.ironServices.audioBooks", 
+      "long_clickable": false, 
+      "view_str": "753297f2753d27ac306791e93b801f33", 
+      "enabled": true, 
+      "bounds": [
+        [
+          1021, 
+          1165
+        ], 
+        [
+          1023, 
+          1682
+        ]
+      ], 
+      "signature": "[class]android.view.View[resource_id]None[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": "Because, and this is a noble thing, it is always for the ideal, and for the ideal alone, that those who sacrifice themselves do thus sacrifice themselves. An insurrection is an enthusiasm. Enthusiasm may wax wroth; hence the appeal to arms. But every insurrection, which aims at a government or a regime, aims higher. Thus, for instance, and we insist upon it, what the chiefs of the insurrection of 1832, and, in particular, the young enthusiasts of the Rue de la Chanvrerie were combating, was not precisely Louis Philippe. The majority of them, when talking freely, did justice to this king who stood midway between monarchy and revolution; no one hated him. But they attacked the younger branch of the divine right in Louis Philippe as they had attacked its elder branch in Charles X.; and that which they wished to overturn in overturning royalty in France, was, as we have explained, the usurpation of man over man, and of privilege over right in the entire universe. Paris without a king has as result the world without despots. This is the manner in which they reasoned. Their aim was distant no doubt, vague perhaps, and it retreated in the face of their efforts; but it was great.", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "2*1304", 
+      "checked": false, 
+      "temp_id": 66, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.view.View[resource_id]None", 
+      "is_password": false, 
+      "parent": 32, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.view.View", 
+      "scrollable": false, 
+      "package": "com.ironServices.audioBooks", 
+      "long_clickable": false, 
+      "view_str": "753297f2753d27ac306791e93b801f33", 
+      "enabled": true, 
+      "bounds": [
+        [
+          1021, 
+          378
+        ], 
+        [
+          1023, 
+          1682
+        ]
+      ], 
+      "signature": "[class]android.view.View[resource_id]None[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": "Thus it is. And we sacrifice ourselves for these visions, which are almost always illusions for the sacrificed, but illusions with which, after all, the whole of human certainty is mingled. We throw ourselves into these tragic affairs and become intoxicated with that which we are about to do. Who knows? We may succeed. We are few in number, we have a whole army arrayed against us; but we are defending right, the natural law, the sovereignty of each one over himself from which no abdication is possible, justice and truth, and in case of need, we die like the three hundred Spartans. We do not think of Don Quixote but of Leonidas. And we march straight before us, and once pledged, we do not draw back, and we rush onwards with head held low, cherishing as our hope an unprecedented victory, revolution completed, progress set free again, the aggrandizement of the human race, universal deliverance; and in the event of the worst, Thermopylae.", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "2*753", 
+      "checked": false, 
+      "temp_id": 67, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.view.View[resource_id]None", 
+      "is_password": false, 
+      "parent": 32, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.view.View", 
+      "scrollable": false, 
+      "package": "com.ironServices.audioBooks", 
+      "long_clickable": false, 
+      "view_str": "753297f2753d27ac306791e93b801f33", 
+      "enabled": true, 
+      "bounds": [
+        [
+          1021, 
+          929
+        ], 
+        [
+          1023, 
+          1682
+        ]
+      ], 
+      "signature": "[class]android.view.View[resource_id]None[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": "These passages of arms for the sake of progress often suffer shipwreck, and we have just explained why. The crowd is restive in the presence of the impulses of paladins. Heavy masses, the multitudes which are fragile because of their very weight, fear adventures; and there is a touch of adventure in the ideal.", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "2*832", 
+      "checked": false, 
+      "temp_id": 68, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.view.View[resource_id]None", 
+      "is_password": false, 
+      "parent": 32, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.view.View", 
+      "scrollable": false, 
+      "package": "com.ironServices.audioBooks", 
+      "long_clickable": false, 
+      "view_str": "753297f2753d27ac306791e93b801f33", 
+      "enabled": true, 
+      "bounds": [
+        [
+          1021, 
+          850
+        ], 
+        [
+          1023, 
+          1682
+        ]
+      ], 
+      "signature": "[class]android.view.View[resource_id]None[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": "Moreover, and we must not forget this, interests which are not very friendly to the ideal and the sentimental are in the way. Sometimes the stomach paralyzes the heart.", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "2*472", 
+      "checked": false, 
+      "temp_id": 69, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.view.View[resource_id]None", 
+      "is_password": false, 
+      "parent": 32, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.view.View", 
+      "scrollable": false, 
+      "package": "com.ironServices.audioBooks", 
+      "long_clickable": false, 
+      "view_str": "753297f2753d27ac306791e93b801f33", 
+      "enabled": true, 
+      "bounds": [
+        [
+          1021, 
+          378
+        ], 
+        [
+          1023, 
+          850
+        ]
+      ], 
+      "signature": "[class]android.view.View[resource_id]None[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": "The grandeur and beauty of France lies in this, that she takes less from the stomach than other nations: she more easily knots the rope about her loins. She is the first awake, the last asleep. She marches forwards. She is a seeker.", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "2*630", 
+      "checked": false, 
+      "temp_id": 70, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.view.View[resource_id]None", 
+      "is_password": false, 
+      "parent": 32, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.view.View", 
+      "scrollable": false, 
+      "package": "com.ironServices.audioBooks", 
+      "long_clickable": false, 
+      "view_str": "753297f2753d27ac306791e93b801f33", 
+      "enabled": true, 
+      "bounds": [
+        [
+          1021, 
+          850
+        ], 
+        [
+          1023, 
+          1480
+        ]
+      ], 
+      "signature": "[class]android.view.View[resource_id]None[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": "This arises from the fact that she is an artist.", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "2*158", 
+      "checked": false, 
+      "temp_id": 71, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.view.View[resource_id]None", 
+      "is_password": false, 
+      "parent": 32, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.view.View", 
+      "scrollable": false, 
+      "package": "com.ironServices.audioBooks", 
+      "long_clickable": false, 
+      "view_str": "9a98786ef98fb675f411706460abbf10", 
+      "enabled": true, 
+      "bounds": [
+        [
+          1021, 
+          220
+        ], 
+        [
+          1023, 
+          378
+        ]
+      ], 
+      "signature": "[class]android.view.View[resource_id]None[text]This arises from the fact that she is an artist.[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": "The ideal is nothing but the culminating point of logic, the same as the beautiful is nothing but the summit of the true. Artistic peoples are also consistent peoples. To love beauty is to see the light. That is why the torch of Europe, that is to say of civilization, was first borne by Greece, who passed it on to Italy, who handed it on to France. Divine, illuminating nations of scouts! Vitaelampada tradunt.", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "2*1102", 
+      "checked": false, 
+      "temp_id": 72, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.view.View[resource_id]None", 
+      "is_password": false, 
+      "parent": 32, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.view.View", 
+      "scrollable": false, 
+      "package": "com.ironServices.audioBooks", 
+      "long_clickable": false, 
+      "view_str": "753297f2753d27ac306791e93b801f33", 
+      "enabled": true, 
+      "bounds": [
+        [
+          1021, 
+          378
+        ], 
+        [
+          1023, 
+          1480
+        ]
+      ], 
+      "signature": "[class]android.view.View[resource_id]None[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": "It is an admirable thing that the poetry of a people is the element of its progress. The amount of civilization is measured by the quantity of imagination. Only, a civilizing people should remain a manly people. Corinth, yes; Sybaris, no. Whoever becomes effeminate makes himself a bastard. He must be neither a dilettante nor a virtuoso: but he must be artistic. In the matter of civilization, he must not refine, but he must sublime. On this condition, one gives to the human race the pattern of the ideal.", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "2*1462", 
+      "checked": false, 
+      "temp_id": 73, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.view.View[resource_id]None", 
+      "is_password": false, 
+      "parent": 32, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.view.View", 
+      "scrollable": false, 
+      "package": "com.ironServices.audioBooks", 
+      "long_clickable": false, 
+      "view_str": "753297f2753d27ac306791e93b801f33", 
+      "enabled": true, 
+      "bounds": [
+        [
+          1021, 
+          220
+        ], 
+        [
+          1023, 
+          1682
+        ]
+      ], 
+      "signature": "[class]android.view.View[resource_id]None[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": "The modern ideal has its type in art, and its means is science. It is through science that it will realize that august vision of the poets, the socially beautiful. Eden will be reconstructed by A+B. At the point which civilization has now reached, the exact is a necessary element of the splendid, and the artistic sentiment is not only served, but completed by the scientific organ; dreams must be calculated. Art, which is the conqueror, should have for support science, which is the walker; the solidity of the creature which is ridden is of importance. The modern spirit is the genius of Greece with the genius of India as its vehicle; Alexander on the elephant.", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "2*1304", 
+      "checked": false, 
+      "temp_id": 74, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.view.View[resource_id]None", 
+      "is_password": false, 
+      "parent": 32, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.view.View", 
+      "scrollable": false, 
+      "package": "com.ironServices.audioBooks", 
+      "long_clickable": false, 
+      "view_str": "753297f2753d27ac306791e93b801f33", 
+      "enabled": true, 
+      "bounds": [
+        [
+          1021, 
+          378
+        ], 
+        [
+          1023, 
+          1682
+        ]
+      ], 
+      "signature": "[class]android.view.View[resource_id]None[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": "Races which are petrified in dogma or demoralized by lucre are unfit to guide civilization. Genuflection before the idol or before money wastes away the muscles which walk and the will which advances. Hieratic or mercantile absorption lessens a people's power of radiance, lowers its horizon by lowering its level, and deprives it of that intelligence, at once both human and divine of the universal goal, which makes missionaries of nations. Babylon has no ideal; Carthage has no ideal. Athens and Rome have and keep, throughout all the nocturnal darkness of the centuries, halos of civilization.", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "2*911", 
+      "checked": false, 
+      "temp_id": 75, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.view.View[resource_id]None", 
+      "is_password": false, 
+      "parent": 32, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.view.View", 
+      "scrollable": false, 
+      "package": "com.ironServices.audioBooks", 
+      "long_clickable": false, 
+      "view_str": "753297f2753d27ac306791e93b801f33", 
+      "enabled": true, 
+      "bounds": [
+        [
+          1021, 
+          771
+        ], 
+        [
+          1023, 
+          1682
+        ]
+      ], 
+      "signature": "[class]android.view.View[resource_id]None[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": "France is in the same quality of race as Greece and Italy. She is Athenian in the matter of beauty, and Roman in her greatness. Moreover, she is good. She gives herself. Oftener than is the case with other races, is she in the humor for self-devotion and sacrifice. Only, this humor seizes upon her, and again abandons her. And therein lies the great peril for those who run when she desires only to walk, or who walk on when she desires to halt. France has her relapses into materialism, and, at certain instants, the ideas which obstruct that sublime brain have no longer anything which recalls French greatness and are of the dimensions of a Missouri or a South Carolina. What is to be done in such a case? The giantess plays at being a dwarf; immense France has her freaks of pettiness. That is all.", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "2*674", 
+      "checked": false, 
+      "temp_id": 76, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.view.View[resource_id]None", 
+      "is_password": false, 
+      "parent": 32, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.view.View", 
+      "scrollable": false, 
+      "package": "com.ironServices.audioBooks", 
+      "long_clickable": false, 
+      "view_str": "753297f2753d27ac306791e93b801f33", 
+      "enabled": true, 
+      "bounds": [
+        [
+          1021, 
+          1008
+        ], 
+        [
+          1023, 
+          1682
+        ]
+      ], 
+      "signature": "[class]android.view.View[resource_id]None[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": "To this there is nothing to say. Peoples, like planets, possess the right to an eclipse. And all is well, provided that the light returns and that the eclipse does not degenerate into night. Dawn and resurrection are synonymous. The reappearance of the light is identical with the persistence of the I.", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "2*788", 
+      "checked": false, 
+      "temp_id": 77, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.view.View[resource_id]None", 
+      "is_password": false, 
+      "parent": 32, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.view.View", 
+      "scrollable": false, 
+      "package": "com.ironServices.audioBooks", 
+      "long_clickable": false, 
+      "view_str": "753297f2753d27ac306791e93b801f33", 
+      "enabled": true, 
+      "bounds": [
+        [
+          1021, 
+          456
+        ], 
+        [
+          1023, 
+          1244
+        ]
+      ], 
+      "signature": "[class]android.view.View[resource_id]None[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": "Let us state these facts calmly. Death on the barricade or the tomb in exile, is an acceptable occasion for devotion. The real name of devotion is disinterestedness. Let the abandoned allow themselves to be abandoned, let the exiled allow themselves to be exiled, and let us confine ourselves to entreating great nations not to retreat too far, when they do retreat. One must not push too far in descent under pretext of a return to reason.", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "2*438", 
+      "checked": false, 
+      "temp_id": 78, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.view.View[resource_id]None", 
+      "is_password": false, 
+      "parent": 32, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.view.View", 
+      "scrollable": false, 
+      "package": "com.ironServices.audioBooks", 
+      "long_clickable": false, 
+      "view_str": "753297f2753d27ac306791e93b801f33", 
+      "enabled": true, 
+      "bounds": [
+        [
+          1021, 
+          1244
+        ], 
+        [
+          1023, 
+          1682
+        ]
+      ], 
+      "signature": "[class]android.view.View[resource_id]None[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": "Matter exists, the minute exists, interest exists, the stomach exists; but the stomach must not be the sole wisdom. The life of the moment has its rights, we admit, but permanent life has its rights also. Alas! the fact that one is mounted does not preclude a fall. This can be seen in history more frequently than is desirable: A nation is great, it tastes the ideal, then it bites the mire, and finds it good; and if it be asked how it happens that it has abandoned Socrates for Falstaff, it replies: \"Because I love statesmen.\"", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "2*596", 
+      "checked": false, 
+      "temp_id": 79, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.view.View[resource_id]None", 
+      "is_password": false, 
+      "parent": 32, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.view.View", 
+      "scrollable": false, 
+      "package": "com.ironServices.audioBooks", 
+      "long_clickable": false, 
+      "view_str": "753297f2753d27ac306791e93b801f33", 
+      "enabled": true, 
+      "bounds": [
+        [
+          1021, 
+          1086
+        ], 
+        [
+          1023, 
+          1682
+        ]
+      ], 
+      "signature": "[class]android.view.View[resource_id]None[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": "One word more before returning to our subject, the conflict.", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "2*158", 
+      "checked": false, 
+      "temp_id": 80, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.view.View[resource_id]None", 
+      "is_password": false, 
+      "parent": 32, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.view.View", 
+      "scrollable": false, 
+      "package": "com.ironServices.audioBooks", 
+      "long_clickable": false, 
+      "view_str": "753297f2753d27ac306791e93b801f33", 
+      "enabled": true, 
+      "bounds": [
+        [
+          1021, 
+          1086
+        ], 
+        [
+          1023, 
+          1244
+        ]
+      ], 
+      "signature": "[class]android.view.View[resource_id]None[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": "A battle like the one which we are engaged in describing is nothing else than a convulsion towards the ideal. Progress trammelled is sickly, and is subject to these tragic epilepsies. With that malady of progress, civil war, we have been obliged to come in contact in our passage. This is one of the fatal phases, at once act and entr'acte of that drama whose pivot is a social condemnation, and whose veritable title is Progress.", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "2*438", 
+      "checked": false, 
+      "temp_id": 81, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.view.View[resource_id]None", 
+      "is_password": false, 
+      "parent": 32, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.view.View", 
+      "scrollable": false, 
+      "package": "com.ironServices.audioBooks", 
+      "long_clickable": false, 
+      "view_str": "753297f2753d27ac306791e93b801f33", 
+      "enabled": true, 
+      "bounds": [
+        [
+          1021, 
+          1244
+        ], 
+        [
+          1023, 
+          1682
+        ]
+      ], 
+      "signature": "[class]android.view.View[resource_id]None[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": "Progress!", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "2*79", 
+      "checked": false, 
+      "temp_id": 82, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.view.View[resource_id]None", 
+      "is_password": false, 
+      "parent": 32, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.view.View", 
+      "scrollable": false, 
+      "package": "com.ironServices.audioBooks", 
+      "long_clickable": false, 
+      "view_str": "96f0b166e4ae80df122a47574267b751", 
+      "enabled": true, 
+      "bounds": [
+        [
+          1021, 
+          1086
+        ], 
+        [
+          1023, 
+          1165
+        ]
+      ], 
+      "signature": "[class]android.view.View[resource_id]None[text]Progress![enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": "The cry to which we frequently give utterance is our whole thought; and, at the point of this drama which we have now reached, the idea which it contains having still more than one trial to undergo, it is, perhaps, permitted to us, if not to lift the veil from it, to at least allow its light to shine through.", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "2*517", 
+      "checked": false, 
+      "temp_id": 83, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.view.View[resource_id]None", 
+      "is_password": false, 
+      "parent": 32, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.view.View", 
+      "scrollable": false, 
+      "package": "com.ironServices.audioBooks", 
+      "long_clickable": false, 
+      "view_str": "753297f2753d27ac306791e93b801f33", 
+      "enabled": true, 
+      "bounds": [
+        [
+          1021, 
+          1165
+        ], 
+        [
+          1023, 
+          1682
+        ]
+      ], 
+      "signature": "[class]android.view.View[resource_id]None[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": "The book which the reader has under his eye at this moment is, from one end to the other, as a whole and in detail, whatever may be its intermittences, exceptions and faults, the march from evil to good, from the unjust to the just, from night to day, from appetite to conscience, from rottenness to life, from hell to heaven, from nothingness to God. Point of departure: matter; point of arrival: the soul. The hydra at the beginning, the angel at the end.", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "2*1068", 
+      "checked": false, 
+      "temp_id": 84, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.view.View[resource_id]None", 
+      "is_password": false, 
+      "parent": 32, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.view.View", 
+      "scrollable": false, 
+      "package": "com.ironServices.audioBooks", 
+      "long_clickable": false, 
+      "view_str": "753297f2753d27ac306791e93b801f33", 
+      "enabled": true, 
+      "bounds": [
+        [
+          1021, 
+          614
+        ], 
+        [
+          1023, 
+          1682
+        ]
+      ], 
+      "signature": "[class]android.view.View[resource_id]None[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": "bookPageCenter", 
+      "text": "", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "1081*1407", 
+      "checked": false, 
+      "temp_id": 85, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.view.View[resource_id]bookPageCenter", 
+      "is_password": false, 
+      "parent": 9, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.view.View", 
+      "scrollable": false, 
+      "package": "com.ironServices.audioBooks", 
+      "long_clickable": false, 
+      "view_str": "13e3249a28512470460a52146017e89c", 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          178
+        ], 
+        [
+          1081, 
+          1585
+        ]
+      ], 
+      "signature": "[class]android.view.View[resource_id]bookPageCenter[text][enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": "bookPageBottom", 
+      "text": "", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [
+        87
+      ], 
+      "size": "1081*79", 
+      "checked": false, 
+      "temp_id": 86, 
+      "selected": false, 
+      "child_count": 1, 
+      "content_free_signature": "[class]android.view.View[resource_id]bookPageBottom", 
+      "is_password": false, 
+      "parent": 9, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.view.View", 
+      "scrollable": false, 
+      "package": "com.ironServices.audioBooks", 
+      "long_clickable": false, 
+      "view_str": "a5a27bd41ce287b3bad1d12c656d75aa", 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          1601
+        ], 
+        [
+          1081, 
+          1680
+        ]
+      ], 
+      "signature": "[class]android.view.View[resource_id]bookPageBottom[text][enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": "bookPageNumber", 
+      "text": "1 of 42", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "108*39", 
+      "checked": false, 
+      "temp_id": 87, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.view.View[resource_id]bookPageNumber", 
+      "is_password": false, 
+      "parent": 86, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.view.View", 
+      "scrollable": false, 
+      "package": "com.ironServices.audioBooks", 
+      "long_clickable": false, 
+      "view_str": "945117d5eef46c3d797208dc0ec80bae", 
+      "enabled": true, 
+      "bounds": [
+        [
+          763, 
+          1601
+        ], 
+        [
+          871, 
+          1640
+        ]
+      ], 
+      "signature": "[class]android.view.View[resource_id]bookPageNumber[text]1 of 42[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": null, 
+      "visible": false, 
+      "checkable": false, 
+      "children": [
+        89
+      ], 
+      "size": "1080*0", 
+      "checked": false, 
+      "temp_id": 88, 
+      "selected": false, 
+      "child_count": 1, 
+      "content_free_signature": "[class]android.view.ViewGroup[resource_id]None", 
+      "is_password": false, 
+      "parent": 3, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.view.ViewGroup", 
+      "scrollable": false, 
+      "package": "com.ironServices.audioBooks", 
+      "long_clickable": false, 
+      "view_str": "04fb92c9e0d70a1d8658b45c3579d022", 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          1794
+        ], 
+        [
+          1080, 
+          1794
+        ]
+      ], 
+      "signature": "[class]android.view.ViewGroup[resource_id]None[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": null, 
+      "visible": false, 
+      "checkable": false, 
+      "children": [], 
+      "size": "0*0", 
+      "checked": false, 
+      "temp_id": 89, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.FrameLayout[resource_id]None", 
+      "is_password": false, 
+      "parent": 88, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.FrameLayout", 
+      "scrollable": false, 
+      "package": "com.ironServices.audioBooks", 
+      "long_clickable": false, 
+      "view_str": "a527ffa97b6c67b536322da110bdc3ec", 
+      "enabled": true, 
+      "bounds": [
+        [
+          540, 
+          1794
+        ], 
+        [
+          540, 
+          1794
+        ]
+      ], 
+      "signature": "[class]android.widget.FrameLayout[resource_id]None[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": "android:id/statusBarBackground", 
+      "text": null, 
+      "visible": false, 
+      "checkable": false, 
+      "children": [], 
+      "size": "1080*63", 
+      "checked": false, 
+      "temp_id": 90, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.view.View[resource_id]android:id/statusBarBackground", 
+      "is_password": false, 
+      "parent": 0, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.view.View", 
+      "scrollable": false, 
+      "package": "com.ironServices.audioBooks", 
+      "long_clickable": false, 
+      "view_str": "87653b4f15bed79069ad3e6245f56d6f", 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          0
+        ], 
+        [
+          1080, 
+          63
+        ]
+      ], 
+      "signature": "[class]android.view.View[resource_id]android:id/statusBarBackground[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": "android:id/navigationBarBackground", 
+      "text": null, 
+      "visible": false, 
+      "checkable": false, 
+      "children": [], 
+      "size": "1080*126", 
+      "checked": false, 
+      "temp_id": 91, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.view.View[resource_id]android:id/navigationBarBackground", 
+      "is_password": false, 
+      "parent": 0, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.view.View", 
+      "scrollable": false, 
+      "package": "com.ironServices.audioBooks", 
+      "long_clickable": false, 
+      "view_str": "666174298e7c5bfa1ff26f29bd8e43cd", 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          1794
+        ], 
+        [
+          1080, 
+          1920
+        ]
+      ], 
+      "signature": "[class]android.view.View[resource_id]android:id/navigationBarBackground[text]None[enabled,,]"
+    }
+  ], 
+  "state_str_content_free": "03fcf2aec158d34203d3f3879cab32ba", 
+  "activity_stack": [
+    "com.ironServices.audioBooks/.MainActivity"
+  ], 
+  "background_services": [
+    "com.google.android.tts/.service.GoogleTTSService", 
+    "com.google.android.gms/.deviceconnection.service.DeviceConnectionWatcherService", 
+    "com.google.android.gms/com.google.android.location.places.service.PlaceDetectionAsyncService", 
+    "com.android.systemui/.keyguard.KeyguardService", 
+    "com.android.systemui/.ImageWallpaper", 
+    "com.google.android.gms/com.google.android.location.geocode.GeocodeService", 
+    "com.google.android.gms/.auth.setup.devicesignals.LockScreenService", 
+    "com.google.android.gms/.gcm.GcmService", 
+    "com.google.android.gms/.clearcut.debug.ClearcutDebugDumpService", 
+    "com.android.phone/com.android.internal.telephony.CellularNetworkService", 
+    "com.google.android.gms/.chimera.PersistentBoundBrokerService", 
+    "com.ironServices.audioBooks/org.chromium.content.app.SandboxedProcessService0", 
+    "com.google.android.gms/.chimera.GmsBoundBrokerService", 
+    "com.google.android.gms/.fido.fido2.pollux.CableAuthenticatorService", 
+    "com.google.android.googlequicksearchbox/com.google.android.apps.gsa.nowoverlayservice.DrawerOverlayService", 
+    "io.github.ylimit.droidbotapp/.DroidBotIME", 
+    "com.google.android.gms/com.google.android.location.fused.FusedLocationService", 
+    "com.google.android.gms/.gcm.nts.SchedulerService", 
+    "com.google.android.setupwizard/.logging.ScreenOnClock", 
+    "com.android.vending/com.google.android.finsky.deviceconfig.PhoneskyFirebaseMessagingService", 
+    "io.github.ylimit.droidbotapp/io.github.privacystreams.accessibility.PSAccessibilityService", 
+    "com.google.android.gms/com.google.android.location.geofencer.service.GeofenceProviderService", 
+    "com.google.android.gms/.thunderbird.EmergencyPersistentService", 
+    "com.google.android.apps.messaging/.fcm.BugleFirebaseInstanceIDService", 
+    "com.android.systemui/.SystemUIService", 
+    "com.google.android.gms/org.chromium.content.app.SandboxedProcessService0", 
+    "android/.hardware.location.GeofenceHardwareService", 
+    "com.android.se/.SecureElementService", 
+    "com.google.android.gms/.chimera.PersistentDirectBootAwareApiService", 
+    "com.google.android.ext.services/android.ext.services.notification.Assistant", 
+    "com.google.android.gms/.location.persistent.LocationPersistentService", 
+    "com.google.android.gms/com.google.android.location.internal.PendingIntentCallbackService", 
+    "com.google.android.gms/com.google.android.location.internal.server.GoogleLocationService", 
+    "com.google.android.gms/com.google.android.contextmanager.service.ContextManagerService", 
+    "com.google.android.gms/com.google.android.location.network.NetworkLocationService", 
+    "com.google.android.gms/com.google.android.location.internal.GoogleLocationManagerService", 
+    "com.google.android.gms/.ads.cache.CacheBrokerService", 
+    "com.android.phone/com.android.internal.telephony.dataconnection.CellularDataService", 
+    "com.android.server.telecom/.components.TelecomService", 
+    "com.google.android.googlequicksearchbox/com.google.android.voiceinteraction.GsaVoiceInteractionService", 
+    "com.android.smspush/.WapPushManager", 
+    "com.android.phone/.vvm.RemoteVvmTaskManager", 
+    "android/com.android.server.content.SyncJobService", 
+    "com.google.android.gms/.common.stats.GmsCoreStatsService", 
+    "com.google.android.gms/com.google.android.location.internal.server.HardwareArProviderService", 
+    "com.google.android.gm/com.google.firebase.iid.FirebaseInstanceIdService", 
+    "com.android.phone/.TelephonyDebugService", 
+    "com.google.android.videos/.service.pinning.TransferService", 
+    "com.google.android.apps.messaging/.shared.datamodel.action.ActionExecutorImpl", 
+    "com.google.android.apps.nexuslauncher/com.android.quickstep.TouchInteractionService"
+  ], 
+  "state_str": "f7af441af16b50c3439b89648499e9bf", 
+  "tag": "2020-03-04_192911", 
+  "foreground_activity": "com.ironServices.audioBooks/.MainActivity"
+}

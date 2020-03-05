@@ -1,0 +1,48 @@
+{
+  "stop_state": "78f679069e0030d5e5fd86ae2d55e4db", 
+  "event_str": "TouchEvent(state=daefd3cafad4703ce23f73bfe02057fe, view=d83a1ba72c1410f0c3a563d8cdad0bc7)", 
+  "tag": "2019-08-15_111348", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "event_type": "touch", 
+    "view": {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": "Advertisement", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "787*656", 
+      "checked": false, 
+      "temp_id": 28, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.view.View[resource_id]None", 
+      "is_password": false, 
+      "parent": 27, 
+      "focusable": true, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": true, 
+      "class": "android.view.View", 
+      "scrollable": false, 
+      "package": "com.learn.engspanish", 
+      "long_clickable": false, 
+      "view_str": "d83a1ba72c1410f0c3a563d8cdad0bc7", 
+      "enabled": true, 
+      "bounds": [
+        [
+          146, 
+          1138
+        ], 
+        [
+          933, 
+          1794
+        ]
+      ], 
+      "signature": "[class]android.view.View[resource_id]None[text]Advertisement[enabled,,]"
+    }
+  }, 
+  "start_state": "daefd3cafad4703ce23f73bfe02057fe"
+}

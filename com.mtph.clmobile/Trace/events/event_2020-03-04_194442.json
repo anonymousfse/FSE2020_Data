@@ -1,0 +1,49 @@
+{
+  "stop_state": "91cce28ccdbdc6e58cc956ca7fbea235", 
+  "event_str": "SetTextEvent(state=91cce28ccdbdc6e58cc956ca7fbea235, view=ffc3385581541431f139cae2ced42c32, text=HelloWorld)", 
+  "tag": "2020-03-04_194442", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "text": "HelloWorld", 
+    "event_type": "set_text", 
+    "view": {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": "Message", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "912*102", 
+      "checked": false, 
+      "temp_id": 18, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.EditText[resource_id]None", 
+      "is_password": false, 
+      "parent": 17, 
+      "focusable": true, 
+      "editable": true, 
+      "focused": false, 
+      "clickable": true, 
+      "class": "android.widget.EditText", 
+      "scrollable": false, 
+      "package": "com.mtph.clmobile", 
+      "long_clickable": true, 
+      "view_str": "ffc3385581541431f139cae2ced42c32", 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          1692
+        ], 
+        [
+          912, 
+          1794
+        ]
+      ], 
+      "signature": "[class]android.widget.EditText[resource_id]None[text]Message[enabled,,]"
+    }
+  }, 
+  "start_state": "91cce28ccdbdc6e58cc956ca7fbea235"
+}

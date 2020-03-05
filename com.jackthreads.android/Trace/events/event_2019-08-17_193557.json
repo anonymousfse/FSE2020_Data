@@ -1,0 +1,48 @@
+{
+  "stop_state": "71d1e41c60c56751f64945c4fe69a9d7", 
+  "event_str": "TouchEvent(state=e8e1374684b4c384a796a3b6414b03e0, view=827c84c10b13efb4ef112f97b4d852fc)", 
+  "tag": "2019-08-17_193557", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "event_type": "touch", 
+    "view": {
+      "content_description": null, 
+      "resource_id": "android:id/text1", 
+      "text": "Sort by:", 
+      "visible": true, 
+      "checkable": true, 
+      "children": [], 
+      "size": "940*168", 
+      "checked": true, 
+      "temp_id": 7, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.CheckedTextView[resource_id]android:id/text1", 
+      "is_password": false, 
+      "parent": 6, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": true, 
+      "class": "android.widget.CheckedTextView", 
+      "scrollable": false, 
+      "package": "com.jackthreads.android", 
+      "long_clickable": false, 
+      "view_str": "827c84c10b13efb4ef112f97b4d852fc", 
+      "enabled": true, 
+      "bounds": [
+        [
+          70, 
+          502
+        ], 
+        [
+          1010, 
+          670
+        ]
+      ], 
+      "signature": "[class]android.widget.CheckedTextView[resource_id]android:id/text1[text]Sort by:[enabled,checked,]"
+    }
+  }, 
+  "start_state": "e8e1374684b4c384a796a3b6414b03e0"
+}

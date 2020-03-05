@@ -1,0 +1,48 @@
+{
+  "stop_state": "3294e55a13f90d81d06e3f192f52b336", 
+  "event_str": "TouchEvent(state=3294e55a13f90d81d06e3f192f52b336, view=4cdaaabe9e5a4c5f9d9361cf83b5a036)", 
+  "tag": "2020-03-04_192713", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "event_type": "touch", 
+    "view": {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": "WRITTEN BY NICOLO MACHIAVELLI", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "2*186", 
+      "checked": false, 
+      "temp_id": 103, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.view.View[resource_id]None", 
+      "is_password": false, 
+      "parent": 30, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.view.View", 
+      "scrollable": false, 
+      "package": "com.ironServices.audioBooks", 
+      "long_clickable": false, 
+      "view_str": "4cdaaabe9e5a4c5f9d9361cf83b5a036", 
+      "enabled": true, 
+      "bounds": [
+        [
+          1021, 
+          777
+        ], 
+        [
+          1023, 
+          963
+        ]
+      ], 
+      "signature": "[class]android.view.View[resource_id]None[text]WRITTEN BY NICOLO MACHIAVELLI[enabled,,]"
+    }
+  }, 
+  "start_state": "3294e55a13f90d81d06e3f192f52b336"
+}

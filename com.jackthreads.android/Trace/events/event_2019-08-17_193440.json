@@ -1,0 +1,48 @@
+{
+  "stop_state": "5e437a182671c6b08b655647d49acfa0", 
+  "event_str": "TouchEvent(state=d88dce100ea0a1c5bc1d679cc6ea43ae, view=99f9aa09c0e9ff575ddd7c0bff1f46f9)", 
+  "tag": "2019-08-17_193440", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "event_type": "touch", 
+    "view": {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": "TWITTER", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "68*2", 
+      "checked": false, 
+      "temp_id": 126, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.view.View[resource_id]None", 
+      "is_password": false, 
+      "parent": 125, 
+      "focusable": true, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": true, 
+      "class": "android.view.View", 
+      "scrollable": false, 
+      "package": "com.jackthreads.android", 
+      "long_clickable": false, 
+      "view_str": "99f9aa09c0e9ff575ddd7c0bff1f46f9", 
+      "enabled": true, 
+      "bounds": [
+        [
+          585, 
+          1792
+        ], 
+        [
+          653, 
+          1794
+        ]
+      ], 
+      "signature": "[class]android.view.View[resource_id]None[text]TWITTER[enabled,,]"
+    }
+  }, 
+  "start_state": "d88dce100ea0a1c5bc1d679cc6ea43ae"
+}

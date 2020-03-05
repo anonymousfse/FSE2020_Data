@@ -1,0 +1,5 @@
+282826ZZZ<init>:aja:virtualinvoke $r10.<android.widget.ProgressBar: void setVisibility(int)>(8)
+-1ZZZ<init>:aja:$r10 = $r0.<aja: android.widget.ProgressBar h>
+-1ZZZ<init>:aja:$r0 := @this: aja
+282811ZZZ<init>:ajd:specialinvoke $r0.<java.lang.Object: void <init>()>()
+-1ZZZ<init>:ajd:$r0 := @this: ajd

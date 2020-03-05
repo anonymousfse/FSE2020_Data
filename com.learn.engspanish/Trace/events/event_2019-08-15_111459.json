@@ -1,0 +1,48 @@
+{
+  "stop_state": "8e1970f2b5addb5b3d9cfbf3e44dfbe8", 
+  "event_str": "TouchEvent(state=daefd3cafad4703ce23f73bfe02057fe, view=24087e7e3557a1d77ae816e3b51e47cf)", 
+  "tag": "2019-08-15_111459", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "event_type": "touch", 
+    "view": {
+      "content_description": null, 
+      "resource_id": "com.learn.engspanish:id/id3a", 
+      "text": null, 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "326*263", 
+      "checked": false, 
+      "temp_id": 15, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.Button[resource_id]com.learn.engspanish:id/id3a", 
+      "is_password": false, 
+      "parent": 12, 
+      "focusable": true, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": true, 
+      "class": "android.widget.Button", 
+      "scrollable": false, 
+      "package": "com.learn.engspanish", 
+      "long_clickable": false, 
+      "view_str": "24087e7e3557a1d77ae816e3b51e47cf", 
+      "enabled": true, 
+      "bounds": [
+        [
+          728, 
+          650
+        ], 
+        [
+          1054, 
+          913
+        ]
+      ], 
+      "signature": "[class]android.widget.Button[resource_id]com.learn.engspanish:id/id3a[text]None[enabled,,]"
+    }
+  }, 
+  "start_state": "daefd3cafad4703ce23f73bfe02057fe"
+}

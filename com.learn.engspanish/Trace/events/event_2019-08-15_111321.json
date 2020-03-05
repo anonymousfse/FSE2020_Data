@@ -1,0 +1,48 @@
+{
+  "stop_state": "781a0372bc16f3946a2f4f6997571241", 
+  "event_str": "TouchEvent(state=df45b47a8f3befcc0e9820336591b238, view=6f7258eb64ca8b30a0371be12943abeb)", 
+  "tag": "2019-08-15_111321", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "event_type": "touch", 
+    "view": {
+      "content_description": null, 
+      "resource_id": "com.learn.engspanish:id/btn1", 
+      "text": "SALTAR", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "455*126", 
+      "checked": false, 
+      "temp_id": 15, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.Button[resource_id]com.learn.engspanish:id/btn1", 
+      "is_password": false, 
+      "parent": 14, 
+      "focusable": true, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": true, 
+      "class": "android.widget.Button", 
+      "scrollable": false, 
+      "package": "com.learn.engspanish", 
+      "long_clickable": false, 
+      "view_str": "6f7258eb64ca8b30a0371be12943abeb", 
+      "enabled": true, 
+      "bounds": [
+        [
+          71, 
+          930
+        ], 
+        [
+          526, 
+          1056
+        ]
+      ], 
+      "signature": "[class]android.widget.Button[resource_id]com.learn.engspanish:id/btn1[text]SALTAR[enabled,,]"
+    }
+  }, 
+  "start_state": "df45b47a8f3befcc0e9820336591b238"
+}

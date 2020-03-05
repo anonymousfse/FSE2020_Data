@@ -1,0 +1,7 @@
+48402ZZZonWindowFocusChanged:acr.browser.lightning.activity.BrowserActivity:$z0 = $r0.<acr.browser.lightning.activity.BrowserActivity: boolean mIsFullScreen>
+48382ZZZonMenuItemClick:acr.browser.lightning.activity.BrowserActivity$14:$r8 = $r0.<acr.browser.lightning.activity.BrowserActivity$14: acr.browser.lightning.activity.BrowserActivity this$0>
+48539ZZZonClick:acr.browser.lightning.activity.BrowserActivity$13:$r5 = virtualinvoke $r4.<acr.browser.lightning.activity.BrowserActivity: android.content.res.Resources getResources()>()
+48540ZZZonClick:acr.browser.lightning.activity.BrowserActivity$13:$r6 = virtualinvoke $r5.<android.content.res.Resources: android.graphics.drawable.Drawable getDrawable(int)>(2131230889)
+48537ZZZonClick:acr.browser.lightning.activity.BrowserActivity$13:$r3 = <acr.browser.lightning.activity.BrowserActivity: android.widget.ImageView ivMobvistamarket>
+48403ZZZonWindowFocusChanged:acr.browser.lightning.activity.BrowserActivity:$z1 = $r0.<acr.browser.lightning.activity.BrowserActivity: boolean mIsImmersive>
+48538ZZZonClick:acr.browser.lightning.activity.BrowserActivity$13:$r4 = $r0.<acr.browser.lightning.activity.BrowserActivity$13: acr.browser.lightning.activity.BrowserActivity this$0>

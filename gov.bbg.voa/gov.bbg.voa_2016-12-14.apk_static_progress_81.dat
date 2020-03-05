@@ -1,0 +1,17 @@
+480452ZZZa:aja:virtualinvoke $r12.<android.widget.ProgressBar: void setVisibility(int)>($b1)
+-1ZZZa:aja:$b1 = 0
+-1ZZZa:aja:$b1 = 8
+-1ZZZa:aja:$r12 = $r0.<aja: android.widget.ProgressBar h>
+-1ZZZa:aja:$r0 := @this: aja
+480441ZZZhandle:org.rferl.io.feed.FeedDownloader:virtualinvoke $r3.<org.rferl.io.feed.FeedHandler: void parse(org.xmlpull.v1.XmlPullParser)>($r4)
+-1ZZZhandle:org.rferl.io.feed.FeedDownloader:$r4 = staticinvoke <android.util.Xml: org.xmlpull.v1.XmlPullParser newPullParser()>()
+-1ZZZhandle:org.rferl.io.feed.FeedDownloader:$r3 := @parameter3: org.rferl.io.feed.FeedHandler
+480430ZZZhandle:org.rferl.io.feed.FeedDownloader:virtualinvoke $r0.<org.rferl.io.feed.FeedDownloader: void handle(java.io.InputStream,java.lang.String,long,org.rferl.io.feed.FeedHandler)>($r1, $r2, $l0, $r4)
+-1ZZZhandle:org.rferl.io.feed.FeedDownloader:$r1 := @parameter0: java.io.InputStream
+-1ZZZhandle:org.rferl.io.feed.FeedDownloader:$r2 := @parameter1: java.lang.String
+-1ZZZhandle:org.rferl.io.feed.FeedDownloader:$l0 := @parameter2: long
+-1ZZZhandle:org.rferl.io.feed.FeedDownloader:$r4 = (org.rferl.io.feed.FeedHandler) $r3
+-1ZZZhandle:org.rferl.io.feed.FeedDownloader:$r0 := @this: org.rferl.io.feed.FeedDownloader
+-1ZZZhandle:org.rferl.io.feed.FeedDownloader:$r3 := @parameter3: org.rferl.io.DownloadHandler
+480381ZZZa:aja:virtualinvoke $r0.<aja: void a()>()
+-1ZZZa:aja:$r0 := @this: aja

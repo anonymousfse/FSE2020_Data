@@ -1,0 +1,10 @@
+{
+  "stop_state": "7aec5c1a8f202f43d5da75f11299d982", 
+  "event_str": "KeyEvent(state=7aec5c1a8f202f43d5da75f11299d982, name=MENU)", 
+  "tag": "2020-03-04_193537", 
+  "event": {
+    "event_type": "key", 
+    "name": "MENU"
+  }, 
+  "start_state": "7aec5c1a8f202f43d5da75f11299d982"
+}

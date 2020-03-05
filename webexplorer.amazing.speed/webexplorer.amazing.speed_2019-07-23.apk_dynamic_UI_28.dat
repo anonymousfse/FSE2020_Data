@@ -1,0 +1,5 @@
+21362ZZZ<init>:acr.browser.lightning.search.Suggestions:$z0 = $r0.<acr.browser.lightning.search.Suggestions: boolean mDarkTheme>
+21334ZZZ<init>:acr.browser.lightning.search.Suggestions:$z0 = $r0.<acr.browser.lightning.search.Suggestions: boolean mDarkTheme>
+21387ZZZinitializeSearchSuggestions:acr.browser.lightning.activity.BrowserActivity:$r2 = $r0.<acr.browser.lightning.activity.BrowserActivity: acr.browser.lightning.search.Suggestions mSuggestionsAdapter>
+21348ZZZ<init>:acr.browser.lightning.search.Suggestions:$z0 = $r0.<acr.browser.lightning.search.Suggestions: boolean mDarkTheme>
+21380ZZZinitializeSearchSuggestions:acr.browser.lightning.activity.BrowserActivity:$r3 = new acr.browser.lightning.activity.BrowserActivity$24

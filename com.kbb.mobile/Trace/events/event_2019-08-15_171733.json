@@ -1,0 +1,48 @@
+{
+  "stop_state": "79fa5439d56c677301816bb6a661cb94", 
+  "event_str": "TouchEvent(state=d51f43f0a6a3bd9c2dbb139381136d50, view=72c8ea0ecc604e1587eefc6c09fe8dea)", 
+  "tag": "2019-08-15_171733", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "event_type": "touch", 
+    "view": {
+      "content_description": null, 
+      "resource_id": "android:id/aerr_wait", 
+      "text": "Wait", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "940*126", 
+      "checked": false, 
+      "temp_id": 11, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.Button[resource_id]android:id/aerr_wait", 
+      "is_password": false, 
+      "parent": 9, 
+      "focusable": true, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": true, 
+      "class": "android.widget.Button", 
+      "scrollable": false, 
+      "package": "android", 
+      "long_clickable": false, 
+      "view_str": "72c8ea0ecc604e1587eefc6c09fe8dea", 
+      "enabled": true, 
+      "bounds": [
+        [
+          70, 
+          1020
+        ], 
+        [
+          1010, 
+          1146
+        ]
+      ], 
+      "signature": "[class]android.widget.Button[resource_id]android:id/aerr_wait[text]Wait[enabled,,]"
+    }
+  }, 
+  "start_state": "d51f43f0a6a3bd9c2dbb139381136d50"
+}

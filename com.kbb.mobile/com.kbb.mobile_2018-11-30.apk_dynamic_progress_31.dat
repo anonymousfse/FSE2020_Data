@@ -1,0 +1,7 @@
+208018ZZZ<init>:com.kbb.mobile.views.hub.CarHubPhotos:$r4 = $r0.<com.kbb.mobile.views.hub.CarHubPhotos: android.widget.RelativeLayout rel>
+208022ZZZ<init>:com.kbb.mobile.views.hub.CarHubPhotos:$r6 = $r0.<com.kbb.mobile.views.hub.CarHubPhotos: android.widget.ProgressBar progressBar>
+208020ZZZ<init>:com.kbb.mobile.views.hub.CarHubPhotos:$r6 = (android.widget.ProgressBar) $r3
+208010ZZZ<init>:com.kbb.mobile.views.hub.CarHubPhotos:$r4 = (android.widget.RelativeLayout) $r3
+208013ZZZ<init>:com.kbb.mobile.views.hub.CarHubPhotos:$r3 = virtualinvoke $r4.<android.widget.RelativeLayout: android.view.View findViewById(int)>(2131558520)
+208019ZZZ<init>:com.kbb.mobile.views.hub.CarHubPhotos:$r3 = virtualinvoke $r4.<android.widget.RelativeLayout: android.view.View findViewById(int)>(2131558519)
+208009ZZZ<init>:com.kbb.mobile.views.hub.CarHubPhotos:$r3 = virtualinvoke $r2.<com.kbb.mobile.ActivityHub: android.view.View findViewById(int)>(2131558438)

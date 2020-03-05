@@ -1,0 +1,51 @@
+{
+  "stop_state": "0c09e2d6c25924a989fb073b314f71de", 
+  "event_str": "ScrollEvent(state=99be669cf841fac53aa6f9cafb77a320, view=957f37803e74d9cad92cda61130e469c, direction=DOWN)", 
+  "tag": "2019-08-15_171421", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "direction": "DOWN", 
+    "event_type": "scroll", 
+    "view": {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": "", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [
+        17
+      ], 
+      "size": "787*131", 
+      "checked": false, 
+      "temp_id": 16, 
+      "selected": false, 
+      "child_count": 1, 
+      "content_free_signature": "[class]android.webkit.WebView[resource_id]None", 
+      "is_password": false, 
+      "parent": 15, 
+      "focusable": true, 
+      "editable": false, 
+      "focused": true, 
+      "clickable": false, 
+      "class": "android.webkit.WebView", 
+      "scrollable": true, 
+      "package": "com.kbb.mobile", 
+      "long_clickable": false, 
+      "view_str": "957f37803e74d9cad92cda61130e469c", 
+      "enabled": true, 
+      "bounds": [
+        [
+          120, 
+          1663
+        ], 
+        [
+          907, 
+          1794
+        ]
+      ], 
+      "signature": "[class]android.webkit.WebView[resource_id]None[text][enabled,,]"
+    }
+  }, 
+  "start_state": "99be669cf841fac53aa6f9cafb77a320"
+}

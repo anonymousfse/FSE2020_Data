@@ -1,0 +1,7 @@
+336657ZZZsetCustomProgressBarVisibility:org.rferl.ui.activity.BaseActivity:virtualinvoke $r1.<android.widget.ProgressBar: void setVisibility(int)>(8)
+-1ZZZsetCustomProgressBarVisibility:org.rferl.ui.activity.BaseActivity:$r1 = $r0.<org.rferl.ui.activity.BaseActivity: android.widget.ProgressBar d>
+-1ZZZsetCustomProgressBarVisibility:org.rferl.ui.activity.BaseActivity:$r0 := @this: org.rferl.ui.activity.BaseActivity
+336652ZZZonResume:org.rferl.ui.activity.HomeActivity:virtualinvoke $r0.<org.rferl.ui.activity.HomeActivity: void setCustomProgressBarVisibility(boolean)>($z0)
+-1ZZZonResume:org.rferl.ui.activity.HomeActivity:$z0 = virtualinvoke $r1.<org.rferl.app.SyncManager: boolean isStarted()>()
+-1ZZZonResume:org.rferl.ui.activity.HomeActivity:$r0 := @this: org.rferl.ui.activity.HomeActivity
+-1ZZZonResume:org.rferl.ui.activity.HomeActivity:$r1 = staticinvoke <org.rferl.app.AppUtil: org.rferl.app.SyncManager getSyncManager(android.content.Context)>($r0)

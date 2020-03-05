@@ -1,0 +1,48 @@
+{
+  "stop_state": "6b50fa350049c1d943bbd6934980dd6c", 
+  "event_str": "TouchEvent(state=f390d01481c6df7f6b1ba75011775b9a, view=5ae40fbb0bd2f67aa8d8a0f18eb36fe4)", 
+  "tag": "2019-08-15_111301", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "event_type": "touch", 
+    "view": {
+      "content_description": null, 
+      "resource_id": "com.learn.engspanish:id/btn2", 
+      "text": "FASE", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "455*126", 
+      "checked": false, 
+      "temp_id": 17, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.Button[resource_id]com.learn.engspanish:id/btn2", 
+      "is_password": false, 
+      "parent": 16, 
+      "focusable": true, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": true, 
+      "class": "android.widget.Button", 
+      "scrollable": false, 
+      "package": "com.learn.engspanish", 
+      "long_clickable": false, 
+      "view_str": "5ae40fbb0bd2f67aa8d8a0f18eb36fe4", 
+      "enabled": true, 
+      "bounds": [
+        [
+          554, 
+          930
+        ], 
+        [
+          1009, 
+          1056
+        ]
+      ], 
+      "signature": "[class]android.widget.Button[resource_id]com.learn.engspanish:id/btn2[text]FASE[enabled,,]"
+    }
+  }, 
+  "start_state": "f390d01481c6df7f6b1ba75011775b9a"
+}

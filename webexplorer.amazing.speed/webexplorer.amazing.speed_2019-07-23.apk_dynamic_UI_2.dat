@@ -1,0 +1,5 @@
+95059ZZZsetupNavigationButton:acr.browser.lightning.fragment.BookmarksFragment:$i0 = $r0.<acr.browser.lightning.fragment.BookmarksFragment: int mIconColor>
+95058ZZZsetupNavigationButton:acr.browser.lightning.fragment.BookmarksFragment:$r4 = (android.widget.ImageView) $r1
+95057ZZZsetupNavigationButton:acr.browser.lightning.fragment.BookmarksFragment:$r1 = virtualinvoke $r1.<android.view.View: android.view.View findViewById(int)>($i1)
+95060ZZZsetupNavigationButton:acr.browser.lightning.fragment.BookmarksFragment:$r5 = <android.graphics.PorterDuff$Mode: android.graphics.PorterDuff$Mode SRC_IN>
+95037ZZZonCreateView:acr.browser.lightning.fragment.BookmarksFragment:$r11 = new acr.browser.lightning.fragment.BookmarksFragment$4

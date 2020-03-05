@@ -1,0 +1,48 @@
+{
+  "stop_state": "070748705f11690972f5341c9a5cb839", 
+  "event_str": "TouchEvent(state=de80eb2bf79b6f9618c7a9244139bd13, view=00b6f5759d51f870cf88c2afcf7ba14c)", 
+  "tag": "2020-03-04_193657", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "event_type": "touch", 
+    "view": {
+      "content_description": null, 
+      "resource_id": "gov.ca.dmv:id/downloadHandbookButton", 
+      "text": "Download Car Driver Handbook", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "630*126", 
+      "checked": false, 
+      "temp_id": 26, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.Button[resource_id]gov.ca.dmv:id/downloadHandbookButton", 
+      "is_password": false, 
+      "parent": 20, 
+      "focusable": true, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": true, 
+      "class": "android.widget.Button", 
+      "scrollable": false, 
+      "package": "gov.ca.dmv", 
+      "long_clickable": false, 
+      "view_str": "00b6f5759d51f870cf88c2afcf7ba14c", 
+      "enabled": true, 
+      "bounds": [
+        [
+          225, 
+          1355
+        ], 
+        [
+          855, 
+          1481
+        ]
+      ], 
+      "signature": "[class]android.widget.Button[resource_id]gov.ca.dmv:id/downloadHandbookButton[text]Download Car Driver Handbook[enabled,,]"
+    }
+  }, 
+  "start_state": "de80eb2bf79b6f9618c7a9244139bd13"
+}

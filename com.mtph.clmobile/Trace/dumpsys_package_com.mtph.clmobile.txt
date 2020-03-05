@@ -1,0 +1,102 @@
+Activity Resolver Table:
+  Non-Data Actions:
+      android.intent.action.MAIN:
+        6abde52 com.mtph.clmobile/com.clmobile.MainActivity filter 3c29553
+          Action: "android.intent.action.MAIN"
+          Category: "android.intent.category.LAUNCHER"
+
+Registered ContentProviders:
+  com.mtph.clmobile/com.google.firebase.provider.FirebaseInitProvider:
+    Provider{a56d523 com.mtph.clmobile/com.google.firebase.provider.FirebaseInitProvider}
+
+ContentProvider Authorities:
+  [com.mtph.clmobile.firebaseinitprovider]:
+    Provider{a56d523 com.mtph.clmobile/com.google.firebase.provider.FirebaseInitProvider}
+      applicationInfo=ApplicationInfo{7fb9a20 com.mtph.clmobile}
+
+Key Set Manager:
+  [com.mtph.clmobile]
+      Signing KeySets: 321
+
+Packages:
+  Package [com.mtph.clmobile] (3d68fd9):
+    userId=10509
+    pkg=Package{d058d9e com.mtph.clmobile}
+    codePath=/data/app/com.mtph.clmobile-gRUm_XmcfLUAmAmy3cev1A==
+    resourcePath=/data/app/com.mtph.clmobile-gRUm_XmcfLUAmAmy3cev1A==
+    legacyNativeLibraryDir=/data/app/com.mtph.clmobile-gRUm_XmcfLUAmAmy3cev1A==/lib
+    primaryCpuAbi=null
+    secondaryCpuAbi=null
+    versionCode=23400000 minSdk=15 targetSdk=25
+    versionName=23400000
+    splits=[base]
+    apkSigningVersion=2
+    applicationInfo=ApplicationInfo{7fb9a20 com.mtph.clmobile}
+    flags=[ HAS_CODE ALLOW_CLEAR_USER_DATA ALLOW_BACKUP ]
+    privateFlags=[ PRIVATE_FLAG_ACTIVITIES_RESIZE_MODE_RESIZEABLE_VIA_SDK_VERSION ]
+    dataDir=/data/user/0/com.mtph.clmobile
+    supportsScreens=[small, medium, large, xlarge, resizeable, anyDensity]
+    usesLibraries:
+      org.apache.http.legacy
+    usesLibraryFiles:
+      /system/framework/org.apache.http.legacy.boot.jar
+    timeStamp=2020-03-05 03:44:17
+    firstInstallTime=2020-03-05 03:44:17
+    lastUpdateTime=2020-03-05 03:44:17
+    signatures=PackageSignatures{2b7a07f version:2, signatures:[29533ec1], past signatures:[]}
+    installPermissionsFixed=true
+    pkgFlags=[ HAS_CODE ALLOW_CLEAR_USER_DATA ALLOW_BACKUP ]
+    requested permissions:
+      android.permission.INTERNET
+      android.permission.ACCESS_NETWORK_STATE
+      android.permission.WRITE_EXTERNAL_STORAGE
+      android.permission.READ_EXTERNAL_STORAGE
+      android.permission.ACCESS_GPS
+      android.permission.ACCESS_ASSISTED_GPS
+      android.permission.ACCESS_LOCATION
+      android.permission.ACCESS_COARSE_LOCATION
+      android.permission.ACCESS_FINE_LOCATION
+      android.permission.SYSTEM_ALERT_WINDOW
+      com.google.android.providers.gsf.permission.READ_GSERVICES
+      android.permission.CAMERA
+      android.permission.SEND_SMS
+      android.permission.CALL_PHONE
+      android.permission.VIBRATE
+      android.permission.ACCESS_WIFI_STATE
+      android.permission.RECEIVE_BOOT_COMPLETED
+      com.google.android.c2dm.permission.RECEIVE
+    install permissions:
+      com.google.android.c2dm.permission.RECEIVE: granted=true
+      com.google.android.providers.gsf.permission.READ_GSERVICES: granted=true
+      android.permission.RECEIVE_BOOT_COMPLETED: granted=true
+      android.permission.INTERNET: granted=true
+      android.permission.ACCESS_NETWORK_STATE: granted=true
+      android.permission.VIBRATE: granted=true
+      android.permission.ACCESS_WIFI_STATE: granted=true
+    User 0: ceDataInode=-4294835984 installed=true hidden=false suspended=false stopped=true notLaunched=true enabled=0 instant=false virtual=false
+      gids=[3003]
+      runtime permissions:
+
+Package Changes:
+  Sequence number=31
+  User 0:
+    seq=10, package=com.google.android.gms
+    seq=11, package=com.google.android.syncadapters.contacts
+    seq=15, package=com.WanApps.allamaiqbalshayari
+    seq=18, package=com.google.android.setupwizard
+    seq=20, package=com.ironServices.audioBooks
+    seq=26, package=gov.ca.dmv
+    seq=27, package=com.google.android.apps.maps
+    seq=29, package=io.github.ylimit.droidbotapp
+    seq=30, package=com.mtph.clmobile
+
+
+Dexopt state:
+  [com.mtph.clmobile]
+    path: /data/app/com.mtph.clmobile-gRUm_XmcfLUAmAmy3cev1A==/base.apk
+      x86: [status=speed-profile] [reason=install]
+
+
+Compiler stats:
+  [com.mtph.clmobile]
+     base.apk - 518

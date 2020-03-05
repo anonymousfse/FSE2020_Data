@@ -1,0 +1,48 @@
+{
+  "stop_state": "ff5787e71ded5a46bde13147ec7d1086", 
+  "event_str": "TouchEvent(state=ff5787e71ded5a46bde13147ec7d1086, view=18895420499ed2c0aa2d4e18aa756f64)", 
+  "tag": "2019-08-15_180510", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "event_type": "touch", 
+    "view": {
+      "content_description": null, 
+      "resource_id": "com.restaurant.mobile:id/title_bar", 
+      "text": "Account", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "191*65", 
+      "checked": false, 
+      "temp_id": 7, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.TextView[resource_id]com.restaurant.mobile:id/title_bar", 
+      "is_password": false, 
+      "parent": 6, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.TextView", 
+      "scrollable": false, 
+      "package": "com.restaurant.mobile", 
+      "long_clickable": false, 
+      "view_str": "18895420499ed2c0aa2d4e18aa756f64", 
+      "enabled": true, 
+      "bounds": [
+        [
+          445, 
+          104
+        ], 
+        [
+          636, 
+          169
+        ]
+      ], 
+      "signature": "[class]android.widget.TextView[resource_id]com.restaurant.mobile:id/title_bar[text]Account[enabled,,]"
+    }
+  }, 
+  "start_state": "ff5787e71ded5a46bde13147ec7d1086"
+}

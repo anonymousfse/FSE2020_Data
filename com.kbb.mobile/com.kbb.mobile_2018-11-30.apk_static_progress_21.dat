@@ -1,0 +1,15 @@
+62545ZZZ<init>:com.kbb.mobile.views.hub.CarHubPhotos:virtualinvoke $r6.<android.widget.ProgressBar: void setVisibility(int)>(0)
+-1ZZZ<init>:com.kbb.mobile.views.hub.CarHubPhotos:$r6 = (android.widget.ProgressBar) $r3
+-1ZZZ<init>:com.kbb.mobile.views.hub.CarHubPhotos:$r6 = $r0.<com.kbb.mobile.views.hub.CarHubPhotos: android.widget.ProgressBar progressBar>
+-1ZZZ<init>:com.kbb.mobile.views.hub.CarHubPhotos:$r3 = virtualinvoke $r2.<com.kbb.mobile.ActivityHub: android.view.View findViewById(int)>(2131558438)
+-1ZZZ<init>:com.kbb.mobile.views.hub.CarHubPhotos:$r3 = virtualinvoke $r4.<android.widget.RelativeLayout: android.view.View findViewById(int)>(2131558520)
+-1ZZZ<init>:com.kbb.mobile.views.hub.CarHubPhotos:$r3 = virtualinvoke $r4.<android.widget.RelativeLayout: android.view.View findViewById(int)>(2131558519)
+-1ZZZ<init>:com.kbb.mobile.views.hub.CarHubPhotos:$r0 := @this: com.kbb.mobile.views.hub.CarHubPhotos
+-1ZZZ<init>:com.kbb.mobile.views.hub.CarHubPhotos:$r2 := @parameter2: com.kbb.mobile.ActivityHub
+-1ZZZ<init>:com.kbb.mobile.views.hub.CarHubPhotos:$r2 = virtualinvoke $r0.<com.kbb.mobile.views.hub.CarHubPhotos: com.kbb.mobile.ActivityHub getActivityHub()>()
+-1ZZZ<init>:com.kbb.mobile.views.hub.CarHubPhotos:$r4 = (android.widget.RelativeLayout) $r3
+-1ZZZ<init>:com.kbb.mobile.views.hub.CarHubPhotos:$r4 = $r0.<com.kbb.mobile.views.hub.CarHubPhotos: android.widget.RelativeLayout rel>
+62510ZZZaddPropertyChangeListener:com.kbb.mobile.views.hub.CarHub:virtualinvoke $r3.<com.kbb.mobile.views.hub.VehicleHolder: void addPropertyChangeListener(java.lang.String,java.beans.PropertyChangeListener)>("Vehicle", $r0)
+-1ZZZaddPropertyChangeListener:com.kbb.mobile.views.hub.CarHub:$r0 := @this: com.kbb.mobile.views.hub.CarHub
+-1ZZZaddPropertyChangeListener:com.kbb.mobile.views.hub.CarHub:$r3 = virtualinvoke $r1.<com.kbb.mobile.ActivityHub: com.kbb.mobile.views.hub.VehicleHolder getVehicleHolder()>()
+-1ZZZaddPropertyChangeListener:com.kbb.mobile.views.hub.CarHub:$r1 = virtualinvoke $r0.<com.kbb.mobile.views.hub.CarHub: com.kbb.mobile.ActivityHub getActivityHub()>()

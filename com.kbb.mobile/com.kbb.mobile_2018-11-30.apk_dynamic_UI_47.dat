@@ -1,0 +1,3 @@
+170383ZZZrun:com.kbb.mobile.Http.HttpConnection:$r8 = new org.apache.http.impl.client.DefaultHttpClient
+170387ZZZ<init>:com.kbb.mobile.views.hub.CarHubPhotos:$r5 = $r0.<com.kbb.mobile.views.hub.CarHubPhotos: android.widget.GridView gridView>
+170385ZZZ<init>:com.kbb.mobile.views.hub.CarHubPhotos:$r5 = (android.widget.GridView) $r3

@@ -1,0 +1,50 @@
+{
+  "stop_state": "ee057b597c6186da35f8d79f499659e2", 
+  "event_str": "TouchEvent(state=121fd0830698d660b1964d4fd4dfefac, view=7ab575a61227a87af6323032af30de25)", 
+  "tag": "2019-08-21_195822", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "event_type": "touch", 
+    "view": {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": null, 
+      "visible": true, 
+      "checkable": false, 
+      "children": [
+        51
+      ], 
+      "size": "1080*319", 
+      "checked": false, 
+      "temp_id": 50, 
+      "selected": false, 
+      "child_count": 1, 
+      "content_free_signature": "[class]android.widget.LinearLayout[resource_id]None", 
+      "is_password": false, 
+      "parent": 39, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": true, 
+      "class": "android.widget.LinearLayout", 
+      "scrollable": false, 
+      "package": "com.carwale", 
+      "long_clickable": false, 
+      "view_str": "7ab575a61227a87af6323032af30de25", 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          1099
+        ], 
+        [
+          1080, 
+          1418
+        ]
+      ], 
+      "signature": "[class]android.widget.LinearLayout[resource_id]None[text]None[enabled,,]"
+    }
+  }, 
+  "start_state": "121fd0830698d660b1964d4fd4dfefac"
+}

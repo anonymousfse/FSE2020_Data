@@ -1,0 +1,237 @@
+Activity Resolver Table:
+  Non-Data Actions:
+      android.intent.action.MAIN:
+        7823d4e com.jackthreads.android/.MainActivity filter 87ad325
+          Action: "android.intent.action.MAIN"
+          Category: "android.intent.category.LAUNCHER"
+
+Receiver Resolver Table:
+  Non-Data Actions:
+      com.android.vending.INSTALL_REFERRER:
+        9760e6f com.jackthreads.android/com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver filter 8cf1c8f
+          Action: "com.android.vending.INSTALL_REFERRER"
+      com.google.android.c2dm.intent.RECEIVE:
+        884277c com.jackthreads.android/com.google.firebase.iid.FirebaseInstanceIdReceiver filter 7ceb1c
+          Action: "com.google.android.c2dm.intent.RECEIVE"
+          Category: "com.jackthreads.android"
+
+Service Resolver Table:
+  Non-Data Actions:
+      com.google.firebase.INSTANCE_ID_EVENT:
+        a34c805 com.jackthreads.android/.JTFirebaseInstanceIDService filter 993b033
+          Action: "com.google.firebase.INSTANCE_ID_EVENT"
+        648e05a com.jackthreads.android/com.google.firebase.iid.FirebaseInstanceIdService filter abc2fee
+          Action: "com.google.firebase.INSTANCE_ID_EVENT"
+          mPriority=-500, mOrder=0, mHasPartialTypes=false
+      com.google.firebase.MESSAGING_EVENT:
+        ff228b com.jackthreads.android/.JTFirebaseMessagingService filter e03bff0
+          Action: "com.google.firebase.MESSAGING_EVENT"
+        baa3f68 com.jackthreads.android/com.google.firebase.messaging.FirebaseMessagingService filter fb40969
+          Action: "com.google.firebase.MESSAGING_EVENT"
+          mPriority=-500, mOrder=0, mHasPartialTypes=false
+
+Permissions:
+  Permission [com.jackthreads.android.permission.C2D_MESSAGE] (93edf81):
+    sourcePackage=com.jackthreads.android
+    uid=10419 gids=null type=0 prot=signature
+    perm=Permission{6a4a826 com.jackthreads.android.permission.C2D_MESSAGE}
+    packageSetting=PackageSetting{2bb5c67 com.jackthreads.android/10419}
+
+Registered ContentProviders:
+  com.jackthreads.android/com.crashlytics.android.CrashlyticsInitProvider:
+    Provider{e97ea14 com.jackthreads.android/com.crashlytics.android.CrashlyticsInitProvider}
+  com.jackthreads.android/com.google.firebase.perf.provider.FirebasePerfProvider:
+    Provider{f78f2bd com.jackthreads.android/com.google.firebase.perf.provider.FirebasePerfProvider}
+  com.jackthreads.android/com.google.firebase.provider.FirebaseInitProvider:
+    Provider{ba320b2 com.jackthreads.android/com.google.firebase.provider.FirebaseInitProvider}
+
+ContentProvider Authorities:
+  [com.jackthreads.android.firebaseperfprovider]:
+    Provider{f78f2bd com.jackthreads.android/com.google.firebase.perf.provider.FirebasePerfProvider}
+      applicationInfo=ApplicationInfo{4175803 com.jackthreads.android}
+  [com.jackthreads.android.crashlyticsinitprovider]:
+    Provider{e97ea14 com.jackthreads.android/com.crashlytics.android.CrashlyticsInitProvider}
+      applicationInfo=ApplicationInfo{4175803 com.jackthreads.android}
+  [com.jackthreads.android.firebaseinitprovider]:
+    Provider{ba320b2 com.jackthreads.android/com.google.firebase.provider.FirebaseInitProvider}
+      applicationInfo=ApplicationInfo{4175803 com.jackthreads.android}
+
+Key Set Manager:
+  [com.jackthreads.android]
+      Signing KeySets: 3
+
+Packages:
+  Package [com.jackthreads.android] (2bb5c67):
+    userId=10419
+    pkg=Package{139380 com.jackthreads.android}
+    codePath=/data/app/com.jackthreads.android-HiYgRLTU99zBZQYRqkoBfQ==
+    resourcePath=/data/app/com.jackthreads.android-HiYgRLTU99zBZQYRqkoBfQ==
+    legacyNativeLibraryDir=/data/app/com.jackthreads.android-HiYgRLTU99zBZQYRqkoBfQ==/lib
+    primaryCpuAbi=null
+    secondaryCpuAbi=null
+    versionCode=184 minSdk=15 targetSdk=26
+    versionName=5.1
+    splits=[base]
+    apkSigningVersion=1
+    applicationInfo=ApplicationInfo{4175803 com.jackthreads.android}
+    flags=[ HAS_CODE ALLOW_CLEAR_USER_DATA ALLOW_BACKUP ]
+    privateFlags=[ PRIVATE_FLAG_ACTIVITIES_RESIZE_MODE_RESIZEABLE_VIA_SDK_VERSION ]
+    dataDir=/data/user/0/com.jackthreads.android
+    supportsScreens=[small, medium, large, xlarge, resizeable, anyDensity]
+    usesLibraries:
+      org.apache.http.legacy
+    usesLibraryFiles:
+      /system/framework/org.apache.http.legacy.boot.jar
+    timeStamp=2019-08-18 02:32:24
+    firstInstallTime=2019-08-18 02:32:25
+    lastUpdateTime=2019-08-18 02:32:25
+    signatures=PackageSignatures{446fdb9 version:1, signatures:[d7f1f224], past signatures:[]}
+    installPermissionsFixed=true
+    pkgFlags=[ HAS_CODE ALLOW_CLEAR_USER_DATA ALLOW_BACKUP ]
+    declared permissions:
+      com.jackthreads.android.permission.C2D_MESSAGE: prot=signature, INSTALLED
+    requested permissions:
+      android.permission.INTERNET
+      android.permission.ACCESS_NETWORK_STATE
+      android.permission.WAKE_LOCK
+      com.google.android.providers.gsf.permission.READ_GSERVICES
+      com.google.android.c2dm.permission.RECEIVE
+      com.jackthreads.android.permission.C2D_MESSAGE
+    install permissions:
+      com.google.android.c2dm.permission.RECEIVE: granted=true
+      com.google.android.providers.gsf.permission.READ_GSERVICES: granted=true
+      android.permission.INTERNET: granted=true
+      android.permission.ACCESS_NETWORK_STATE: granted=true
+      android.permission.WAKE_LOCK: granted=true
+      com.jackthreads.android.permission.C2D_MESSAGE: granted=true
+    User 0: ceDataInode=-4294828020 installed=true hidden=false suspended=false stopped=true notLaunched=true enabled=0 instant=false virtual=false
+      gids=[3003]
+      runtime permissions:
+
+Package Changes:
+  Sequence number=377
+  User 0:
+    seq=0, package=androidauto.freeandroidauto
+    seq=2, package=com.v3.africallshop
+    seq=14, package=com.happyconz.blackbox
+    seq=15, package=com.carpart.classic
+    seq=18, package=com.insfra.incar
+    seq=19, package=com.ktwapps.speedometer
+    seq=22, package=com.smalltalkapps.textdrive
+    seq=23, package=com.snailboat.teslacamreviewer
+    seq=56, package=com.bsro.fcac
+    seq=58, package=com.sport.car.doctor
+    seq=59, package=com.firststarcommunications.ampmscratchpower.android
+    seq=60, package=mureung.obdproject
+    seq=61, package=com.digby.android.cabela
+    seq=72, package=com.punchh.fazolis
+    seq=73, package=com.auntieannes.pretzelperks
+    seq=74, package=com.sourceapp.bru
+    seq=75, package=com.baskinrobbins.app
+    seq=76, package=com.loyaltyplant.partner.degrees
+    seq=77, package=com.carmax.carmax
+    seq=78, package=com.punchh.toojays
+    seq=93, package=com.search.music.mp3.musicplayer
+    seq=95, package=com.splendapps.vox
+    seq=96, package=com.supereffect.voicechanger
+    seq=101, package=raigon.musicmood
+    seq=102, package=mobile.eaudiologia
+    seq=110, package=com.MyIndieApp.FreeOldiesRadio
+    seq=116, package=com.freerange360.mpp.businessinsider
+    seq=122, package=com.ft.news
+    seq=123, package=com.griffincommunications.droid.news9
+    seq=126, package=com.newson.vinson
+    seq=127, package=com.sunlightlabs.android.congress
+    seq=141, package=com.fli.android.newsmaxapp
+    seq=145, package=gov.bbg.voa
+    seq=147, package=top.free.police.scanner.apps
+    seq=150, package=uk.co.economist
+    seq=152, package=app.boyorgirl.predictor.free
+    seq=154, package=com.divisity.kidscraftideas
+    seq=156, package=com.dokdoapps.mybabyfirework
+    seq=159, package=com.dokdoapps.mybabyphone
+    seq=161, package=com.gmail.bigmeapps.feedinganddiapers
+    seq=162, package=com.dreamstudio.babysleepsounds
+    seq=166, package=com.sarnavsky.pasz.nightlight
+    seq=167, package=com.spreaker.android
+    seq=168, package=com.weebly.faebir.safebabymontrial
+    seq=171, package=dk.mvainformatics.android.babymonitor
+    seq=173, package=se.adopi.android.fingerpaint
+    seq=174, package=net.balinsweb.asd.ourzoob
+    seq=177, package=com.barcodescanner.walmartpricecheckapp
+    seq=181, package=com.dg.coupon
+    seq=182, package=com.bh.sprint
+    seq=184, package=com.hollar.android
+    seq=186, package=com.payrange.payrange
+    seq=188, package=com.target.GuestRegistry
+    seq=195, package=de.koloch.evaluator.free
+    seq=199, package=us.ollies.app
+    seq=210, package=com.addsnapchatfriends.sfriends
+    seq=212, package=com.ilocatemobile.navigation
+    seq=215, package=net.groceryshopping.SproutsFarmersMarket
+    seq=216, package=com.kickstarter.kickstarter
+    seq=222, package=com.pl.hichatting
+    seq=224, package=com.teampeanut.peanut
+    seq=225, package=com.profoundly.android
+    seq=228, package=fast.explorer.web.browser
+    seq=233, package=studio.love.sweet.coolcaptionsandstatus
+    seq=240, package=com.Basic.Gymnastics.Training.Moves
+    seq=244, package=com.foxdeportes.PuntoExtra
+    seq=245, package=com.firstserveapps.nflschedule
+    seq=247, package=com.freecaddie
+    seq=250, package=com.infotalk.android.rangefinder
+    seq=251, package=com.giobat.troviamoci
+    seq=253, package=com.livesoccertv
+    seq=257, package=de.perished.android.apps.fishingknots
+    seq=260, package=mobi.androapp.trinityapps.c9114
+    seq=266, package=sneakercrush.mobile.sc
+    seq=268, package=com.buschgardens.mobile
+    seq=269, package=com.velocor.mScorecard
+    seq=272, package=com.eclipsim.gpsstatus2
+    seq=275, package=com.rvparktime.android
+    seq=277, package=com.yellowpages.android.gas
+    seq=280, package=taxi.android.client
+    seq=281, package=com.YRH.PackPoint
+    seq=282, package=com.justride.rtddenver
+    seq=283, package=com.justfly
+    seq=289, package=co.vine.android
+    seq=290, package=com.crunchyroll.android.naruto
+    seq=291, package=com.meihillman.ringtonemaker
+    seq=294, package=com.downloader.video.tube.free.fast.my.mytubevideodownloader
+    seq=295, package=com.multimedia.mvcastplayer
+    seq=297, package=com.showvideo.happy
+    seq=299, package=storysaverforinstagram.storydownloader.instastorysaver
+    seq=300, package=tube.video.tubevideo.playtube
+    seq=324, package=com.android.vending
+    seq=327, package=com.google.android.gms
+    seq=328, package=mnn.Android
+    seq=329, package=com.ironServices.audioBooks
+    seq=330, package=com.digiturk.ligtv
+    seq=331, package=com.biblehub.biblehubapp
+    seq=332, package=kjv.study.bible
+    seq=333, package=us.pacourts.docket
+    seq=334, package=com.darkdesign.constitution
+    seq=338, package=vn.magik.english
+    seq=341, package=com.feverup.fever
+    seq=347, package=br.com.socialspirit.android
+    seq=350, package=gsshop.mobile.v2
+    seq=351, package=com.goldensoft.dictionaryenfree
+    seq=354, package=com.aetn.history.watch
+    seq=366, package=com.huffingtonpost.android
+    seq=367, package=com.google.android.apps.maps
+    seq=370, package=com.mutyapps.hotradiofree.internetradio
+    seq=373, package=com.smarteragent.android.kw
+    seq=374, package=com.google.android.setupwizard
+    seq=375, package=io.github.ylimit.droidbotapp
+    seq=376, package=com.jackthreads.android
+
+
+Dexopt state:
+  [com.jackthreads.android]
+    path: /data/app/com.jackthreads.android-HiYgRLTU99zBZQYRqkoBfQ==/base.apk
+      x86: [status=speed-profile] [reason=install]
+
+
+Compiler stats:
+  [com.jackthreads.android]
+     base.apk - 1359

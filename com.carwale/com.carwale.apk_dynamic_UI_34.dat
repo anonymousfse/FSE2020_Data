@@ -1,0 +1,6 @@
+100922ZZZonSensorChanged:com.mixpanel.android.viewcrawler.m:$i0 = $r0.<com.mixpanel.android.viewcrawler.m: int b>
+100861ZZZonSensorChanged:com.mixpanel.android.viewcrawler.m:$i0 = 0
+100894ZZZonSensorChanged:com.mixpanel.android.viewcrawler.m:$i0 = $r0.<com.mixpanel.android.viewcrawler.m: int b>
+100891ZZZonSensorChanged:com.mixpanel.android.viewcrawler.m:$i0 = $i0 + 1
+100871ZZZonSensorChanged:com.mixpanel.android.viewcrawler.m:$i0 = $i0 + 1
+100881ZZZonSensorChanged:com.mixpanel.android.viewcrawler.m:$i0 = $i0 + 1

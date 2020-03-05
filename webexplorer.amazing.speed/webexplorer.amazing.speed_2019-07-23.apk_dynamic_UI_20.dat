@@ -1,0 +1,5 @@
+44029ZZZonBindViewHolder:acr.browser.lightning.fragment.TabsFragment$LightningViewAdapter:$r2 = (acr.browser.lightning.fragment.TabsFragment$LightningViewAdapter$LightningViewHolder) $r1
+43992ZZZrun:acr.browser.lightning.activity.BrowserActivity$23:$r4 = $r0.<acr.browser.lightning.activity.BrowserActivity$23: java.lang.String val$title>
+43990ZZZrun:acr.browser.lightning.activity.BrowserActivity$23:$r2 = $r1.<acr.browser.lightning.activity.BrowserActivity: acr.browser.lightning.database.HistoryDatabase mHistoryDatabase>
+43991ZZZrun:acr.browser.lightning.activity.BrowserActivity$23:$r3 = $r0.<acr.browser.lightning.activity.BrowserActivity$23: java.lang.String val$url>
+43989ZZZrun:acr.browser.lightning.activity.BrowserActivity$23:$r1 = $r0.<acr.browser.lightning.activity.BrowserActivity$23: acr.browser.lightning.activity.BrowserActivity this$0>

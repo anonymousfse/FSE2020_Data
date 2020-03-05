@@ -1,0 +1,9 @@
+124257ZZZonReceive:agm:$d0 = 0.9 * $d0
+124264ZZZsetCustomProgress:org.rferl.ui.activity.BaseActivity:$r1 = $r0.<org.rferl.ui.activity.BaseActivity: android.widget.ProgressBar d>
+124259ZZZonReceive:agm:$d0 = 100.0 * $d0
+124256ZZZonReceive:agm:$d0 = (double) $f0
+124260ZZZonReceive:agm:$i0 = (int) $d0
+124262ZZZsetCustomProgress:org.rferl.ui.activity.BaseActivity:$r1 = $r0.<org.rferl.ui.activity.BaseActivity: android.widget.ProgressBar d>
+124255ZZZonReceive:agm:$r3 = $r0.<agm: org.rferl.ui.activity.HomeActivity a>
+124242ZZZfromCursor:org.rferl.provider.Contract$CategoryHelper:$r1 = new org.rferl.provider.Contract$Category
+124258ZZZonReceive:agm:$d0 = 0.1 + $d0

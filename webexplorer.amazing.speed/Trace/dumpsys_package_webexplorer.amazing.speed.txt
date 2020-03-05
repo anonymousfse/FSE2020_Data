@@ -1,0 +1,563 @@
+Activity Resolver Table:
+  Full MIME Types:
+      application/vnd.wap.xhtml+xml:
+        9cd25c4 webexplorer.amazing.speed/acr.browser.lightning.activity.MainActivity filter 7aeba07
+          Action: "android.intent.action.VIEW"
+          Category: "android.intent.category.DEFAULT"
+          Category: "android.intent.category.BROWSABLE"
+          Scheme: "file"
+          Type: "text/html"
+          Type: "text/plain"
+          Type: "application/xhtml+xml"
+          Type: "application/vnd.wap.xhtml+xml"
+        9cd25c4 webexplorer.amazing.speed/acr.browser.lightning.activity.MainActivity filter cdc995d
+          Action: "android.intent.action.VIEW"
+          Category: "android.intent.category.BROWSABLE"
+          Category: "android.intent.category.DEFAULT"
+          Scheme: "http"
+          Scheme: "https"
+          Scheme: "inline"
+          Type: "text/html"
+          Type: "text/plain"
+          Type: "application/xhtml+xml"
+          Type: "application/vnd.wap.xhtml+xml"
+      text/html:
+        9cd25c4 webexplorer.amazing.speed/acr.browser.lightning.activity.MainActivity filter 7aeba07
+          Action: "android.intent.action.VIEW"
+          Category: "android.intent.category.DEFAULT"
+          Category: "android.intent.category.BROWSABLE"
+          Scheme: "file"
+          Type: "text/html"
+          Type: "text/plain"
+          Type: "application/xhtml+xml"
+          Type: "application/vnd.wap.xhtml+xml"
+        9cd25c4 webexplorer.amazing.speed/acr.browser.lightning.activity.MainActivity filter cdc995d
+          Action: "android.intent.action.VIEW"
+          Category: "android.intent.category.BROWSABLE"
+          Category: "android.intent.category.DEFAULT"
+          Scheme: "http"
+          Scheme: "https"
+          Scheme: "inline"
+          Type: "text/html"
+          Type: "text/plain"
+          Type: "application/xhtml+xml"
+          Type: "application/vnd.wap.xhtml+xml"
+      application/x-webarchive-xml:
+        9cd25c4 webexplorer.amazing.speed/acr.browser.lightning.activity.MainActivity filter b95d2d2
+          Action: "android.intent.action.VIEW"
+          Category: "android.intent.category.BROWSABLE"
+          Category: "android.intent.category.DEFAULT"
+          Scheme: "http"
+          Scheme: "https"
+          Scheme: "file"
+          Type: "application/x-webarchive-xml"
+      application/xhtml+xml:
+        9cd25c4 webexplorer.amazing.speed/acr.browser.lightning.activity.MainActivity filter 7aeba07
+          Action: "android.intent.action.VIEW"
+          Category: "android.intent.category.DEFAULT"
+          Category: "android.intent.category.BROWSABLE"
+          Scheme: "file"
+          Type: "text/html"
+          Type: "text/plain"
+          Type: "application/xhtml+xml"
+          Type: "application/vnd.wap.xhtml+xml"
+        9cd25c4 webexplorer.amazing.speed/acr.browser.lightning.activity.MainActivity filter cdc995d
+          Action: "android.intent.action.VIEW"
+          Category: "android.intent.category.BROWSABLE"
+          Category: "android.intent.category.DEFAULT"
+          Scheme: "http"
+          Scheme: "https"
+          Scheme: "inline"
+          Type: "text/html"
+          Type: "text/plain"
+          Type: "application/xhtml+xml"
+          Type: "application/vnd.wap.xhtml+xml"
+      text/plain:
+        9cd25c4 webexplorer.amazing.speed/acr.browser.lightning.activity.MainActivity filter 7aeba07
+          Action: "android.intent.action.VIEW"
+          Category: "android.intent.category.DEFAULT"
+          Category: "android.intent.category.BROWSABLE"
+          Scheme: "file"
+          Type: "text/html"
+          Type: "text/plain"
+          Type: "application/xhtml+xml"
+          Type: "application/vnd.wap.xhtml+xml"
+        9cd25c4 webexplorer.amazing.speed/acr.browser.lightning.activity.MainActivity filter cdc995d
+          Action: "android.intent.action.VIEW"
+          Category: "android.intent.category.BROWSABLE"
+          Category: "android.intent.category.DEFAULT"
+          Scheme: "http"
+          Scheme: "https"
+          Scheme: "inline"
+          Type: "text/html"
+          Type: "text/plain"
+          Type: "application/xhtml+xml"
+          Type: "application/vnd.wap.xhtml+xml"
+
+  Base MIME Types:
+      text:
+        9cd25c4 webexplorer.amazing.speed/acr.browser.lightning.activity.MainActivity filter 7aeba07
+          Action: "android.intent.action.VIEW"
+          Category: "android.intent.category.DEFAULT"
+          Category: "android.intent.category.BROWSABLE"
+          Scheme: "file"
+          Type: "text/html"
+          Type: "text/plain"
+          Type: "application/xhtml+xml"
+          Type: "application/vnd.wap.xhtml+xml"
+        9cd25c4 webexplorer.amazing.speed/acr.browser.lightning.activity.MainActivity filter 7aeba07
+          Action: "android.intent.action.VIEW"
+          Category: "android.intent.category.DEFAULT"
+          Category: "android.intent.category.BROWSABLE"
+          Scheme: "file"
+          Type: "text/html"
+          Type: "text/plain"
+          Type: "application/xhtml+xml"
+          Type: "application/vnd.wap.xhtml+xml"
+        9cd25c4 webexplorer.amazing.speed/acr.browser.lightning.activity.MainActivity filter cdc995d
+          Action: "android.intent.action.VIEW"
+          Category: "android.intent.category.BROWSABLE"
+          Category: "android.intent.category.DEFAULT"
+          Scheme: "http"
+          Scheme: "https"
+          Scheme: "inline"
+          Type: "text/html"
+          Type: "text/plain"
+          Type: "application/xhtml+xml"
+          Type: "application/vnd.wap.xhtml+xml"
+        9cd25c4 webexplorer.amazing.speed/acr.browser.lightning.activity.MainActivity filter cdc995d
+          Action: "android.intent.action.VIEW"
+          Category: "android.intent.category.BROWSABLE"
+          Category: "android.intent.category.DEFAULT"
+          Scheme: "http"
+          Scheme: "https"
+          Scheme: "inline"
+          Type: "text/html"
+          Type: "text/plain"
+          Type: "application/xhtml+xml"
+          Type: "application/vnd.wap.xhtml+xml"
+      application:
+        9cd25c4 webexplorer.amazing.speed/acr.browser.lightning.activity.MainActivity filter 7aeba07
+          Action: "android.intent.action.VIEW"
+          Category: "android.intent.category.DEFAULT"
+          Category: "android.intent.category.BROWSABLE"
+          Scheme: "file"
+          Type: "text/html"
+          Type: "text/plain"
+          Type: "application/xhtml+xml"
+          Type: "application/vnd.wap.xhtml+xml"
+        9cd25c4 webexplorer.amazing.speed/acr.browser.lightning.activity.MainActivity filter 7aeba07
+          Action: "android.intent.action.VIEW"
+          Category: "android.intent.category.DEFAULT"
+          Category: "android.intent.category.BROWSABLE"
+          Scheme: "file"
+          Type: "text/html"
+          Type: "text/plain"
+          Type: "application/xhtml+xml"
+          Type: "application/vnd.wap.xhtml+xml"
+        9cd25c4 webexplorer.amazing.speed/acr.browser.lightning.activity.MainActivity filter cdc995d
+          Action: "android.intent.action.VIEW"
+          Category: "android.intent.category.BROWSABLE"
+          Category: "android.intent.category.DEFAULT"
+          Scheme: "http"
+          Scheme: "https"
+          Scheme: "inline"
+          Type: "text/html"
+          Type: "text/plain"
+          Type: "application/xhtml+xml"
+          Type: "application/vnd.wap.xhtml+xml"
+        9cd25c4 webexplorer.amazing.speed/acr.browser.lightning.activity.MainActivity filter cdc995d
+          Action: "android.intent.action.VIEW"
+          Category: "android.intent.category.BROWSABLE"
+          Category: "android.intent.category.DEFAULT"
+          Scheme: "http"
+          Scheme: "https"
+          Scheme: "inline"
+          Type: "text/html"
+          Type: "text/plain"
+          Type: "application/xhtml+xml"
+          Type: "application/vnd.wap.xhtml+xml"
+        9cd25c4 webexplorer.amazing.speed/acr.browser.lightning.activity.MainActivity filter b95d2d2
+          Action: "android.intent.action.VIEW"
+          Category: "android.intent.category.BROWSABLE"
+          Category: "android.intent.category.DEFAULT"
+          Scheme: "http"
+          Scheme: "https"
+          Scheme: "file"
+          Type: "application/x-webarchive-xml"
+
+  Schemes:
+      inline:
+        9cd25c4 webexplorer.amazing.speed/acr.browser.lightning.activity.MainActivity filter cdc995d
+          Action: "android.intent.action.VIEW"
+          Category: "android.intent.category.BROWSABLE"
+          Category: "android.intent.category.DEFAULT"
+          Scheme: "http"
+          Scheme: "https"
+          Scheme: "inline"
+          Type: "text/html"
+          Type: "text/plain"
+          Type: "application/xhtml+xml"
+          Type: "application/vnd.wap.xhtml+xml"
+      file:
+        9cd25c4 webexplorer.amazing.speed/acr.browser.lightning.activity.MainActivity filter 7aeba07
+          Action: "android.intent.action.VIEW"
+          Category: "android.intent.category.DEFAULT"
+          Category: "android.intent.category.BROWSABLE"
+          Scheme: "file"
+          Type: "text/html"
+          Type: "text/plain"
+          Type: "application/xhtml+xml"
+          Type: "application/vnd.wap.xhtml+xml"
+        9cd25c4 webexplorer.amazing.speed/acr.browser.lightning.activity.MainActivity filter b95d2d2
+          Action: "android.intent.action.VIEW"
+          Category: "android.intent.category.BROWSABLE"
+          Category: "android.intent.category.DEFAULT"
+          Scheme: "http"
+          Scheme: "https"
+          Scheme: "file"
+          Type: "application/x-webarchive-xml"
+      http:
+        9cd25c4 webexplorer.amazing.speed/acr.browser.lightning.activity.MainActivity filter a7d8734
+          Action: "android.intent.action.VIEW"
+          Category: "android.intent.category.DEFAULT"
+          Category: "android.intent.category.BROWSABLE"
+          Scheme: "http"
+          Scheme: "https"
+          Scheme: "about"
+          Scheme: "javascript"
+        9cd25c4 webexplorer.amazing.speed/acr.browser.lightning.activity.MainActivity filter cdc995d
+          Action: "android.intent.action.VIEW"
+          Category: "android.intent.category.BROWSABLE"
+          Category: "android.intent.category.DEFAULT"
+          Scheme: "http"
+          Scheme: "https"
+          Scheme: "inline"
+          Type: "text/html"
+          Type: "text/plain"
+          Type: "application/xhtml+xml"
+          Type: "application/vnd.wap.xhtml+xml"
+        9cd25c4 webexplorer.amazing.speed/acr.browser.lightning.activity.MainActivity filter b95d2d2
+          Action: "android.intent.action.VIEW"
+          Category: "android.intent.category.BROWSABLE"
+          Category: "android.intent.category.DEFAULT"
+          Scheme: "http"
+          Scheme: "https"
+          Scheme: "file"
+          Type: "application/x-webarchive-xml"
+        9cd25c4 webexplorer.amazing.speed/acr.browser.lightning.activity.MainActivity filter 572efa3
+          Action: "android.intent.action.WEB_SEARCH"
+          Category: "android.intent.category.DEFAULT"
+          Category: "android.intent.category.BROWSABLE"
+          Scheme: "http"
+          Scheme: "https"
+      about:
+        9cd25c4 webexplorer.amazing.speed/acr.browser.lightning.activity.MainActivity filter a7d8734
+          Action: "android.intent.action.VIEW"
+          Category: "android.intent.category.DEFAULT"
+          Category: "android.intent.category.BROWSABLE"
+          Scheme: "http"
+          Scheme: "https"
+          Scheme: "about"
+          Scheme: "javascript"
+      https:
+        9cd25c4 webexplorer.amazing.speed/acr.browser.lightning.activity.MainActivity filter a7d8734
+          Action: "android.intent.action.VIEW"
+          Category: "android.intent.category.DEFAULT"
+          Category: "android.intent.category.BROWSABLE"
+          Scheme: "http"
+          Scheme: "https"
+          Scheme: "about"
+          Scheme: "javascript"
+        9cd25c4 webexplorer.amazing.speed/acr.browser.lightning.activity.MainActivity filter cdc995d
+          Action: "android.intent.action.VIEW"
+          Category: "android.intent.category.BROWSABLE"
+          Category: "android.intent.category.DEFAULT"
+          Scheme: "http"
+          Scheme: "https"
+          Scheme: "inline"
+          Type: "text/html"
+          Type: "text/plain"
+          Type: "application/xhtml+xml"
+          Type: "application/vnd.wap.xhtml+xml"
+        9cd25c4 webexplorer.amazing.speed/acr.browser.lightning.activity.MainActivity filter b95d2d2
+          Action: "android.intent.action.VIEW"
+          Category: "android.intent.category.BROWSABLE"
+          Category: "android.intent.category.DEFAULT"
+          Scheme: "http"
+          Scheme: "https"
+          Scheme: "file"
+          Type: "application/x-webarchive-xml"
+        9cd25c4 webexplorer.amazing.speed/acr.browser.lightning.activity.MainActivity filter 572efa3
+          Action: "android.intent.action.WEB_SEARCH"
+          Category: "android.intent.category.DEFAULT"
+          Category: "android.intent.category.BROWSABLE"
+          Scheme: "http"
+          Scheme: "https"
+      javascript:
+        9cd25c4 webexplorer.amazing.speed/acr.browser.lightning.activity.MainActivity filter a7d8734
+          Action: "android.intent.action.VIEW"
+          Category: "android.intent.category.DEFAULT"
+          Category: "android.intent.category.BROWSABLE"
+          Scheme: "http"
+          Scheme: "https"
+          Scheme: "about"
+          Scheme: "javascript"
+
+  Non-Data Actions:
+      android.intent.action.READING:
+        772fcad webexplorer.amazing.speed/acr.browser.lightning.activity.ReadingActivity filter fbae2ff
+          Action: "android.intent.action.READING"
+          Category: "android.intent.category.DEFAULT"
+      android.intent.action.MAIN:
+        fc07be2 webexplorer.amazing.speed/acr.browser.lightning.activity.SplashScreenActivity filter a3a7846
+          Action: "android.intent.action.MAIN"
+          Category: "android.intent.category.DEFAULT"
+          Category: "android.intent.category.LAUNCHER"
+          Category: "android.intent.category.BROWSABLE"
+          Category: "android.intent.category.APP_BROWSER"
+      android.intent.action.SETTINGS:
+        d7fcb73 webexplorer.amazing.speed/acr.browser.lightning.activity.SettingsActivity filter f4e6e59
+          Action: "android.intent.action.SETTINGS"
+          Category: "android.intent.category.DEFAULT"
+      info.guardianproject.panic.action.TRIGGER:
+        9cd25c4 webexplorer.amazing.speed/acr.browser.lightning.activity.MainActivity filter 205e2a0
+          Action: "info.guardianproject.panic.action.TRIGGER"
+          Category: "android.intent.category.DEFAULT"
+      android.intent.action.INCOGNITO:
+        d58da30 webexplorer.amazing.speed/acr.browser.lightning.activity.IncognitoActivity filter bda4a1e
+          Action: "android.intent.action.INCOGNITO"
+          Category: "android.intent.category.DEFAULT"
+      android.intent.action.CREATE_SHORTCUT:
+        26fb6a9 webexplorer.amazing.speed/com.mobvista.msdk.shell.MVActivity filter 875c21
+          Action: "android.intent.action.CREATE_SHORTCUT"
+          Category: "android.intent.category.DEFAULT"
+
+  MIME Typed Actions:
+      android.intent.action.VIEW:
+        9cd25c4 webexplorer.amazing.speed/acr.browser.lightning.activity.MainActivity filter 7aeba07
+          Action: "android.intent.action.VIEW"
+          Category: "android.intent.category.DEFAULT"
+          Category: "android.intent.category.BROWSABLE"
+          Scheme: "file"
+          Type: "text/html"
+          Type: "text/plain"
+          Type: "application/xhtml+xml"
+          Type: "application/vnd.wap.xhtml+xml"
+        9cd25c4 webexplorer.amazing.speed/acr.browser.lightning.activity.MainActivity filter cdc995d
+          Action: "android.intent.action.VIEW"
+          Category: "android.intent.category.BROWSABLE"
+          Category: "android.intent.category.DEFAULT"
+          Scheme: "http"
+          Scheme: "https"
+          Scheme: "inline"
+          Type: "text/html"
+          Type: "text/plain"
+          Type: "application/xhtml+xml"
+          Type: "application/vnd.wap.xhtml+xml"
+        9cd25c4 webexplorer.amazing.speed/acr.browser.lightning.activity.MainActivity filter b95d2d2
+          Action: "android.intent.action.VIEW"
+          Category: "android.intent.category.BROWSABLE"
+          Category: "android.intent.category.DEFAULT"
+          Scheme: "http"
+          Scheme: "https"
+          Scheme: "file"
+          Type: "application/x-webarchive-xml"
+
+Receiver Resolver Table:
+  Non-Data Actions:
+      android.intent.action.SCREEN_OFF:
+        2ee742e webexplorer.amazing.speed/acr.browser.lightning.receiver.ScreenReceiver filter f73c09c
+          Action: "android.intent.action.SCREEN_OFF"
+          Action: "android.intent.action.SCREEN_ON"
+      android.intent.action.SCREEN_ON:
+        2ee742e webexplorer.amazing.speed/acr.browser.lightning.receiver.ScreenReceiver filter f73c09c
+          Action: "android.intent.action.SCREEN_OFF"
+          Action: "android.intent.action.SCREEN_ON"
+      com.android.vending.INSTALL_REFERRER:
+        81abcf webexplorer.amazing.speed/acr.browser.lightning.receiver.InstallReferrerReceiver filter da0baa5
+          Action: "com.android.vending.INSTALL_REFERRER"
+        aa9695c webexplorer.amazing.speed/com.appsflyer.SingleInstallBroadcastReceiver filter 6ebee7a
+          Action: "com.android.vending.INSTALL_REFERRER"
+        1641465 webexplorer.amazing.speed/com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver filter 179e62b
+          Action: "com.android.vending.INSTALL_REFERRER"
+      com.google.android.c2dm.intent.RECEIVE:
+        f1a53a webexplorer.amazing.speed/com.google.firebase.iid.FirebaseInstanceIdReceiver filter 54a4a88
+          Action: "com.google.android.c2dm.intent.RECEIVE"
+
+Service Resolver Table:
+  Non-Data Actions:
+      com.google.firebase.INSTANCE_ID_EVENT:
+        c1735eb webexplorer.amazing.speed/com.google.firebase.iid.FirebaseInstanceIdService filter fadd80f
+          Action: "com.google.firebase.INSTANCE_ID_EVENT"
+          mPriority=-500, mOrder=0, mHasPartialTypes=false
+      com.google.firebase.MESSAGING_EVENT:
+        711bf48 webexplorer.amazing.speed/com.google.firebase.messaging.FirebaseMessagingService filter 63aa96e
+          Action: "com.google.firebase.MESSAGING_EVENT"
+          mPriority=-500, mOrder=0, mHasPartialTypes=false
+
+Registered ContentProviders:
+  webexplorer.amazing.speed/com.crashlytics.android.CrashlyticsInitProvider:
+    Provider{48691e1 webexplorer.amazing.speed/com.crashlytics.android.CrashlyticsInitProvider}
+  webexplorer.amazing.speed/com.google.firebase.provider.FirebaseInitProvider:
+    Provider{2c4db06 webexplorer.amazing.speed/com.google.firebase.provider.FirebaseInitProvider}
+
+ContentProvider Authorities:
+  [webexplorer.amazing.speed.crashlyticsinitprovider]:
+    Provider{48691e1 webexplorer.amazing.speed/com.crashlytics.android.CrashlyticsInitProvider}
+      applicationInfo=ApplicationInfo{53145c7 webexplorer.amazing.speed}
+  [webexplorer.amazing.speed.firebaseinitprovider]:
+    Provider{2c4db06 webexplorer.amazing.speed/com.google.firebase.provider.FirebaseInitProvider}
+      applicationInfo=ApplicationInfo{53145c7 webexplorer.amazing.speed}
+
+Key Set Manager:
+  [webexplorer.amazing.speed]
+      Signing KeySets: 80
+
+Packages:
+  Package [webexplorer.amazing.speed] (82787f4):
+    userId=10162
+    pkg=Package{ef96b1d webexplorer.amazing.speed}
+    codePath=/data/app/webexplorer.amazing.speed-emdVCFKpleaHbsuJKJ-sHQ==
+    resourcePath=/data/app/webexplorer.amazing.speed-emdVCFKpleaHbsuJKJ-sHQ==
+    legacyNativeLibraryDir=/data/app/webexplorer.amazing.speed-emdVCFKpleaHbsuJKJ-sHQ==/lib
+    primaryCpuAbi=x86
+    secondaryCpuAbi=null
+    versionCode=1033 minSdk=15 targetSdk=26
+    versionName=24.8.0
+    splits=[base]
+    apkSigningVersion=2
+    applicationInfo=ApplicationInfo{53145c7 webexplorer.amazing.speed}
+    flags=[ HAS_CODE ALLOW_CLEAR_USER_DATA ALLOW_BACKUP ]
+    privateFlags=[ PRIVATE_FLAG_ACTIVITIES_RESIZE_MODE_RESIZEABLE_VIA_SDK_VERSION HAS_DOMAIN_URLS ]
+    dataDir=/data/user/0/webexplorer.amazing.speed
+    supportsScreens=[small, medium, large, xlarge, resizeable, anyDensity]
+    usesLibraries:
+      org.apache.http.legacy
+    usesLibraryFiles:
+      /system/framework/org.apache.http.legacy.boot.jar
+    timeStamp=2020-03-05 02:51:28
+    firstInstallTime=2020-03-05 02:51:28
+    lastUpdateTime=2020-03-05 02:51:28
+    signatures=PackageSignatures{443a192 version:2, signatures:[1e0c55b2], past signatures:[]}
+    installPermissionsFixed=true
+    pkgFlags=[ HAS_CODE ALLOW_CLEAR_USER_DATA ALLOW_BACKUP ]
+    requested permissions:
+      android.permission.INTERNET
+      android.permission.WRITE_EXTERNAL_STORAGE
+      android.permission.READ_EXTERNAL_STORAGE
+      android.permission.ACCESS_FINE_LOCATION
+      android.permission.ACCESS_NETWORK_STATE
+      com.android.browser.permission.READ_HISTORY_BOOKMARKS
+      com.android.browser.permission.WRITE_HISTORY_BOOKMARKS
+      com.android.launcher.permission.INSTALL_SHORTCUT
+      android.permission.TYPE_APPLICATION_OVERLAY
+      android.permission.SYSTEM_ALERT_WINDOW
+      android.permission.VIBRATE
+      android.permission.ACCESS_COARSE_LOCATION
+      android.permission.BLUETOOTH
+      android.permission.ACCESS_WIFI_STATE
+      android.permission.READ_PHONE_STATE
+      android.permission.ACCESS_COARSE_UPDATES
+      android.permission.SYSTEM_OVERLAY_WINDOW
+      android.permission.WAKE_LOCK
+      android.permission.GET_TASKS
+      com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE
+      com.google.android.c2dm.permission.RECEIVE
+    install permissions:
+      com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE: granted=true
+      com.google.android.c2dm.permission.RECEIVE: granted=true
+      android.permission.BLUETOOTH: granted=true
+      android.permission.GET_TASKS: granted=true
+      android.permission.INTERNET: granted=true
+      com.android.browser.permission.READ_HISTORY_BOOKMARKS: granted=true
+      android.permission.ACCESS_NETWORK_STATE: granted=true
+      com.android.browser.permission.WRITE_HISTORY_BOOKMARKS: granted=true
+      android.permission.VIBRATE: granted=true
+      android.permission.ACCESS_WIFI_STATE: granted=true
+      com.android.launcher.permission.INSTALL_SHORTCUT: granted=true
+      android.permission.WAKE_LOCK: granted=true
+    User 0: ceDataInode=-4294818910 installed=true hidden=false suspended=false stopped=true notLaunched=true enabled=0 instant=false virtual=false
+      gids=[3002, 3003]
+      runtime permissions:
+
+Package Changes:
+  Sequence number=716
+  User 0:
+    seq=0, package=com.google.android.apps.inputmethod.hindi
+    seq=1, package=com.google.android.inputmethod.pinyin
+    seq=2, package=com.google.android.webview
+    seq=4, package=com.android.systemui
+    seq=6, package=com.google.android.inputmethod.latin
+    seq=93, package=com.google.android.apps.nexuslauncher
+    seq=95, package=com.google.android.sdksetup
+    seq=96, package=com.google.android.apps.restore
+    seq=138, package=com.google.android.partnersetup
+    seq=386, package=com.google.android.apps.maps
+    seq=388, package=com.google.android.youtube
+    seq=404, package=com.google.android.gsf
+    seq=406, package=com.google.android.calendar
+    seq=407, package=com.android.camera2
+    seq=408, package=com.android.nfc
+    seq=442, package=com.google.android.videos
+    seq=452, package=com.google.android.gm
+    seq=456, package=com.google.android.googlequicksearchbox
+    seq=545, package=com.android.settings
+    seq=547, package=com.google.android.apps.messaging
+    seq=591, package=com.ironServices.audioBooks
+    seq=592, package=com.auntieannes.pretzelperks
+    seq=593, package=gov.ca.dmv
+    seq=594, package=com.biblehub.biblehubapp
+    seq=595, package=com.mtph.clmobile
+    seq=596, package=com.carwale
+    seq=597, package=gov.state.apps.android.DOSCareers
+    seq=598, package=com.dominos.caribbean
+    seq=599, package=br.thiagopacheco.enfermagem
+    seq=600, package=com.goodrx.gold
+    seq=601, package=com.karmakshetra.online
+    seq=602, package=com.jackthreads.android
+    seq=603, package=es.torcha.matriculas
+    seq=604, package=com.kbb.mobile
+    seq=605, package=org.na.naapp
+    seq=606, package=org.meetingguide
+    seq=607, package=com.tmcc.click2pay.mytfs
+    seq=608, package=com.MyIndieApp.FreeOldiesRadio
+    seq=609, package=com.restaurant.mobile
+    seq=611, package=com.elunviersal.isalud
+    seq=612, package=com.yogurtland.production
+    seq=613, package=com.buyvia.foodcoupons
+    seq=623, package=info.androidz.horoscope
+    seq=624, package=com.shanviinfotech.sadquotes
+    seq=625, package=com.tompanew.satellite
+    seq=626, package=com.parval.vyral
+    seq=639, package=all.newspapers.world
+    seq=640, package=com.sandesh.epaper
+    seq=648, package=com.cabify.rider
+    seq=666, package=com.android.stock
+    seq=683, package=com.startpage.mobile
+    seq=684, package=com.grigerlab.transport.minsk
+    seq=687, package=com.nop.eortologio
+    seq=688, package=de.carknue.gmon2
+    seq=691, package=com.wordreference
+    seq=692, package=com.pkm.predictions
+    seq=694, package=fr.pap
+    seq=697, package=com.jappit.android.televideo
+    seq=698, package=tfilon.tfilon
+    seq=701, package=app.plantationapp
+    seq=706, package=com.bcs.dailythanthi
+    seq=710, package=com.android.vending
+    seq=712, package=com.google.android.gms
+    seq=713, package=com.google.android.setupwizard
+    seq=714, package=io.github.ylimit.droidbotapp
+    seq=715, package=webexplorer.amazing.speed
+
+
+Dexopt state:
+  [webexplorer.amazing.speed]
+    path: /data/app/webexplorer.amazing.speed-emdVCFKpleaHbsuJKJ-sHQ==/base.apk
+      x86: [status=speed-profile] [reason=install]
+
+
+Compiler stats:
+  [webexplorer.amazing.speed]
+     base.apk - 1521

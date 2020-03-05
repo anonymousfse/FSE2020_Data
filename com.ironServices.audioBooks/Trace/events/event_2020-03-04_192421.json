@@ -1,0 +1,48 @@
+{
+  "stop_state": "fc16cb1155853727bfee54d1d5955d49", 
+  "event_str": "TouchEvent(state=fc16cb1155853727bfee54d1d5955d49, view=a527ffa97b6c67b536322da110bdc3ec)", 
+  "tag": "2020-03-04_192421", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "event_type": "touch", 
+    "view": {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": null, 
+      "visible": false, 
+      "checkable": false, 
+      "children": [], 
+      "size": "0*0", 
+      "checked": false, 
+      "temp_id": 124, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.FrameLayout[resource_id]None", 
+      "is_password": false, 
+      "parent": 123, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.FrameLayout", 
+      "scrollable": false, 
+      "package": "com.ironServices.audioBooks", 
+      "long_clickable": false, 
+      "view_str": "a527ffa97b6c67b536322da110bdc3ec", 
+      "enabled": true, 
+      "bounds": [
+        [
+          540, 
+          1794
+        ], 
+        [
+          540, 
+          1794
+        ]
+      ], 
+      "signature": "[class]android.widget.FrameLayout[resource_id]None[text]None[enabled,,]"
+    }
+  }, 
+  "start_state": "fc16cb1155853727bfee54d1d5955d49"
+}

@@ -1,0 +1,48 @@
+{
+  "stop_state": "fb44ba71a6ecaca1aef2e0ff5238a5c7", 
+  "event_str": "TouchEvent(state=b2b4667b36cddda5539ce78afe206238, view=9ca3d296b8a57e9703ac4d9c1f56b3c6)", 
+  "tag": "2020-03-04_185204", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "event_type": "touch", 
+    "view": {
+      "content_description": null, 
+      "resource_id": "webexplorer.amazing.speed:id/new_tab_button", 
+      "text": null, 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "79*79", 
+      "checked": false, 
+      "temp_id": 17, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.ImageView[resource_id]webexplorer.amazing.speed:id/new_tab_button", 
+      "is_password": false, 
+      "parent": 10, 
+      "focusable": true, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": true, 
+      "class": "android.widget.ImageView", 
+      "scrollable": false, 
+      "package": "webexplorer.amazing.speed", 
+      "long_clickable": false, 
+      "view_str": "9ca3d296b8a57e9703ac4d9c1f56b3c6", 
+      "enabled": true, 
+      "bounds": [
+        [
+          1001, 
+          63
+        ], 
+        [
+          1080, 
+          142
+        ]
+      ], 
+      "signature": "[class]android.widget.ImageView[resource_id]webexplorer.amazing.speed:id/new_tab_button[text]None[enabled,,]"
+    }
+  }, 
+  "start_state": "b2b4667b36cddda5539ce78afe206238"
+}

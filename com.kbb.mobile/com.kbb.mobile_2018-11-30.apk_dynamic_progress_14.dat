@@ -1,0 +1,2 @@
+64751ZZZcreateAdapter:com.kbb.mobile.views.hub.CarHubDealers:$r9 = $r0.<com.kbb.mobile.views.hub.CarHubDealers: android.widget.ProgressBar progress>
+64727ZZZcreateAdapter:com.kbb.mobile.views.hub.CarHubDealers:$r7 = virtualinvoke $r6.<com.kbb.mobile.ActivityHub: android.content.Context getBaseContext()>()

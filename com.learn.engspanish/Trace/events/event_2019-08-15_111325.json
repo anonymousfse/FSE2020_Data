@@ -1,0 +1,48 @@
+{
+  "stop_state": "9fcc97b171979e4b3898b44eb349e47f", 
+  "event_str": "TouchEvent(state=781a0372bc16f3946a2f4f6997571241, view=448bcc02e6e493e440b053954678405d)", 
+  "tag": "2019-08-15_111325", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "event_type": "touch", 
+    "view": {
+      "content_description": null, 
+      "resource_id": "com.learn.engspanish:id/txtquestion", 
+      "text": "Sheer", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "966*114", 
+      "checked": false, 
+      "temp_id": 12, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.TextView[resource_id]com.learn.engspanish:id/txtquestion", 
+      "is_password": false, 
+      "parent": 9, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.TextView", 
+      "scrollable": false, 
+      "package": "com.learn.engspanish", 
+      "long_clickable": false, 
+      "view_str": "448bcc02e6e493e440b053954678405d", 
+      "enabled": true, 
+      "bounds": [
+        [
+          57, 
+          720
+        ], 
+        [
+          1023, 
+          834
+        ]
+      ], 
+      "signature": "[class]android.widget.TextView[resource_id]com.learn.engspanish:id/txtquestion[text]Sheer[enabled,,]"
+    }
+  }, 
+  "start_state": "781a0372bc16f3946a2f4f6997571241"
+}

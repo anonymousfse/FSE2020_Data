@@ -1,0 +1,48 @@
+{
+  "stop_state": "c592fc83ca033d4a02652e2a31650bcc", 
+  "event_str": "TouchEvent(state=fb44ba71a6ecaca1aef2e0ff5238a5c7, view=19f53c2bb3e98c12246502604d20afaa)", 
+  "tag": "2020-03-04_185215", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "event_type": "touch", 
+    "view": {
+      "content_description": null, 
+      "resource_id": "android:id/titleDividerNoCustom", 
+      "text": null, 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "940*21", 
+      "checked": false, 
+      "temp_id": 7, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.view.View[resource_id]android:id/titleDividerNoCustom", 
+      "is_password": false, 
+      "parent": 4, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.view.View", 
+      "scrollable": false, 
+      "package": "webexplorer.amazing.speed", 
+      "long_clickable": false, 
+      "view_str": "19f53c2bb3e98c12246502604d20afaa", 
+      "enabled": true, 
+      "bounds": [
+        [
+          70, 
+          849
+        ], 
+        [
+          1010, 
+          870
+        ]
+      ], 
+      "signature": "[class]android.view.View[resource_id]android:id/titleDividerNoCustom[text]None[enabled,,]"
+    }
+  }, 
+  "start_state": "fb44ba71a6ecaca1aef2e0ff5238a5c7"
+}

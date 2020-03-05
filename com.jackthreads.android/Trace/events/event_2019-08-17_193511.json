@@ -1,0 +1,50 @@
+{
+  "stop_state": "ebdda869c4bf639ea018d92acef2cdcc", 
+  "event_str": "TouchEvent(state=d667a1e8e7d2b54973e4206f05e72271, view=2a930baf767927c3bd58e24c2c20b022)", 
+  "tag": "2019-08-17_193511", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "event_type": "touch", 
+    "view": {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": "Your Bag", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [
+        27
+      ], 
+      "size": "81*79", 
+      "checked": false, 
+      "temp_id": 26, 
+      "selected": false, 
+      "child_count": 1, 
+      "content_free_signature": "[class]android.view.MenuItem[resource_id]None", 
+      "is_password": false, 
+      "parent": 20, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": true, 
+      "class": "android.view.MenuItem", 
+      "scrollable": false, 
+      "package": "com.jackthreads.android", 
+      "long_clickable": false, 
+      "view_str": "2a930baf767927c3bd58e24c2c20b022", 
+      "enabled": true, 
+      "bounds": [
+        [
+          987, 
+          183
+        ], 
+        [
+          1068, 
+          262
+        ]
+      ], 
+      "signature": "[class]android.view.MenuItem[resource_id]None[text]Your Bag[enabled,,]"
+    }
+  }, 
+  "start_state": "d667a1e8e7d2b54973e4206f05e72271"
+}

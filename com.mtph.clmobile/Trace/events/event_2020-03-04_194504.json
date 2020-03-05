@@ -1,0 +1,48 @@
+{
+  "stop_state": "71516aaaf445dc4040b46147639fac7f", 
+  "event_str": "TouchEvent(state=645923a692af133e66673d0d037994f3, view=1c362a17e34c38535e602b1b616330e0)", 
+  "tag": "2020-03-04_194504", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "event_type": "touch", 
+    "view": {
+      "content_description": null, 
+      "resource_id": "android:id/text1", 
+      "text": "Copy to clipboard", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "178*81", 
+      "checked": false, 
+      "temp_id": 19, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.TextView[resource_id]android:id/text1", 
+      "is_password": false, 
+      "parent": 16, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.TextView", 
+      "scrollable": false, 
+      "package": "android", 
+      "long_clickable": false, 
+      "view_str": "1c362a17e34c38535e602b1b616330e0", 
+      "enabled": true, 
+      "bounds": [
+        [
+          583, 
+          1225
+        ], 
+        [
+          761, 
+          1306
+        ]
+      ], 
+      "signature": "[class]android.widget.TextView[resource_id]android:id/text1[text]Copy to clipboard[enabled,,]"
+    }
+  }, 
+  "start_state": "645923a692af133e66673d0d037994f3"
+}

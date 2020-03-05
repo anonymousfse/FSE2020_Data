@@ -1,0 +1,4 @@
+504335ZZZonCreate:org.rferl.ui.activity.multimedia.MultimediaTabsActivity:$r4 = (android.support.v4.app.FragmentTabHost) $r3
+504321ZZZsetContentView:com.jeremyfeinstein.slidingmenu.lib.app.SlidingFragmentActivity:$r2 = new android.view.ViewGroup$LayoutParams
+504338ZZZonCreate:org.rferl.ui.activity.multimedia.MultimediaTabsActivity:$r5 = virtualinvoke $r0.<org.rferl.ui.activity.multimedia.MultimediaTabsActivity: android.support.v4.app.FragmentManager getSupportFragmentManager()>()
+504337ZZZonCreate:org.rferl.ui.activity.multimedia.MultimediaTabsActivity:$r4 = $r0.<org.rferl.ui.activity.multimedia.MultimediaTabsActivity: android.support.v4.app.FragmentTabHost d>

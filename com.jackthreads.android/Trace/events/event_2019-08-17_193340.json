@@ -1,0 +1,48 @@
+{
+  "stop_state": "0e76be6bd805d0b24510e2b6ca2ae1cd", 
+  "event_str": "TouchEvent(state=9a9488fb5651b06d3a6d6853f01cb8ab, view=b3fa15b74672860e54559a98ff1b5c79)", 
+  "tag": "2019-08-17_193340", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "event_type": "touch", 
+    "view": {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": "all-suits", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "1081*2", 
+      "checked": false, 
+      "temp_id": 49, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.view.View[resource_id]None", 
+      "is_password": false, 
+      "parent": 47, 
+      "focusable": true, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": true, 
+      "class": "android.view.View", 
+      "scrollable": false, 
+      "package": "com.jackthreads.android", 
+      "long_clickable": false, 
+      "view_str": "b3fa15b74672860e54559a98ff1b5c79", 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          1792
+        ], 
+        [
+          1081, 
+          1794
+        ]
+      ], 
+      "signature": "[class]android.view.View[resource_id]None[text]all-suits[enabled,,]"
+    }
+  }, 
+  "start_state": "9a9488fb5651b06d3a6d6853f01cb8ab"
+}

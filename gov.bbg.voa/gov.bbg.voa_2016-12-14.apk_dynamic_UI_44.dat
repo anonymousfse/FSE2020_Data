@@ -1,0 +1,5 @@
+509282ZZZo:org.rferl.ui.slidingmenu.SlidingMenuFragment:$r15 = new apt
+509372ZZZq:org.rferl.ui.slidingmenu.SlidingMenuFragment:$r9 = virtualinvoke $r8.<android.view.View: android.view.View findViewById(int)>(2131624384)
+509290ZZZo:org.rferl.ui.slidingmenu.SlidingMenuFragment:$r5 = $r0.<org.rferl.ui.slidingmenu.SlidingMenuFragment: android.widget.LinearLayout j>
+509374ZZZq:org.rferl.ui.slidingmenu.SlidingMenuFragment:$r9 = virtualinvoke $r8.<android.view.View: android.view.View findViewById(int)>(2131624383)
+509373ZZZq:org.rferl.ui.slidingmenu.SlidingMenuFragment:$r10 = (android.widget.TextView) $r9

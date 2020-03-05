@@ -1,0 +1,16 @@
+13400ZZZonCreate:com.jackthreads.android.MainActivity:$r9 = virtualinvoke $r9.<java.lang.StringBuilder: java.lang.StringBuilder append(java.lang.String)>(" JTAppAndroid/182")
+13394ZZZonCreate:com.jackthreads.android.MainActivity:$r9 = new java.lang.StringBuilder
+13406ZZZonCreate:com.jackthreads.android.MainActivity:$r5 = $r0.<com.jackthreads.android.MainActivity: android.webkit.WebView jtWebView>
+13412ZZZonCreate:com.jackthreads.android.MainActivity:$r12 = virtualinvoke $r0.<com.jackthreads.android.MainActivity: android.content.Intent getIntent()>()
+13415ZZZonCreate:com.jackthreads.android.MainActivity:$r5 = $r0.<com.jackthreads.android.MainActivity: android.webkit.WebView jtWebView>
+13401ZZZonCreate:com.jackthreads.android.MainActivity:$r11 = virtualinvoke $r9.<java.lang.StringBuilder: java.lang.String toString()>()
+13396ZZZonCreate:com.jackthreads.android.MainActivity:$r5 = $r0.<com.jackthreads.android.MainActivity: android.webkit.WebView jtWebView>
+13398ZZZonCreate:com.jackthreads.android.MainActivity:$r11 = virtualinvoke $r10.<android.webkit.WebSettings: java.lang.String getUserAgentString()>()
+13403ZZZonCreate:com.jackthreads.android.MainActivity:$r5 = $r0.<com.jackthreads.android.MainActivity: android.webkit.WebView jtWebView>
+13413ZZZonCreate:com.jackthreads.android.MainActivity:$r1 = virtualinvoke $r12.<android.content.Intent: android.os.Bundle getExtras()>()
+13397ZZZonCreate:com.jackthreads.android.MainActivity:$r10 = virtualinvoke $r5.<android.webkit.WebView: android.webkit.WebSettings getSettings()>()
+13411ZZZonCreate:com.jackthreads.android.MainActivity:$r11 = "https://jackthreads.com/"
+13392ZZZonCreate:com.jackthreads.android.MainActivity:$r5 = $r0.<com.jackthreads.android.MainActivity: android.webkit.WebView jtWebView>
+13409ZZZonCreate:com.jackthreads.android.MainActivity:$r5 = $r0.<com.jackthreads.android.MainActivity: android.webkit.WebView jtWebView>
+13399ZZZonCreate:com.jackthreads.android.MainActivity:$r9 = virtualinvoke $r9.<java.lang.StringBuilder: java.lang.StringBuilder append(java.lang.String)>($r11)
+13386ZZZonCreate:com.jackthreads.android.MainActivity:$r7 = new com.jackthreads.android.MainActivity$CustomWebViewClient

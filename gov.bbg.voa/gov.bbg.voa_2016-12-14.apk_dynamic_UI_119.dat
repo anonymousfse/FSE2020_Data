@@ -1,0 +1,2 @@
+247109ZZZgetMultimediaView:org.rferl.ui.MultimediaViewCreator:$r5 = $r0.<org.rferl.ui.MultimediaViewCreator: org.rferl.ui.widget.FontAwesomeTextView l>
+247082ZZZstartElement:org.rferl.io.feed.ProgramHandler:$r6 = new org.rferl.provider.Contract$Program

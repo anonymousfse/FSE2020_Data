@@ -1,0 +1,10 @@
+{
+  "stop_state": "d921b3c70c2000f56f38d719200afe7d", 
+  "event_str": "IntentEvent(intent='am start com.restaurant.mobile/com.restaurant.mobile.SplashActivity')", 
+  "tag": "2019-08-15_180232", 
+  "event": {
+    "intent": "am start com.restaurant.mobile/com.restaurant.mobile.SplashActivity", 
+    "event_type": "intent"
+  }, 
+  "start_state": "c67dc93da80d1c44317c59dac6960277"
+}

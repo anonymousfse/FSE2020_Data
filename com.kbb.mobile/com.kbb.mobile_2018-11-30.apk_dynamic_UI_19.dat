@@ -1,0 +1,4 @@
+218098ZZZinitialize:com.kbb.mobile.DataBinding.StrategyBindingRadioGroup:$i0 = virtualinvoke $r6.<java.lang.Integer: int intValue()>()
+218099ZZZinitialize:com.kbb.mobile.DataBinding.StrategyBindingRadioGroup:$r1 = virtualinvoke $r2.<android.widget.RadioGroup: android.view.View getChildAt(int)>($i0)
+218100ZZZinitialize:com.kbb.mobile.DataBinding.StrategyBindingRadioGroup:$r7 = (android.widget.RadioButton) $r1
+218097ZZZinitialize:com.kbb.mobile.DataBinding.StrategyBindingRadioGroup:$r6 = (java.lang.Integer) $r5

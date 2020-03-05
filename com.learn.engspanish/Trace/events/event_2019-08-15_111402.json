@@ -1,0 +1,10 @@
+{
+  "stop_state": "78f679069e0030d5e5fd86ae2d55e4db", 
+  "event_str": "IntentEvent(intent='am start com.learn.engspanish/com.learn.engspanish.SplashActivity')", 
+  "tag": "2019-08-15_111402", 
+  "event": {
+    "intent": "am start com.learn.engspanish/com.learn.engspanish.SplashActivity", 
+    "event_type": "intent"
+  }, 
+  "start_state": "1285379ca68d4d5ba08b37bd270cfe8e"
+}

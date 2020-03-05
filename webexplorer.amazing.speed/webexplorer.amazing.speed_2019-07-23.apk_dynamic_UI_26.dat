@@ -1,0 +1,4 @@
+93771ZZZinitialize:acr.browser.lightning.activity.BrowserActivity:$r2 = virtualinvoke $r0.<acr.browser.lightning.activity.BrowserActivity: android.content.res.Resources getResources()>()
+93772ZZZinitialize:acr.browser.lightning.activity.BrowserActivity:$i1 = virtualinvoke $r2.<android.content.res.Resources: int getColor(int)>(2131099699)
+93768ZZZinitialize:acr.browser.lightning.activity.BrowserActivity:$r24 = $r0.<acr.browser.lightning.activity.BrowserActivity: acr.browser.lightning.view.SearchView mSearch>
+93650ZZZ<init>:acr.browser.lightning.fragment.BookmarksFragment:$r3 = new acr.browser.lightning.fragment.BookmarksFragment$3

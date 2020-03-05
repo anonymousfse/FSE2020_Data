@@ -1,0 +1,10 @@
+{
+  "stop_state": "9961716e87a3189e42db4639b75f8740", 
+  "event_str": "KeyEvent(state=9578996b66aeda205606c7552cefa3d4, name=MENU)", 
+  "tag": "2020-03-04_195817", 
+  "event": {
+    "event_type": "key", 
+    "name": "MENU"
+  }, 
+  "start_state": "9578996b66aeda205606c7552cefa3d4"
+}

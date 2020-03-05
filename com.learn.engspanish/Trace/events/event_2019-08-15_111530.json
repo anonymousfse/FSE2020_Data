@@ -1,0 +1,10 @@
+{
+  "stop_state": "9ec04e2bbc43317e3253661e4fd5a436", 
+  "event_str": "KeyEvent(state=9ec04e2bbc43317e3253661e4fd5a436, name=MENU)", 
+  "tag": "2019-08-15_111530", 
+  "event": {
+    "event_type": "key", 
+    "name": "MENU"
+  }, 
+  "start_state": "9ec04e2bbc43317e3253661e4fd5a436"
+}

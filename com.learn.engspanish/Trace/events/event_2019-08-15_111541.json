@@ -1,0 +1,48 @@
+{
+  "stop_state": "031716328ea058e9debf66d1c5b09e84", 
+  "event_str": "TouchEvent(state=e32bb1770f88dbdc5b011e8b2754c6a2, view=05dd4db9446f5ed46ecb92e85ec1ff13)", 
+  "tag": "2019-08-15_111541", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "event_type": "touch", 
+    "view": {
+      "content_description": null, 
+      "resource_id": "com.learn.engspanish:id/lblListHeader", 
+      "text": "Student : I want to become a Chief Executive of a reputed company.", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "1080*166", 
+      "checked": false, 
+      "temp_id": 31, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.TextView[resource_id]com.learn.engspanish:id/lblListHeader", 
+      "is_password": false, 
+      "parent": 30, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.TextView", 
+      "scrollable": false, 
+      "package": "com.learn.engspanish", 
+      "long_clickable": false, 
+      "view_str": "05dd4db9446f5ed46ecb92e85ec1ff13", 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          1228
+        ], 
+        [
+          1080, 
+          1394
+        ]
+      ], 
+      "signature": "[class]android.widget.TextView[resource_id]com.learn.engspanish:id/lblListHeader[text]None[enabled,,]"
+    }
+  }, 
+  "start_state": "e32bb1770f88dbdc5b011e8b2754c6a2"
+}

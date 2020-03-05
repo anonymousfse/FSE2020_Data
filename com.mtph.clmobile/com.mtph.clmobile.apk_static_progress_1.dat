@@ -1,0 +1,9 @@
+14121ZZZonCreate:com.clmobile.MainActivity:$r26 = staticinvoke <android.app.ProgressDialog: android.app.ProgressDialog show(android.content.Context,java.lang.CharSequence,java.lang.CharSequence)>($r0, "CL Mobile", "Loading...")
+-1ZZZonCreate:com.clmobile.MainActivity:$r0 := @this: com.clmobile.MainActivity
+-1ZZZonCreate:com.clmobile.MainActivity:$r26 = staticinvoke <android.app.ProgressDialog: android.app.ProgressDialog show(android.content.Context,java.lang.CharSequence,java.lang.CharSequence)>($r0, "CL Mobile", "Loading...")
+-1ZZZonCreate:com.clmobile.MainActivity:$r26 = $r0.<com.clmobile.MainActivity: android.app.ProgressDialog progressBar>
+14100ZZZonCreate:com.clmobile.MainActivity:specialinvoke $r24.<com.clmobile.MainActivity$7: void <init>(com.clmobile.MainActivity,android.app.AlertDialog)>($r0, $r23)
+-1ZZZonCreate:com.clmobile.MainActivity:$r0 := @this: com.clmobile.MainActivity
+-1ZZZonCreate:com.clmobile.MainActivity:$r23 = virtualinvoke $r22.<android.app.AlertDialog$Builder: android.app.AlertDialog create()>()
+-1ZZZonCreate:com.clmobile.MainActivity:$r24 = new com.clmobile.MainActivity$7
+-1ZZZonCreate:com.clmobile.MainActivity:$r22 = new android.app.AlertDialog$Builder

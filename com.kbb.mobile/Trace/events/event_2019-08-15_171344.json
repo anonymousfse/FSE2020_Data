@@ -1,0 +1,10 @@
+{
+  "stop_state": "7fe407d67bfe1f70a1d7576fff5f7ab6", 
+  "event_str": "IntentEvent(intent='am start com.kbb.mobile/com.kbb.mobile..ActivityPanel')", 
+  "tag": "2019-08-15_171344", 
+  "event": {
+    "intent": "am start com.kbb.mobile/com.kbb.mobile..ActivityPanel", 
+    "event_type": "intent"
+  }, 
+  "start_state": "7fe407d67bfe1f70a1d7576fff5f7ab6"
+}
